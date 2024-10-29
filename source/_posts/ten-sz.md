@@ -1,8 +1,8 @@
 ---
-title: 天使纷扰／天使☆嚣嚣 RE-BOOT!／天使☆騒々 RE-BOOT!
-abbrlink: 27018
-tags:
-  - Yuzu-Soft
+标题：天使纷扰/天使fn-0嚣张re-boot！/天使nm-0re-boot！
+缩写：27018
+标签：
+  -Yuzu-Soft
   - 柚子社
   - 纯爱
   - 恋爱
@@ -11,19 +11,19 @@ tags:
   - 喜剧
   - 天使
   - 废萌
-  - 2023
-categories:
-  - - Windows
-  - - KRKR
-date: 2024-01-30 22:00:00
-updated: 2024-07-11 02:00:00
+  -2023
+类别：
+  - -Windows
+  - -KRKR
+日期：2024-01-3022:00:00
+更新日期：2024-07-1102:00:00
 ---
 
 ![ten-sz](https://unpkg.com/galgame/img/ten-sz.webp)
 
-《**天使☆嚣嚣 RE-BOOT!**》（日语：**天使（てんし）☆騒々（そうぞう） RE-BOOT!**、英语：**Tenshi Souzou "Angelic Chaos" RE-BOOT!**）是由[YUZU SOFT](https://zh.moegirl.org.cn/YUZU_SOFT)制作的[Galgame](https://zh.moegirl.org.cn/Galgame)，于2023年4月28日发售。本作国际版曾计划于2024年1月发行，但因审核时受不可抗力因素，发行延期。
+《**天使☆嚣张重新启动！**》（日语：**天使(てんし)☆騒々(そうぞう)RE-BOOT!**、英语：**天狮搜搜“天使乱局”重启！**）是由[柚子软](https://zh.moegirl.org.cn/YUZU_SOFT)制作的[Galgame](https://zh.moegirl.org.cn/Galgame)，于2023年4月28日发售。 本作国际版曾计划于2024年1月发行，但因审核时受不可抗力因素，发行延期。
 
-<!-- more -->
+<！--更多-->
 
 ## 剧情简介
 
@@ -33,7 +33,7 @@ updated: 2024-07-11 02:00:00
 
 **「我是天使，肩负天之使命的天使」**
 
-突然有个[女孩儿](https://zh.moegirl.org.cn/白雪乃爱)，白翼如雪，仙姿玉貌，毫无征兆地降临在我眼前。
+突然有个[女孩儿](https://zh.moegirl.org.cn/ 白雪乃爱)，白翼如雪，仙姿玉貌，毫无征兆地降临在我眼前。
 她说她是天使。
 
 **「谷风李空，我此行就是为了来找你。**
@@ -43,7 +43,7 @@ updated: 2024-07-11 02:00:00
 还没等我搞清楚状况，鸡犬不宁的日子就已经找上门来。
 
 ——前世重现。
-——[异世界的](https://zh.moegirl.org.cn/星河辉耶)[访客](https://zh.moegirl.org.cn/高楯欧丽叶)。
+——[异世界的](https://zh.moegirl.org.cn/ 星河辉耶)[访客](https://zh.moegirl.org.cn/高杰欧丽叶)。
 以及……
 
 **「啊？为什么啊？不是吧，这也太……怎么会这样啊……？」**
