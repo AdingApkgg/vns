@@ -1,7 +1,7 @@
 ---
 title: 友情链接
 date: 2024-08-25 09:25:12
-updated: 2025-01-13 00:00:00
+updated: 2025-02-26 00:00:00
 comments: false
 ---
 
@@ -32,7 +32,7 @@ BYRUTOR | https://byruthub.org/ | Cкачать игры на ПК [послед
 ACGN杂谈 | https://acgto363.life/ | Animation Comic Game Novel
 灵梦御所 | https://blog.reimu.net/ | 绅士的幻想乡 | https://blog.reimu.net/wp-content/uploads/2016/02/cropped-logo-192x192.png
 喵源领域 | https://www.nekotaku.me/ | 一个专注于高质量的Galgame分享网站 | https://www.nekotaku.me/wp-content/uploads/2023/11/lite_logo_256.webp
-莉斯坦GalGame | https://www.limulu.fun/ | 一个简洁美观人性化的Gal站点
+莉斯坦ACG | https://www.limulu.fun/ | 一个简洁美观人性化的ACG资源站 | https://r2.limulu.moe/2025/01/homelogo.png
 宅宅的妙妙屋 | https://www.justnainai.com/ | ACG二次元公益论坛 | https://www.z4a.net/images/2025/01/12/1.png
 % test | test | test | test
 {% endlg %}
