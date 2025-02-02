@@ -107,7 +107,7 @@ updated: 2024-07-17 07:19:30
 一般手机的数据流量就支持 `IPv6`，如家宽无法下载请切换至数据流量！
 或者进入你的宽带光猫路由器后台打开 `IPv6` 的设置，具体设置方法可自行搜索
 
-1. [AsunaDrive](https://drive.saop.cc/) & `Windows` + `KRKR`：[点击下载](https://drive.saop.cc/VNS/%E5%A4%A9%E4%BD%BF%E7%BA%B7%E6%89%B0)
+[AsunaDrive](https://drive.saop.cc/) & `Windows` + `KRKR`：[点击下载](https://drive.saop.cc/VNS/%E5%A4%A9%E4%BD%BF%E7%BA%B7%E6%89%B0)
 
 ## 分流
 
