@@ -103,6 +103,7 @@ menu:
   #schedule: /schedule/ || fa fa-calendar
   #sitemap: /sitemap.xml || fa fa-sitemap
   #commonweal: /404/ || fa fa-heartbeat
+  新站: https://hugo-vns.netlify.app/ || fas fa-champagne-glasses
   home: / || fa fa-home
   archives: /archives/ || fa fa-archive
   tags: /tags/ || fa fa-tags
@@ -939,10 +940,11 @@ vendors:
   # For example:
   # custom_cdn_url: https://cdn.jsdelivr.net/npm/${npm_name}@${version}/${minified}
   # custom_cdn_url: https://cdnjs.cloudflare.com/ajax/libs/${cdnjs_name}/${version}/${cdnjs_file}
-  # custom_cdn_url: https://cdn.bootcdn.net/ajax/libs/${cdnjs_name}/${version}/${cdnjs_file}
+  custom_cdn_url: https://cdn.bootcdn.net/ajax/libs/${cdnjs_name}/${version}/${cdnjs_file}
   # custom_cdn_url: https://registry.npmmirror.com/${npm_name}/${version}/files/${minified}
   # custom_cdn_url: https://cdnjs.loli.net/ajax/libs/${cdnjs_name}/${version}/${cdnjs_file}
-  custom_cdn_url: https://cdn.staticfile.net/${cdnjs_name}/${version}/${cdnjs_file}
+  # custom_cdn_url: https://cdn.staticfile.net/${cdnjs_name}/${version}/${cdnjs_file}
+  busuanzi: https://registry.npmmirror.com/js-asuna/latest/files/js/bsz.pure.mini.js
 
 # Assets
 # Accelerate delivery of static files using a CDN

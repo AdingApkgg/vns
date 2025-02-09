@@ -43,28 +43,20 @@
     } else {
       document.getElementById("fps").style = "display:none!important";
     }
-    function removelrc() {
-      const lrcIcon = document.querySelector(".aplayer-icon-lrc");
-      if (! lrcIcon) {
-        return;
-      }
-      observer.disconnect();
-      setTimeout(() => {
-        lrcIcon.click();
-      }, 1);
-    }
-    const observer = new MutationObserver((mutationsList, observer) => {
-      for (let mutation of mutationsList) {
-        if (mutation.type === "childList") {
-          removelrc();
-        }
+    const observer = new MutationObserver(function (mutations) {
+      const lrcButton = document.querySelector(".aplayer-icon-lrc");
+      if (lrcButton) {
+        setTimeout(function () {
+          lrcButton.click();
+        }, 1);
+        observer.disconnect();
       }
     });
-    const observerConfig = {
+    observer.observe(document, {
       childList: true,
       subtree: true
-    };
-    observer.observe(document, observerConfig);
+    });
+    var meting_api = 'https://meting.qjqq.cn/?server=:server&type=:type&id=:id&auth=:auth&r=:r';
     function initializeRuntimeCounter() {
       const start = new Date("2024/01/27 21:52:00");
       function update() {
@@ -109,16 +101,15 @@
   </script>
   <span id="fps"></span>
   <link rel="stylesheet" href="https://lf26-cdn-tos.bytecdntp.com/cdn/expire-1-M/aplayer/1.10.1/APlayer.min.css">
-    <div
-      class="aplayer"
-      data-id="8464409595"
-      data-server="netease"
-      data-type="playlist"
-      data-fixed="true"
-      data-autoplay="false"
-      data-order="random"
-      data-volume="0.3"
-      data-mutex="true"
-      data-listmaxheight="36vh"></div>
+    <meting-js
+      id="8464409595"
+      server="netease"
+      type="playlist"
+      fixed="true"
+      autoplay="false"
+      order="random"
+      volume="0.3"
+      list-folded="false"
+      list-max-height="36vh"></meting-js>
     <script async="async" src="https://lf26-cdn-tos.bytecdntp.com/cdn/expire-1-M/aplayer/1.10.1/APlayer.min.js"></script>
-    <script async="async" src="https://npm.elemecdn.com/butterfly-extsrc/dist/Meting.min.js"></script>
+    <script async="async" src="https://registry.npmmirror.com/meting/latest/files/dist/Meting.min.js"></script>
