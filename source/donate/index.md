@@ -1,7 +1,7 @@
 ---
 title: 捐赠本站
 date: 2024-08-25 02:31:18
-updated: 2025-02-02 00:00:00
+updated: 2025-02-14 00:00:00
 comments: false
 ---
 
@@ -13,6 +13,7 @@ comments: false
 
 > 爱发电：[afdian.com/a/scale](https://afdian.com/a/scale)
 > Patreon：[patreon.com/KirigayaAsuna](https://patreon.com/KirigayaAsuna?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink)
+> TRC20：[TGXpGgXBrFGjQLX8WuS3QAswCGzFyrnp1r](https://tronscan.org/#/address/TGXpGgXBrFGjQLX8WuS3QAswCGzFyrnp1r)
 
 {% note success %}
 感谢各位小伙伴们の支持~
