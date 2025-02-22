@@ -103,7 +103,7 @@ menu:
   #schedule: /schedule/ || fa fa-calendar
   #sitemap: /sitemap.xml || fa fa-sitemap
   #commonweal: /404/ || fa fa-heartbeat
-  新站: https://hugo-vns.netlify.app/ || fas fa-champagne-glasses
+  新站: https://vns.saop.cc/ || fas fa-champagne-glasses
   home: / || fa fa-home
   archives: /archives/ || fa fa-archive
   tags: /tags/ || fa fa-tags
