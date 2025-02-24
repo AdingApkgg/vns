@@ -96,8 +96,8 @@ SUNNY-An Angelic Conte of"IMOUTO"
 
 ### △
 
-1. [TouchGAL](https://touchgal.net/) & `Windows`：[点击下载](https://pan.touchgal.net/s/130TX)，密码：`touchgal`
-2. [TouchGAL](https://touchgal.net/) & `KRKR`：[点击下载](https://pan.touchgal.net/s/AYYtP)，密码：`touchgal`
+1. [TouchGAL](https://www.touchgal.io/) & `Windows`：[点击下载](https://pan.touchgal.net/s/130TX)，密码：`touchgal`
+2. [TouchGAL](https://www.touchgal.io/) & `KRKR`：[点击下载](https://pan.touchgal.net/s/AYYtP)，密码：`touchgal`
 3. [NekoGAL](https://www.nekogal.com/) & `Windows`：[点击下载](https://pan.nekogal.top/s/gDsP)
 4. [NekoGAL](https://www.nekogal.com/) & `KRKR`：[点击下载](https://pan.nekogal.top/s/lnuM)
 5. [Hikarinagi](https://www.hikarinagi.com/) & `Windows`：[点击下载](https://pan.himoe.uk/s/1wqGsD)，密码：`hikarinagi.com`
@@ -107,7 +107,7 @@ SUNNY-An Angelic Conte of"IMOUTO"
 
 ### S
 
-1. [TouchGAL](https://touchgal.net/) & `Windows`：[点击下载](https://pan.touchgal.net/s/PYmIR)，密码：`touchgal`
+1. [TouchGAL](https://www.touchgal.io/) & `Windows`：[点击下载](https://pan.touchgal.net/s/PYmIR)，密码：`touchgal`
 
 ### 合集
 

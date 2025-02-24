@@ -56,7 +56,7 @@ updated: 2024-10-21 23:21:00
 
 ## 分流
 
-1. [TouchGAL](https://touchgal.net/) & `Windows`：[点击下载](https://pan.touchgal.net/s/2DlTg)，密码：`touchgal`，解压后先安装 `K-Lite_Codec_Pack_1768_Mega` 文件夹里的播放器
+1. [TouchGAL](https://www.touchgal.io/) & `Windows`：[点击下载](https://pan.touchgal.net/s/2DlTg)，密码：`touchgal`，解压后先安装 `K-Lite_Codec_Pack_1768_Mega` 文件夹里的播放器
 2. [NekoGAL](https://www.nekogal.com/) & `Windows`：[点击下载](https://pan.nekogal.top/s/krGFa)
 3. [失落小站](https://www.shinnku.com/) & `Windows`：[点击下载](https://www.shinnku.com/api/download/0/win/%E5%8F%AF%E5%A1%91%E6%80%A7%E8%AE%B0%E5%BF%86.7z)
 4. [稻荷ACG](https://amoebi.com/) & `Windows`：[点击下载](https://download.zrflie1.pw/PC/%E5%8F%AF%E5%A1%91%E6%80%A7%E8%AE%B0%E5%BF%86.7z)

@@ -46,5 +46,5 @@ updated: 2024-04-03 00:00:00
 ## 分流
 
 1. [次元宝藏君](https://cybzacg.xyz/) & `Windows`：[点击下载](https://pan.baidu.com/s/1TfW6gr8qLI8yV01KNz65bg?pwd=pimv)，提取码：pimv，解压码：cybz，将后缀改成 `.7z` 再解压
-2. [TouchGAL](https://touchgal.net/) & `Android`：[点击下载](https://pan.touchgal.net/s/gynqsL)，密码：`touchgal`
+2. [TouchGAL](https://www.touchgal.io/) & `Android`：[点击下载](https://pan.touchgal.net/s/gynqsL)，密码：`touchgal`
 3. [梓澪の妙妙屋](https://zi0.cc/) & `Windows` + `Android`：[点击下载](https://zi0.cc/.%E3%80%90%E5%A4%8F%E9%A3%8E%E3%80%91/.%E3%80%90%E5%A4%8F%E9%A3%8E-2%E3%80%91/%E3%80%90%E5%82%AC%E7%9C%A0RPG%E6%B1%89%E5%8C%96%E8%B0%83%E6%95%99%E6%80%A7%E5%A5%B4%E3%80%91%E5%89%8D%E5%8B%87%E8%80%85%E6%B4%BE%E5%AF%B9%EF%BC%9A%E5%B1%88%E6%9C%8D%E7%9A%84%E5%A5%B4%E9%9A%B6%E6%95%99%E8%82%B2?from=search)

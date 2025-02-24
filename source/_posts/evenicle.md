@@ -64,7 +64,7 @@ updated: 2024-10-22 00:47:10
 
 ### 夏娃年代记 Evenicle
 
-1. [TouchGAL](https://touchgal.net/) & `Windows`：[点击下载](https://pan.touchgal.net/s/7qZ2fX)，密码：`touchgal`
+1. [TouchGAL](https://www.touchgal.io/) & `Windows`：[点击下载](https://pan.touchgal.net/s/7qZ2fX)，密码：`touchgal`
 2. [Hikarinagi](https://www.hikarinagi.com/) & `Windows`：[点击下载](https://pan.himoe.uk/s/x1ns4)，密码：`hikarinagi.com`
 3. [Hikarinagi](https://www.hikarinagi.com/) & `Windows`：[点击下载](https://pan.himoe.uk/s/n5G4uq)，密码：`hikarinagi.com`
 4. [稻荷ACG](https://amoebi.com/) & `Windows`：[点击下载](https://download.zrflie1.pw/PC/Evenicle.7z)
@@ -74,7 +74,7 @@ updated: 2024-10-22 00:47:10
 
 ### 夏娃年代记 Evenicle 兰斯版
 
-1. [TouchGAL](https://touchgal.net/) & `Windows`：[点击下载](https://pan.touchgal.net/s/OxNtW)，密码：`touchgal`
+1. [TouchGAL](https://www.touchgal.io/) & `Windows`：[点击下载](https://pan.touchgal.net/s/OxNtW)，密码：`touchgal`
 2. [失落小站](https://www.shinnku.com/) & `Windows`：[点击下载](https://www.shinnku.com/api/download/0/win/%E5%A4%8F%E5%A8%83%E5%B9%B4%E4%BB%A3%E8%AE%B0%EF%BC%92%E5%85%B0%E6%96%AF%E7%89%88.7z)
 3. [失落小站](https://www.shinnku.com/) & `Windows`：[点击下载](https://www.shinnku.com/api/download/zd/0501-1000/[150424][ALICESOFT]%20%E5%A4%8F%E5%A8%83%E5%B9%B4%E4%BB%A3%E8%AE%B0%20%E5%85%B0%E6%96%AF%E7%89%88.rar)
 4. [量子ACG](https://lzacg.org/) & `Windows`：[点击下载](https://lzacg.org/5423)，密码：`量子acg`、`lzacg.top`
@@ -85,14 +85,14 @@ updated: 2024-10-22 00:47:10
 
 ### 夏娃年代记 Evenicle 外典
 
-1. [TouchGAL](https://touchgal.net/) & `Windows`：[点击下载](https://pan.touchgal.net/s/PyB7HR)，密码：`touchgal`
+1. [TouchGAL](https://www.touchgal.io/) & `Windows`：[点击下载](https://pan.touchgal.net/s/PyB7HR)，密码：`touchgal`
 2. [稻荷ACG](https://amoebi.com/) & `Windows`：[点击下载](https://download.zrflie1.pw/PC/Evenicle%E5%A4%96%E5%85%B8.7z)
 3. [我的Galgame资源发布站](https://www.ttloli.com/) & `Windows`：[点击下载](https://www.ttloli.com/xiawaniandaijieveniclewaidian.html)，密码：`忧郁的弟弟`、`忧郁的loli`
 4. [猫猫网盘](https://pan.catcat.blog/) & `Windows`：[点击下载](https://pan.catcat.blog/d/GalGame/SP%E5%90%8E%E7%AB%AF1%5BGalGame%E5%88%86%E5%8C%BA%5D/%E7%BB%88%E7%82%B9%E6%B1%89%E5%8C%96%E9%87%8D%E6%95%B4v2%E7%89%88-%E7%A6%BB%E6%95%A3/%E6%9C%AC%E4%BD%93-Part2/%5B%E3%82%A2%E3%83%AA%E3%82%B9%E3%82%BD%E3%83%95%E3%83%88%5D%20%E3%82%A4%E3%83%96%E3%83%8B%E3%82%AF%E3%83%AB%E5%A4%96%E5%85%B8%20%E5%A4%8F%E5%A8%83%E5%B9%B4%E4%BB%A3%E8%AE%B0%20Evenicle%20%20%E5%A4%96%E5%85%B8.rar?sign=yT_MfMNi0vMZnRzCcfWFzlz8Y-PZBVFrdtulgfCQIIo=:0)，密码：`south-plus.`、`H07JsecTTvkU3vigdnBC.`
 
 ### 夏娃年代记 Evenicle 2
 
-1. [TouchGAL](https://touchgal.net/) & `Windows`：[点击下载](https://pan.touchgal.net/s/G9w5hX)，密码：`touchgal`
+1. [TouchGAL](https://www.touchgal.io/) & `Windows`：[点击下载](https://pan.touchgal.net/s/G9w5hX)，密码：`touchgal`
 2. [稻荷ACG](https://amoebi.com/) & `Windows`：[点击下载](https://download.zrflie1.pw/PC/Evenicle2.7z)
 3. [失落小站](https://www.shinnku.com/) & `Windows`：[点击下载](https://www.shinnku.com/api/download/zd/1501-2000/[190222][ALICESOFT]%20%E5%A4%8F%E5%A8%83%E5%B9%B4%E4%BB%A3%E8%AE%B02%20V1.02.rar)
 4. [我的Galgame资源发布站](https://www.ttloli.com/) & `Windows`：[点击下载](https://www.ttloli.com/evenicle2.html)，密码：`忧郁的弟弟`、`忧郁的loli`
@@ -102,7 +102,7 @@ updated: 2024-10-22 00:47:10
 
 ### 夏娃年代记 Evenicle 2 兰斯版
 
-1. [TouchGAL](https://touchgal.net/) & `Windows`：[点击下载](https://pan.touchgal.net/s/VDBZud)，密码：`touchgal`
+1. [TouchGAL](https://www.touchgal.io/) & `Windows`：[点击下载](https://pan.touchgal.net/s/VDBZud)，密码：`touchgal`
 2. [Hikarinagi](https://www.hikarinagi.com/) & `Windows`：[点击下载](https://pan.himoe.uk/s/yXwCz)，密码：`hikarinagi.com`
 3. [Hikarinagi](https://www.hikarinagi.com/) & `Windows`：[点击下载](https://pan.himoe.uk/s/mZ7pFK)，密码：`hikarinagi.com`
 4. [失落小站](https://www.shinnku.com/) & `Windows`：[点击下载](https://www.shinnku.com/api/download/zd/1501-2000/[190222][ALICESOFT]%20%E5%A4%8F%E5%A8%83%E5%B9%B4%E4%BB%A3%E8%AE%B0%EF%BC%92%E5%85%B0%E6%96%AF%E7%89%88.rar)

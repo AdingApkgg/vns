@@ -66,6 +66,6 @@ updated: 2024-09-24 02:41:30
 
 ## 分流
 
-1. [TouchGAL](https://touchgal.net/) & `Windows`：[点击下载](https://pan.touchgal.net/s/BJ01uw)，密码：`touchgal`
+1. [TouchGAL](https://www.touchgal.io/) & `Windows`：[点击下载](https://pan.touchgal.net/s/BJ01uw)，密码：`touchgal`
 2. [梓澪の妙妙屋](https://zi0.cc/) & `Windows`：[点击下载](https://zi0.cc/d/%60%E3%80%90%E5%90%88%E9%9B%86%E7%B3%BB%E5%88%97%E3%80%91/%E5%8D%97%2BGalGame%E6%B1%89%E5%8C%96%E5%8C%BA%E5%85%A8%E5%8C%BA%E8%B5%84%E6%BA%90%E5%A4%87%E4%BB%BD/1/17/%5BModer%5D%20Lucy%20-The%20Eternity%20She%20Wished%20For-%20%20%E9%9C%B2%E8%A5%BF%20-%E5%A5%B9%E6%89%80%E6%9C%9F%E6%9C%9B%E7%9A%84%E4%B8%80%E5%88%87-%20%E6%B1%89%E5%8C%96%E7%A1%AC%E7%9B%98%E7%89%88%5B%E5%AE%98%E6%96%B9%E4%B8%AD%E6%96%87%5D.zip?sign=H9flctqAiW2D6AUOBqKa92whrTtlXdHHlBj_Q4bu1og=:0)
 3. [绮梦](https://acgs.one/) & `Windows`：[点击下载](https://acgs.one/game/161.html)，密码：`acgs`、`绮梦`

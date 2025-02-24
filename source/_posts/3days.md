@@ -71,8 +71,8 @@ updated: 2024-05-25 02:35:00
 
 ## 分流
 
-1. [TouchGAL](https://touchgal.net/) & `Windows`：[点击下载](https://pan.touchgal.net/s/GXwUX)，密码：`touchgal`
-2. [TouchGAL](https://touchgal.net/) & `ONS`：[点击下载](https://pan.touchgal.net/s/OExFW)，密码：`touchgal`
+1. [TouchGAL](https://www.touchgal.io/) & `Windows`：[点击下载](https://pan.touchgal.net/s/GXwUX)，密码：`touchgal`
+2. [TouchGAL](https://www.touchgal.io/) & `ONS`：[点击下载](https://pan.touchgal.net/s/OExFW)，密码：`touchgal`
 3. [姬路白雪](https://pan.jlbx.xyz/) & `Windows` + `ONS`：[点击下载](https://pan.jlbx.xyz/?s=3days)，密码：`终点`
 4. [失落小站](https://www.shinnku.com/) & `Windows`：[点击下载](https://www.shinnku.com/api/download/0/win/3days~%E5%9C%A8%E9%80%9D%E5%8E%BB%E6%97%B6%E9%97%B4%E7%9A%84%E5%8F%A6%E4%B8%80%E7%AB%AF.7z)
 5. [失落小站](https://www.shinnku.com/) & `ONS`：[点击下载](https://www.shinnku.com/api/download/0/ons/3days.zip)

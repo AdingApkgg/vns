@@ -60,8 +60,8 @@ updated: 2024-04-26 23:33:00
 
 1. [稻荷ACG](https://amoebi.com/) & `Windows`：[点击下载](https://sakustar.top/art/2584)
 2. [稻荷ACG](https://amoebi.com/) & `ONS`：[点击下载](https://sakustar.top/art/2806)
-3. [TouchGAL](https://touchgal.net/) & `Windows`：[点击下载](https://pan.touchgal.net/s/5v6cE)，密码：`touchgal`
-4. [TouchGAL](https://touchgal.net/) & `ONS`：[点击下载](https://pan.touchgal.net/s/xnOHO)，密码：`touchgal`
+3. [TouchGAL](https://www.touchgal.io/) & `Windows`：[点击下载](https://pan.touchgal.net/s/5v6cE)，密码：`touchgal`
+4. [TouchGAL](https://www.touchgal.io/) & `ONS`：[点击下载](https://pan.touchgal.net/s/xnOHO)，密码：`touchgal`
 5. [姬路白雪](https://pan.jlbx.xyz/) & `Windows` + `ONS`：[点击下载](https://pan.jlbx.xyz/?s=%E5%A5%B3%E8%A3%85%E5%B1%B1%E8%84%89)，密码：`终点`
 6. [迷迭香的博客](https://rosmontis.com/) & `Windows`：[点击下载](https://drivez.rosmontis.com/s/EzRFn)，密码：`rosmontis`，去掉 `.rosmontis` 后缀名再解压
 7. [梓澪の妙妙屋](https://zi0.cc/) & `Windows` + `ONS`：[点击下载](https://zi0.cc/,%E3%80%90ADV-%E5%86%92%E9%99%A9%E6%B8%B8%E6%88%8F%E3%80%91/%E3%80%90PC+%E5%AE%89%E5%8D%93%E3%80%91%E5%A5%B3%E8%A3%85%E5%B1%B1%E8%84%89?from=search)

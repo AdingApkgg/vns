@@ -92,8 +92,8 @@ updated: 2024-03-30 02:52:00
 
 ## 分流
 
-1. [TouchGAL](https://touchgal.net/) & `Windows`：[点击下载](https://pan.touchgal.net/s/RxLvC7)，密码：`touchgal`
-2. [TouchGAL](https://touchgal.net/) & `ONS`：[点击下载](https://pan.touchgal.net/s/2VWtg)，密码：`touchgal`
+1. [TouchGAL](https://www.touchgal.io/) & `Windows`：[点击下载](https://pan.touchgal.net/s/RxLvC7)，密码：`touchgal`
+2. [TouchGAL](https://www.touchgal.io/) & `ONS`：[点击下载](https://pan.touchgal.net/s/2VWtg)，密码：`touchgal`
 3. [稻荷ACG](https://amoebi.com/) & `Windows`：[点击下载](https://sakustar.top/download?post_id=4584&index=0&i=0)
 4. [稻荷ACG](https://amoebi.com/) & `ONS`：[点击下载](https://sakustar.top/download?post_id=4624&index=0&i=0)
 5. [姬路白雪](https://pan.jlbx.xyz/) & `Windows` + `ONS`：[点击下载](https://pan.jlbx.xyz/?s=%E5%85%AC%E4%B8%BB%E6%81%8B%E4%BA%BA)，密码：终点

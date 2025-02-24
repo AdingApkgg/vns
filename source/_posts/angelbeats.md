@@ -46,7 +46,7 @@ updated: 2024-05-06 23:46:00
 
 1. [稻荷ACG](https://amoebi.com/) & `Windows`：[点击下载](https://sakustar.top/art/127)
 2. [姬路白雪](https://pan.jlbx.xyz/) & `Windows`：[点击下载](https://pan.jlbx.xyz/?s=Angel%20Beats%EF%BC%811st)，密码：`终点`
-3. [TouchGAL](https://touchgal.net/) & `Windows`：[点击下载](https://pan.touchgal.net/s/rOauy)，密码：`touchgal`
+3. [TouchGAL](https://www.touchgal.io/) & `Windows`：[点击下载](https://pan.touchgal.net/s/rOauy)，密码：`touchgal`
 4. [梓澪の妙妙屋](https://zi0.cc/) & `Windows`：[点击下载](https://zi0.cc/d/%60%E3%80%90%E5%90%88%E9%9B%86%E7%B3%BB%E5%88%97%E3%80%91/%E3%80%90PC%E3%80%91key%E7%A4%BE%E7%B3%BB%E5%88%97%E4%BD%9C%E5%93%81/Angel%20Beats!%20-1st%20beat-.zip?sign=IVUX4T_68TPIp9WD4ARxpogInsqcIXmkSvfadAS4JL0=:0)
 5. [梓澪の妙妙屋](https://zi0.cc/) & `Windows`：[点击下载](https://zi0.cc/d/%60%E3%80%90%E5%90%88%E9%9B%86%E7%B3%BB%E5%88%97%E3%80%91/%E6%B1%89%E5%8C%96galgame%E4%BC%9A%E7%A4%BE%E5%90%88%E9%9B%86/%E6%B1%89%E5%8C%96%E4%BC%9A%E7%A4%BE%E5%90%88%E9%9B%86%E9%83%A8%E5%88%86%20part24/KEY/%E6%B1%89%E5%8C%96%E7%89%88/%5B150626%5D%5BKey%5D%20Angel%20Beats%EF%BC%81%20%EF%BC%8D%E3%82%A8%E3%83%B3%E3%82%B8%E3%82%A7%E3%83%AB%E3%83%93%E3%83%BC%E3%83%84%EF%BC%8D%201st%20beat.rar?sign=_etjHWGRhXLtqCZKfBgKvkx675aXYkRey6CHfc9rklQ=:0)
 6. [绮梦](https://acgs.one/) & `Windows`：[点击下载](https://acgs.one/down_html/?url=game/Angel_Beats&name=Angel%20Beats!%201st%20beat)，密码：`acgs`，`绮梦`

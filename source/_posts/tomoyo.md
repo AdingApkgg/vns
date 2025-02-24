@@ -78,8 +78,8 @@ updated: 2024-06-09 20:21:30
 
 ## 分流
 
-1. [TouchGAL](https://touchgal.net/) & `Windows`：[点击下载](https://pan.touchgal.net/s/B3xIw)，密码：`touchgal`
-2. [TouchGAL](https://touchgal.net/) & `ONS`：[点击下载](https://pan.touchgal.net/s/g0puL)，密码：`touchgal`
+1. [TouchGAL](https://www.touchgal.io/) & `Windows`：[点击下载](https://pan.touchgal.net/s/B3xIw)，密码：`touchgal`
+2. [TouchGAL](https://www.touchgal.io/) & `ONS`：[点击下载](https://pan.touchgal.net/s/g0puL)，密码：`touchgal`
 3. [梓澪の妙妙屋](https://zi0.cc/) & `Windows`：[点击下载](https://zi0.cc/d/%60%E3%80%90%E5%90%88%E9%9B%86%E7%B3%BB%E5%88%97%E3%80%91/%E3%80%90PC%E3%80%91key%E7%A4%BE%E7%B3%BB%E5%88%97%E4%BD%9C%E5%93%81/%E6%99%BA%E4%BB%A3after.zip?sign=pxWp7B_AUeZCZ2d8nkYUz1BoJckNX5Cctnzr_plLG8g=:0)
 4. [梓澪の妙妙屋](https://zi0.cc/) & `ONS`：[点击下载](https://zi0.cc/d/%60%E3%80%90%E5%BD%92%20%E6%A1%A3%E3%80%91/%E3%80%90ONS%E5%90%88%E9%9B%86%E3%80%91/%5Bkey%5D%E6%99%BA%E4%BB%A3After%20%EF%BD%9EIt's%20a%20Wonderful%20Life%EF%BD%9E.7z?sign=m-sDbdAfMGMyYeY-C53JmmTmUwJUjwc7OyH3SiR_Fus=:0)
 5. [烟郁Galgame](https://yanyugal.top/) & `ONS`：[点击下载](https://yanyugal.top/d/disk1/%E5%B0%8F%E5%B0%8F%E7%9A%84%E5%88%86%E4%BA%AB%EF%BC%88PC%EF%BC%86%E5%AE%89%E5%8D%93%EF%BC%89/%E5%AE%89%E5%8D%93/ons/%E6%99%BA%E4%BB%A3After%20%EF%BD%9EIt's%20a%20Wonderful%20Life%EF%BD%9E.7z)，密码：`烟郁频道`、`lumouweinb`

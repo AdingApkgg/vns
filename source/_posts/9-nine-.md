@@ -92,8 +92,8 @@ updated: 2024-09-23 04:07:30
 
 ### 九次九日九重色
 
-1. [TouchGAL](https://touchgal.net/) & `Windows`：[点击下载](https://pan.touchgal.net/s/OagFW)，密码：`touchgal`
-2. [TouchGAL](https://touchgal.net/) & `KRKR`：[点击下载](https://pan.touchgal.net/s/E8xtn)，密码：`touchgal`
+1. [TouchGAL](https://www.touchgal.io/) & `Windows`：[点击下载](https://pan.touchgal.net/s/OagFW)，密码：`touchgal`
+2. [TouchGAL](https://www.touchgal.io/) & `KRKR`：[点击下载](https://pan.touchgal.net/s/E8xtn)，密码：`touchgal`
 3. [NekoGAL](https://www.nekogal.com/) & `Windows`：[点击下载](https://pan.nekogal.top/s/qr0Te)
 4. [NekoGAL](https://www.nekogal.com/) & `KRKR`：[点击下载](https://pan.nekogal.top/s/LgeFk)
 5. [Hikarinagi](https://www.hikarinagi.com/) & `Windows`：[点击下载](https://pan.himoe.uk/s/qQ3HP)，密码：`hikarinagi.com`
@@ -112,8 +112,8 @@ updated: 2024-09-23 04:07:30
 
 ### 天色天歌天籁音
 
-1. [TouchGAL](https://touchgal.net/) & `Windows`：[点击下载](https://pan.touchgal.net/s/GkiX)，密码：`touchgal`
-2. [TouchGAL](https://touchgal.net/) & `KRKR`：[点击下载](https://pan.touchgal.net/s/L9BsZ)，密码：`touchgal`
+1. [TouchGAL](https://www.touchgal.io/) & `Windows`：[点击下载](https://pan.touchgal.net/s/GkiX)，密码：`touchgal`
+2. [TouchGAL](https://www.touchgal.io/) & `KRKR`：[点击下载](https://pan.touchgal.net/s/L9BsZ)，密码：`touchgal`
 3. [NekoGAL](https://www.nekogal.com/) & `Windows`：[点击下载](https://pan.nekogal.top/s/EYJte)
 4. [NekoGAL](https://www.nekogal.com/) & `KRKR`：[点击下载](https://pan.nekogal.top/s/AdgCl)
 5. [Hikarinagi](https://www.hikarinagi.com/) & `Windows`：[点击下载](https://pan.himoe.uk/s/vQVSj)，密码：`hikarinagi.com`
@@ -132,8 +132,8 @@ updated: 2024-09-23 04:07:30
 
 ### 春色春恋春熙风
 
-1. [TouchGAL](https://touchgal.net/) & `Windows`：[点击下载](https://pan.touchgal.net/s/69jhp)，密码：`touchgal`
-2. [TouchGAL](https://touchgal.net/) & `KRKR`：[点击下载](https://pan.touchgal.net/s/mlxbsx)，密码：`touchgal`
+1. [TouchGAL](https://www.touchgal.io/) & `Windows`：[点击下载](https://pan.touchgal.net/s/69jhp)，密码：`touchgal`
+2. [TouchGAL](https://www.touchgal.io/) & `KRKR`：[点击下载](https://pan.touchgal.net/s/mlxbsx)，密码：`touchgal`
 3. [NekoGAL](https://www.nekogal.com/) & `Windows`：[点击下载](https://pan.nekogal.top/s/adGip)
 4. [NekoGAL](https://www.nekogal.com/) & `KRKR`：[点击下载](https://pan.nekogal.top/s/kBLIa)
 5. [Hikarinagi](https://www.hikarinagi.com/) & `Windows`：[点击下载](https://pan.himoe.uk/s/r2wi0)，密码：`hikarinagi.com`
@@ -152,8 +152,8 @@ updated: 2024-09-23 04:07:30
 
 ### 雪色雪花雪之痕
 
-1. [TouchGAL](https://touchgal.net/) & `Windows`：[点击下载](https://pan.touchgal.net/s/vw3IW)，密码：`touchgal`
-2. [TouchGAL](https://touchgal.net/) & `KRKR`：[点击下载](https://pan.touchgal.net/s/7BxfX)，密码：`touchgal`
+1. [TouchGAL](https://www.touchgal.io/) & `Windows`：[点击下载](https://pan.touchgal.net/s/vw3IW)，密码：`touchgal`
+2. [TouchGAL](https://www.touchgal.io/) & `KRKR`：[点击下载](https://pan.touchgal.net/s/7BxfX)，密码：`touchgal`
 3. [NekoGAL](https://www.nekogal.com/) & `Windows`：[点击下载](https://pan.nekogal.top/s/RnJHy)
 4. [NekoGAL](https://www.nekogal.com/) & `KRKR`：[点击下载](https://pan.nekogal.top/s/7xQFw)
 5. [Hikarinagi](https://www.hikarinagi.com/) & `Windows`：[点击下载](https://pan.himoe.uk/s/w0Jfz)，密码：`hikarinagi.com`
@@ -170,8 +170,8 @@ updated: 2024-09-23 04:07:30
 
 ### 新章 New Episode
 
-1. [TouchGAL](https://touchgal.net/) & `Windows`：[点击下载](https://pan.touchgal.net/s/xwgCO)，密码：`touchgal`
-2. [TouchGAL](https://touchgal.net/) & `KRKR`：[点击下载](https://pan.touchgal.net/s/OW0PcW)，密码：`touchgal`
+1. [TouchGAL](https://www.touchgal.io/) & `Windows`：[点击下载](https://pan.touchgal.net/s/xwgCO)，密码：`touchgal`
+2. [TouchGAL](https://www.touchgal.io/) & `KRKR`：[点击下载](https://pan.touchgal.net/s/OW0PcW)，密码：`touchgal`
 3. [NekoGAL](https://www.nekogal.com/) & `Windows`：[点击下载](https://pan.nekogal.top/s/xYeFA)
 4. [NekoGAL](https://www.nekogal.com/) & `KRKR`：[点击下载](https://pan.nekogal.top/s/Vplcy)
 5. [Hikarinagi](https://www.hikarinagi.com/) & `Windows`：[点击下载](https://pan.himoe.uk/s/x6JT4)，密码：`hikarinagi.com`

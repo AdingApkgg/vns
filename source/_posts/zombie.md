@@ -60,8 +60,8 @@ updated: 2024-10-24 00:23:40
 
 ### Vol. 1
 
-1. [TouchGAL](https://touchgal.net/) & `Windows`：[点击下载](https://pan.touchgal.net/s/26r0Cg)，密码：`touchgal`
-2. [TouchGAL](https://touchgal.net/) & `Android`：[点击下载](https://pan.touchgal.net/s/pJ5lsD)，密码：`touchgal`
+1. [TouchGAL](https://www.touchgal.io/) & `Windows`：[点击下载](https://pan.touchgal.net/s/26r0Cg)，密码：`touchgal`
+2. [TouchGAL](https://www.touchgal.io/) & `Android`：[点击下载](https://pan.touchgal.net/s/pJ5lsD)，密码：`touchgal`
 3. [Hikarinagi](https://www.hikarinagi.com/) & `Windows`：[点击下载](https://pan.himoe.uk/s/1DVFD)，密码：`hikarinagi.com`
 4. [Hikarinagi](https://www.hikarinagi.com/) & `Windows`：[点击下载](https://pan.himoe.uk/s/ZA8IV)，密码：`hikarinagi.com`
 5. [梓澪の妙妙屋](https://zi0.cc/) & `Windows`【官方中文】：[点击下载](https://zi0.cc/d/%60%E3%80%90%E5%90%88%E9%9B%86%E7%B3%BB%E5%88%97%E3%80%91/%E5%8D%97%2BGalGame%E6%B1%89%E5%8C%96%E5%8C%BA%E5%85%A8%E5%8C%BA%E8%B5%84%E6%BA%90%E5%A4%87%E4%BB%BD/1/20/%5BSEACOXX%5D%E3%82%BE%E3%83%B3%E3%83%93%E3%81%AE%E3%81%82%E3%81%B5%E3%82%8C%E3%81%9F%E4%B8%96%E7%95%8C%E3%81%A7%E4%BF%BA%E3%81%A0%E3%81%91%E3%81%8C%E8%A5%B2%E3%82%8F%E3%82%8C%E3%81%AA%E3%81%841%E6%9C%AB%E4%B8%96%E5%AD%A4%E9%9B%841%20%E6%97%A0%E7%A0%81%E6%B1%89%E5%8C%96%E7%A1%AC%E7%9B%98%E7%89%88%5B%E5%AE%98%E6%96%B9%E4%B8%AD%E6%96%87%5D.zip?sign=dDSZvHyEwyiwh1INUGMA8Ox7oXBm-IqFp5S3IjlPilU=:0)
@@ -76,8 +76,8 @@ updated: 2024-10-24 00:23:40
 
 ### Vol. 2
 
-1. [TouchGAL](https://touchgal.net/) & `Windows`：[点击下载](https://pan.touchgal.net/s/W73FZ)，密码：`touchgal`
-2. [TouchGAL](https://touchgal.net/) & `Android`：[点击下载](https://pan.touchgal.net/s/E5A6hn)，密码：`touchgal`
+1. [TouchGAL](https://www.touchgal.io/) & `Windows`：[点击下载](https://pan.touchgal.net/s/W73FZ)，密码：`touchgal`
+2. [TouchGAL](https://www.touchgal.io/) & `Android`：[点击下载](https://pan.touchgal.net/s/E5A6hn)，密码：`touchgal`
 3. [Hikarinagi](https://www.hikarinagi.com/) & `Windows`：[点击下载](https://pan.himoe.uk/s/2E1IJ)，密码：`hikarinagi.com`
 4. [Hikarinagi](https://www.hikarinagi.com/) & `Windows`：[点击下载](https://pan.himoe.uk/s/Xyosy)，密码：`hikarinagi.com`
 5. [梓澪の妙妙屋](https://zi0.cc/) & `Windows`【官方中文】：[点击下载](https://zi0.cc/d/%60%E3%80%90%E5%90%88%E9%9B%86%E7%B3%BB%E5%88%97%E3%80%91/%E5%8D%97%2BGalGame%E6%B1%89%E5%8C%96%E5%8C%BA%E5%85%A8%E5%8C%BA%E8%B5%84%E6%BA%90%E5%A4%87%E4%BB%BD/1/20/%5BSEACOXX%5D%E3%82%BE%E3%83%B3%E3%83%93%E3%81%AE%E3%81%82%E3%81%B5%E3%82%8C%E3%81%9F%E4%B8%96%E7%95%8C%E3%81%A7%E4%BF%BA%E3%81%A0%E3%81%91%E3%81%8C%E8%A5%B2%E3%82%8F%E3%82%8C%E3%81%AA%E3%81%842%E6%9C%AB%E4%B8%96%E5%AD%A4%E9%9B%842%20%E6%97%A0%E7%A0%81%E6%B1%89%E5%8C%96%E7%A1%AC%E7%9B%98%E7%89%88%5B%E5%AE%98%E6%96%B9%E4%B8%AD%E6%96%87%5D.zip?sign=cwcSe7Ik_UKb76zqOpoR-Q9QV3IU1OPL1ky-EK1trAg=:0)
@@ -94,8 +94,8 @@ updated: 2024-10-24 00:23:40
 
 ### Vol. 3
 
-1. [TouchGAL](https://touchgal.net/) & `Windows`：[点击下载](https://pan.touchgal.net/s/ZroSa)，密码：`touchgal`
-2. [TouchGAL](https://touchgal.net/) & `Android`：[点击下载](https://pan.touchgal.net/s/b5lLc5)，密码：`touchgal`
+1. [TouchGAL](https://www.touchgal.io/) & `Windows`：[点击下载](https://pan.touchgal.net/s/ZroSa)，密码：`touchgal`
+2. [TouchGAL](https://www.touchgal.io/) & `Android`：[点击下载](https://pan.touchgal.net/s/b5lLc5)，密码：`touchgal`
 3. [Hikarinagi](https://www.hikarinagi.com/) & `Windows`：[点击下载](https://pan.himoe.uk/s/3GOUJ)，密码：`hikarinagi.com`
 4. [Hikarinagi](https://www.hikarinagi.com/) & `Windows`：[点击下载](https://pan.himoe.uk/s/Wxnhg)，密码：`hikarinagi.com`
 5. [梓澪の妙妙屋](https://zi0.cc/) & `Windows`【官方中文】：[点击下载](https://zi0.cc/d/%60%E3%80%90%E5%90%88%E9%9B%86%E7%B3%BB%E5%88%97%E3%80%91/%E5%8D%97%2BGalGame%E6%B1%89%E5%8C%96%E5%8C%BA%E5%85%A8%E5%8C%BA%E8%B5%84%E6%BA%90%E5%A4%87%E4%BB%BD/1/20/%5BSEACOXX%5D%20%E3%82%BE%E3%83%B3%E3%83%93%E3%81%AE%E3%81%82%E3%81%B5%E3%82%8C%E3%81%9F%E4%B8%96%E7%95%8C%E3%81%A7%E4%BF%BA%E3%81%A0%E3%81%91%E3%81%8C%E8%A5%B2%E3%82%8F%E3%82%8C%E3%81%AA%E3%81%843%20%20%E6%9C%AB%E4%B8%96%E5%AD%A4%E9%9B%843%20%E6%97%A0%E7%A0%81%E6%B1%89%E5%8C%96%E7%A1%AC%E7%9B%98%E7%89%88%5B%E5%AE%98%E6%96%B9%E4%B8%AD%E6%96%87%5D.zip?sign=UQdfXQl9xUHfMa47Wqxv46dQeyzMzR8KdIJQi5yRtHo=:0)
@@ -112,8 +112,8 @@ updated: 2024-10-24 00:23:40
 
 ### Vol. 0
 
-1. [TouchGAL](https://touchgal.net/) & `Windows`：[点击下载](https://pan.touchgal.net/s/YLrha)，密码：`touchgal`
-2. [TouchGAL](https://touchgal.net/) & `Android`：[点击下载](https://pan.touchgal.net/s/BxapUw)，密码：`touchgal`
+1. [TouchGAL](https://www.touchgal.io/) & `Windows`：[点击下载](https://pan.touchgal.net/s/YLrha)，密码：`touchgal`
+2. [TouchGAL](https://www.touchgal.io/) & `Android`：[点击下载](https://pan.touchgal.net/s/BxapUw)，密码：`touchgal`
 3. [Hikarinagi](https://www.hikarinagi.com/) & `Windows`：[点击下载](https://pan.himoe.uk/s/4JVCQ)，密码：`hikarinagi.com`
 4. [Hikarinagi](https://www.hikarinagi.com/) & `Windows`：[点击下载](https://pan.himoe.uk/s/VwOCL)，密码：`hikarinagi.com`
 5. [梓澪の妙妙屋](https://zi0.cc/) & `Windows`【官方中文】：[点击下载](https://zi0.cc/d/%60%E3%80%90%E5%90%88%E9%9B%86%E7%B3%BB%E5%88%97%E3%80%91/%E5%8D%97%2BGalGame%E6%B1%89%E5%8C%96%E5%8C%BA%E5%85%A8%E5%8C%BA%E8%B5%84%E6%BA%90%E5%A4%87%E4%BB%BD/1/20/%5BSEACOXX%5D%20%E3%82%BE%E3%83%B3%E3%83%93%E3%81%AE%E3%81%82%E3%81%B5%E3%82%8C%E3%81%9F%E4%B8%96%E7%95%8C%E3%81%A7%E4%BF%BA%E3%81%A0%E3%81%91%E3%81%8C%E8%A5%B2%E3%82%8F%E3%82%8C%E3%81%AA%E3%81%840%20%20%E6%9C%AB%E4%B8%96%E5%AD%A4%E9%9B%840%20%E6%97%A0%E7%A0%81%E6%B1%89%E5%8C%96%E7%A1%AC%E7%9B%98%E7%89%88%5B%E5%AE%98%E6%96%B9%E4%B8%AD%E6%96%87%5D.zip?sign=-SdTdbsrz88i4fN-0TSyDXXlnRNBnH1OkPg8rKfGwQk=:0)

@@ -51,8 +51,8 @@ updated: 2024-04-21 04:10:00
 3. [姬路白雪](https://pan.jlbx.xyz/) & `Windows`：[点击下载](https://pan.jlbx.xyz/?s=%E6%A8%B1%E4%B9%8B%E8%AF%97)，密码：`终点`
 4. [烟郁Galgame](https://yanyugal.top/) & `Android`：[点击下载](https://yanyugal.top/d/disk1/%E5%B0%8F%E5%B0%8F%E7%9A%84%E5%88%86%E4%BA%AB%EF%BC%88PC%EF%BC%86%E5%AE%89%E5%8D%93%EF%BC%89/%E5%AE%89%E5%8D%93/%E7%9B%B4%E8%A3%85%E5%AE%89%E8%A3%85%E5%8C%85/%E6%A8%B1%E4%B9%8B%E8%AF%97.7z)，密码：`烟郁频道`
 5. [迷迭香写代码](https://rosmontis.com/) & `Windows`：[点击下载](https://drive.rosmontis.com/s/q87Sp)，密码：`rosmontis`，去掉 `.rosmontis` 后缀名再解压
-6. [TouchGAL](https://touchgal.net/) & `Windows`：[点击下载](https://pan.touchgal.net/s/Jkxha)，密码：`touchgal`
-7. [TouchGAL](https://touchgal.net/) & `Android`：[点击下载](https://pan.touchgal.net/s/eoXhx)，密码：`touchgal`
+6. [TouchGAL](https://www.touchgal.io/) & `Windows`：[点击下载](https://pan.touchgal.net/s/Jkxha)，密码：`touchgal`
+7. [TouchGAL](https://www.touchgal.io/) & `Android`：[点击下载](https://pan.touchgal.net/s/eoXhx)，密码：`touchgal`
 8. [绮梦](https://acgs.one/) & `Windows`：[点击下载](https://acgs.one/down_html/?url=game/%E6%A8%B1%E4%B9%8B%E8%AF%97&name=%E6%A8%B1%E4%B9%8B%E8%AF%97)，密码：`acgs`、`绮梦`
 9. [绮梦](https://acgs.one/) & `Android`：[点击下载](https://acgs.one/down_html/?url=game/%E6%A8%B1%E4%B9%8B%E8%AF%97%E7%9B%B4%E8%A3%85&name=%E6%A8%B1%E4%B9%8B%E8%AF%97%E7%9B%B4%E8%A3%85)，密码：`acgs`、`绮梦`
 10. [失落小站](https://www.shinnku.com/) & `Windows`：[点击下载](https://www.shinnku.com/api/download/0/win/%E6%A8%B1%E4%B9%8B%E8%AF%97(%E6%AD%A3%E5%BC%8F%E7%89%88).7z)

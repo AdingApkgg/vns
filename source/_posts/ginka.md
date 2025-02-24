@@ -107,8 +107,8 @@ Ginka连自己的名字都已不记得。
 4. [烟郁Galgame](https://yanyugal.top/) & `Windows`：[点击下载](https://yanyugal.top/disk1/%E5%B0%8F%E5%B0%8F%E7%9A%84%E5%88%86%E4%BA%AB%EF%BC%88PC%EF%BC%86%E5%AE%89%E5%8D%93%EF%BC%89/PC/galgame/GINKA)，密码：`lumouweinb`、`烟郁频道`
 5. [烟郁Galgame](https://yanyugal.top/) & `KRKR`：[点击下载](https://yanyugal.top/d/disk1/%E5%B0%8F%E5%B0%8F%E7%9A%84%E5%88%86%E4%BA%AB%EF%BC%88PC%EF%BC%86%E5%AE%89%E5%8D%93%EF%BC%89/%E5%AE%89%E5%8D%93/krkr/%5B%E6%B1%89%E5%8C%96%5DGINKA.7z)，密码：`lumouweinb`、`烟郁频道`
 6. [迷迭香的博客](https://rosmontis.com/) & `Windows`：[点击下载](https://skadi-d.rosmontis.com/s/gyTo)，密码：`rez6cf`、`rosmontis`
-7. [TouchGAL](https://touchgal.net/) & `Windows`：[点击下载](https://pan.touchgal.net/s/PyX2UR)，密码：`touchgal`
-8. [TouchGAL](https://touchgal.net/) & `KRKR`：[点击下载](https://pan.touchgal.net/s/dyePTb)，密码：`touchgal`
+7. [TouchGAL](https://www.touchgal.io/) & `Windows`：[点击下载](https://pan.touchgal.net/s/PyX2UR)，密码：`touchgal`
+8. [TouchGAL](https://www.touchgal.io/) & `KRKR`：[点击下载](https://pan.touchgal.net/s/dyePTb)，密码：`touchgal`
 9. [梓澪の妙妙屋](https://zi0.cc/) & `Windows`：[点击下载](https://zi0.cc/,%E3%80%90ADV-%E5%86%92%E9%99%A9%E6%B8%B8%E6%88%8F%E3%80%91/%E3%80%90PC%E3%80%91[ADV]GINKA)
 10. [绮梦](https://acgs.one/) & `Windows` + `KRKR`：[点击下载](https://acgs.one/down_html/?url=game/GINKA&name=GINKA)，密码：`绮梦`
 11. [失落小站](https://www.shinnku.com/) & `Windows`：[点击下载](https://www.shinnku.com/api/download/0/win/GINKA.7z)

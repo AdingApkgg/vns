@@ -63,8 +63,8 @@ updated: 2024-05-11 02:31:30
 
 ## 分流
 
-1. [TouchGAL](https://touchgal.net/) & `Windows`：[点击下载](https://pan.touchgal.net/s/3wbQC7)，密码：`touchgal`
-2. [TouchGAL](https://touchgal.net/) & `KRKR`：[点击下载](https://pan.touchgal.net/s/0v8GSg)，密码：`touchgal`
+1. [TouchGAL](https://www.touchgal.io/) & `Windows`：[点击下载](https://pan.touchgal.net/s/3wbQC7)，密码：`touchgal`
+2. [TouchGAL](https://www.touchgal.io/) & `KRKR`：[点击下载](https://pan.touchgal.net/s/0v8GSg)，密码：`touchgal`
 3. [小鳥遊暁の会员制餐厅](https://t-satoru.top/) & `KRKR` + `Tyranor`：[点击下载](https://pan.t-satoru.top/ode5/Galgames/%E3%80%90%E8%87%AA%E5%B0%81%E5%8C%85%E3%80%91%E5%8E%9F%E5%88%9B%E4%BD%9C%E5%93%81/%E7%BA%AF%E7%99%BD%E4%BA%A4%E5%93%8D%E6%9B%B2)，密码：`三司绫濑天下第一`
 4. [稻荷ACG](https://amoebi.com/) & `Windows`：[点击下载](https://sakustar.top/art/11069)
 5. [稻荷ACG](https://amoebi.com/) & `KRKR`：[点击下载](https://sakustar.top/art/12863)

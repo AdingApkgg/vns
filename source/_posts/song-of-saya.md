@@ -68,8 +68,8 @@ updated: 2024-03-29 23:30:00
 
 ## 分流
 
-1. [TouchGAL](https://touchgal.net/) & `Windows`：[点击下载](https://pan.touchgal.net/s/PVVhR)，密码：`touchgal`
-2. [TouchGAL](https://touchgal.net/) & `ONS`：[点击下载](https://pan.touchgal.net/s/90OIb)，密码：`touchgal`
+1. [TouchGAL](https://www.touchgal.io/) & `Windows`：[点击下载](https://pan.touchgal.net/s/PVVhR)，密码：`touchgal`
+2. [TouchGAL](https://www.touchgal.io/) & `ONS`：[点击下载](https://pan.touchgal.net/s/90OIb)，密码：`touchgal`
 3. [稻荷ACG](https://amoebi.com/) & `Windows`：[点击下载](https://sakustar.top/download?post_id=458&index=0&i=0)
 4. [姬路白雪](https://pan.jlbx.xyz/) & `Windows` + `ONS`：[点击下载](https://pan.jlbx.xyz/?s=%E6%B2%99%E8%80%B6%E4%B9%8B%E6%AD%8C)，密码：终点
 5. [迷迭香写代码](https://rosmontis.com/) & `Windows`：[点击下载](https://drive.rosmontis.com/s/30Kc5)，密码：rosmontis，去掉 `.rosmontis` 后缀名再解压

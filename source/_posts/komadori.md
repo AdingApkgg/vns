@@ -59,8 +59,8 @@ updated: 2024-09-15 02:25:00
 
 ## 分流
 
-1. [TouchGAL](https://touchgal.net/) & `Windows`：[点击下载](https://pan.touchgal.net/s/8AXfg)，密码：`touchgal`
-2. [TouchGAL](https://touchgal.net/) & `ONS`：[点击下载](https://pan.touchgal.net/s/VnGUd)，密码：`touchgal`
+1. [TouchGAL](https://www.touchgal.io/) & `Windows`：[点击下载](https://pan.touchgal.net/s/8AXfg)，密码：`touchgal`
+2. [TouchGAL](https://www.touchgal.io/) & `ONS`：[点击下载](https://pan.touchgal.net/s/VnGUd)，密码：`touchgal`
 3. [NekoGAL](https://www.shinnku.com/) & `Windows`：[点击下载](https://pan.nekogal.top/s/rDgH0)
 4. [NekoGAL](https://www.shinnku.com/) & `ONS`：[点击下载](https://pan.nekogal.top/s/KmKHL)
 5. [Hikarinagi](https://www.hikarinagi.com/) & `Windows` + `ONS`：[点击下载](https://pan.himoe.uk/s/X88Cy)，密码：`hikarinagi.com`

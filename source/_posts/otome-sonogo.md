@@ -53,7 +53,7 @@ updated: 2024-05-05 02:37:30
 1. [稻荷ACG](https://amoebi.com/) & `Windows`：[点击下载](https://sakustar.top/art/269)
 2. [姬路白雪](https://pan.jlbx.xyz/) & `Windows`：[点击下载](https://pan.jlbx.xyz/?s=%E5%B0%91%E5%A5%B3%E7%90%86%E8%AE%BA%E5%8F%8A%E5%85%B6%E4%B9%8B%E5%90%8E%E7%9A%84%E5%91%A8%E8%BE%B9)，密码：`终点`
 3. [迷迭香的博客](https://rosmontis.com/) & `Windows`：[点击下载](https://drive.rosmontis.com/s/0W4hx)，密码：`rosmontis`，去掉 `.rosmontis` 后缀名再解压
-4. [TouchGAL](https://touchgal.net/) & `Windows`：[点击下载](https://pan.touchgal.net/s/8OEFg)，密码：`touchgal`
+4. [TouchGAL](https://www.touchgal.io/) & `Windows`：[点击下载](https://pan.touchgal.net/s/8OEFg)，密码：`touchgal`
 5. [绮梦](https://acgs.one/) & `Windows`：[点击下载](https://acgs.one/down_html/?url=game/%E5%B0%91%E5%A5%B3%E7%90%86%E8%AE%BA%E5%8F%8A%E5%85%B6%E4%B9%8B%E5%90%8E%E7%9A%84%E5%91%A8%E8%BE%B9&name=%E5%B0%91%E5%A5%B3%E7%90%86%E8%AE%BA%E5%8F%8A%E5%85%B6%E4%B9%8B%E5%90%8E%E7%9A%84%E5%91%A8%E8%BE%B9%20-%E7%BE%8E%E5%A5%BD%E5%B9%B4%E4%BB%A3%E7%AF%87-)，密码：`acgs`、`绮梦`
 6. [失落小站](https://www.shinnku.com/) & `Windows`：[点击下载](https://www.shinnku.com/api/download/0/win/%E5%B0%91%E5%A5%B3%E7%90%86%E8%AE%BA%E5%8F%8A%E5%85%B6%E4%B9%8B%E5%90%8E%E7%9A%84%E5%91%A8%E8%BE%B9.7z)
 7. [量子ACG](https://lzacg.org/) & `Windows`：[点击下载](https://lzacg.org/433)，密码：`量子acg`、`lzacg.top`

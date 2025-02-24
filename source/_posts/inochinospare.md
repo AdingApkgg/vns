@@ -96,6 +96,6 @@ DMM入正地址：[dlsoft.dmm.co.jp/detail/akbs_0067](https://dlsoft.dmm.co.jp/d
 
 [迷迭香的博客](https://rosmontis.com/) & Windows下载分流9【枫江汉化组】：[点击下载](https://drive.rosmontis.com/s/v8lI3)，密码：rosmontis，去掉 `.rosmontis` 后缀名再解压
 
-[TouchGAL](https://touchgal.net/) & Windows下载分流10：[点击下载](https://pan.touchgal.net/s/bnLS5)
+[TouchGAL](https://www.touchgal.io/) & Windows下载分流10：[点击下载](https://pan.touchgal.net/s/bnLS5)
 
-[TouchGAL](https://touchgal.net/) & KRKR下载分流11：[点击下载](https://pan.touchgal.net/s/6V0Cp)
+[TouchGAL](https://www.touchgal.io/) & KRKR下载分流11：[点击下载](https://pan.touchgal.net/s/6V0Cp)

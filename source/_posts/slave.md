@@ -54,8 +54,8 @@ O島…從沖繩的水座島只要開快艇30分鐘就能到達的小小離島�
 
 ## 分流
 
-1. [TouchGAL](https://touchgal.net/) & `Windows`：[点击下载](https://pan.touchgal.net/s/xQAOIO)，密码：`touchgal`
-2. [TouchGAL](https://touchgal.net/) & `KRKR`：[点击下载](https://pan.touchgal.net/s/mZksx)，密码：`touchgal`
+1. [TouchGAL](https://www.touchgal.io/) & `Windows`：[点击下载](https://pan.touchgal.net/s/xQAOIO)，密码：`touchgal`
+2. [TouchGAL](https://www.touchgal.io/) & `KRKR`：[点击下载](https://pan.touchgal.net/s/mZksx)，密码：`touchgal`
 3. [失落小站](https://www.shinnku.com/) & `KRKR`：[点击下载](https://www.shinnku.com/api/download/0/krkr/%E9%87%8D%E7%94%9F%E8%90%9D%E8%8E%89%E5%B2%9B.7z)
 4. [量子ACG](https://lzacg.org/) & `Windows`：[点击下载](https://lzacg.org/7678)，密码：`量子acg`、`lzacg.top`
 5. [猫猫网盘](https://pan.catcat.blog/) & `Windows`【小柳勇造后援会】：[点击下载](https://pan.catcat.blog/d/GalGame/SP%E5%90%8E%E7%AB%AF1%5BGalGame%E5%88%86%E5%8C%BA%5D/%E6%B1%89%E5%8C%96%E6%B8%B8%E6%88%8F%E6%9C%88%E4%BB%BD%E5%90%88%E9%9B%86-%E7%A6%BB%E6%95%A3/2024%E5%B9%B4%E6%B1%89%E5%8C%96%E5%90%88%E9%9B%86/06/%E6%96%B0%E6%B1%89%E5%8C%96%E4%BD%9C%E5%93%81/%5BUnderground%20Campaign%5D%20%E6%B2%96%E7%B8%84%E3%82%B9%E3%83%AC%E3%82%A4%E3%83%96%E3%82%A2%E3%82%A4%E3%83%A9%E3%83%B3%E3%83%89%20%E5%86%B2%E7%BB%B3%E5%A5%B4%E9%9A%B6%E5%B2%9B%20%5B%E5%B0%8F%E6%9F%B3%E5%8B%87%E9%80%A0%E5%90%8E%E6%8F%B4%E4%BC%9A%5D/%5BUnderground%20Campaign%5D%20%E6%B2%96%E7%B8%84%E3%82%B9%E3%83%AC%E3%82%A4%E3%83%96%E3%82%A2%E3%82%A4%E3%83%A9%E3%83%B3%E3%83%89%20%E5%86%B2%E7%BB%B3%E5%A5%B4%E9%9A%B6%E5%B2%9B%20%5B%E5%B0%8F%E6%9F%B3%E5%8B%87%E9%80%A0%E5%90%8E%E6%8F%B4%E4%BC%9A%5D.rar?sign=JuBsVqNDsF-7NRM5x1Be5JNmtaFYSyD9RAviifzPdxc=:0)，密码：`south-plus.`、`H07JsecTTvkU3vigdnBC.`

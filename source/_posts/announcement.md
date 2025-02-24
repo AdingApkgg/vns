@@ -6,10 +6,10 @@ categories:
 sticky: 10
 comments: false
 date: 2024-04-04 19:40:00
-updated: 2024-12-28 02:10:50
+updated: 2025-02-24 13:40:00
 ---
 
-![春日野医院](/img/kasugano-clinic.webp)
+![寒蝉鸣泣之时](/img/higurashi.svg)
 
 ## 基本帮助
 

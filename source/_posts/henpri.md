@@ -66,7 +66,7 @@ updated: 2024-05-20 19:30:00
 
 ## 分流
 
-1. [TouchGAL](https://touchgal.net/) & `Windows`【机翻】：[点击下载](https://pan.touchgal.net/s/Qp7U6)，密码：`touchgal`，删除 `HENPRI.pfs.099` 就是日文原版
+1. [TouchGAL](https://www.touchgal.io/) & `Windows`【机翻】：[点击下载](https://pan.touchgal.net/s/Qp7U6)，密码：`touchgal`，删除 `HENPRI.pfs.099` 就是日文原版
 2. [烟郁Galgame](https://yanyugal.top/) & `Tyranor`：[点击下载](https://yanyugal.top/d/disk1/%E5%B0%8F%E5%B0%8F%E7%9A%84%E5%88%86%E4%BA%AB%EF%BC%88PC%EF%BC%86%E5%AE%89%E5%8D%93%EF%BC%89/%E5%AE%89%E5%8D%93/ty/%E5%8F%98%E6%80%81%E7%9B%91%E7%8B%B1.7z)，密码：`烟郁频道`、`lumouweinb`
 3. [梓澪の妙妙屋](https://zi0.cc/) & `Tyranor`【机翻】：[点击下载](https://zi0.cc/d/%60%E3%80%90%E5%BD%92%20%E6%A1%A3%E3%80%91/%E3%80%90Tyranor%E5%90%88%E9%9B%86%E3%80%91/%E5%8F%98%E6%80%81%E7%9B%91%E7%8B%B1%E3%80%90%E6%9C%BA%E7%BF%BB%E3%80%91.rar?sign=uj1j1HCK-GPKur4doCNf7BOWxW-d-GjR5g4bRoustRk=:0)
 4. [绮梦](https://acgs.one/) & `Windows` + `Tyranor`【机翻】：[点击下载](https://acgs.one/down_html/?url=game/%E5%8F%98%E6%80%81%E7%9B%91%E7%8B%B1&name=%E5%8F%98%E6%80%81%E7%9B%91%E7%8B%B1)，密码：`绮梦`

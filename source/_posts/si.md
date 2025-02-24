@@ -17,7 +17,7 @@ categories:
   - - KRKR
   - - Android
 date: 2024-04-03 23:57:00
-updated: 2024-04-03 23:57:00
+updated: 2025-02-24 15:52:30
 ---
 
 ![si](https://static.saop.cc/vns/img/si.webp)
@@ -68,13 +68,14 @@ updated: 2024-04-03 23:57:00
 
 ## 分流
 
-1. [TouchGAL](https://touchgal.net/) & `Windows`：[点击下载](https://pan.touchgal.net/s/lxqF7)，密码：`touchgal`
-2. [TouchGAL](https://touchgal.net/) & `KRKR`：[点击下载](https://pan.touchgal.net/s/1y2SX)，密码：`touchgal`
+1. [TouchGAL](https://www.touchgal.io/) & `Windows`：[点击下载](https://pan.touchgal.net/s/lxqF7)，密码：`touchgal`
+2. [TouchGAL](https://www.touchgal.io/) & `KRKR`：[点击下载](https://pan.touchgal.net/s/1y2SX)，密码：`touchgal`
 3. [绮梦](https://acgs.eu.org/) & `Windows` + `KRKR` + `Android`：[点击下载](https://acgs.eu.org/down_html/?url=game/%E6%AD%BB%E9%A6%86&name=%E9%80%9D%E5%8E%BB%E7%9A%84%E4%BD%A0%E3%80%81%E4%BA%8E%E9%A6%86%E4%B8%AD%E8%90%8C%E7%94%9F%E7%9A%84%E6%86%8E%E6%81%B6)，密码：acgs
 4. [姬路白雪](https://pan.jlbx.xyz/) & `Windows` + `KRKR`：[点击下载](https://pan.jlbx.xyz/GalGame/gal%E7%BB%88%E7%82%B9%E8%B5%84%E6%BA%90%EF%BC%88%E5%AF%86%E7%A0%81%20%E7%BB%88%E7%82%B9%EF%BC%89/AB/%E6%BF%92%E6%AD%BB%E8%BD%AE%E5%9B%9E%E7%9A%84%E5%8D%BF%E4%BA%8E%E9%A6%86%E4%B8%AD%E8%90%8C%E7%94%9F%E7%9A%84%E6%86%8E%E6%81%B6)，密码：终点
 5. [姬路白雪](https://pan.jlbx.xyz/) & `Windows`：[点击下载](https://pan.jlbx.xyz/?s=%E6%AD%BB%E9%A6%86)，密码：终点
 6. [梓澪の妙妙屋](https://zi0.cc/) & `Android`：[点击下载](https://zi0.cc/d/%60%E3%80%90%E5%BD%92%20%E6%A1%A3%E3%80%91/%E3%80%90%E5%AE%89%E5%8D%93%E5%90%88%E9%9B%86%E3%80%91/004/%E6%AD%BB%E6%A3%BA-%E6%BF%92%E6%AD%BB%E8%BD%AE%E5%9B%9E%E7%9A%84%E5%8D%BF%E4%BA%8E%E9%A6%86%E4%B8%AD%E8%90%8C%E7%94%9F%E7%9A%84%E6%86%8E%E6%81%B6.apk?sign=8aAXWY_3rsHZixQXJsQcd4KhO4N-K3i6wB8D3GjWkLE=:0)
 7. [梓澪の妙妙屋](https://zi0.cc/) & `Windows` + `KRKR`：[点击下载](https://zi0.cc/.%E3%80%90%E5%A4%8F%E9%A3%8E%E3%80%91/.%E3%80%90%E5%A4%8F%E9%A3%8E-2%E3%80%91/.%E5%85%B6%E4%BB%96/BUG_SYSTEM02%E6%AD%BB%E9%A6%86_%E9%80%9D%E5%8E%BB%E7%9A%84%E4%BD%A0%EF%BC%8C%E9%A6%86%E9%87%8C%E8%8B%8F%E9%86%92%E7%9A%84%E7%BD%AA%E6%81%B6%E6%BF%92%E6%AD%BB%E8%BD%AE%E5%9B%9E%E7%9A%84%E5%8D%BF%E4%BA%8E%E9%A6%86%E4%B8%AD%E8%90%8C%E7%94%9F%E7%9A%84%E6%86%8E%E6%81%B6%E6%AD%BB%E3%81%AB%E9%80%9D%E3%81%8F%E5%90%9B%E3%80%81%E9%A4%A8%E3%81%AB%E8%8A%BD%E5%90%B9%E3%81%8F%E6%86%8E%E6%82%AA.rar?from=search)
-8. [失落小站](https://www.shinnku.com/) & `Windows`：[点击下载](https://www.shinnku.com/api/download/0/win/%E6%98%9F%E5%85%89%E5%92%96%E5%95%A1%E9%A6%86%E4%B8%8E%E6%AD%BB%E7%A5%9E%E4%B9%8B%E8%9D%B6v1.2.7z)
-9. [失落小站](https://www.shinnku.com/) & `KRKR`：[点击下载](https://www.shinnku.com/api/download/0/krkr/%E6%BF%92%E6%AD%BB%E8%BD%AE%E5%9B%9E%E7%9A%84%E5%8D%BF%E4%BA%8E%E9%A6%86%E4%B8%AD%E7%9A%84%E6%86%8E%E6%81%B6.7z)
-10. [失落小站](https://www.shinnku.com/) & `Android`：[点击下载](https://www.shinnku.com/api/download/0/apk/%E5%86%B7%E7%8B%90/1500-2000/1536-%E6%AD%BB%E6%A3%BA-%E6%BF%92%E6%AD%BB%E8%BD%AE%E5%9B%9E%E7%9A%84%E5%8D%BF%E4%BA%8E%E9%A6%86%E4%B8%AD%E8%90%8C%E7%94%9F%E7%9A%84%E6%86%8E%E6%81%B6.apk)
+8. [失落小站](https://www.shinnku.com/) & `Windows`：[点击下载](https://www.shinnku.com/api/download/zd/1001-1500/[160729][%E3%83%90%E3%82%B0%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0]%20%E6%AD%BB%E3%81%AB%E9%80%9D%E3%81%8F%E5%90%9B%E3%80%81%E9%A4%A8%E3%81%AB%E8%8A%BD%E5%90%B9%E3%81%8F%E6%86%8E%E6%82%AA.rar)
+9. [失落小站](https://www.shinnku.com/) & `Windows`：[点击下载](https://www.shinnku.com/api/download/0/win/%E6%BF%92%E6%AD%BB%E8%BD%AE%E5%9B%9E%E7%9A%84%E5%8D%BF%E4%BA%8E%E9%A6%86%E4%B8%AD%E8%90%8C%E7%94%9F%E7%9A%84%E6%86%8E%E6%81%B6.7z)
+10. [失落小站](https://www.shinnku.com/) & `KRKR`：[点击下载](https://www.shinnku.com/api/download/0/krkr/%E6%BF%92%E6%AD%BB%E8%BD%AE%E5%9B%9E%E7%9A%84%E5%8D%BF%E4%BA%8E%E9%A6%86%E4%B8%AD%E7%9A%84%E6%86%8E%E6%81%B6.7z)
+11. [失落小站](https://www.shinnku.com/) & `Android`：[点击下载](https://www.shinnku.com/api/download/0/apk/%E5%86%B7%E7%8B%90/1500-2000/1536-%E6%AD%BB%E6%A3%BA-%E6%BF%92%E6%AD%BB%E8%BD%AE%E5%9B%9E%E7%9A%84%E5%8D%BF%E4%BA%8E%E9%A6%86%E4%B8%AD%E8%90%8C%E7%94%9F%E7%9A%84%E6%86%8E%E6%81%B6.apk)

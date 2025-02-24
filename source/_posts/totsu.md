@@ -16,7 +16,7 @@ categories:
   - - Tyranor
 author: 秋生GE
 date: 2024-01-31 21:40:00
-updated: 2024-07-29 21:02:30
+updated: 2025-02-24 15:31:10
 ---
 
 ![totsu](https://static.saop.cc/vns/img/totsu.webp)
@@ -94,16 +94,14 @@ updated: 2024-07-29 21:02:30
 
 ## 分流
 
-1. [TouchGAL](https://touchgal.net/) & `Windows`：[点击下载](https://pan.touchgal.net/s/yYjAUY)，密码：`touchgal`
-2. [TouchGAL](https://touchgal.net/) & `Tyranor`：[点击下载](https://pan.touchgal.net/s/N1A8tO)，密码：`touchgal`
+1. [TouchGAL](https://www.touchgal.io/) & `Windows`：[点击下载](https://pan.touchgal.net/s/yYjAUY)，密码：`touchgal`
+2. [TouchGAL](https://www.touchgal.io/) & `Tyranor`：[点击下载](https://pan.touchgal.net/s/N1A8tO)，密码：`touchgal`
 3. [梓澪の妙妙屋](https://zi0.cc/) & `Tyranor`：[点击下载](https://zi0.cc/d/%60%E3%80%90%E5%90%88%E9%9B%86%E7%B3%BB%E5%88%97%E3%80%91/%E5%8D%97%2BGalGame%E6%B1%89%E5%8C%96%E5%8C%BA%E5%85%A8%E5%8C%BA%E8%B5%84%E6%BA%90%E5%A4%87%E4%BB%BD/2/28/%5B%E3%81%BE%E3%81%A9%E3%81%9D%E3%81%B5%E3%81%A8%5D%20%E3%83%8F%E3%83%9F%E3%83%80%E3%82%B7%E3%82%AF%E3%83%AA%E3%82%A8%E3%82%A4%E3%83%86%E3%82%A3%E3%83%96%E5%87%B8%20%20%E7%81%B5%E6%84%9F%E6%BB%A1%E6%BA%A2%E7%9A%84%E7%94%9C%E8%9C%9C%E5%88%9B%E6%83%B3-%E5%87%B8%20%E6%B1%89%E5%8C%96%E7%A1%AC%E7%9B%98%E7%89%88%5B%E7%99%BD%E4%BA%95%E6%9C%A8%E5%AD%A6%E5%9B%AD%E6%B1%89%E5%8C%96%E7%BB%84%5D.zip?sign=hYWSPCRWaxEQuisBd-AopB1Y6tmeoH_u_FKS7DxJQrc=:0)
 4. [绮梦](https://acgs.one/) & `Windows` + `Tyranor`：[点击下载](https://acgs.one/game/6.html)，密码：`绮梦`
 5. [烟郁Galgame](https://yanyugal.top/) & `Windows`：[点击下载](https://yanyugal.top/disk1/%E5%B0%8F%E5%B0%8F%E7%9A%84%E5%88%86%E4%BA%AB%EF%BC%88PC%EF%BC%86%E5%AE%89%E5%8D%93%EF%BC%89/PC/galgame/%E5%AF%8C%E5%A9%86%E5%A6%B9fd%E6%B1%89%E5%8C%96/)，密码：`烟郁频道`、`lumouweinb`
 6. [小鳥遊暁の会员制餐厅](https://t-satoru.top/) & `Tyranor`：[点击下载](https://pan.t-satoru.top/ode5/Galgames/%E3%80%90%E8%87%AA%E5%B0%81%E5%8C%85%E3%80%91%E5%8E%9F%E5%88%9B%E4%BD%9C%E5%93%81/%E5%93%88%E5%AF%86%E8%BE%BE%E6%96%AF%E5%88%9B%E6%84%8F/%E5%87%B8)，密码：`三司绫濑天下第一`
 7. [烟郁Galgame](https://yanyugal.top/) & `Tyranor`：[点击下载](https://yanyugal.top/disk1/%E5%B0%8F%E5%B0%8F%E7%9A%84%E5%88%86%E4%BA%AB%EF%BC%88PC%EF%BC%86%E5%AE%89%E5%8D%93%EF%BC%89/%E5%AE%89%E5%8D%93/ty/%E5%AF%8C%E5%A9%86%E5%A6%B9FD%E6%B1%89%E5%8C%96/)，密码：`烟郁频道`、`lumouweinb`
 8. [烟郁Galgame](https://yanyugal.top/) & `Tyranor`：[点击下载](https://yanyugal.top/d/disk1/%E5%B0%8F%E5%B0%8F%E7%9A%84%E5%88%86%E4%BA%AB%EF%BC%88PC%EF%BC%86%E5%AE%89%E5%8D%93%EF%BC%89/%E5%AE%89%E5%8D%93/ty/%E7%81%B5%E6%84%9F%E6%BB%A1%E6%BA%A2%E7%9A%84%E7%94%9C%E8%9C%9C%E5%88%9B%E6%83%B3fd.7z/%E7%81%B5%E6%84%9F%E6%BB%A1%E6%BA%A2%E7%9A%84%E7%94%9C%E8%9C%9C%E5%88%9B%E6%83%B3fd.7z)，密码：`烟郁频道`、`lumouweinb`
-9. [失落小站](https://www.shinnku.com/) & `Windows`：[点击下载](https://www.shinnku.com/api/download/0/win/%E7%81%B5%E6%84%9F%E6%BB%A1%E6%BA%A2%E7%9A%84%E7%94%9C%E8%9C%9C%E5%88%9B%E6%83%B3v1.1.7z)
-10. [失落小站](https://www.shinnku.com/) & `Tyranor`：[点击下载](https://www.shinnku.com/api/download/0/artroid/%E7%81%B5%E6%84%9F%E6%BB%A1%E6%BA%A2%E7%9A%84%E7%94%9C%E8%9C%9C%E5%88%9B%E6%83%B3v1.1.7z)
-11. [稻荷ACG](https://amoebi.com/) & `Windows`：[点击下载](https://sakustar.me/art/10866)
-12. [稻荷ACG](https://amoebi.com/) & `Tyranor`：[点击下载](https://sakustar.me/art/10886)
-13. [量子ACG](https://lzacg.org/) & `Windows`：[点击下载](https://lzacg.org/6272)，密码：`量子acg`、`lzacg.top`
+9.  [稻荷ACG](https://amoebi.com/) & `Windows`：[点击下载](https://sakustar.me/art/10866)
+10. [稻荷ACG](https://amoebi.com/) & `Tyranor`：[点击下载](https://sakustar.me/art/10886)
+11. [量子ACG](https://lzacg.org/) & `Windows`：[点击下载](https://lzacg.org/6272)，密码：`量子acg`、`lzacg.top`

@@ -66,8 +66,8 @@ updated: 2024-09-13 05:03:00
 
 ## 分流
 
-1. [TouchGAL](https://touchgal.net/) & `Windows`：[点击下载](https://pan.touchgal.net/s/Vosd)，密码：`touchgal`
-2. [TouchGAL](https://touchgal.net/) & `Tyranor`：[点击下载](https://pan.touchgal.net/s/YaRUa)，密码：`touchgal`
+1. [TouchGAL](https://www.touchgal.io/) & `Windows`：[点击下载](https://pan.touchgal.net/s/Vosd)，密码：`touchgal`
+2. [TouchGAL](https://www.touchgal.io/) & `Tyranor`：[点击下载](https://pan.touchgal.net/s/YaRUa)，密码：`touchgal`
 3. [失落小站](https://www.shinnku.com/) & `Windows`：[点击下载](https://www.shinnku.com/api/download/0/win/ATRI%20-My%20Dear%20Moments-%20v1.3.7z)
 4. [失落小站](https://www.shinnku.com/) & `KRKR`：[点击下载](https://www.shinnku.com/api/download/0/krkr/ATRI%20-My%20Dear%20Moments-.7z)
 5. [绮梦](https://acgs.one/) & `Windows` + `Tyranor` + `KRKR` + `Android`：[点击下载](https://acgs.one/game/26.html)，密码：`acgs`、`绮梦`

@@ -72,7 +72,7 @@ updated: 2024-10-02 02:35:40
 
 ## 分流
 
-1. [TouchGAL](https://touchgal.net/) & `Windows`：[点击下载](https://pan.touchgal.net/s/YPL6Ca)，密码：`touchgal`，需要转区运行，不然会有BUG，可尝试使用网盘内的免转区启动器
+1. [TouchGAL](https://www.touchgal.io/) & `Windows`：[点击下载](https://pan.touchgal.net/s/YPL6Ca)，密码：`touchgal`，需要转区运行，不然会有BUG，可尝试使用网盘内的免转区启动器
 2. [NekoGAL](https://www.nekogal.com/) & `Windows`：[点击下载](https://pan.nekogal.top/s/yMqu7)
 3. [NekoGAL](https://www.nekogal.com/) & `KRKR`：[点击下载](https://pan.nekogal.top/s/0YKHV)
 4. [NekoGAL](https://www.nekogal.com/) & `Android`：[点击下载](https://pan.nekogal.top/s/N25Sx)

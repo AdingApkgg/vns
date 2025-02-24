@@ -58,7 +58,7 @@ updated: 2024-08-12 19:20:00
 
 ## 分流
 
-1. [TouchGAL](https://touchgal.net/) & `Windows`：[点击下载](https://pan.touchgal.net/s/5XbuE)，密码：`touchgal`，使用 `版本切换.bat`，可切换 `简体`、`繁体`、`日版`、`步兵`、`骑兵`
+1. [TouchGAL](https://www.touchgal.io/) & `Windows`：[点击下载](https://pan.touchgal.net/s/5XbuE)，密码：`touchgal`，使用 `版本切换.bat`，可切换 `简体`、`繁体`、`日版`、`步兵`、`骑兵`
 2. [梓澪の妙妙屋](https://zi0.cc/) & `Windows`：[点击下载](https://zi0.cc/d/%60%E3%80%90%E5%90%88%E9%9B%86%E7%B3%BB%E5%88%97%E3%80%91/%E6%B1%89%E5%8C%96galgame%E4%BC%9A%E7%A4%BE%E5%90%88%E9%9B%86/%E6%B1%89%E5%8C%96%E4%BC%9A%E7%A4%BE%E5%90%88%E9%9B%86%E9%83%A8%E5%88%86%20part17/Overflow/%5B101008%5D%5B%E3%82%AA%E3%83%BC%E3%83%90%E3%83%BC%E3%83%95%E3%83%AD%E3%83%BC%5D%20SCHOOL%20DAYS%20HQ.rar?sign=0cyrzhrzf3QS_Jzj-oblGJQ1EAvo_o5E5O3WF3wdgWE=:0)
 3. [梓澪の妙妙屋](https://zi0.cc/) & `Windows`：[点击下载](https://zi0.cc/d/%60%E3%80%90%E5%90%88%E9%9B%86%E7%B3%BB%E5%88%97%E3%80%91/day%E7%B3%BB%E5%88%97%20(%E6%97%A5%E5%9C%A8%E6%A0%A1%E5%9B%AD%E7%B3%BB%E5%88%97)%E6%B8%B8%E6%88%8F%E5%90%88%E9%9B%86/School%20days%20HQ.zip?sign=sda0jr4zpRU2MR0hK47B9OH7C826LVhKfdmpHAvd9FU=:0)
 4. [我的Galgame资源发布站](https://www.ttloli.com/) & `Windows`：[点击下载](https://www.ttloli.com/school-days-hq.html)，密码：`忧郁的弟弟`、`忧郁的loli`

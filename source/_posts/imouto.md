@@ -54,7 +54,7 @@ updated: 2024-05-26 03:12:00
 
 ## 分流
 
-1. [TouchGAL](https://touchgal.net/) & `Windows`：[点击下载](https://pan.touchgal.net/s/d2BTb)，密码：`touchgal`
+1. [TouchGAL](https://www.touchgal.io/) & `Windows`：[点击下载](https://pan.touchgal.net/s/d2BTb)，密码：`touchgal`
 2. [姬路白雪](https://pan.jlbx.xyz/) & `Windows`：[点击下载](https://pan.jlbx.xyz/?s=%E5%A6%B9%E4%B9%8B%E5%BD%A2)，密码：`终点`
 3. [失落小站](https://www.shinnku.com/) & `Windows`：[点击下载](https://www.shinnku.com/api/download/0/win/%E5%A6%B9%E4%B9%8B%E5%BD%A2.7z)
 4. [我的Galgame资源发布站](https://www.ttloli.com/) & `Windows`：[点击下载](https://www.ttloli.com/meizhixing.html)，密码：`忧郁的弟弟`、`忧郁的loli`
