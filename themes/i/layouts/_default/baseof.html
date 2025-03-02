@@ -8,6 +8,7 @@
   <link rel="stylesheet" href="{{ "css/main.css" | relURL }}">
   <link rel="stylesheet"
     href="https://registry.npmmirror.com/@highlightjs/cdn-assets/latest/files/styles/github-dark.min.css">
+    <script async src="https://registry.npmmirror.com/pangu/latest/files/dist/browser/pangu.min.js"></script>
 </head>
 
 <body>
@@ -23,7 +24,7 @@
 
   {{ partial "pjax.html" . }}
 
-  <script src="{{ "js/main.js" | relURL }}"></script>
+  <script async src="{{ "js/main.js" | relURL }}"></script>
   <script>
     if ('serviceWorker' in navigator) {
       navigator.serviceWorker.register('/js/sw.js')

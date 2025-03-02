@@ -28,7 +28,7 @@ updated: 2024-04-19 22:58:00
 
 **《Fate/hollow ataraxia》**（日語：**フェイト/ホロウ　アタラクシア**）是由[TYPE-MOON](https://zh.moegirl.org.cn/TYPE-MOON)製作的一部AVG遊戲，於2005年初次發售，為遊戲「[Fate/stay night](https://zh.moegirl.org.cn/Fate/stay_night)」的Fan Disc。
 
-<!-- more -->
+<!--more-->
 
 ## 原作介绍
 

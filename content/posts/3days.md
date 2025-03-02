@@ -28,7 +28,7 @@ updated: 2024-05-25 02:35:00
 
 ~~[Galgame吧十二神器](https://zh.moegirl.org.cn/Galgame吧十二神器)之一，代号“血池轮回”。~~
 
-<!-- more -->
+<!--more-->
 
 ## 故事
 

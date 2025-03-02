@@ -22,7 +22,7 @@ updated: 2024-04-07 23:34:00
 
 《**真爱的百合被染成红色**》（日语：**真愛の百合は赤く染まる**）是由[Bug System](https://zh.moegirl.org.cn/Bug_System)制作的一部[Galgame](https://zh.moegirl.org.cn/Galgame)，讲述了三人为爱疯狂的残酷而病态的故事。
 
-<!-- more -->
+<!--more-->
 
 ## 原作介绍
 

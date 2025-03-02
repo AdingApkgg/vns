@@ -45,7 +45,7 @@ updated: 2024-09-23 04:07:30
 
 自〈新章〉开始，本作转型为全年龄游戏。Palette为此制作了《9-nine-》全年龄合辑版，与〈新章〉同日发售。之后，Palette开始为本作进行移植和跨媒体改编：2021年10月17日宣布作品改编成[漫画](https://zh.wikipedia.org/wiki/日本漫画)，并移植到[PS4](https://zh.wikipedia.org/wiki/PS4)和[任天堂Switch](https://zh.wikipedia.org/wiki/任天堂Switch)平台，2024年5月29日宣布作品将获改编为[电视动画](https://zh.wikipedia.org/wiki/日本電視動畫)。
 
-<!-- more -->
+<!--more-->
 
 ## 剧情
 

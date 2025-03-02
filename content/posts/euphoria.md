@@ -23,7 +23,7 @@ updated: 2024-08-27 07:20:00
 
 《**euphoria**》是[CLOCKUP](https://zh.wikipedia.org/w/index.php?title=CLOCKUP&action=edit&redlink=1)公司于2011年6月24日发表的[18禁](https://zh.wikipedia.org/wiki/18禁)[恋爱冒险游戏](https://zh.wikipedia.org/wiki/戀愛冒險遊戲)，2014年4月25日发售HD版，2012年8月30日由AICHERRY发售[DVDPG](https://zh.wikipedia.org/wiki/DVDPG)版、[BDPG](https://zh.wikipedia.org/wiki/BDPG)版，后来改编成[OVA](https://zh.wikipedia.org/wiki/原創動畫錄影帶)和小说发售。
 
-<!-- more -->
+<!--more-->
 
 ## 故事
 

@@ -29,7 +29,7 @@ updated: 2024-09-28 11:07:30
 
 《**Making＊Lovers**》是由[SMEE](https://zh.wikipedia.org/wiki/HOOKSOFT)制作于2017年11月24日发售的[恋爱冒险](https://zh.wikipedia.org/wiki/戀愛冒險)类型[成人游戏](https://zh.wikipedia.org/wiki/日本成人遊戲)，2018年发售两部[Fandisc](https://zh.wikipedia.org/wiki/Fandisc)《Making＊Lovers 激イチャアフターストーリー》，2021年6月25日发售HD版。2019年7月25日由ENTERGRAM发售[PlayStation 4](https://zh.wikipedia.org/wiki/PlayStation_4)版和[PlayStation Vita](https://zh.wikipedia.org/wiki/PlayStation_Vita)版。
 
-<!-- more -->
+<!--more-->
 
 ## 剧情
 

@@ -16,7 +16,7 @@ updated: 2024-09-09 18:45:00
 
 《**玻璃青春**》~~青春玻璃渣~~（日语：**青春フラジャイル**）是由[Purple software](https://zh.moegirl.org.cn/Purple_software)制作发行的一款[ADV](https://zh.moegirl.org.cn/ADV)游戏，于2020年8月28日发售。
 
-<!-- more -->
+<!--more-->
 
 ## 剧情
 

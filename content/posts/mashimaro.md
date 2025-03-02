@@ -20,7 +20,7 @@ author: WTY
 
 《**回家之前的棉花糖** - I'll find my way home》（英语：Marshmallow All the Way Home）是[MARMALADE](https://mzh.moegirl.org.cn/MARMALADE)开发的一款[Galgame](https://mzh.moegirl.org.cn/Galgame)，获得2017年萌系游戏大赏“实用奖”。
 
-<!-- more -->
+<!--more-->
 
 ## 简介
 

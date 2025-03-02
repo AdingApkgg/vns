@@ -30,7 +30,7 @@ updated: 2024-06-09 20:21:30
 
 **《智代After ～It's a Wonderful Life～》**（日语：**智代アフター ～It's a Wonderful Life～**）是由日本Visual Art's公司旗下的[Key](https://zh.moegirl.org.cn/Key)（“Key社”）所制作发行的[AVG](https://zh.moegirl.org.cn/AVG)。其剧情为游戏《[CLANNAD](https://zh.moegirl.org.cn/CLANNAD)》中智代路线之后续发展，因此接触本作前建议对《CLANNAD》有一定了解。
 
-<!-- more -->
+<!--more-->
 
 ## 简介
 

@@ -27,7 +27,7 @@ updated: 2024-07-31 03:56:40
 
 《**AIR**》是由日本公司[VISUAL ARTS](https://zh.moegirl.org.cn/VISUAL_ARTS)旗下游戏子品牌[Key](https://zh.moegirl.org.cn/Key)（“Key社”）于2000年9月8日所推出的一款[Galgame](https://zh.moegirl.org.cn/Galgame)。
 
-<!-- more -->
+<!--more-->
 
 ## 简介
 

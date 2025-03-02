@@ -5,3 +5,16 @@ theme = 'i'
 
 [markup.goldmark.renderer]
   unsafe = true
+
+[params]
+  summaryLength = 100  # 设置摘要长度为 100 个单词
+
+paginate = 5  # 每页显示的文章数量
+paginatePath = "page"  # 分页 URL 的路径（例如 /posts/page/2）
+
+[permalinks]
+  tags = "/tags/:slug/"
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"

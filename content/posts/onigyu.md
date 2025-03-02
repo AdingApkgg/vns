@@ -25,7 +25,7 @@ author: WTY
 
 《**哥哥，早上起床之前都要抱紧我哦！**》是由[Tinkle Position](https://zh.moegirl.org.cn/index.php?title=Tinkle_Position&action=edit&redlink=1)制作的一部[Galgame](https://zh.moegirl.org.cn/Galgame)。
 
-<!-- more -->
+<!--more-->
 
 ## 剧情简介
 

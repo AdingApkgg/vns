@@ -40,7 +40,7 @@ updated: 2024-10-25 03:57:40
 
 愿你的疾苦被解除。
 
-<!-- more -->
+<!--more-->
 
 ![lol7_p1](https://static.saop.cc/vns/img/lol7_p1.webp)
 

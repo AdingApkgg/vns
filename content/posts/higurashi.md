@@ -42,7 +42,7 @@ updated: 2024-09-17 21:42:30
 
 《**寒蝉鸣泣之时**》（日语：ひぐらしのなく頃に）是日本[同人社团](https://zh.wikipedia.org/wiki/同人社團)[07th Expansion](https://zh.wikipedia.org/wiki/07th_Expansion)所制作的[同人游戏](https://zh.wikipedia.org/wiki/同人遊戲)以及依此改编的广播剧、[漫画](https://zh.wikipedia.org/wiki/漫畫)、[电视动画](https://zh.wikipedia.org/wiki/電視動畫)及[电影](https://zh.wikipedia.org/wiki/電影)。
 
-<!-- more -->
+<!--more-->
 
 游戏共有“出题篇”（统称“寒蝉鸣泣之时”）、“解答篇”（统称“寒蝉鸣泣之解”）这2个篇章，每个篇章都有4个篇目。按照发布的时间顺序，“出题篇”包括“鬼隐篇”、“绵流篇”、“祟杀篇”、“暇溃篇”，而“解答篇”则包括“目明篇”、“罪灭篇”、“皆杀篇”、“祭囃篇”。
 

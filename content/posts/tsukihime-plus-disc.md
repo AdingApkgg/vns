@@ -17,7 +17,7 @@ updated: 2024-07-31 01:00:00
 
 《**月姬 PLUS-DISC** 》是[同人圈](https://ja.wikipedia.org/wiki/同人サークル)（当时） [TYPE-MOON](https://ja.wikipedia.org/wiki/TYPE-MOON)于[2001 年](https://ja.wikipedia.org/wiki/2001年)[1 月 21 日](https://ja.wikipedia.org/wiki/1月21日)制作的《[月姬](https://ja.wikipedia.org/wiki/月姫_(ゲーム))》的追加特典光盘。
 
-<!-- more -->
+<!--more-->
 
 第一弹作为在[同人志发售活动](https://ja.wikipedia.org/wiki/同人誌即売会)“ [Sunshine Creation](https://ja.wikipedia.org/wiki/サンシャインクリエイション) ”中购买“月姬”的特典而附赠，下个月也作为单独的“PLUS-DISC”出售（TMC-0102） 。后来被收录在“月姬”系列套装“[月箱](https://ja.wikipedia.org/wiki/月箱)”中，名为“**月姬 PLUS+DISC** ”（TMC-0106）。
 

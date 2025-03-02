@@ -24,7 +24,7 @@ updated: 2024-11-05 22:19:00
 
 **《媚肉之香》**（日语：**媚肉の香り～ネトリネトラレヤリヤラレ～**）是日本ELF（エルフ）公司于2008年4月1日发售的一款~~治愈系~~GALGAME。
 
-<!-- more -->
+<!--more-->
 
 ![biniku_p1](https://static.saop.cc/vns/img/biniku_p1.webp)
 

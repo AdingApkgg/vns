@@ -22,7 +22,7 @@ author: WTY
 
 **甜糖热恋！**（日语：**しゅがてん！-sugarfull tempering-**）是由[Recette](https://zh.moegirl.org.cn/Recette)（ルセート）制作发行的恋爱文字冒险游戏，于2017年2月24日面向Windows PC平台发售。
 
-<!-- more -->
+<!--more-->
 
 ## 原作简介
 

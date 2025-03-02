@@ -22,7 +22,7 @@ updated: 2024-07-17 07:19:30
 
 《**天使☆嚣嚣 RE-BOOT!**》（日语：**天使（てんし）☆騒々（そうぞう） RE-BOOT!**、英语：**Tenshi Souzou "Angelic Chaos" RE-BOOT!**）是由[YUZU SOFT](https://zh.moegirl.org.cn/YUZU_SOFT)制作的[Galgame](https://zh.moegirl.org.cn/Galgame)，于2023年4月28日发售。本作国际版曾计划于2024年1月发行，但因审核时受不可抗力因素，发行延期。
 
-<!-- more -->
+<!--more-->
 
 ## 剧情简介
 

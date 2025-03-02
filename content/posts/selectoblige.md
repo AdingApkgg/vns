@@ -22,7 +22,7 @@ updated: 2024-09-25 02:44:00
 
 《**天选庶民的真命之选**》（日语：セレクトオブリージュ）是由[MADOSOFT](https://zh.wikipedia.org/w/index.php?title=MADOSOFT&action=edit&redlink=1)及kuwa games开发，在2024年7月26日发售的[恋爱冒险](https://zh.wikipedia.org/wiki/戀愛冒險)类型[成人游戏](https://zh.wikipedia.org/wiki/日本成人遊戲)。[HIKARI FIELD](https://zh.wikipedia.org/wiki/HIKARI_FIELD)预定于2024年发行中文版。
 
-<!-- more -->
+<!--more-->
 
 ## 剧情
 

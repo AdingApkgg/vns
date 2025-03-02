@@ -23,7 +23,7 @@ updated: 2024-05-20 19:30:00
 
 **《变态监狱》**（日语：**ヘンタイ・プリズン**）是[Qruppo](https://zh.moegirl.org.cn/index.php?title=Qruppo&action=edit&redlink=1)在2022年1月28日发售的一款露出狂越狱[ADV](https://zh.moegirl.org.cn/ADV)。
 
-<!-- more -->
+<!--more-->
 
 ## 简介
 

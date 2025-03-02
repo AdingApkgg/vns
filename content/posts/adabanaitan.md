@@ -24,7 +24,7 @@ updated: 2024-11-11 00:26:50
 
 **《徒花异谭》**是由 [ANIPLEX.EXE](https://zh.moegirl.org.cn/ANIPLEX.EXE) 和 [Liar-soft](https://zh.moegirl.org.cn/Liar-soft) 共同制作，并由 [ANIPLEX.EXE](https://zh.moegirl.org.cn/ANIPLEX.EXE) 发行的一部[视觉小说](https://zh.moegirl.org.cn/视觉小说)游戏。于2020年6月19日在[Steam](https://zh.moegirl.org.cn/Steam)平台和[DMM](https://zh.moegirl.org.cn/DMM)平台上同步发售。
 
-<!-- more -->
+<!--more-->
 
 “这是一个不会开花的 ‘花朵’ 的故事——”
 

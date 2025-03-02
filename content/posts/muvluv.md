@@ -22,7 +22,7 @@ updated: 2024-05-02 18:05:00
 
 **《Muv-Luv（マブラヴ）》**是由âge开发的一部[美少女游戏](https://zh.moegirl.org.cn/美少女游戏)，是[Muv-Luv系列](https://zh.moegirl.org.cn/Muv-Luv系列)的第一部作品。并有漫画、轻小说衍生作品。
 
-<!-- more -->
+<!--more-->
 
 游戏分为两个部分，分别为Extra篇和Unlimited篇，发生在两个平行宇宙。Extra篇与现实生活的宇宙没有什么差别，而Unlimited篇则是一个地球遭到外星侵略的宇宙。
 

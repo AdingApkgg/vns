@@ -23,7 +23,7 @@ updated: 2024-02-25 02:32:00
 
 **《eden\*》**是由[minori](https://zh.moegirl.org.cn/Minori)于2009年所推出的一款[Galgame](https://zh.moegirl.org.cn/Galgame)，并有漫画等衍生作品。
 
-<!-- more -->
+<!--more-->
 
 ## 原作介绍
 

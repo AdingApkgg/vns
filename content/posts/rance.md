@@ -45,7 +45,7 @@ updated: 2024-10-20 18:05:20
 
 **兰斯**（日语：ランス，英语：*Rance*）是[日本](https://zh.wikipedia.org/wiki/日本)[电子游戏](https://zh.wikipedia.org/wiki/電子遊戲)公司[AliceSoft](https://zh.wikipedia.org/wiki/AliceSoft)于1989年以来陆续发行的[成人游戏](https://zh.wikipedia.org/wiki/日本成人遊戲)系列，各代游戏类型各异，主要包括[角色扮演](https://zh.wikipedia.org/wiki/電子角色扮演遊戲)和[战略游戏](https://zh.wikipedia.org/wiki/战略游戏)两种类型。故事是记述以“全世界的美女全都是本大爷的”为信条的[鬼畜](https://zh.wikipedia.org/wiki/鬼畜)战士兰斯与他的奴隶魔法师希露一同展开的冒险历程。
 
-<!-- more -->
+<!--more-->
 
 《兰斯系列》是由[AliceSoft](https://zh.moegirl.org.cn/AliceSoft)公司制作发行的一系列魔幻冒险类18禁游戏，类型涵[RPG](https://zh.moegirl.org.cn/角色扮演游戏)、[SLG](https://zh.moegirl.org.cn/SLG)、战略模拟等。
 

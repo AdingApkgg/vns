@@ -24,7 +24,7 @@ updated: 2024-10-02 16:09:10
 
 《**天津罪**》（日语：アマツツミ）是[Purple software](https://zh.wikipedia.org/wiki/Purple_software)于2016年7月29日发售的[18禁](https://zh.wikipedia.org/wiki/日本成人遊戲)[恋爱冒险](https://zh.wikipedia.org/wiki/戀愛冒險)[美少女游戏](https://zh.wikipedia.org/wiki/美少女游戏)，[PlayStation Vita](https://zh.wikipedia.org/wiki/PlayStation_Vita)版本于2018年5月17日由[PROTOTYPE](https://zh.wikipedia.org/w/index.php?title=PROTOTYPE_(企業)&action=edit&redlink=1)发布。
 
-<!-- more -->
+<!--more-->
 
 ## 剧情
 

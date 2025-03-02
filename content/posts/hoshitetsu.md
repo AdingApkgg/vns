@@ -25,7 +25,7 @@ updated: 2024-12-19 03:38:12
 
 《**星空列车与白的旅行**》（日语：星空鉄道とシロの旅）是日本shiratamaco于2020年12月30日发售的[恋爱冒险](https://zh.wikipedia.org/wiki/戀愛冒險)类型游戏。本作是shiratamaco的第一个作品。2021年5月14日由inc.ZOFE和Syawase Works在[Steam](https://zh.wikipedia.org/wiki/Steam)推出中文版。游戏简称“星シロ”。
 
-<!-- more -->
+<!--more-->
 
 ![hoshitetsu_p1](https://static.saop.cc/vns/img/hoshitetsu_p1.webp)
 

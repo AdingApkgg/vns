@@ -29,7 +29,7 @@ updated: 2024-05-05 03:29:30
 
 《**GINKA**》是由[FrontWing](https://zh.moegirl.org.cn/FrontWing)制作发行的一款[视觉小说](https://zh.moegirl.org.cn/视觉小说)作品，于2023年10月26日发行，同步支持简体中文、英文。
 
-<!-- more -->
+<!--more-->
 
 ## 简介
 

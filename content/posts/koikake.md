@@ -24,7 +24,7 @@ updated: 2024-05-16 23:40:00
 
 《**想要传达给你的爱恋**》（日语：恋×シンアイ彼女）是Us:track在2015年10月30日发售的[恋爱冒险](https://zh.wikipedia.org/wiki/戀愛冒險)类型[成人游戏](https://zh.wikipedia.org/wiki/日本成人遊戲)，2023年8月4日发售中文版。
 
-<!-- more -->
+<!--more-->
 
 ## 简介
 

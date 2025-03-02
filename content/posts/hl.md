@@ -26,7 +26,7 @@ updated: 2024-09-25 02:05:00
 
 《**三色△绘恋**》（英语：*Tricolour Lovestory*）是一部由[中国大陆](https://zh.wikipedia.org/wiki/中国大陆)的武汉山百合文化传播有限公司旗下绘恋GALGAME制作组制作之一款[文字冒险](https://zh.wikipedia.org/wiki/文字冒险游戏)[美少女游戏](https://zh.wikipedia.org/wiki/美少女游戏)，以[中华人民共和国](https://zh.wikipedia.org/wiki/中华人民共和国)[湖北省](https://zh.wikipedia.org/wiki/湖北省)[武汉市](https://zh.wikipedia.org/wiki/武汉市)一所名为师贰高级中学的架空学校作为故事舞台，讲述公元2005年高中在读的男主角与两位女主角发生的恋爱故事。游戏制作方称此游戏是“中国特色”的校园[三角恋爱](https://zh.wikipedia.org/wiki/三角戀愛)[物语](https://zh.wikipedia.org/wiki/物语)及“中国式[白学](https://zh.wikipedia.org/wiki/白学)”。游戏的人物的画风为日本[galgame](https://zh.wikipedia.org/wiki/Galgame)风格，而场景与剧情则主要是中国大陆的校园风格。游戏前三章Rough Episodes于2017年9月21日在[Steam](https://zh.wikipedia.org/wiki/Steam)上架，支持[简体中文](https://zh.wikipedia.org/wiki/简体中文)和[英文](https://zh.wikipedia.org/wiki/英文)两种语言。第四章于同年11月10日发行，文芷线于同年11月27日发行，墨小菊线于2018年2月5日发行。在2017年12月22日发布winter war[圣诞节](https://zh.wikipedia.org/wiki/圣诞节)番外。在2018年2月2日发布[cosplay](https://zh.wikipedia.org/wiki/Cosplay)写真集，之后于同年2月7日更新前传小说，均以[DLC](https://zh.wikipedia.org/wiki/可下载内容)形式发售。其续作《[三色绘恋S](https://zh.wikipedia.org/wiki/三色绘恋S)》于2020年5月20日发布，其续篇《[三色绘恋S假若恋色嫣红](https://zh.wikipedia.org/w/index.php?title=三色绘恋S假若恋色嫣红&action=edit&redlink=1)》于2021年1月29日发售。
 
-<!-- more -->
+<!--more-->
 
 ## 剧情
 

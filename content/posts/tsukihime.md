@@ -25,7 +25,7 @@ updated: 2024-07-31 00:03:20
 
 **重制版《[月姬 -A piece of blue glass moon-](https://zh.moegirl.org.cn/月姬_-A_piece_of_blue_glass_moon-)》已经于2021年8月26日发售。**
 
-<!-- more -->
+<!--more-->
 
 ## 简介
 
