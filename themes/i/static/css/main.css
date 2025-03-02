@@ -560,6 +560,9 @@ main {
   border-top: none;
   border-bottom: none;
   border-radius: 4px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  background-color: var(--bg-color);
+  color: var(--text-color);
 }
 
 main h1,
@@ -570,7 +573,8 @@ main h2 {
 }
 
 main p img {
-  width: 100%;
+  max-width: 100%;
+  display: block;
   margin: 0 auto;
 }
 
@@ -644,7 +648,7 @@ pre code {
 
 .post-item p {
   margin: 0.5rem 0;
-  color: #555;
+  color: var(--text-color);
 }
 
 .pagination {
@@ -655,7 +659,7 @@ pre code {
 .pagination a {
   margin: 0 0.5rem;
   text-decoration: none;
-  color: #333;
+  color: var(--link-color);
 }
 
 .pagination a:hover {
@@ -664,5 +668,5 @@ pre code {
 
 .pagination span {
   margin: 0 0.5rem;
-  color: #666;
+  color: var(--text-color);
 }
