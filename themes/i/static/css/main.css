@@ -1,0 +1,82 @@
+:root {
+  --bg-color: #ffffff;
+  --text-color: #333333;
+  --link-color: #007bff;
+}
+
+[data-theme="dark"] {
+  --bg-color: #1a1a1a;
+  --text-color: #f8f9fa;
+  --link-color: #4dabf7;
+}
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    "Helvetica Neue", Arial, sans-serif;
+  background-color: var(--bg-color);
+  color: var(--text-color);
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: var(--bg-color);
+  padding: 1rem;
+  border-bottom: 1px solid #e0e0e0;
+}
+
+nav a {
+  color: var(--link-color);
+  margin-right: 1rem;
+  text-decoration: none;
+}
+
+main {
+  padding: 2rem;
+}
+
+footer {
+  background-color: var(--bg-color);
+  color: var(--text-color);
+  text-align: center;
+  padding: 1rem;
+  border-top: 1px solid #e0e0e0;
+}
+
+pre code {
+  display: block;
+  padding: 1rem;
+  background-color: #f8f9fa;
+  border-radius: 4px;
+}
+
+[data-theme="dark"] pre code {
+  background-color: #2d2d2d;
+}
+
+#search-results {
+  margin-top: 1rem;
+}
+
+#search-results ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+#search-results li {
+  margin: 0.5rem 0;
+}
+
+#search-results a {
+  color: var(--link-color);
+  text-decoration: none;
+}
+
+#search-results a:hover {
+  text-decoration: underline;
+}
+
+.highlight {
+  background-color: yellow;
+  font-weight: bold;
+}

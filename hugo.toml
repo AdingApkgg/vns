@@ -1,0 +1,7 @@
+baseURL = 'https://gal.saop.cc/'
+languageCode = 'zh-CN'
+title = 'GGS'
+theme = 'i'
+
+[markup.goldmark.renderer]
+  unsafe = true
