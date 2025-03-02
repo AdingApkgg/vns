@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="zh-CN" data-theme="light">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>2019 | GGS</title>
+  <link rel="stylesheet" href="/css/main.css">
+  <link rel="stylesheet"
+    href="https://registry.npmmirror.com/@highlightjs/cdn-assets/latest/files/styles/github-dark.min.css">
+    <script async src="https://registry.npmmirror.com/pangu/latest/files/dist/browser/pangu.min.js"></script>
+</head>
+
+<body>
+  <header>
+    <nav>
+        
+        <a href="https://gal.saop.cc/">GGS</a>
+        
+        <a href="/">Home</a>
+        
+        <a href="/posts/">Posts</a>
+        
+        <a href="/categories/">Categories</a>
+        
+        <a href="/tags/">Tags</a>
+        
+        <button id="theme-toggle">Toggle Dark Mode</button>
+        <link href="/pagefind/pagefind-ui.css" rel="stylesheet">
+        <script src="/pagefind/pagefind-ui.js"></script>
+        <div id="search"></div>
+        <script>
+            window.addEventListener('DOMContentLoaded', (event) => {
+                new PagefindUI({ element: "#search", showSubResults: true });
+            });
+        </script>
+    </nav>
+</header>
+
+  <main id="pjax-container">
+    
+<h1>2019</h1>
+<p></p>
+
+<ul class="post-list">
+  
+  <li class="post-item">
+    
+    <h2><a href="/posts/onigyuh/">哥哥，早上起床之前都要抱紧我哦！晚上睡觉之前做更多色色的事吧！／妹抱FD／お兄ちゃん、朝までずっとギュッてして！夜までもっとエッチして！</a></h2>
+    <p><p><img src="https://static.saop.cc/vns/img/onigyuh.webp" alt="onigyuh"></p>
+<p>《<strong>お兄ちゃん、朝までずっとギュッてして！ 夜までもっとエッチして！</strong>》</p>
+<p>翻译成中文大概就是“哥哥，直到早晨请一直抱紧我！在晚上之前做更多H的事情！” 标题真直球 通常所说的FD版妹抱指的就是续作。</p></p>
+
+    
+    
+    <a href="/posts/onigyuh/">阅读更多...</a>
+    
+  </li>
+  
+  <li class="post-item">
+    
+    <h2><a href="/posts/onigyu/">哥哥，早上起床之前都要抱紧我哦！／妹抱／お兄ちゃん、朝までずっとギュッてして！</a></h2>
+    <p><p><img src="https://static.saop.cc/vns/img/onigyu.webp" alt="onigyu"></p>
+<p>《<strong>哥哥，早上起床之前都要抱紧我哦！</strong>》是由<a href="https://zh.moegirl.org.cn/index.php?title=Tinkle_Position&amp;action=edit&amp;redlink=1">Tinkle Position</a>制作的一部<a href="https://zh.moegirl.org.cn/Galgame">Galgame</a>。</p></p>
+
+    
+    
+    <a href="/posts/onigyu/">阅读更多...</a>
+    
+  </li>
+  
+</ul>
+
+
+<div class="pagination">
+  
+  <a href="/tags/2019/">上一页</a>
+  
+  <span>第 2 页 / 共 2 页</span>
+  
+</div>
+
+  </main>
+
+  <footer>
+    <p>&copy; 2025 GGS</p>
+    <p style="text-align: center; color: rgb(220, 220, 220);">PV&nbsp;<span
+            id="busuanzi_site_pv">null</span>&nbsp;，UV&nbsp;<span id="busuanzi_site_uv">null</span></p>
+    <script async src="https://busuanzi.9420.ltd/js"></script>
+</footer>
+
+  <script src="https://registry.npmmirror.com/@highlightjs/cdn-assets/latest/files/highlight.min.js"></script>
+<script>
+    function initCodeHighlight() {
+        document.querySelectorAll('pre code').forEach((block) => {
+            hljs.highlightBlock(block);
+        });
+    }
+    document.addEventListener('DOMContentLoaded', initCodeHighlight);
+</script>
+
+  <script src="https://registry.npmmirror.com/pjax/latest/files/pjax.min.js"></script>
+<script>
+    document.addEventListener('DOMContentLoaded', function () {
+        var pjax = new Pjax({
+            selectors: ["title", "#pjax-container"],
+            cacheBust: false
+        });
+
+        document.addEventListener('pjax:complete', function () {
+            
+            if (typeof initDarkMode === 'function') initDarkMode();
+            if (typeof initCodeHighlight === 'function') initCodeHighlight();
+        });
+    });
+</script>
+
+  <script async src="/js/main.js"></script>
+  <script>
+    if ('serviceWorker' in navigator) {
+      navigator.serviceWorker.register('/js/sw.js')
+        .then(function (registration) {
+          console.log('ServiceWorker registration successful with scope: ', registration.scope);
+        })
+        .catch(function (err) {
+          console.log('ServiceWorker registration failed: ', err);
+        });
+    }
+  </script>
+</body>
+
+</html>

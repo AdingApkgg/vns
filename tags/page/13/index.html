@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html lang="zh-CN" data-theme="light">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Tags | GGS</title>
+  <link rel="stylesheet" href="/css/main.css">
+  <link rel="stylesheet"
+    href="https://registry.npmmirror.com/@highlightjs/cdn-assets/latest/files/styles/github-dark.min.css">
+    <script async src="https://registry.npmmirror.com/pangu/latest/files/dist/browser/pangu.min.js"></script>
+</head>
+
+<body>
+  <header>
+    <nav>
+        
+        <a href="https://gal.saop.cc/">GGS</a>
+        
+        <a href="/">Home</a>
+        
+        <a href="/posts/">Posts</a>
+        
+        <a href="/categories/">Categories</a>
+        
+        <a href="/tags/">Tags</a>
+        
+        <button id="theme-toggle">Toggle Dark Mode</button>
+        <link href="/pagefind/pagefind-ui.css" rel="stylesheet">
+        <script src="/pagefind/pagefind-ui.js"></script>
+        <div id="search"></div>
+        <script>
+            window.addEventListener('DOMContentLoaded', (event) => {
+                new PagefindUI({ element: "#search", showSubResults: true });
+            });
+        </script>
+    </nav>
+</header>
+
+  <main id="pjax-container">
+    
+<h1>Tags</h1>
+<p></p>
+
+<ul class="post-list">
+  
+  <li class="post-item">
+    
+    <h2><a href="/tags/%E5%8D%81%E4%BA%8C%E9%AD%94%E5%99%A8/">十二魔器</a></h2>
+    <p></p>
+
+    
+    
+  </li>
+  
+  <li class="post-item">
+    
+    <h2><a href="/tags/%E3%82%B9%E3%83%9E%E3%82%A4%E3%83%AB%E6%88%A6%E6%A9%9Fsmilesenki/">スマイル戦機／Smilesenki</a></h2>
+    <p></p>
+
+    
+    
+  </li>
+  
+  <li class="post-item">
+    
+    <h2><a href="/tags/%E8%B0%83%E6%95%99/">调教</a></h2>
+    <p></p>
+
+    
+    
+  </li>
+  
+  <li class="post-item">
+    
+    <h2><a href="/tags/bandai-namco%E4%B8%87%E4%BB%A3%E5%8D%97%E6%A2%A6%E5%AE%AB/">Bandai-Namco／万代南梦宫</a></h2>
+    <p></p>
+
+    
+    
+  </li>
+  
+  <li class="post-item">
+    
+    <h2><a href="/tags/2023/">2023</a></h2>
+    <p></p>
+
+    
+    
+  </li>
+  
+  <li class="post-item">
+    
+    <h2><a href="/tags/alcot/">ALcot</a></h2>
+    <p></p>
+
+    
+    
+  </li>
+  
+  <li class="post-item">
+    
+    <h2><a href="/tags/%E4%B9%89%E5%A6%B9/">义妹</a></h2>
+    <p></p>
+
+    
+    
+  </li>
+  
+  <li class="post-item">
+    
+    <h2><a href="/tags/%E4%BA%BA%E5%A6%BB/">人妻</a></h2>
+    <p></p>
+
+    
+    
+  </li>
+  
+  <li class="post-item">
+    
+    <h2><a href="/tags/%E6%B5%B7%E8%B1%B9%E7%A4%BE%E3%81%82%E3%81%96%E3%82%89%E3%81%97%E3%81%9D%E3%81%B5%E3%81%A8/">海豹社／あざらしそふと</a></h2>
+    <p></p>
+
+    
+    
+  </li>
+  
+  <li class="post-item">
+    
+    <h2><a href="/tags/%E7%88%B1%E6%83%85/">爱情</a></h2>
+    <p></p>
+
+    
+    
+  </li>
+  
+</ul>
+
+
+<div class="pagination">
+  
+  <a href="/tags/page/12/">上一页</a>
+  
+  <span>第 13 页 / 共 24 页</span>
+  
+  <a href="/tags/page/14/">下一页</a>
+  
+</div>
+
+  </main>
+
+  <footer>
+    <p>&copy; 2025 GGS</p>
+    <p style="text-align: center; color: rgb(220, 220, 220);">PV&nbsp;<span
+            id="busuanzi_site_pv">null</span>&nbsp;，UV&nbsp;<span id="busuanzi_site_uv">null</span></p>
+    <script async src="https://busuanzi.9420.ltd/js"></script>
+</footer>
+
+  <script src="https://registry.npmmirror.com/@highlightjs/cdn-assets/latest/files/highlight.min.js"></script>
+<script>
+    function initCodeHighlight() {
+        document.querySelectorAll('pre code').forEach((block) => {
+            hljs.highlightBlock(block);
+        });
+    }
+    document.addEventListener('DOMContentLoaded', initCodeHighlight);
+</script>
+
+  <script src="https://registry.npmmirror.com/pjax/latest/files/pjax.min.js"></script>
+<script>
+    document.addEventListener('DOMContentLoaded', function () {
+        var pjax = new Pjax({
+            selectors: ["title", "#pjax-container"],
+            cacheBust: false
+        });
+
+        document.addEventListener('pjax:complete', function () {
+            
+            if (typeof initDarkMode === 'function') initDarkMode();
+            if (typeof initCodeHighlight === 'function') initCodeHighlight();
+        });
+    });
+</script>
+
+  <script async src="/js/main.js"></script>
+  <script>
+    if ('serviceWorker' in navigator) {
+      navigator.serviceWorker.register('/js/sw.js')
+        .then(function (registration) {
+          console.log('ServiceWorker registration successful with scope: ', registration.scope);
+        })
+        .catch(function (err) {
+          console.log('ServiceWorker registration failed: ', err);
+        });
+    }
+  </script>
+</body>
+
+</html>

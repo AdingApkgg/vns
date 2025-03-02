@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="zh-CN" data-theme="light">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Tags | GGS</title>
+  <link rel="stylesheet" href="/css/main.css">
+  <link rel="stylesheet"
+    href="https://registry.npmmirror.com/@highlightjs/cdn-assets/latest/files/styles/github-dark.min.css">
+    <script async src="https://registry.npmmirror.com/pangu/latest/files/dist/browser/pangu.min.js"></script>
+</head>
+
+<body>
+  <header>
+    <nav>
+        
+        <a href="https://gal.saop.cc/">GGS</a>
+        
+        <a href="/">Home</a>
+        
+        <a href="/posts/">Posts</a>
+        
+        <a href="/categories/">Categories</a>
+        
+        <a href="/tags/">Tags</a>
+        
+        <button id="theme-toggle">Toggle Dark Mode</button>
+        <link href="/pagefind/pagefind-ui.css" rel="stylesheet">
+        <script src="/pagefind/pagefind-ui.js"></script>
+        <div id="search"></div>
+        <script>
+            window.addEventListener('DOMContentLoaded', (event) => {
+                new PagefindUI({ element: "#search", showSubResults: true });
+            });
+        </script>
+    </nav>
+</header>
+
+  <main id="pjax-container">
+    
+<h1>Tags</h1>
+<p></p>
+
+<ul class="post-list">
+  
+  <li class="post-item">
+    
+    <h2><a href="/tags/marmalade%E3%81%BE%E3%81%BE%E3%82%8C%E3%81%87%E3%81%A9%E6%A9%98%E6%B1%81%E7%A4%BE/">MARMALADE／ま～まれぇど／橘汁社</a></h2>
+    <p></p>
+
+    
+    
+  </li>
+  
+  <li class="post-item">
+    
+    <h2><a href="/tags/recette/">Recette</a></h2>
+    <p></p>
+
+    
+    
+  </li>
+  
+  <li class="post-item">
+    
+    <h2><a href="/tags/%E8%B6%85%E8%83%BD%E5%8A%9B/">超能力</a></h2>
+    <p></p>
+
+    
+    
+  </li>
+  
+  <li class="post-item">
+    
+    <h2><a href="/tags/cube/">CUBE</a></h2>
+    <p></p>
+
+    
+    
+  </li>
+  
+  <li class="post-item">
+    
+    <h2><a href="/tags/freakilycharming/">FreakilyCharming</a></h2>
+    <p></p>
+
+    
+    
+  </li>
+  
+</ul>
+
+
+<div class="pagination">
+  
+  <a href="/tags/page/23/">上一页</a>
+  
+  <span>第 24 页 / 共 24 页</span>
+  
+</div>
+
+  </main>
+
+  <footer>
+    <p>&copy; 2025 GGS</p>
+    <p style="text-align: center; color: rgb(220, 220, 220);">PV&nbsp;<span
+            id="busuanzi_site_pv">null</span>&nbsp;，UV&nbsp;<span id="busuanzi_site_uv">null</span></p>
+    <script async src="https://busuanzi.9420.ltd/js"></script>
+</footer>
+
+  <script src="https://registry.npmmirror.com/@highlightjs/cdn-assets/latest/files/highlight.min.js"></script>
+<script>
+    function initCodeHighlight() {
+        document.querySelectorAll('pre code').forEach((block) => {
+            hljs.highlightBlock(block);
+        });
+    }
+    document.addEventListener('DOMContentLoaded', initCodeHighlight);
+</script>
+
+  <script src="https://registry.npmmirror.com/pjax/latest/files/pjax.min.js"></script>
+<script>
+    document.addEventListener('DOMContentLoaded', function () {
+        var pjax = new Pjax({
+            selectors: ["title", "#pjax-container"],
+            cacheBust: false
+        });
+
+        document.addEventListener('pjax:complete', function () {
+            
+            if (typeof initDarkMode === 'function') initDarkMode();
+            if (typeof initCodeHighlight === 'function') initCodeHighlight();
+        });
+    });
+</script>
+
+  <script async src="/js/main.js"></script>
+  <script>
+    if ('serviceWorker' in navigator) {
+      navigator.serviceWorker.register('/js/sw.js')
+        .then(function (registration) {
+          console.log('ServiceWorker registration successful with scope: ', registration.scope);
+        })
+        .catch(function (err) {
+          console.log('ServiceWorker registration failed: ', err);
+        });
+    }
+  </script>
+</body>
+
+</html>

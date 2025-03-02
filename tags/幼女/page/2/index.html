@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="zh-CN" data-theme="light">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>幼女 | GGS</title>
+  <link rel="stylesheet" href="/css/main.css">
+  <link rel="stylesheet"
+    href="https://registry.npmmirror.com/@highlightjs/cdn-assets/latest/files/styles/github-dark.min.css">
+    <script async src="https://registry.npmmirror.com/pangu/latest/files/dist/browser/pangu.min.js"></script>
+</head>
+
+<body>
+  <header>
+    <nav>
+        
+        <a href="https://gal.saop.cc/">GGS</a>
+        
+        <a href="/">Home</a>
+        
+        <a href="/posts/">Posts</a>
+        
+        <a href="/categories/">Categories</a>
+        
+        <a href="/tags/">Tags</a>
+        
+        <button id="theme-toggle">Toggle Dark Mode</button>
+        <link href="/pagefind/pagefind-ui.css" rel="stylesheet">
+        <script src="/pagefind/pagefind-ui.js"></script>
+        <div id="search"></div>
+        <script>
+            window.addEventListener('DOMContentLoaded', (event) => {
+                new PagefindUI({ element: "#search", showSubResults: true });
+            });
+        </script>
+    </nav>
+</header>
+
+  <main id="pjax-container">
+    
+<h1>幼女</h1>
+<p></p>
+
+<ul class="post-list">
+  
+  <li class="post-item">
+    
+    <h2><a href="/posts/himanatsu/">向日葵的教会与长长的暑假／向日葵的教会与长夏假期／向日葵教会和漫长的暑假／向日葵の教会と長い夏休み</a></h2>
+    <p><p><img src="https://static.saop.cc/vns/img/himanatsu.webp" alt="himanatsu"></p>
+<p>《向日葵的教会与长长的暑假》（日语：向日葵の教会と長い夏休み）是由枕制作的一部Galgame。
+主机移植版增加副标题“extra vacation”，升格一名可攻略角色。</p></p>
+
+    
+    
+    <a href="/posts/himanatsu/">阅读更多...</a>
+    
+  </li>
+  
+</ul>
+
+
+<div class="pagination">
+  
+  <a href="/tags/%E5%B9%BC%E5%A5%B3/">上一页</a>
+  
+  <span>第 2 页 / 共 2 页</span>
+  
+</div>
+
+  </main>
+
+  <footer>
+    <p>&copy; 2025 GGS</p>
+    <p style="text-align: center; color: rgb(220, 220, 220);">PV&nbsp;<span
+            id="busuanzi_site_pv">null</span>&nbsp;，UV&nbsp;<span id="busuanzi_site_uv">null</span></p>
+    <script async src="https://busuanzi.9420.ltd/js"></script>
+</footer>
+
+  <script src="https://registry.npmmirror.com/@highlightjs/cdn-assets/latest/files/highlight.min.js"></script>
+<script>
+    function initCodeHighlight() {
+        document.querySelectorAll('pre code').forEach((block) => {
+            hljs.highlightBlock(block);
+        });
+    }
+    document.addEventListener('DOMContentLoaded', initCodeHighlight);
+</script>
+
+  <script src="https://registry.npmmirror.com/pjax/latest/files/pjax.min.js"></script>
+<script>
+    document.addEventListener('DOMContentLoaded', function () {
+        var pjax = new Pjax({
+            selectors: ["title", "#pjax-container"],
+            cacheBust: false
+        });
+
+        document.addEventListener('pjax:complete', function () {
+            
+            if (typeof initDarkMode === 'function') initDarkMode();
+            if (typeof initCodeHighlight === 'function') initCodeHighlight();
+        });
+    });
+</script>
+
+  <script async src="/js/main.js"></script>
+  <script>
+    if ('serviceWorker' in navigator) {
+      navigator.serviceWorker.register('/js/sw.js')
+        .then(function (registration) {
+          console.log('ServiceWorker registration successful with scope: ', registration.scope);
+        })
+        .catch(function (err) {
+          console.log('ServiceWorker registration failed: ', err);
+        });
+    }
+  </script>
+</body>
+
+</html>

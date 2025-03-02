@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="zh-CN" data-theme="light">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>伪娘 | GGS</title>
+  <link rel="stylesheet" href="/css/main.css">
+  <link rel="stylesheet"
+    href="https://registry.npmmirror.com/@highlightjs/cdn-assets/latest/files/styles/github-dark.min.css">
+    <script async src="https://registry.npmmirror.com/pangu/latest/files/dist/browser/pangu.min.js"></script>
+</head>
+
+<body>
+  <header>
+    <nav>
+        
+        <a href="https://gal.saop.cc/">GGS</a>
+        
+        <a href="/">Home</a>
+        
+        <a href="/posts/">Posts</a>
+        
+        <a href="/categories/">Categories</a>
+        
+        <a href="/tags/">Tags</a>
+        
+        <button id="theme-toggle">Toggle Dark Mode</button>
+        <link href="/pagefind/pagefind-ui.css" rel="stylesheet">
+        <script src="/pagefind/pagefind-ui.js"></script>
+        <div id="search"></div>
+        <script>
+            window.addEventListener('DOMContentLoaded', (event) => {
+                new PagefindUI({ element: "#search", showSubResults: true });
+            });
+        </script>
+    </nav>
+</header>
+
+  <main id="pjax-container">
+    
+<h1>伪娘</h1>
+<p></p>
+
+<ul class="post-list">
+  
+  <li class="post-item">
+    
+    <h2><a href="/posts/tsukiniyorisou/">近月少女的礼仪／月に寄りそう乙女の作法／向阳的日子</a></h2>
+    <p><p><img src="https://static.saop.cc/vns/img/tsukiniyorisou.webp" alt="tsukiniyorisou"></p>
+<p><strong>《近月少女的礼仪》</strong>（日语：<strong>月に寄りそう乙女の作法</strong>）是由<a href="https://zh.moegirl.org.cn/Navel">Navel</a>制作的一部Galgame，并有<a href="https://zh.moegirl.org.cn/%E8%BF%91%E6%9C%88%E5%B0%91%E5%A5%B3%E7%9A%84%E7%A4%BC%E4%BB%AA2">近月少女的礼仪2</a>、<a href="https://zh.moegirl.org.cn/%E5%B0%91%E5%A5%B3%E7%90%86%E8%AE%BA%E5%8F%8A%E5%85%B6%E5%91%A8%E8%BE%B9">少女理论及其周边</a>、<a href="https://zh.moegirl.org.cn/%E5%B0%91%E5%A5%B3%E7%90%86%E8%AE%BA%E5%8F%8A%E5%85%B6%E4%B9%8B%E5%90%8E%E7%9A%84%E5%91%A8%E8%BE%B9">少女理论及其之后的周边</a>等衍生作品。<a href="https://zh.moegirl.org.cn/%E8%BF%91%E6%9C%B1%E8%80%85%E8%B5%A4%EF%BC%8C%E8%BF%91%E5%A2%A8%E8%80%85%E9%BB%91%EF%BC%8C%E8%BF%91%E6%9C%88%E8%80%85%E5%BC%AF">近朱者赤，近墨者黑，近月者弯</a></p></p>
+
+    
+    
+    <a href="/posts/tsukiniyorisou/">阅读更多...</a>
+    
+  </li>
+  
+</ul>
+
+
+<div class="pagination">
+  
+  <a href="/tags/%E4%BC%AA%E5%A8%98/">上一页</a>
+  
+  <span>第 2 页 / 共 2 页</span>
+  
+</div>
+
+  </main>
+
+  <footer>
+    <p>&copy; 2025 GGS</p>
+    <p style="text-align: center; color: rgb(220, 220, 220);">PV&nbsp;<span
+            id="busuanzi_site_pv">null</span>&nbsp;，UV&nbsp;<span id="busuanzi_site_uv">null</span></p>
+    <script async src="https://busuanzi.9420.ltd/js"></script>
+</footer>
+
+  <script src="https://registry.npmmirror.com/@highlightjs/cdn-assets/latest/files/highlight.min.js"></script>
+<script>
+    function initCodeHighlight() {
+        document.querySelectorAll('pre code').forEach((block) => {
+            hljs.highlightBlock(block);
+        });
+    }
+    document.addEventListener('DOMContentLoaded', initCodeHighlight);
+</script>
+
+  <script src="https://registry.npmmirror.com/pjax/latest/files/pjax.min.js"></script>
+<script>
+    document.addEventListener('DOMContentLoaded', function () {
+        var pjax = new Pjax({
+            selectors: ["title", "#pjax-container"],
+            cacheBust: false
+        });
+
+        document.addEventListener('pjax:complete', function () {
+            
+            if (typeof initDarkMode === 'function') initDarkMode();
+            if (typeof initCodeHighlight === 'function') initCodeHighlight();
+        });
+    });
+</script>
+
+  <script async src="/js/main.js"></script>
+  <script>
+    if ('serviceWorker' in navigator) {
+      navigator.serviceWorker.register('/js/sw.js')
+        .then(function (registration) {
+          console.log('ServiceWorker registration successful with scope: ', registration.scope);
+        })
+        .catch(function (err) {
+          console.log('ServiceWorker registration failed: ', err);
+        });
+    }
+  </script>
+</body>
+
+</html>
