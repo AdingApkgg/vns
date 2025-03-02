@@ -1,5 +1,5 @@
 ---
-title: ASaProject -恋爱成双- /フタマタ恋愛 / 劈腿之恋
+title: ASaProject -恋爱成双-/フタマタ恋愛/劈腿之恋
 abbrlink:
 tags:
   - 纯爱
@@ -20,7 +20,7 @@ updated: 2025-03-02 20:45:08
 
 《恋爱成双》（日语：フタマタ恋愛）,又称~~劈腿之恋~~,是由[ASa Project](https://asa-pro.com/)制作并于2022年4月28日发布的一款Galgame。
 
-2022年8月26日发布FanDisk 1《**恋爱成双 瑠衣&宫子 Mini After Story**》，原计划2022年11月25日发布FanDisk 2《**恋爱成双 结爱&煌 Mini After Story**》后更改至同年12月23日。 
+2022年8月26日发布FanDisk 1《**恋爱成双 瑠衣&宫子 Mini After Story**》，原计划2022年11月25日发布FanDisk 2《**恋爱成双 结爱&煌 Mini After Story**》后更改至同年12月23日。
 
 <!-- more -->
 
@@ -44,7 +44,6 @@ updated: 2025-03-02 20:45:08
 
 还是以谁都不受伤害的圆满结局为目标？
 从意外的脚踏两条船开始，谁也无法预测的七上八下×提心吊胆的泥沼恋爱喜剧，正式开幕！
-
 
 ## 链接
 
