@@ -1,6 +1,6 @@
 ---
 title: Fate/hollow ataraxia／fha／命运／停驻之夜／命运之夜／命运守护夜／命运长夜／虚空明镜／FD
-abbrlink: 25624
+url: /p/25624
 tags:
   - TYPE-MOON
   - 奇幻

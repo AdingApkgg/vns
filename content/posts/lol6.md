@@ -1,6 +1,6 @@
 ---
 title: 诱惑、自大、洛丽塔／誘惑なまいきロリータ／Ill-Mannered Seduction Lolita／诱惑自大洛丽塔／诱惑双子洛丽塔
-abbrlink: 48405
+url: /p/48405
 tags:
   - 夜のひつじ／夜羊社／萝莉社
   - 萝莉

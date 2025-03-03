@@ -2,7 +2,7 @@
 title: >-
   少女理论及其之后的周边 -美好年代篇-／乙女理論とその後の周辺 -Belle Epoque-／Otome Riron to Sono go no
   Shuuhen -Belle Époque-
-abbrlink: 64573
+url: /p/64573
 tags:
   - Navel／ネーブル／橘子社／近月社／臍橙社
   - 恋爱

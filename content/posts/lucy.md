@@ -2,7 +2,7 @@
 title: >-
   露西 - 她所期望的一切 -／루시 - 그녀가 바라던 것 -／ルーシィ ～彼女が望んでいたもの～／Lucy -The Eternity She
   Wished For-
-abbrlink: 58363
+url: /p/58363
 tags:
   - M-Vizlab
   - 机器人

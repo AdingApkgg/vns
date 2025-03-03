@@ -2,7 +2,7 @@
 title: >-
   想要传达给你的爱恋／恋×シンアイ彼女／传达不到的爱恋／School Girls Stories／恋彼女／Koi-Kakeru Shin-Ai
   Kanojo／Koikake
-abbrlink: 65510
+url: /p/65510
 tags:
   - 'Us:track／ユーストラック'
   - 恋爱

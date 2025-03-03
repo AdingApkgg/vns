@@ -1,6 +1,6 @@
 ---
 title: 甜蜜女友／アマカノ~Perfect Edition~／Amakano
-abbrlink: 2041
+url: /p/2041
 tags:
   - 海豹社／あざらしそふと
   - 甜蜜

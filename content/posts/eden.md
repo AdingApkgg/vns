@@ -1,6 +1,6 @@
 ---
 title: eden*／eden* PLUS+MOSAIC／伊甸园／伊甸园 加强版 + 有码／えでん*／えでん* PLUS ＋ MOSAIC
-abbrlink: 42529
+url: /p/42529
 tags:
   - minori／中二社／ef社／巨乳社
   - 恋爱

@@ -1,6 +1,6 @@
 ---
 title: GINKA／银花
-abbrlink: 769
+url: /p/769
 tags:
   - FrontWing／前翼社
   - 治愈

@@ -1,6 +1,6 @@
 ---
 title: 沙耶之歌／沙耶の唄／the song of saya
-abbrlink: 23102
+url: /p/23102
 tags:
   - Nitro+／NITRO PLUS／ニトロプラス／n+／氮正
   - 感人

@@ -1,6 +1,6 @@
 ---
 title: 甜糖热恋！／糖调！-sugarfull tempering-／しゅがてん！-sugarfull tempering-
-abbrlink: 24395
+url: /p/24395
 tags:
   - 恋爱
   - 奇幻

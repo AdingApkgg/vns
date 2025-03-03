@@ -1,6 +1,6 @@
 ---
 title: 星光咖啡馆与死神之蝶／星巴克与扑棱蛾子／喫茶ステラと死神の蝶／Cafe Stella and the Reapers' Butterflies
-abbrlink: 59607
+url: /p/59607
 tags:
   - Yuzu-Soft／柚子社
   - 纯爱

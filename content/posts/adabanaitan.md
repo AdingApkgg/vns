@@ -1,6 +1,6 @@
 ---
 title: 徒花异谭／徒花異譚／Adabana Odd Tales
-abbrlink: 55827
+url: /p/55827
 tags:
   - Liar-soft／骗子社
   - 童话

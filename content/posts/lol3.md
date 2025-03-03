@@ -1,6 +1,6 @@
 ---
 title: 同居恋人洛丽塔／お泊まり恋人ロリータ／Stay Over Lolita Lover
-abbrlink: 27436
+url: /p/27436
 tags:
   - 夜のひつじ／夜羊社／萝莉社
   - 萝莉

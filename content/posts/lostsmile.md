@@ -1,6 +1,6 @@
 ---
 title: 'LOST:SMILE memories + promises／ロストスマイル メモリーズ + プロミセス／ロッスマ／Rossuma'
-abbrlink: 46515
+url: /p/46515
 tags:
   - LIFE0
   - 纯爱

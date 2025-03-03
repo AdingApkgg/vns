@@ -2,7 +2,7 @@
 title: >-
   美少女万华镜 -被诅咒之传说少女-／美少女万華鏡 -呪われし伝説の少女-／Bishoujo Mangekyou: A Girl's Cursed
   Legend／美少女万華鏡1／美少女萬華鏡 1／美少女万拔镜／撸出血万华镜／美少女万花筒／Biman／被诅咒的传说少女
-abbrlink: 32311
+url: /p/32311
 tags:
   - ωstar／オメガスター
   - 恋爱

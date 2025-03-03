@@ -2,7 +2,7 @@
 title: >-
   无法忍耐的处男哥哥和不直率的叛逆妹妹／童贞兄妹／ガマンができない童貞兄キと、スナオになれない反抗妹／Desperate Virgin Brother &
   Rebellious Little Sister
-abbrlink: 13818
+url: /p/13818
 tags:
   - Sister Position
   - Whisp

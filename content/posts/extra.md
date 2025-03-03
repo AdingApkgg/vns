@@ -1,6 +1,6 @@
 ---
 title: EXTRAVAGANZA 爱虫的少女／虫爱少女／～蟲愛でる少女～／Extravaganza ~Mushi Mederu Shoujo~
-abbrlink: 4256
+url: /p/4256
 tags:
   - Black-Cyc
   - 和泉万夜

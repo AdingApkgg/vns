@@ -1,6 +1,6 @@
 ---
 title: Endless Dungeon／エンドレスダンジョン／后传 续作 FD
-abbrlink: 49682
+url: /p/49682
 tags:
   - Rosebleu
   - 后宫

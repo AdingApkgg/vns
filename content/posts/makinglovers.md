@@ -1,6 +1,6 @@
 ---
 title: Making＊Lovers／突然＊恋人／FHD 全高清 重置 重制 Deluxe Edition FD 激イチャアフターストーリー
-abbrlink: 40394
+url: /p/40394
 tags:
   - SMEE
   - 纯爱

@@ -1,6 +1,6 @@
 ---
 title: 与小萝莉相思相爱／相思相愛ロリータ／Mutual Love Lolita／相思相爱洛丽塔
-abbrlink: 26575
+url: /p/26575
 tags:
   - 夜のひつじ／夜羊社／萝莉社
   - 萝莉

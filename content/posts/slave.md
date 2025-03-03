@@ -1,6 +1,6 @@
 ---
 title: 重生萝莉岛／冲绳奴隶岛／沖縄スレイブアイランド
-abbrlink: 16642
+url: /p/16642
 tags:
   - Underground-Campaign
   - 重口

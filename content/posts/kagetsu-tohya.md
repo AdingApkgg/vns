@@ -1,6 +1,6 @@
 ---
 title: 歌月十夜
-abbrlink: 37614
+url: /p/37614
 tags:
   - TYPE-MOON
   - 同人

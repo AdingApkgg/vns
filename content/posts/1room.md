@@ -1,6 +1,6 @@
 ---
 title: 1room -家出少女-／One Room -离家出走的少女-
-abbrlink: 56047
+url: /p/56047
 tags:
   - 纯爱
   - 拔作

@@ -1,6 +1,6 @@
 ---
 title: 天使纷扰／天使☆嚣嚣 RE-BOOT!／天使☆騒々 RE-BOOT!
-abbrlink: 27018
+url: /p/27018
 tags:
   - Yuzu-Soft／柚子社
   - 纯爱

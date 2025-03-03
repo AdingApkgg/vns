@@ -2,7 +2,7 @@
 title: >-
   恋爱与选举与巧克力／恋爱和选举和巧克力／恋爱选举巧克力／恋と選挙とチョコレート／Love, Elections, & Chocolate／高清版 High
   Resolution
-abbrlink: 40806
+url: /p/40806
 tags:
   - sprite／雪碧社／精灵社／冷饭社／苍彼社
   - 校园

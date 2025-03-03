@@ -1,6 +1,6 @@
 ---
 title: 夏娃年代记／イブニクル／Evenicle／主人公是兰斯的话… If Disk 兰斯版 兰斯年代记 Rance 1 2 外典
-abbrlink: 26677
+url: /p/26677
 tags:
   - AliceSoft
   - 后宫

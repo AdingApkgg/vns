@@ -1,6 +1,6 @@
 ---
 title: 你和她和她的恋爱。／君与彼女与彼女之恋／君と彼女と彼女の恋。／君彼／ととの／Totono
-abbrlink: 1107
+url: /p/1107
 tags:
   - Nitro+／NITRO PLUS／ニトロプラス／n+／氮正
   - 校园

@@ -1,6 +1,6 @@
 ---
 title: '爱欲姐妹洛丽塔／愛欲姉妹ロリータ／Lust Sisters: Lolita'
-abbrlink: 16873
+url: /p/16873
 tags:
   - 夜のひつじ／夜羊社／萝莉社
   - 萝莉

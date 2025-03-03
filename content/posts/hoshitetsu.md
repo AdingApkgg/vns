@@ -2,7 +2,7 @@
 title: >-
   星空列车与白的旅行／星空鉄道とシロの旅／星シロ／Hoshishiro／Hoshitetsu／The Starry Sky Train and Shiro's
   Journey／星空列車與白的旅行
-abbrlink: 12475
+url: /p/12475
 tags:
   - Shiratamaco／サークルしらたまこ／白玉社
   - 萝莉

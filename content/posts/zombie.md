@@ -1,6 +1,6 @@
 ---
 title: 末世孤雄／在遍地都是丧尸的世界里唯独我不被袭击／ゾンビのあふれた世界で俺だけが襲われない／I Walk Among Zombies／Vol. 1 2 3 0
-abbrlink: 12420
+url: /p/12420
 tags:
   - SEACOXX
   - 拔作

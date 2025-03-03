@@ -1,6 +1,6 @@
 ---
 title: 甜蜜女友2／アマカノ2~Perfect Edition~／Amakano 2
-abbrlink: 18021
+url: /p/18021
 tags:
   - 海豹社／あざらしそふと
   - 纯爱

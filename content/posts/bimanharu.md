@@ -2,7 +2,7 @@
 title: >-
   美少女万华镜 -献给曾经是少女的你-／美少女万華鏡 -かつて少女だった君へ-／Beauty Kaleidoscope 2.5: The Girl You
   Were Once／美少女万華鏡２．５／美少女萬華鏡 2.5／美少女万拔镜／撸出血万华镜／美少女万花筒／Biman 2.5 献给曾是少女的你 外传
-abbrlink: 58632
+url: /p/58632
 tags:
   - ωstar／オメガスター
   - 恋爱

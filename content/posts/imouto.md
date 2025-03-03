@@ -1,6 +1,6 @@
 ---
 title: 妹之形／イモウトノカタチ／Imokata
-abbrlink: 5280
+url: /p/5280
 tags:
   - Sphere
   - 恋爱

@@ -1,6 +1,6 @@
 ---
 title: 混沌子／混沌之子／CHAOS;CHILD／カオスチャイルド／C;C／混沌童／混沌之童
-abbrlink: 2506
+url: /p/2506
 tags:
   - Nitro+／NITRO PLUS／ニトロプラス／n+／氮正
   - 5pb.

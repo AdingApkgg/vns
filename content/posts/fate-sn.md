@@ -1,6 +1,6 @@
 ---
 title: Fate/stay night／fsn／命运／停驻之夜／命运之夜／命运守护夜／命运长夜／通常 HD 高清 重置 重制 REMASTERED
-abbrlink: 47594
+url: /p/47594
 tags:
   - TYPE-MOON
   - 奇幻

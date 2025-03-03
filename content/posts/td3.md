@@ -1,6 +1,6 @@
 ---
 title: Tiny Dungeon ~BIRTH for YOURS~／微小地牢－为你而生 神族篇／タイニイ ダンジョン バースフォーユアズ
-abbrlink: 56304
+url: /p/56304
 tags:
   - Rosebleu
   - 后宫

@@ -1,6 +1,6 @@
 ---
 title: 月姫 PLUS-DISC／つきひめ／Tsukihime PLUS-DISK／月姫
-abbrlink: 58472
+url: /p/58472
 tags:
   - TYPE-MOON
   - FD

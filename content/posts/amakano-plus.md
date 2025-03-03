@@ -1,6 +1,6 @@
 ---
 title: 甜蜜女友PLUS／アマカノ+／Amakano+
-abbrlink: 54966
+url: /p/54966
 tags:
   - 海豹社／あざらしそふと
   - 纯爱

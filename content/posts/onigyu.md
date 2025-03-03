@@ -1,6 +1,6 @@
 ---
 title: 哥哥，早上起床之前都要抱紧我哦！／妹抱／お兄ちゃん、朝までずっとギュッてして！
-abbrlink: 4561
+url: /p/4561
 tags:
   - Tinkle Position
   - 萝莉

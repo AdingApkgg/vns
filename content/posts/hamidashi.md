@@ -1,6 +1,6 @@
 ---
 title: 常轨脱离Creative／灵感满溢的甜蜜创想／ハミダシクリエイティブ／富婆妹
-abbrlink: 64512
+url: /p/64512
 tags:
   - Madosoft／窗社／まどそふと
   - 纯爱

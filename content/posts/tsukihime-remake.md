@@ -1,6 +1,6 @@
 ---
 title: 月姫 -A piece of blue glass moon-／Tsukihime Remake／月姬R 一片蓝色玻璃月亮／Rebirth 重置 重制
-abbrlink: 9169
+url: /p/9169
 tags:
   - TYPE-MOON
   - 奇幻

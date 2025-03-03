@@ -1,6 +1,6 @@
 ---
 title: 女装山脉／有机山脉／女装山脈／Tomgirls of the Mountains
-abbrlink: 55403
+url: /p/55403
 tags:
   - 脳内彼女／脑内彼女
   - 伪娘

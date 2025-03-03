@@ -1,6 +1,6 @@
 ---
 title: 悠之空／ハルカナソラ／Yosuga no Sora
-abbrlink: 55333
+url: /p/55333
 tags:
   - 恋爱
   - 2008

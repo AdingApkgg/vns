@@ -1,6 +1,6 @@
 ---
 title: Clover Day's Plus／幸运草的约定 增强版／クローバーデイズ
-abbrlink: 22146
+url: /p/22146
 tags:
   - ALcot
   - 废萌

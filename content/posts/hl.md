@@ -1,6 +1,6 @@
 ---
 title: "三色△绘恋／Tricolour Lovestory／\t三色絵恋／三色绘恋S -Sunnyrain Lovestory-／三色绘鸽／三色会鸽"
-abbrlink: 39798
+url: /p/39798
 tags:
   - 绘恋制作组
   - 三角恋

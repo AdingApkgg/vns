@@ -2,7 +2,7 @@
 title: >-
   白色相簿／ホワイトアルバム／WHITE ALBUM／白色相册 白色专辑 重制 白1 -被点缀的冬之回忆- 编缀的冬日回忆 白2 序章 终章 最终章 ic
   cc 幸福的彼端 幸福的对面 mini After Story EXTENDED EDITION 扩展版 Special Contents
-abbrlink: 50503
+url: /p/50503
 tags:
   - Leaf／葉っぱ／叶子社
   - NTR

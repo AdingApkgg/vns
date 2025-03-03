@@ -1,6 +1,6 @@
 ---
 title: 变态监狱／ヘンタイ・プリズン／Hentai Prison
-abbrlink: 41666
+url: /p/41666
 tags:
   - 2022
   - 越狱

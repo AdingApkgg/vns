@@ -1,6 +1,6 @@
 ---
 title: School Days／スクールデイズ／日在校园／校园的日子／在校时光／SD／スクイズ／HQ
-abbrlink: 12162
+url: /p/12162
 tags:
   - Overflow／0verflow／オーバーフロー
   - 黑暗系

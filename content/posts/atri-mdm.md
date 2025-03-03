@@ -1,6 +1,6 @@
 ---
 title: ATRI -My Dear Moments-／亚托莉 -我挚爱的时光-／アトリ マイ ディア モーメンツ
-abbrlink: 12715
+url: /p/12715
 tags:
   - FrontWing／前翼社
   - 枕社

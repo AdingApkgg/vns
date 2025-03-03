@@ -2,7 +2,7 @@
 title: >-
   苍之彼方的四重奏／蒼の彼方のフォーリズム／Aokana -Four Rhythms Across the Blue-／苍彼 EXTRA EX 1 2
   苍蓝彼端的四重奏 完备版 Perfect Edition V1.05 V1.22 最终版
-abbrlink: 33770
+url: /p/33770
 tags:
   - sprite／雪碧社／精灵社／冷饭社／苍彼社
   - 青春

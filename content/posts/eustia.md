@@ -1,6 +1,6 @@
 ---
 title: 秽翼的尤斯蒂娅／穢翼のユースティア／Eustia of the Tarnished Wings／Aiyoku no Eustia／脏翅膀
-abbrlink: 19213
+url: /p/19213
 tags:
   - AUGUST／八月社
   - 爱情

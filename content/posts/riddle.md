@@ -1,6 +1,6 @@
 ---
 title: RIDDLE JOKER／リドルジョーカー／密命王牌
-abbrlink: 63577
+url: /p/63577
 tags:
   - Yuzu-Soft／柚子社
   - 恋爱

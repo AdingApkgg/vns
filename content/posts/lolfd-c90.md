@@ -1,6 +1,6 @@
 ---
 title: 与小萝莉相思相爱的生活／相思相愛ロリータの生活／Mutual Love Lolita's Life／相思相爱洛丽塔的生活
-abbrlink: 9178
+url: /p/9178
 tags:
   - 夜のひつじ／夜羊社／萝莉社
   - 萝莉

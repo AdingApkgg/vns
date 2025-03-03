@@ -4,7 +4,7 @@ date = 2023-01-01T08:00:00-07:00
 draft = false
 +++
 
-![春日野医院](https://gal.saop.cc/img/kasugano-clinic.webp)
+![寒蝉鸣泣之时](https://gal.saop.cc/img/higurashi.svg)
 
 ## 基本帮助
 

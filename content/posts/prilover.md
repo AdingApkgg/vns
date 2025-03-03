@@ -1,6 +1,6 @@
 ---
 title: 公主恋人！／プリンセスラバー！／Princess Lover!
-abbrlink: 41843
+url: /p/41843
 tags:
   - Ricotta／奶酪社
   - 纯爱

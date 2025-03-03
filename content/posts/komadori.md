@@ -1,6 +1,6 @@
 ---
 title: '是谁杀了知更鸟／誰が殺したコマドリを／谁杀死了知更鸟？／Qui a tué Cock Robin, Who killed the robin?'
-abbrlink: 10519
+url: /p/10519
 tags:
   - スマイル戦機／Smilesenki
   - 百合

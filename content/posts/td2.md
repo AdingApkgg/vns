@@ -1,6 +1,6 @@
 ---
 title: Tiny Dungeon ~BLESS of DRAGON~／微小地牢－金龙祝福 龙族篇／タイニイ ダンジョン ブレスオブドラゴン
-abbrlink: 12038
+url: /p/12038
 tags:
   - Rosebleu
   - 后宫

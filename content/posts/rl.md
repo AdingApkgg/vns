@@ -1,6 +1,6 @@
 ---
 title: 人狼村之谜／レイジングループ／Raging Loop／乐境虏逋
-abbrlink: 37037
+url: /p/37037
 tags:
   - KEMCO／コトブキシステム／株式会社ケムコ
   - 悬疑

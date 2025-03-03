@@ -1,6 +1,6 @@
 ---
 title: 3days~在逝去时间的另一端~／～満ちてゆく刻の彼方で～／~Till Death Do Us A Part~
-abbrlink: 43876
+url: /p/43876
 tags:
   - Lass
   - 猎奇

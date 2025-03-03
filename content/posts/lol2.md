@@ -1,6 +1,6 @@
 ---
 title: 与你拉钩起誓的婚约／ゆびきり婚約ロリイタ／Pinky Promise Lolita／勾指婚约洛丽塔／与你拉起勾勾的誓约
-abbrlink: 45904
+url: /p/45904
 tags:
   - 夜のひつじ／夜羊社／萝莉社
   - 幼女

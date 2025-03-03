@@ -1,6 +1,6 @@
 ---
 title: ISLAND／アイランド
-abbrlink: 38317
+url: /p/38317
 tags:
   - FrontWing／前翼社
   - 轮回

@@ -1,6 +1,6 @@
 ---
 title: Tiny Dungeon ~BLACK and WHITE~／微小地牢－黑白羽翼 魔族篇／タイニイ ダンジョン ブラックアンドホワイト
-abbrlink: 64868
+url: /p/64868
 tags:
   - Rosebleu
   - 后宫

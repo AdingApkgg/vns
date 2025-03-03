@@ -1,6 +1,6 @@
 ---
 title: Summer Pockets REFLECTION BLUE／夏日口袋 蔚蓝回忆／サマーポケッツRB
-abbrlink: 54358
+url: /p/54358
 tags:
   - Key／键社／棒球社
   - 催泪

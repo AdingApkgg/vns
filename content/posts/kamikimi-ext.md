@@ -1,6 +1,6 @@
 ---
 title: 献给神明般的你 EX扩展版／神様のような君へ Extended Edition
-abbrlink: 46827
+url: /p/46827
 tags:
   - CUBE
   - 恋爱

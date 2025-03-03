@@ -2,7 +2,7 @@
 title: >-
   樱花，萌放。／さくら、もゆ。-as the Night's, Reincarnation-／樱花萌放-as the Night's,
   Reincarnation-／樱摸鱼／樱、萌发。／樱花萌咲／樱花摸鱼
-abbrlink: 6977
+url: /p/6977
 tags:
   - FAVORITE／フェイバリット／F社／真红社
   - 恋爱

@@ -1,6 +1,6 @@
 ---
 title: Tiny Dungeon ~BRAVE or SLAVE~／微小地牢－奴隶或勇士 完结篇／タイニイ ダンジョン ブレイブオアスレイブ
-abbrlink: 6858
+url: /p/6858
 tags:
   - Rosebleu
   - 后宫

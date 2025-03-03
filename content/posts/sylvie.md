@@ -1,6 +1,6 @@
 ---
 title: 奴隶少女希尔薇／Teaching Feeling ～和瘢痕少女在一起的生活～／傷肌少女との生活／奴隷との生活／和奴隶在一起的生活／与奴隶的生活
-abbrlink: 42853
+url: /p/42853
 tags:
   - FreakilyCharming
   - 少女

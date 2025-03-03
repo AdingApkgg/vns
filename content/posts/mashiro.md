@@ -2,7 +2,7 @@
 title: >-
   纯白交响曲 Remake for FHD／ましろ色シンフォニー／Mashiroiro Symphony HD -Love is Pure White-／原版
   通常 HD 高清 重置 重制
-abbrlink: 38627
+url: /p/38627
 tags:
   - Palette／调色板／ぱれっと
   - 纯爱

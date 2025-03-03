@@ -2,7 +2,7 @@
 title: >-
   月姫／つきひめ／Tsukihime／月姫／Tsukihime: Blue Blue Glass Moon Under The Crimson
   Air／Moon Princess
-abbrlink: 60754
+url: /p/60754
 tags:
   - TYPE-MOON
   - 推土机

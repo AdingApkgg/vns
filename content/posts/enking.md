@@ -2,7 +2,7 @@
 title: >-
   我们是不能延期了／我们家、已经不能延期了／ウチはもう、延期できない。／Ready or Not: The Deadline is
   Coming!／enking／延期ＮＧ
-abbrlink: 58293
+url: /p/58293
 tags:
   - Sonora
   - 姐

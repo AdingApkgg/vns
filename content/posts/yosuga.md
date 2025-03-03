@@ -1,6 +1,6 @@
 ---
 title: 缘之空／ヨスガノソラ／亲缘的天空／Yosuga no Sora
-abbrlink: 4883
+url: /p/4883
 tags:
   - 恋爱
   - 2008

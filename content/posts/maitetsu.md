@@ -1,6 +1,6 @@
 ---
 title: 爱上火车LastRun!!／铁路浪漫谭／まいてつ／Maitetsu／我的铁路／余铁
-abbrlink: 3355
+url: /p/3355
 tags:
   - Lose／Lost／萝莉社
   - 萝莉

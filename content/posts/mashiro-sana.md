@@ -2,7 +2,7 @@
 title: >-
   纯白交响曲 SANA EDITION／ましろ色シンフォニー SANA EDITION／Mashiroiro Symphony HD -Sana
   Edition-
-abbrlink: 3699
+url: /p/3699
 tags:
   - Palette／调色板／ぱれっと
   - 废萌

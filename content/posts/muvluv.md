@@ -1,6 +1,6 @@
 ---
 title: マブラヴ／Muv-Luv
-abbrlink: 1361
+url: /p/1361
 tags:
   - âge／アージュ／Age
   - 燃

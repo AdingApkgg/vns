@@ -1,6 +1,6 @@
 ---
 title: 生命的备件／生命的备份／生命のスペア／I was born for you
-abbrlink: 1091
+url: /p/1091
 tags:
   - AKABEiSOFT3
   - 恋爱

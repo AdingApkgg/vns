@@ -1,6 +1,6 @@
 ---
 title: 天选庶民的真命之选／セレクトオブリージュ／Select Oblige
-abbrlink: 30665
+url: /p/30665
 tags:
   - Madosoft／窗社／まどそふと
   - 废萌

@@ -2,7 +2,7 @@
 title: >-
   智代After ～It's a Wonderful Life～／智代アフター ～It’s a Wonderful Life～／Tomoyo After
   ~It's a Wonderful Life~
-abbrlink: 35239
+url: /p/35239
 tags:
   - Key／键社／棒球社
   - 恋爱

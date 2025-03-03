@@ -2,7 +2,7 @@
 title: >-
   星之终途／終のステラ／Stella of The End／星之终途后日谈：渺茫希望的日记／終のステラ後日談：微かな希望の日記／Stella of The
   End After Story: Diary of a Faint Hope
-abbrlink: 32557
+url: /p/32557
 tags:
   - Key／键社／棒球社
   - 科幻

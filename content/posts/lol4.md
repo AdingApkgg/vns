@@ -1,6 +1,6 @@
 ---
 title: 双子洛丽塔后宫／ハーレム双子ロリータ／The Harem of Lolita Twins／双子后宫洛丽塔
-abbrlink: 48253
+url: /p/48253
 tags:
   - 夜のひつじ／夜羊社／萝莉社
   - 萝莉

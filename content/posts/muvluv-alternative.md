@@ -1,6 +1,6 @@
 ---
 title: マブラヴ オルタネイティヴ／Muv-Luv Alternative
-abbrlink: 462
+url: /p/462
 tags:
   - âge／アージュ／Age
   - 燃

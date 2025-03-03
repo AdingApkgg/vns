@@ -1,0 +1,25 @@
+{{ $valine := .Site.Params.comments.valine }}
+{{- if and .Site.Params.comments.enabled (eq .Site.Params.comments.provider "valine") -}}
+<div class="comments">
+    <div id="vcomments" class="comment"></div>
+    <script src="//registry.npmmirror.com/valine/latest/files/dist/Valine.min.js"></script>
+    <script>
+        new Valine({
+            el: "#vcomments",
+            appId: "{{ $valine.appId }}",
+            appKey: "{{ $valine.appKey }}",
+            serverURLs: "{{ $valine.serverURLs }}",
+            placeholder: "{{ $valine.placeholder }}",
+            avatar_cdn: "{{ $valine.avatar_cdn }}",
+            pageSize: "{{ $valine.pageSize }}",
+            visitor: "{{ $valine.visitor }}",
+            comment_count: "{{ $valine.comment_count }}",
+            highlight: "{{ $valine.highlight }}",
+            recordIP: "{{ $valine.recordIP }}",
+            emojiCDN: "{{ $valine.emojiCDN }}",
+            emojiMaps: {{ $valine.emojiMaps | jsonify | safeJS }},
+            enableQQ: "{{ $valine.enableQQ }}"
+        });
+    </script>
+</div>
+{{- end -}}

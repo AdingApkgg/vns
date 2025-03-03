@@ -1,6 +1,6 @@
 ---
 title: 千恋＊万花／千戀＊萬花／千変万化／Senren * Banka：A Thousand Colors of Love
-abbrlink: 10953
+url: /p/10953
 tags:
   - Yuzu-Soft／柚子社
   - 纯爱

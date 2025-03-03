@@ -2,7 +2,7 @@
 title: >-
   少女理论及其周边 -巴黎学院篇-／乙女理論とその周辺 -Ecole de Paris-／乙りろ／Otoriro, Otome Riron to Sono
   Shuuhen -École de Paris-
-abbrlink: 63990
+url: /p/63990
 tags:
   - Navel／ネーブル／橘子社／近月社／臍橙社
   - 校园

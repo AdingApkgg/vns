@@ -1,6 +1,6 @@
 ---
 title: 常轨脱离Creative凸／灵感满溢的甜蜜创想FD-凸／ハミダシクリエイティブ凸／富婆妹
-abbrlink: 37056
+url: /p/37056
 tags:
   - Madosoft／窗社／まどそふと
   - 纯爱
