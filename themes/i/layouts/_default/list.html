@@ -1,0 +1,39 @@
+{{ define "main" }}
+<h1>{{ .Title }}</h1>
+<p>{{ .Content }}</p>
+
+<ul class="post-list">
+  {{ range .Paginator.Pages }}
+  <li class="post-item">
+    <!-- 提取并显示第一张图片 -->
+    {{- $img := findRE `!\[.*?\]\((.*?)\)` .Content 1 -}}
+    {{- if $img -}}
+    {{- $imgUrl := index $img 0 | replaceRE `!\[.*?\]\((.*?)\)` "$1" -}}
+    <div class="post-image">
+      <img src="{{ $imgUrl }}" alt="文章图片">
+    </div>
+    {{- end -}}
+
+    <!-- 文章标题和摘要 -->
+    <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+    <p>{{ .Summary }}</p>
+
+    <!-- 阅读更多链接 -->
+    {{ if .Truncated }}
+    <a href="{{ .RelPermalink }}">阅读更多...</a>
+    {{ end }}
+  </li>
+  {{ end }}
+</ul>
+
+<!-- 分页导航 -->
+<div class="pagination">
+  {{ if .Paginator.HasPrev }}
+  <a href="{{ .Paginator.Prev.URL }}">上一页</a>
+  {{ end }}
+  <span>第 {{ .Paginator.PageNumber }} 页 / 共 {{ .Paginator.TotalPages }} 页</span>
+  {{ if .Paginator.HasNext }}
+  <a href="{{ .Paginator.Next.URL }}">下一页</a>
+  {{ end }}
+</div>
+{{ end }}
