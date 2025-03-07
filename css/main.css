@@ -670,3 +670,22 @@ pre code {
   margin: 0 0.5rem;
   color: var(--text-color);
 }
+
+.comments-section {
+  margin-top: 2rem;
+}
+
+.comments {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.post-meta {
+  font-size: 0.9rem;
+  color: #666;
+  margin-bottom: 1rem;
+}
+
+.comment {
+  padding: 1rem 0;
+}
