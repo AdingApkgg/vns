@@ -13,16 +13,17 @@ tags:
   - 惩罚
   - Qruppo
 categories:
-  - - Windows
-  - - Tyranor
+  - Windows
+  - Tyranor
 date: 2024-02-07 02:00:00
-updated: 2024-05-20 19:30:00
+updated: 2025-03-07 19:40:08
 ---
 
 ![henpri](https://static.saop.cc/vns/img/henpri.webp)
 
 **《变态监狱》**（日语：**ヘンタイ・プリズン**）是[Qruppo](https://zh.moegirl.org.cn/index.php?title=Qruppo&action=edit&redlink=1)在2022年1月28日发售的一款露出狂越狱[ADV](https://zh.moegirl.org.cn/ADV)。
 
+于2025年3月4日在Steam等平台发售[官方中英](https://store.steampowered.com/app/3094010/HENPRI/)版本（含18+）。
 <!-- more -->
 
 ## 简介
@@ -59,12 +60,25 @@ updated: 2024-05-20 19:30:00
 ## 链接
 
 - [官方网址](https://qruppo.com/products/henpri/)**（日文）**
+- [Steam](https://store.steampowered.com/app/3094010/HENPRI/)
+
 
 ## 提示
 
 > 基本帮助请参阅公告：[点我跳转](/p/announcement/)
 
+~~时隔三年终于出官中了,当时靠着机翻啃下来的，终于可以重温佳作了。~~
+鸽稽汉化组[当年开坑](https://tieba.baidu.com/p/7706713550?pn=1)，不知怎么就没有后文了，最近听说打算填坑，有能力的小伙伴可以联系加入[【汉化招募兼汉化填坑续坑计划】](https://tieba.baidu.com/p/9545466442)。
+
 ## 分流
+
+### Steam官方中英
+
+1. [量子ACG](https://lzacg.org) & `Windows` ：[点击下载](https://lzacg.org/8907)
+2. [绮梦](https://acgs.one/) & `Windows`：[点击下载](https://game.acgs.one/game/332.html)，密码：`绮梦`
+3. [TouchGAL](https://www.touchgal.io/) & `Windows`：[点击下载](https://www.touchgal.io/66156f1e)，密码：`touchgal`
+
+### 原版
 
 1. [TouchGAL](https://www.touchgal.io/) & `Windows`【机翻】：[点击下载](https://pan.touchgal.net/s/Qp7U6)，密码：`touchgal`，删除 `HENPRI.pfs.099` 就是日文原版
 2. [烟郁Galgame](https://yanyugal.top/) & `Tyranor`：[点击下载](https://yanyugal.top/d/disk1/%E5%B0%8F%E5%B0%8F%E7%9A%84%E5%88%86%E4%BA%AB%EF%BC%88PC%EF%BC%86%E5%AE%89%E5%8D%93%EF%BC%89/%E5%AE%89%E5%8D%93/ty/%E5%8F%98%E6%80%81%E7%9B%91%E7%8B%B1.7z)，密码：`烟郁频道`、`lumouweinb`
