@@ -1,14 +1,2 @@
-.DS_Store
-Thumbs.db
-.github/
-db.json
-*.log
-node_modules/
 public/
-.deploy*/
-_multiconfig.yml
 .history/
-.vscode/
-package-lock.json
-Project.json
-yarn.lock
