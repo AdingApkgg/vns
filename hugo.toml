@@ -4,27 +4,27 @@ title = 'VNS'
 theme = 'i'
 
 [[menus.main]]
-name = 'GGS'
+name = '旧站'
 url = 'https://gal.saop.cc/'
 weight = 5
 
 [[menus.main]]
-name = 'Home'
+name = '首页'
 pageRef = '/'
 weight = 10
 
 [[menus.main]]
-name = 'Posts'
+name = '文章'
 pageRef = '/posts'
 weight = 20
 
 [[menus.main]]
-name = 'Categories'
+name = '分类'
 pageRef = '/categories'
 weight = 30
 
 [[menus.main]]
-name = 'Tags'
+name = '标签'
 pageRef = '/tags'
 weight = 40
 

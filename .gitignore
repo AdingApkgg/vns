@@ -1,2 +1,3 @@
-public/
 .history/
+public/
+.hugo_build.lock
