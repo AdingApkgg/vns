@@ -8,26 +8,27 @@
   <link rel="stylesheet" href="/css/main.css">
   <link rel="stylesheet"
     href="https://registry.npmmirror.com/@highlightjs/cdn-assets/latest/files/styles/github-dark.min.css">
-    <script async src="https://registry.npmmirror.com/pangu/latest/files/dist/browser/pangu.min.js"></script>
+  <script async src="https://registry.npmmirror.com/pangu/latest/files/dist/browser/pangu.min.js"></script>
+  <script src="https://registry.npmmirror.com/pjax/latest/files/pjax.min.js"></script>
 </head>
 
 <body>
   <header>
     <nav>
         
-        <a href="https://gal.saop.cc/">GGS</a>
+        <a href="https://gal.saop.cc/">旧站</a>
         
-        <a href="/">Home</a>
+        <a href="/">首页</a>
         
-        <a href="/posts/">Posts</a>
+        <a href="/posts/">文章</a>
         
-        <a href="/categories/">Categories</a>
+        <a href="/categories/">分类</a>
         
-        <a href="/tags/">Tags</a>
+        <a href="/tags/">标签</a>
         
-        <button id="theme-toggle">Toggle Dark Mode</button>
+        <button id="theme-toggle">昼夜切换</button>
         <link href="/pagefind/pagefind-ui.css" rel="stylesheet">
-        <script src="/pagefind/pagefind-ui.js"></script>
+        <script async src="/pagefind/pagefind-ui.js"></script>
         <div id="search"></div>
         <script>
             window.addEventListener('DOMContentLoaded', (event) => {
@@ -37,7 +38,7 @@
     </nav>
 </header>
 
-  <main id="pjax-container">
+  <main>
     
 <h1>（画集・设定资料集）向日葵的教会与长长的暑假 官方艺术作品／（画集・設定資料集）向日葵の教会と長い夏休み オフィシャルアートワークス／向日葵的教会与长夏假期／向日葵教会和漫长的暑假</h1>
 
@@ -45,7 +46,8 @@
 
 <time datetime="2024-02-10T03:00:00&#43;00:00">February 10, 2024</time>
 
-<p><img src="https://static.saop.cc/vns/img/himanatsu-bonuses-gallery.webp" alt="himanatsu-bonuses-gallery"></p>
+<p><img src="https://static.saop.cc/vns/img/himanatsu-bonuses-gallery.webp" data-fancybox="gallery" data-caption="himanatsu-bonuses-gallery" title="himanatsu-bonuses-gallery"
+    alt="himanatsu-bonuses-gallery" /></p>
 <p>（画集・设定资料集）向日葵的教会与长长的暑假 官方艺术作品</p>
 <p>（画集・設定資料集）向日葵の教会と長い夏休み オフィシャルアートワークス</p>
 <h2 id="提示">提示</h2>
@@ -100,7 +102,8 @@
 
 <article>
   <h1>（画集・设定资料集）向日葵的教会与长长的暑假 官方艺术作品／（画集・設定資料集）向日葵の教会と長い夏休み オフィシャルアートワークス／向日葵的教会与长夏假期／向日葵教会和漫长的暑假</h1>
-  <div><p><img src="https://static.saop.cc/vns/img/himanatsu-bonuses-gallery.webp" alt="himanatsu-bonuses-gallery"></p>
+  <div><p><img src="https://static.saop.cc/vns/img/himanatsu-bonuses-gallery.webp" data-fancybox="gallery" data-caption="himanatsu-bonuses-gallery" title="himanatsu-bonuses-gallery"
+    alt="himanatsu-bonuses-gallery" /></p>
 <p>（画集・设定资料集）向日葵的教会与长长的暑假 官方艺术作品</p>
 <p>（画集・設定資料集）向日葵の教会と長い夏休み オフィシャルアートワークス</p>
 <h2 id="提示">提示</h2>
@@ -120,6 +123,11 @@
 
   </main>
 
+  <script
+    src="https://registry.npmmirror.com/@fancyapps/ui/latest/files/dist/fancybox/fancybox.umd.js"></script>
+  <link rel="stylesheet"
+    href="https://registry.npmmirror.com/@fancyapps/ui/latest/files/dist/fancybox/fancybox.css">
+
   <footer>
     <p>&copy; 2025 VNS</p>
     <p style="text-align: center; color: rgb(220, 220, 220);">PV&nbsp;<span
@@ -127,7 +135,7 @@
     <script async src="https://busuanzi.9420.ltd/js"></script>
 </footer>
 
-  <script src="https://registry.npmmirror.com/@highlightjs/cdn-assets/latest/files/highlight.min.js"></script>
+  <script async src="https://registry.npmmirror.com/@highlightjs/cdn-assets/latest/files/highlight.min.js"></script>
 <script>
     function initCodeHighlight() {
         document.querySelectorAll('pre code').forEach((block) => {
@@ -137,23 +145,7 @@
     document.addEventListener('DOMContentLoaded', initCodeHighlight);
 </script>
 
-  <script src="https://registry.npmmirror.com/pjax/latest/files/pjax.min.js"></script>
-<script>
-    document.addEventListener('DOMContentLoaded', function () {
-        var pjax = new Pjax({
-            selectors: ["title", "#pjax-container"],
-            cacheBust: false
-        });
-
-        document.addEventListener('pjax:complete', function () {
-            
-            if (typeof initDarkMode === 'function') initDarkMode();
-            if (typeof initCodeHighlight === 'function') initCodeHighlight();
-        });
-    });
-</script>
-
-  <script async src="/js/main.js"></script>
+  <script src="/js/main.js"></script>
   <script>
     if ('serviceWorker' in navigator) {
       navigator.serviceWorker.register('/js/sw.js')

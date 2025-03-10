@@ -8,26 +8,27 @@
   <link rel="stylesheet" href="/css/main.css">
   <link rel="stylesheet"
     href="https://registry.npmmirror.com/@highlightjs/cdn-assets/latest/files/styles/github-dark.min.css">
-    <script async src="https://registry.npmmirror.com/pangu/latest/files/dist/browser/pangu.min.js"></script>
+  <script async src="https://registry.npmmirror.com/pangu/latest/files/dist/browser/pangu.min.js"></script>
+  <script src="https://registry.npmmirror.com/pjax/latest/files/pjax.min.js"></script>
 </head>
 
 <body>
   <header>
     <nav>
         
-        <a href="https://gal.saop.cc/">GGS</a>
+        <a href="https://gal.saop.cc/">旧站</a>
         
-        <a href="/">Home</a>
+        <a href="/">首页</a>
         
-        <a href="/posts/">Posts</a>
+        <a href="/posts/">文章</a>
         
-        <a href="/categories/">Categories</a>
+        <a href="/categories/">分类</a>
         
-        <a href="/tags/">Tags</a>
+        <a href="/tags/">标签</a>
         
-        <button id="theme-toggle">Toggle Dark Mode</button>
+        <button id="theme-toggle">昼夜切换</button>
         <link href="/pagefind/pagefind-ui.css" rel="stylesheet">
-        <script src="/pagefind/pagefind-ui.js"></script>
+        <script async src="/pagefind/pagefind-ui.js"></script>
         <div id="search"></div>
         <script>
             window.addEventListener('DOMContentLoaded', (event) => {
@@ -37,17 +38,16 @@
     </nav>
 </header>
 
-  <main id="pjax-container">
+  <main>
     
 <h1>实姐</h1>
 <p></p>
 
 <ul class="post-list">
   
-  <li class="post-item">
-    
-    <h2><a href="/p/58293/">我们是不能延期了／我们家、已经不能延期了／ウチはもう、延期できない。／Ready or Not: The Deadline is Coming!／enking／延期ＮＧ</a></h2>
-    <p><p><img src="https://static.saop.cc/vns/img/enking.webp" alt="enking"></p>
+  <li class="post-item"><h2><a href="/p/58293/">我们是不能延期了／我们家、已经不能延期了／ウチはもう、延期できない。／Ready or Not: The Deadline is Coming!／enking／延期ＮＧ</a></h2>
+    <p><p><img src="https://static.saop.cc/vns/img/enking.webp" data-fancybox="gallery" data-caption="enking" title="enking"
+    alt="enking" /></p>
 <p>这是发生在某个春假的事。</p>
 <p>平日的兴趣是写小说的「宫村未来」，
 她的姊姊「宫村花梨」突然向她表明自己是Hgame声优，并向她寻求帮助：</p>
@@ -68,15 +68,9 @@
 以这些个性独特的女主角们为中心展开的、有点古怪的Hgame经营ADV。</p>
 <p>喜欢Hgame的话，
 绝对不能进入游戏公司！</p></p>
-
-    
-    
-    <a href="/p/58293/">阅读更多...</a>
-    
   </li>
   
 </ul>
-
 
 <div class="pagination">
   
@@ -86,6 +80,11 @@
 
   </main>
 
+  <script
+    src="https://registry.npmmirror.com/@fancyapps/ui/latest/files/dist/fancybox/fancybox.umd.js"></script>
+  <link rel="stylesheet"
+    href="https://registry.npmmirror.com/@fancyapps/ui/latest/files/dist/fancybox/fancybox.css">
+
   <footer>
     <p>&copy; 2025 VNS</p>
     <p style="text-align: center; color: rgb(220, 220, 220);">PV&nbsp;<span
@@ -93,7 +92,7 @@
     <script async src="https://busuanzi.9420.ltd/js"></script>
 </footer>
 
-  <script src="https://registry.npmmirror.com/@highlightjs/cdn-assets/latest/files/highlight.min.js"></script>
+  <script async src="https://registry.npmmirror.com/@highlightjs/cdn-assets/latest/files/highlight.min.js"></script>
 <script>
     function initCodeHighlight() {
         document.querySelectorAll('pre code').forEach((block) => {
@@ -103,23 +102,7 @@
     document.addEventListener('DOMContentLoaded', initCodeHighlight);
 </script>
 
-  <script src="https://registry.npmmirror.com/pjax/latest/files/pjax.min.js"></script>
-<script>
-    document.addEventListener('DOMContentLoaded', function () {
-        var pjax = new Pjax({
-            selectors: ["title", "#pjax-container"],
-            cacheBust: false
-        });
-
-        document.addEventListener('pjax:complete', function () {
-            
-            if (typeof initDarkMode === 'function') initDarkMode();
-            if (typeof initCodeHighlight === 'function') initCodeHighlight();
-        });
-    });
-</script>
-
-  <script async src="/js/main.js"></script>
+  <script src="/js/main.js"></script>
   <script>
     if ('serviceWorker' in navigator) {
       navigator.serviceWorker.register('/js/sw.js')

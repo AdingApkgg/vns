@@ -8,26 +8,27 @@
   <link rel="stylesheet" href="/css/main.css">
   <link rel="stylesheet"
     href="https://registry.npmmirror.com/@highlightjs/cdn-assets/latest/files/styles/github-dark.min.css">
-    <script async src="https://registry.npmmirror.com/pangu/latest/files/dist/browser/pangu.min.js"></script>
+  <script async src="https://registry.npmmirror.com/pangu/latest/files/dist/browser/pangu.min.js"></script>
+  <script src="https://registry.npmmirror.com/pjax/latest/files/pjax.min.js"></script>
 </head>
 
 <body>
   <header>
     <nav>
         
-        <a href="https://gal.saop.cc/">GGS</a>
+        <a href="https://gal.saop.cc/">旧站</a>
         
-        <a href="/">Home</a>
+        <a href="/">首页</a>
         
-        <a href="/posts/">Posts</a>
+        <a href="/posts/">文章</a>
         
-        <a href="/categories/">Categories</a>
+        <a href="/categories/">分类</a>
         
-        <a href="/tags/">Tags</a>
+        <a href="/tags/">标签</a>
         
-        <button id="theme-toggle">Toggle Dark Mode</button>
+        <button id="theme-toggle">昼夜切换</button>
         <link href="/pagefind/pagefind-ui.css" rel="stylesheet">
-        <script src="/pagefind/pagefind-ui.js"></script>
+        <script async src="/pagefind/pagefind-ui.js"></script>
         <div id="search"></div>
         <script>
             window.addEventListener('DOMContentLoaded', (event) => {
@@ -37,39 +38,26 @@
     </nav>
 </header>
 
-  <main id="pjax-container">
+  <main>
     
 <h1>天使</h1>
 <p></p>
 
 <ul class="post-list">
   
-  <li class="post-item">
-    
-    <h2><a href="/p/6688/">Angel Beats! -1st beat-／天使的脉动／天使的心跳／围殴天使／神仙打架／仙人跳／Angel Beast／エンジェルビーツ!／AB!</a></h2>
-    <p><p><img src="https://static.saop.cc/vns/img/angelbeats.webp" alt="angelbeats"></p>
+  <li class="post-item"><h2><a href="/p/6688/">Angel Beats! -1st beat-／天使的脉动／天使的心跳／围殴天使／神仙打架／仙人跳／Angel Beast／エンジェルビーツ!／AB!</a></h2>
+    <p><p><img src="https://static.saop.cc/vns/img/angelbeats.webp" data-fancybox="gallery" data-caption="angelbeats" title="angelbeats"
+    alt="angelbeats" /></p>
 <p>《Angel Beats!》游戏版，是由key社制作的一系列多媒体小说作品，也是key社第一次改编既有作品。策划和人设与动画版同为麻枝准和Na-Ga，也是Na-Ga参加人设的第二部、独立人设的第一部key社游戏。</p></p>
-
-    
-    
-    <a href="/p/6688/">阅读更多...</a>
-    
   </li>
   
-  <li class="post-item">
-    
-    <h2><a href="/p/27018/">天使纷扰／天使☆嚣嚣 RE-BOOT!／天使☆騒々 RE-BOOT!</a></h2>
-    <p><p><img src="https://static.saop.cc/vns/img/ten-sz.webp" alt="ten-sz"></p>
+  <li class="post-item"><h2><a href="/p/27018/">天使纷扰／天使☆嚣嚣 RE-BOOT!／天使☆騒々 RE-BOOT!</a></h2>
+    <p><p><img src="https://static.saop.cc/vns/img/ten-sz.webp" data-fancybox="gallery" data-caption="ten-sz" title="ten-sz"
+    alt="ten-sz" /></p>
 <p>《<strong>天使☆嚣嚣 RE-BOOT!</strong>》（日语：<strong>天使（てんし）☆騒々（そうぞう） RE-BOOT!</strong>、英语：<strong>Tenshi Souzou &ldquo;Angelic Chaos&rdquo; RE-BOOT!</strong>）是由<a href="https://zh.moegirl.org.cn/YUZU_SOFT">YUZU SOFT</a>制作的<a href="https://zh.moegirl.org.cn/Galgame">Galgame</a>，于2023年4月28日发售。本作国际版曾计划于2024年1月发行，但因审核时受不可抗力因素，发行延期。</p></p>
-
-    
-    
-    <a href="/p/27018/">阅读更多...</a>
-    
   </li>
   
 </ul>
-
 
 <div class="pagination">
   
@@ -79,6 +67,11 @@
 
   </main>
 
+  <script
+    src="https://registry.npmmirror.com/@fancyapps/ui/latest/files/dist/fancybox/fancybox.umd.js"></script>
+  <link rel="stylesheet"
+    href="https://registry.npmmirror.com/@fancyapps/ui/latest/files/dist/fancybox/fancybox.css">
+
   <footer>
     <p>&copy; 2025 VNS</p>
     <p style="text-align: center; color: rgb(220, 220, 220);">PV&nbsp;<span
@@ -86,7 +79,7 @@
     <script async src="https://busuanzi.9420.ltd/js"></script>
 </footer>
 
-  <script src="https://registry.npmmirror.com/@highlightjs/cdn-assets/latest/files/highlight.min.js"></script>
+  <script async src="https://registry.npmmirror.com/@highlightjs/cdn-assets/latest/files/highlight.min.js"></script>
 <script>
     function initCodeHighlight() {
         document.querySelectorAll('pre code').forEach((block) => {
@@ -96,23 +89,7 @@
     document.addEventListener('DOMContentLoaded', initCodeHighlight);
 </script>
 
-  <script src="https://registry.npmmirror.com/pjax/latest/files/pjax.min.js"></script>
-<script>
-    document.addEventListener('DOMContentLoaded', function () {
-        var pjax = new Pjax({
-            selectors: ["title", "#pjax-container"],
-            cacheBust: false
-        });
-
-        document.addEventListener('pjax:complete', function () {
-            
-            if (typeof initDarkMode === 'function') initDarkMode();
-            if (typeof initCodeHighlight === 'function') initCodeHighlight();
-        });
-    });
-</script>
-
-  <script async src="/js/main.js"></script>
+  <script src="/js/main.js"></script>
   <script>
     if ('serviceWorker' in navigator) {
       navigator.serviceWorker.register('/js/sw.js')

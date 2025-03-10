@@ -8,26 +8,27 @@
   <link rel="stylesheet" href="/css/main.css">
   <link rel="stylesheet"
     href="https://registry.npmmirror.com/@highlightjs/cdn-assets/latest/files/styles/github-dark.min.css">
-    <script async src="https://registry.npmmirror.com/pangu/latest/files/dist/browser/pangu.min.js"></script>
+  <script async src="https://registry.npmmirror.com/pangu/latest/files/dist/browser/pangu.min.js"></script>
+  <script src="https://registry.npmmirror.com/pjax/latest/files/pjax.min.js"></script>
 </head>
 
 <body>
   <header>
     <nav>
         
-        <a href="https://gal.saop.cc/">GGS</a>
+        <a href="https://gal.saop.cc/">旧站</a>
         
-        <a href="/">Home</a>
+        <a href="/">首页</a>
         
-        <a href="/posts/">Posts</a>
+        <a href="/posts/">文章</a>
         
-        <a href="/categories/">Categories</a>
+        <a href="/categories/">分类</a>
         
-        <a href="/tags/">Tags</a>
+        <a href="/tags/">标签</a>
         
-        <button id="theme-toggle">Toggle Dark Mode</button>
+        <button id="theme-toggle">昼夜切换</button>
         <link href="/pagefind/pagefind-ui.css" rel="stylesheet">
-        <script src="/pagefind/pagefind-ui.js"></script>
+        <script async src="/pagefind/pagefind-ui.js"></script>
         <div id="search"></div>
         <script>
             window.addEventListener('DOMContentLoaded', (event) => {
@@ -37,40 +38,27 @@
     </nav>
 </header>
 
-  <main id="pjax-container">
+  <main>
     
 <h1>Tinkle Position</h1>
 <p></p>
 
 <ul class="post-list">
   
-  <li class="post-item">
-    
-    <h2><a href="/p/22754/">哥哥，早上起床之前都要抱紧我哦！晚上睡觉之前做更多色色的事吧！／妹抱FD／お兄ちゃん、朝までずっとギュッてして！夜までもっとエッチして！</a></h2>
-    <p><p><img src="https://static.saop.cc/vns/img/onigyuh.webp" alt="onigyuh"></p>
+  <li class="post-item"><h2><a href="/p/22754/">哥哥，早上起床之前都要抱紧我哦！晚上睡觉之前做更多色色的事吧！／妹抱FD／お兄ちゃん、朝までずっとギュッてして！夜までもっとエッチして！</a></h2>
+    <p><p><img src="https://static.saop.cc/vns/img/onigyuh.webp" data-fancybox="gallery" data-caption="onigyuh" title="onigyuh"
+    alt="onigyuh" /></p>
 <p>《<strong>お兄ちゃん、朝までずっとギュッてして！ 夜までもっとエッチして！</strong>》</p>
 <p>翻译成中文大概就是“哥哥，直到早晨请一直抱紧我！在晚上之前做更多H的事情！” 标题真直球 通常所说的FD版妹抱指的就是续作。</p></p>
-
-    
-    
-    <a href="/p/22754/">阅读更多...</a>
-    
   </li>
   
-  <li class="post-item">
-    
-    <h2><a href="/p/4561/">哥哥，早上起床之前都要抱紧我哦！／妹抱／お兄ちゃん、朝までずっとギュッてして！</a></h2>
-    <p><p><img src="https://static.saop.cc/vns/img/onigyu.webp" alt="onigyu"></p>
+  <li class="post-item"><h2><a href="/p/4561/">哥哥，早上起床之前都要抱紧我哦！／妹抱／お兄ちゃん、朝までずっとギュッてして！</a></h2>
+    <p><p><img src="https://static.saop.cc/vns/img/onigyu.webp" data-fancybox="gallery" data-caption="onigyu" title="onigyu"
+    alt="onigyu" /></p>
 <p>《<strong>哥哥，早上起床之前都要抱紧我哦！</strong>》是由<a href="https://zh.moegirl.org.cn/index.php?title=Tinkle_Position&amp;action=edit&amp;redlink=1">Tinkle Position</a>制作的一部<a href="https://zh.moegirl.org.cn/Galgame">Galgame</a>。</p></p>
-
-    
-    
-    <a href="/p/4561/">阅读更多...</a>
-    
   </li>
   
 </ul>
-
 
 <div class="pagination">
   
@@ -80,6 +68,11 @@
 
   </main>
 
+  <script
+    src="https://registry.npmmirror.com/@fancyapps/ui/latest/files/dist/fancybox/fancybox.umd.js"></script>
+  <link rel="stylesheet"
+    href="https://registry.npmmirror.com/@fancyapps/ui/latest/files/dist/fancybox/fancybox.css">
+
   <footer>
     <p>&copy; 2025 VNS</p>
     <p style="text-align: center; color: rgb(220, 220, 220);">PV&nbsp;<span
@@ -87,7 +80,7 @@
     <script async src="https://busuanzi.9420.ltd/js"></script>
 </footer>
 
-  <script src="https://registry.npmmirror.com/@highlightjs/cdn-assets/latest/files/highlight.min.js"></script>
+  <script async src="https://registry.npmmirror.com/@highlightjs/cdn-assets/latest/files/highlight.min.js"></script>
 <script>
     function initCodeHighlight() {
         document.querySelectorAll('pre code').forEach((block) => {
@@ -97,23 +90,7 @@
     document.addEventListener('DOMContentLoaded', initCodeHighlight);
 </script>
 
-  <script src="https://registry.npmmirror.com/pjax/latest/files/pjax.min.js"></script>
-<script>
-    document.addEventListener('DOMContentLoaded', function () {
-        var pjax = new Pjax({
-            selectors: ["title", "#pjax-container"],
-            cacheBust: false
-        });
-
-        document.addEventListener('pjax:complete', function () {
-            
-            if (typeof initDarkMode === 'function') initDarkMode();
-            if (typeof initCodeHighlight === 'function') initCodeHighlight();
-        });
-    });
-</script>
-
-  <script async src="/js/main.js"></script>
+  <script src="/js/main.js"></script>
   <script>
     if ('serviceWorker' in navigator) {
       navigator.serviceWorker.register('/js/sw.js')

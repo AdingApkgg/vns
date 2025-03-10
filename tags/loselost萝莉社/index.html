@@ -8,26 +8,27 @@
   <link rel="stylesheet" href="/css/main.css">
   <link rel="stylesheet"
     href="https://registry.npmmirror.com/@highlightjs/cdn-assets/latest/files/styles/github-dark.min.css">
-    <script async src="https://registry.npmmirror.com/pangu/latest/files/dist/browser/pangu.min.js"></script>
+  <script async src="https://registry.npmmirror.com/pangu/latest/files/dist/browser/pangu.min.js"></script>
+  <script src="https://registry.npmmirror.com/pjax/latest/files/pjax.min.js"></script>
 </head>
 
 <body>
   <header>
     <nav>
         
-        <a href="https://gal.saop.cc/">GGS</a>
+        <a href="https://gal.saop.cc/">旧站</a>
         
-        <a href="/">Home</a>
+        <a href="/">首页</a>
         
-        <a href="/posts/">Posts</a>
+        <a href="/posts/">文章</a>
         
-        <a href="/categories/">Categories</a>
+        <a href="/categories/">分类</a>
         
-        <a href="/tags/">Tags</a>
+        <a href="/tags/">标签</a>
         
-        <button id="theme-toggle">Toggle Dark Mode</button>
+        <button id="theme-toggle">昼夜切换</button>
         <link href="/pagefind/pagefind-ui.css" rel="stylesheet">
-        <script src="/pagefind/pagefind-ui.js"></script>
+        <script async src="/pagefind/pagefind-ui.js"></script>
         <div id="search"></div>
         <script>
             window.addEventListener('DOMContentLoaded', (event) => {
@@ -37,27 +38,20 @@
     </nav>
 </header>
 
-  <main id="pjax-container">
+  <main>
     
 <h1>Lose／Lost／萝莉社</h1>
 <p></p>
 
 <ul class="post-list">
   
-  <li class="post-item">
-    
-    <h2><a href="/p/3355/">爱上火车LastRun!!／铁路浪漫谭／まいてつ／Maitetsu／我的铁路／余铁</a></h2>
-    <p><p><img src="https://static.saop.cc/vns/img/maitetsu.webp" alt="maitetsu"></p>
+  <li class="post-item"><h2><a href="/p/3355/">爱上火车LastRun!!／铁路浪漫谭／まいてつ／Maitetsu／我的铁路／余铁</a></h2>
+    <p><p><img src="https://static.saop.cc/vns/img/maitetsu.webp" data-fancybox="gallery" data-caption="maitetsu" title="maitetsu"
+    alt="maitetsu" /></p>
 <p><strong>《爱上火车》</strong>（日语：まいてつ）是由Lose开发的恋爱冒险类电子游戏，并有系列衍生漫画、摄影APP、动画等。2020年10月30日发售新增剧情的《爱上火车 Last Run!!》，新增原有线路的后日谈及新线路，并重写了总集线，而原版《爱上火车》则对应地被称作《爱上火车 Pure Station》。</p></p>
-
-    
-    
-    <a href="/p/3355/">阅读更多...</a>
-    
   </li>
   
 </ul>
-
 
 <div class="pagination">
   
@@ -67,6 +61,11 @@
 
   </main>
 
+  <script
+    src="https://registry.npmmirror.com/@fancyapps/ui/latest/files/dist/fancybox/fancybox.umd.js"></script>
+  <link rel="stylesheet"
+    href="https://registry.npmmirror.com/@fancyapps/ui/latest/files/dist/fancybox/fancybox.css">
+
   <footer>
     <p>&copy; 2025 VNS</p>
     <p style="text-align: center; color: rgb(220, 220, 220);">PV&nbsp;<span
@@ -74,7 +73,7 @@
     <script async src="https://busuanzi.9420.ltd/js"></script>
 </footer>
 
-  <script src="https://registry.npmmirror.com/@highlightjs/cdn-assets/latest/files/highlight.min.js"></script>
+  <script async src="https://registry.npmmirror.com/@highlightjs/cdn-assets/latest/files/highlight.min.js"></script>
 <script>
     function initCodeHighlight() {
         document.querySelectorAll('pre code').forEach((block) => {
@@ -84,23 +83,7 @@
     document.addEventListener('DOMContentLoaded', initCodeHighlight);
 </script>
 
-  <script src="https://registry.npmmirror.com/pjax/latest/files/pjax.min.js"></script>
-<script>
-    document.addEventListener('DOMContentLoaded', function () {
-        var pjax = new Pjax({
-            selectors: ["title", "#pjax-container"],
-            cacheBust: false
-        });
-
-        document.addEventListener('pjax:complete', function () {
-            
-            if (typeof initDarkMode === 'function') initDarkMode();
-            if (typeof initCodeHighlight === 'function') initCodeHighlight();
-        });
-    });
-</script>
-
-  <script async src="/js/main.js"></script>
+  <script src="/js/main.js"></script>
   <script>
     if ('serviceWorker' in navigator) {
       navigator.serviceWorker.register('/js/sw.js')

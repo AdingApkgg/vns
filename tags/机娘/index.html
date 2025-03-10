@@ -8,26 +8,27 @@
   <link rel="stylesheet" href="/css/main.css">
   <link rel="stylesheet"
     href="https://registry.npmmirror.com/@highlightjs/cdn-assets/latest/files/styles/github-dark.min.css">
-    <script async src="https://registry.npmmirror.com/pangu/latest/files/dist/browser/pangu.min.js"></script>
+  <script async src="https://registry.npmmirror.com/pangu/latest/files/dist/browser/pangu.min.js"></script>
+  <script src="https://registry.npmmirror.com/pjax/latest/files/pjax.min.js"></script>
 </head>
 
 <body>
   <header>
     <nav>
         
-        <a href="https://gal.saop.cc/">GGS</a>
+        <a href="https://gal.saop.cc/">旧站</a>
         
-        <a href="/">Home</a>
+        <a href="/">首页</a>
         
-        <a href="/posts/">Posts</a>
+        <a href="/posts/">文章</a>
         
-        <a href="/categories/">Categories</a>
+        <a href="/categories/">分类</a>
         
-        <a href="/tags/">Tags</a>
+        <a href="/tags/">标签</a>
         
-        <button id="theme-toggle">Toggle Dark Mode</button>
+        <button id="theme-toggle">昼夜切换</button>
         <link href="/pagefind/pagefind-ui.css" rel="stylesheet">
-        <script src="/pagefind/pagefind-ui.js"></script>
+        <script async src="/pagefind/pagefind-ui.js"></script>
         <div id="search"></div>
         <script>
             window.addEventListener('DOMContentLoaded', (event) => {
@@ -37,39 +38,26 @@
     </nav>
 </header>
 
-  <main id="pjax-container">
+  <main>
     
 <h1>机娘</h1>
 <p></p>
 
 <ul class="post-list">
   
-  <li class="post-item">
-    
-    <h2><a href="/p/56843/">可塑性记忆／プラスティック・メモリーズ／PLASTIC MEMORIES／塑料内存条／塑成型记忆</a></h2>
-    <p><p><img src="https://static.saop.cc/vns/img/plastic-memories.webp" alt="plastic-memories"></p>
+  <li class="post-item"><h2><a href="/p/56843/">可塑性记忆／プラスティック・メモリーズ／PLASTIC MEMORIES／塑料内存条／塑成型记忆</a></h2>
+    <p><p><img src="https://static.saop.cc/vns/img/plastic-memories.webp" data-fancybox="gallery" data-caption="plastic-memories" title="plastic-memories"
+    alt="plastic-memories" /></p>
 <p><strong>《可塑性记忆（<del>塑料内存条</del>）》</strong>（原名：プラスティック・メモリーズ/PLASTIC MEMORIES）是由<a href="https://zh.moegirl.org.cn/%E6%9E%97%E7%9B%B4%E5%AD%9D">林直孝</a>执笔、<a href="https://zh.moegirl.org.cn/index.php?title=Okiura&amp;action=edit&amp;redlink=1">okiura</a>担当角色原案、由5pb.制作的PSV平台ADV游戏，2016年10月13日发售，有通常版、限定版、DL版三种版本。</p></p>
-
-    
-    
-    <a href="/p/56843/">阅读更多...</a>
-    
   </li>
   
-  <li class="post-item">
-    
-    <h2><a href="/p/46827/">献给神明般的你 EX扩展版／神様のような君へ Extended Edition</a></h2>
-    <p><p><img src="https://static.saop.cc/vns/img/kamikimi-ext.webp" alt="kamikimi-ext"></p>
+  <li class="post-item"><h2><a href="/p/46827/">献给神明般的你 EX扩展版／神様のような君へ Extended Edition</a></h2>
+    <p><p><img src="https://static.saop.cc/vns/img/kamikimi-ext.webp" data-fancybox="gallery" data-caption="kamikimi-ext" title="kamikimi-ext"
+    alt="kamikimi-ext" /></p>
 <p>《献给神明般的你》（日语：神様のような君へ）是由CUBE制作的一部galgame。</p></p>
-
-    
-    
-    <a href="/p/46827/">阅读更多...</a>
-    
   </li>
   
 </ul>
-
 
 <div class="pagination">
   
@@ -79,6 +67,11 @@
 
   </main>
 
+  <script
+    src="https://registry.npmmirror.com/@fancyapps/ui/latest/files/dist/fancybox/fancybox.umd.js"></script>
+  <link rel="stylesheet"
+    href="https://registry.npmmirror.com/@fancyapps/ui/latest/files/dist/fancybox/fancybox.css">
+
   <footer>
     <p>&copy; 2025 VNS</p>
     <p style="text-align: center; color: rgb(220, 220, 220);">PV&nbsp;<span
@@ -86,7 +79,7 @@
     <script async src="https://busuanzi.9420.ltd/js"></script>
 </footer>
 
-  <script src="https://registry.npmmirror.com/@highlightjs/cdn-assets/latest/files/highlight.min.js"></script>
+  <script async src="https://registry.npmmirror.com/@highlightjs/cdn-assets/latest/files/highlight.min.js"></script>
 <script>
     function initCodeHighlight() {
         document.querySelectorAll('pre code').forEach((block) => {
@@ -96,23 +89,7 @@
     document.addEventListener('DOMContentLoaded', initCodeHighlight);
 </script>
 
-  <script src="https://registry.npmmirror.com/pjax/latest/files/pjax.min.js"></script>
-<script>
-    document.addEventListener('DOMContentLoaded', function () {
-        var pjax = new Pjax({
-            selectors: ["title", "#pjax-container"],
-            cacheBust: false
-        });
-
-        document.addEventListener('pjax:complete', function () {
-            
-            if (typeof initDarkMode === 'function') initDarkMode();
-            if (typeof initCodeHighlight === 'function') initCodeHighlight();
-        });
-    });
-</script>
-
-  <script async src="/js/main.js"></script>
+  <script src="/js/main.js"></script>
   <script>
     if ('serviceWorker' in navigator) {
       navigator.serviceWorker.register('/js/sw.js')

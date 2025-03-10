@@ -8,26 +8,27 @@
   <link rel="stylesheet" href="/css/main.css">
   <link rel="stylesheet"
     href="https://registry.npmmirror.com/@highlightjs/cdn-assets/latest/files/styles/github-dark.min.css">
-    <script async src="https://registry.npmmirror.com/pangu/latest/files/dist/browser/pangu.min.js"></script>
+  <script async src="https://registry.npmmirror.com/pangu/latest/files/dist/browser/pangu.min.js"></script>
+  <script src="https://registry.npmmirror.com/pjax/latest/files/pjax.min.js"></script>
 </head>
 
 <body>
   <header>
     <nav>
         
-        <a href="https://gal.saop.cc/">GGS</a>
+        <a href="https://gal.saop.cc/">旧站</a>
         
-        <a href="/">Home</a>
+        <a href="/">首页</a>
         
-        <a href="/posts/">Posts</a>
+        <a href="/posts/">文章</a>
         
-        <a href="/categories/">Categories</a>
+        <a href="/categories/">分类</a>
         
-        <a href="/tags/">Tags</a>
+        <a href="/tags/">标签</a>
         
-        <button id="theme-toggle">Toggle Dark Mode</button>
+        <button id="theme-toggle">昼夜切换</button>
         <link href="/pagefind/pagefind-ui.css" rel="stylesheet">
-        <script src="/pagefind/pagefind-ui.js"></script>
+        <script async src="/pagefind/pagefind-ui.js"></script>
         <div id="search"></div>
         <script>
             window.addEventListener('DOMContentLoaded', (event) => {
@@ -37,39 +38,26 @@
     </nav>
 </header>
 
-  <main id="pjax-container">
+  <main>
     
 <h1>黑暗系</h1>
 <p></p>
 
 <ul class="post-list">
   
-  <li class="post-item">
-    
-    <h2><a href="/p/12162/">School Days／スクールデイズ／日在校园／校园的日子／在校时光／SD／スクイズ／HQ</a></h2>
-    <p><p><img src="https://static.saop.cc/vns/img/schooldays.webp" alt="schooldays"></p>
+  <li class="post-item"><h2><a href="/p/12162/">School Days／スクールデイズ／日在校园／校园的日子／在校时光／SD／スクイズ／HQ</a></h2>
+    <p><p><img src="https://static.saop.cc/vns/img/schooldays.webp" data-fancybox="gallery" data-caption="schooldays" title="schooldays"
+    alt="schooldays" /></p>
 <p>《<strong>School Days</strong>》（スクールデイズ）是2005年4月28日由<a href="https://zh.wikipedia.org/wiki/0verflow">0verflow</a>发售的<a href="https://zh.wikipedia.org/wiki/%E5%8D%81%E5%85%AB%E7%A6%81%E9%81%8A%E6%88%B2">十八禁游戏</a>。2010年10月8日发售重制版《<strong>School Days HQ</strong>》，新增加剧本、分辨率和背景改为3D呈现。后来的发售《<a href="https://zh.wikipedia.org/wiki/Summer_Days">Summer Days</a>》、《<a href="https://zh.wikipedia.org/wiki/Cross_Days">Cross Days</a>》、《<a href="https://zh.wikipedia.org/wiki/Island_Days">Island Days</a>》为外传性质故事。电视动画版在日本于2007年7月3日开始放映。2008年1月17日由GungHo Works代理发售<a href="https://zh.wikipedia.org/wiki/PlayStation_2">PlayStation 2</a>版《<strong>School Days L×H</strong>》（Love and Hate），初回限定版同捆OVA和RADIO出张版CD。2007年8月29日，桂言叶作为代表性人物，被收录于出版的《黑化角色大全》中。</p></p>
-
-    
-    
-    <a href="/p/12162/">阅读更多...</a>
-    
   </li>
   
-  <li class="post-item">
-    
-    <h2><a href="/p/23102/">沙耶之歌／沙耶の唄／the song of saya</a></h2>
-    <p><p><img src="https://static.saop.cc/vns/img/song-of-saya.webp" alt="song-of-saya"></p>
+  <li class="post-item"><h2><a href="/p/23102/">沙耶之歌／沙耶の唄／the song of saya</a></h2>
+    <p><p><img src="https://static.saop.cc/vns/img/song-of-saya.webp" data-fancybox="gallery" data-caption="song-of-saya" title="song-of-saya"
+    alt="song-of-saya" /></p>
 <p><strong>《沙耶之歌》</strong>（日语：<strong>沙耶の唄</strong>）是由<a href="https://zh.moegirl.org.cn/Nitro%2B">Nitro+</a>制作的一部R18文字冒险类游戏，由<a href="https://zh.moegirl.org.cn/%E8%99%9A%E6%B8%8A%E7%8E%84">虚渊玄</a>执笔脚本，初版于2003年12月26日发售。</p></p>
-
-    
-    
-    <a href="/p/23102/">阅读更多...</a>
-    
   </li>
   
 </ul>
-
 
 <div class="pagination">
   
@@ -79,6 +67,11 @@
 
   </main>
 
+  <script
+    src="https://registry.npmmirror.com/@fancyapps/ui/latest/files/dist/fancybox/fancybox.umd.js"></script>
+  <link rel="stylesheet"
+    href="https://registry.npmmirror.com/@fancyapps/ui/latest/files/dist/fancybox/fancybox.css">
+
   <footer>
     <p>&copy; 2025 VNS</p>
     <p style="text-align: center; color: rgb(220, 220, 220);">PV&nbsp;<span
@@ -86,7 +79,7 @@
     <script async src="https://busuanzi.9420.ltd/js"></script>
 </footer>
 
-  <script src="https://registry.npmmirror.com/@highlightjs/cdn-assets/latest/files/highlight.min.js"></script>
+  <script async src="https://registry.npmmirror.com/@highlightjs/cdn-assets/latest/files/highlight.min.js"></script>
 <script>
     function initCodeHighlight() {
         document.querySelectorAll('pre code').forEach((block) => {
@@ -96,23 +89,7 @@
     document.addEventListener('DOMContentLoaded', initCodeHighlight);
 </script>
 
-  <script src="https://registry.npmmirror.com/pjax/latest/files/pjax.min.js"></script>
-<script>
-    document.addEventListener('DOMContentLoaded', function () {
-        var pjax = new Pjax({
-            selectors: ["title", "#pjax-container"],
-            cacheBust: false
-        });
-
-        document.addEventListener('pjax:complete', function () {
-            
-            if (typeof initDarkMode === 'function') initDarkMode();
-            if (typeof initCodeHighlight === 'function') initCodeHighlight();
-        });
-    });
-</script>
-
-  <script async src="/js/main.js"></script>
+  <script src="/js/main.js"></script>
   <script>
     if ('serviceWorker' in navigator) {
       navigator.serviceWorker.register('/js/sw.js')

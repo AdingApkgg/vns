@@ -1,22 +1,21 @@
 document.addEventListener("DOMContentLoaded", function () {
-  // Initialize Pjax
-  var pjax = new Pjax({
-    selectors: ["title", "main"],
+  const pjax = new Pjax({
+    selectors: ["header", "title", "main"],
     cacheBust: false,
   });
-
-  // Handle Pjax events
   document.addEventListener("pjax:complete", function () {
-    // Reinitialize any scripts or styles after Pjax load
+    if (typeof initDarkMode === "function") initDarkMode();
+    if (typeof initCodeHighlight === "function") initCodeHighlight();
+    Fancybox.bind('[data-fancybox="gallery"]', {
+      // Your custom options for a specific gallery
+    });
   });
 });
 
 function initDarkMode() {
   const themeToggle = document.getElementById("theme-toggle");
   const currentTheme = localStorage.getItem("theme") || "light";
-
   document.documentElement.setAttribute("data-theme", currentTheme);
-
   if (themeToggle) {
     themeToggle.addEventListener("click", () => {
       const newTheme =
@@ -28,7 +27,6 @@ function initDarkMode() {
     });
   }
 }
-
 document.addEventListener("DOMContentLoaded", initDarkMode);
 
 function highlightText(text, query) {
@@ -44,7 +42,6 @@ function displayResults(results) {
     searchResults.innerHTML = "<p>No results found.</p>";
     return;
   }
-
   const ul = document.createElement("ul");
   results.forEach((page) => {
     const li = document.createElement("li");
@@ -57,14 +54,11 @@ function displayResults(results) {
   searchResults.appendChild(ul);
 }
 
-const text = pangu.spacing("當你凝視著bug，bug也凝視著你");
-// text = '當你凝視著 bug，bug 也凝視著你'
-
 pangu.spacingElementById("main");
 pangu.spacingElementByClassName("comment");
 pangu.spacingElementByTagName("p");
-
 document.addEventListener("DOMContentLoaded", () => {
-  // listen to any DOM change and automatically perform spacing via MutationObserver()
   pangu.autoSpacingPage();
 });
+
+Fancybox.fromSelector('[data-fancybox="gallery"]');

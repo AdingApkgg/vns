@@ -8,26 +8,27 @@
   <link rel="stylesheet" href="/css/main.css">
   <link rel="stylesheet"
     href="https://registry.npmmirror.com/@highlightjs/cdn-assets/latest/files/styles/github-dark.min.css">
-    <script async src="https://registry.npmmirror.com/pangu/latest/files/dist/browser/pangu.min.js"></script>
+  <script async src="https://registry.npmmirror.com/pangu/latest/files/dist/browser/pangu.min.js"></script>
+  <script src="https://registry.npmmirror.com/pjax/latest/files/pjax.min.js"></script>
 </head>
 
 <body>
   <header>
     <nav>
         
-        <a href="https://gal.saop.cc/">GGS</a>
+        <a href="https://gal.saop.cc/">旧站</a>
         
-        <a href="/">Home</a>
+        <a href="/">首页</a>
         
-        <a href="/posts/">Posts</a>
+        <a href="/posts/">文章</a>
         
-        <a href="/categories/">Categories</a>
+        <a href="/categories/">分类</a>
         
-        <a href="/tags/">Tags</a>
+        <a href="/tags/">标签</a>
         
-        <button id="theme-toggle">Toggle Dark Mode</button>
+        <button id="theme-toggle">昼夜切换</button>
         <link href="/pagefind/pagefind-ui.css" rel="stylesheet">
-        <script src="/pagefind/pagefind-ui.js"></script>
+        <script async src="/pagefind/pagefind-ui.js"></script>
         <div id="search"></div>
         <script>
             window.addEventListener('DOMContentLoaded', (event) => {
@@ -37,39 +38,26 @@
     </nav>
 </header>
 
-  <main id="pjax-container">
+  <main>
     
 <h1>制服</h1>
 <p></p>
 
 <ul class="post-list">
   
-  <li class="post-item">
-    
-    <h2><a href="/p/1091/">生命的备件／生命的备份／生命のスペア／I was born for you</a></h2>
-    <p><p><img src="https://static.saop.cc/vns/img/inochinospare.webp" alt="inochinospare"></p>
+  <li class="post-item"><h2><a href="/p/1091/">生命的备件／生命的备份／生命のスペア／I was born for you</a></h2>
+    <p><p><img src="https://static.saop.cc/vns/img/inochinospare.webp" data-fancybox="gallery" data-caption="inochinospare" title="inochinospare"
+    alt="inochinospare" /></p>
 <p>《<strong>生命的备件</strong>》（日语：<strong>生命のスペア</strong>），另译<strong>生命的备份</strong>，是由<a href="https://zh.moegirl.org.cn/index.php?title=AKABEiSOFT3&amp;action=edit&amp;redlink=1">AKABEiSOFT3</a>制作的一部<a href="https://zh.moegirl.org.cn/Galgame">Galgame</a>。</p></p>
-
-    
-    
-    <a href="/p/1091/">阅读更多...</a>
-    
   </li>
   
-  <li class="post-item">
-    
-    <h2><a href="/p/59607/">星光咖啡馆与死神之蝶／星巴克与扑棱蛾子／喫茶ステラと死神の蝶／Cafe Stella and the Reapers&#39; Butterflies</a></h2>
-    <p><p><img src="https://static.saop.cc/vns/img/stella_yuzu-soft.webp" alt="stella_yuzu-soft"></p>
+  <li class="post-item"><h2><a href="/p/59607/">星光咖啡馆与死神之蝶／星巴克与扑棱蛾子／喫茶ステラと死神の蝶／Cafe Stella and the Reapers&#39; Butterflies</a></h2>
+    <p><p><img src="https://static.saop.cc/vns/img/stella_yuzu-soft.webp" data-fancybox="gallery" data-caption="stella_yuzu-soft" title="stella_yuzu-soft"
+    alt="stella_yuzu-soft" /></p>
 <p><strong>星光咖啡馆与死神之蝶</strong>（日语：<strong>喫茶（カフェ）ステラと死神の蝶</strong>、英语：<em><strong>Café Stella and the Reapers&rsquo; Butterflies</strong></em>）是由<a href="https://zh.moegirl.org.cn/%E6%9F%9A%E5%AD%90%E7%A4%BE">柚子社</a>制作的<a href="https://zh.moegirl.org.cn/Galgame">Galgame</a>。</p></p>
-
-    
-    
-    <a href="/p/59607/">阅读更多...</a>
-    
   </li>
   
 </ul>
-
 
 <div class="pagination">
   
@@ -79,6 +67,11 @@
 
   </main>
 
+  <script
+    src="https://registry.npmmirror.com/@fancyapps/ui/latest/files/dist/fancybox/fancybox.umd.js"></script>
+  <link rel="stylesheet"
+    href="https://registry.npmmirror.com/@fancyapps/ui/latest/files/dist/fancybox/fancybox.css">
+
   <footer>
     <p>&copy; 2025 VNS</p>
     <p style="text-align: center; color: rgb(220, 220, 220);">PV&nbsp;<span
@@ -86,7 +79,7 @@
     <script async src="https://busuanzi.9420.ltd/js"></script>
 </footer>
 
-  <script src="https://registry.npmmirror.com/@highlightjs/cdn-assets/latest/files/highlight.min.js"></script>
+  <script async src="https://registry.npmmirror.com/@highlightjs/cdn-assets/latest/files/highlight.min.js"></script>
 <script>
     function initCodeHighlight() {
         document.querySelectorAll('pre code').forEach((block) => {
@@ -96,23 +89,7 @@
     document.addEventListener('DOMContentLoaded', initCodeHighlight);
 </script>
 
-  <script src="https://registry.npmmirror.com/pjax/latest/files/pjax.min.js"></script>
-<script>
-    document.addEventListener('DOMContentLoaded', function () {
-        var pjax = new Pjax({
-            selectors: ["title", "#pjax-container"],
-            cacheBust: false
-        });
-
-        document.addEventListener('pjax:complete', function () {
-            
-            if (typeof initDarkMode === 'function') initDarkMode();
-            if (typeof initCodeHighlight === 'function') initCodeHighlight();
-        });
-    });
-</script>
-
-  <script async src="/js/main.js"></script>
+  <script src="/js/main.js"></script>
   <script>
     if ('serviceWorker' in navigator) {
       navigator.serviceWorker.register('/js/sw.js')

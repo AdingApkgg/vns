@@ -8,26 +8,27 @@
   <link rel="stylesheet" href="/css/main.css">
   <link rel="stylesheet"
     href="https://registry.npmmirror.com/@highlightjs/cdn-assets/latest/files/styles/github-dark.min.css">
-    <script async src="https://registry.npmmirror.com/pangu/latest/files/dist/browser/pangu.min.js"></script>
+  <script async src="https://registry.npmmirror.com/pangu/latest/files/dist/browser/pangu.min.js"></script>
+  <script src="https://registry.npmmirror.com/pjax/latest/files/pjax.min.js"></script>
 </head>
 
 <body>
   <header>
     <nav>
         
-        <a href="https://gal.saop.cc/">GGS</a>
+        <a href="https://gal.saop.cc/">旧站</a>
         
-        <a href="/">Home</a>
+        <a href="/">首页</a>
         
-        <a href="/posts/">Posts</a>
+        <a href="/posts/">文章</a>
         
-        <a href="/categories/">Categories</a>
+        <a href="/categories/">分类</a>
         
-        <a href="/tags/">Tags</a>
+        <a href="/tags/">标签</a>
         
-        <button id="theme-toggle">Toggle Dark Mode</button>
+        <button id="theme-toggle">昼夜切换</button>
         <link href="/pagefind/pagefind-ui.css" rel="stylesheet">
-        <script src="/pagefind/pagefind-ui.js"></script>
+        <script async src="/pagefind/pagefind-ui.js"></script>
         <div id="search"></div>
         <script>
             window.addEventListener('DOMContentLoaded', (event) => {
@@ -37,39 +38,26 @@
     </nav>
 </header>
 
-  <main id="pjax-container">
+  <main>
     
 <h1>补魔</h1>
 <p></p>
 
 <ul class="post-list">
   
-  <li class="post-item">
-    
-    <h2><a href="/p/25624/">Fate/hollow ataraxia／fha／命运／停驻之夜／命运之夜／命运守护夜／命运长夜／虚空明镜／FD</a></h2>
-    <p><p><img src="https://static.saop.cc/vns/img/fate-ha.webp" alt="fate-ha"></p>
+  <li class="post-item"><h2><a href="/p/25624/">Fate/hollow ataraxia／fha／命运／停驻之夜／命运之夜／命运守护夜／命运长夜／虚空明镜／FD</a></h2>
+    <p><p><img src="https://static.saop.cc/vns/img/fate-ha.webp" data-fancybox="gallery" data-caption="fate-ha" title="fate-ha"
+    alt="fate-ha" /></p>
 <p><strong>《Fate/hollow ataraxia》</strong>（日語：<strong>フェイト/ホロウ　アタラクシア</strong>）是由<a href="https://zh.moegirl.org.cn/TYPE-MOON">TYPE-MOON</a>製作的一部AVG遊戲，於2005年初次發售，為遊戲「<a href="https://zh.moegirl.org.cn/Fate/stay_night">Fate/stay night</a>」的Fan Disc。</p></p>
-
-    
-    
-    <a href="/p/25624/">阅读更多...</a>
-    
   </li>
   
-  <li class="post-item">
-    
-    <h2><a href="/p/47594/">Fate/stay night／fsn／命运／停驻之夜／命运之夜／命运守护夜／命运长夜／通常 HD 高清 重置 重制 REMASTERED</a></h2>
-    <p><p><img src="https://static.saop.cc/vns/img/fate-sn.webp" alt="fate-sn"></p>
+  <li class="post-item"><h2><a href="/p/47594/">Fate/stay night／fsn／命运／停驻之夜／命运之夜／命运守护夜／命运长夜／通常 HD 高清 重置 重制 REMASTERED</a></h2>
+    <p><p><img src="https://static.saop.cc/vns/img/fate-sn.webp" data-fancybox="gallery" data-caption="fate-sn" title="fate-sn"
+    alt="fate-sn" /></p>
 <p>《<strong>Fate/stay night</strong>》（日语：フェイト/ステイナイト，中文：命运／停驻之夜、命运守护夜、命运之夜）是由<a href="https://zh.wikipedia.org/wiki/TYPE-MOON">TYPE-MOON</a>于2004年1月30日发售的<a href="https://zh.wikipedia.org/wiki/%E4%B8%AA%E4%BA%BA%E7%94%B5%E8%84%91">PC</a>平台<a href="https://zh.wikipedia.org/wiki/%E5%8D%81%E5%85%AB%E7%A6%81%E9%81%8A%E6%88%B2">十八禁</a><a href="https://zh.wikipedia.org/wiki/%E6%96%87%E5%AD%97%E5%86%92%E9%9A%AA%E9%81%8A%E6%88%B2">文字冒险游戏</a>，也是TYPE-MOON商业化后初次亮相的作品。</p></p>
-
-    
-    
-    <a href="/p/47594/">阅读更多...</a>
-    
   </li>
   
 </ul>
-
 
 <div class="pagination">
   
@@ -79,6 +67,11 @@
 
   </main>
 
+  <script
+    src="https://registry.npmmirror.com/@fancyapps/ui/latest/files/dist/fancybox/fancybox.umd.js"></script>
+  <link rel="stylesheet"
+    href="https://registry.npmmirror.com/@fancyapps/ui/latest/files/dist/fancybox/fancybox.css">
+
   <footer>
     <p>&copy; 2025 VNS</p>
     <p style="text-align: center; color: rgb(220, 220, 220);">PV&nbsp;<span
@@ -86,7 +79,7 @@
     <script async src="https://busuanzi.9420.ltd/js"></script>
 </footer>
 
-  <script src="https://registry.npmmirror.com/@highlightjs/cdn-assets/latest/files/highlight.min.js"></script>
+  <script async src="https://registry.npmmirror.com/@highlightjs/cdn-assets/latest/files/highlight.min.js"></script>
 <script>
     function initCodeHighlight() {
         document.querySelectorAll('pre code').forEach((block) => {
@@ -96,23 +89,7 @@
     document.addEventListener('DOMContentLoaded', initCodeHighlight);
 </script>
 
-  <script src="https://registry.npmmirror.com/pjax/latest/files/pjax.min.js"></script>
-<script>
-    document.addEventListener('DOMContentLoaded', function () {
-        var pjax = new Pjax({
-            selectors: ["title", "#pjax-container"],
-            cacheBust: false
-        });
-
-        document.addEventListener('pjax:complete', function () {
-            
-            if (typeof initDarkMode === 'function') initDarkMode();
-            if (typeof initCodeHighlight === 'function') initCodeHighlight();
-        });
-    });
-</script>
-
-  <script async src="/js/main.js"></script>
+  <script src="/js/main.js"></script>
   <script>
     if ('serviceWorker' in navigator) {
       navigator.serviceWorker.register('/js/sw.js')

@@ -8,26 +8,27 @@
   <link rel="stylesheet" href="/css/main.css">
   <link rel="stylesheet"
     href="https://registry.npmmirror.com/@highlightjs/cdn-assets/latest/files/styles/github-dark.min.css">
-    <script async src="https://registry.npmmirror.com/pangu/latest/files/dist/browser/pangu.min.js"></script>
+  <script async src="https://registry.npmmirror.com/pangu/latest/files/dist/browser/pangu.min.js"></script>
+  <script src="https://registry.npmmirror.com/pjax/latest/files/pjax.min.js"></script>
 </head>
 
 <body>
   <header>
     <nav>
         
-        <a href="https://gal.saop.cc/">GGS</a>
+        <a href="https://gal.saop.cc/">旧站</a>
         
-        <a href="/">Home</a>
+        <a href="/">首页</a>
         
-        <a href="/posts/">Posts</a>
+        <a href="/posts/">文章</a>
         
-        <a href="/categories/">Categories</a>
+        <a href="/categories/">分类</a>
         
-        <a href="/tags/">Tags</a>
+        <a href="/tags/">标签</a>
         
-        <button id="theme-toggle">Toggle Dark Mode</button>
+        <button id="theme-toggle">昼夜切换</button>
         <link href="/pagefind/pagefind-ui.css" rel="stylesheet">
-        <script src="/pagefind/pagefind-ui.js"></script>
+        <script async src="/pagefind/pagefind-ui.js"></script>
         <div id="search"></div>
         <script>
             window.addEventListener('DOMContentLoaded', (event) => {
@@ -37,40 +38,27 @@
     </nav>
 </header>
 
-  <main id="pjax-container">
+  <main>
     
 <h1>魔女</h1>
 <p></p>
 
 <ul class="post-list">
   
-  <li class="post-item">
-    
-    <h2><a href="/p/6977/">樱花，萌放。／さくら、もゆ。-as the Night&#39;s, Reincarnation-／樱花萌放-as the Night&#39;s, Reincarnation-／樱摸鱼／樱、萌发。／樱花萌咲／樱花摸鱼</a></h2>
-    <p><p><img src="https://static.saop.cc/vns/img/sakura.webp" alt="sakura"></p>
+  <li class="post-item"><h2><a href="/p/6977/">樱花，萌放。／さくら、もゆ。-as the Night&#39;s, Reincarnation-／樱花萌放-as the Night&#39;s, Reincarnation-／樱摸鱼／樱、萌发。／樱花萌咲／樱花摸鱼</a></h2>
+    <p><p><img src="https://static.saop.cc/vns/img/sakura.webp" data-fancybox="gallery" data-caption="sakura" title="sakura"
+    alt="sakura" /></p>
 <p><strong>樱花，萌放。</strong>（日语：<strong>さくら、もゆ。-as the Night&rsquo;s, Reincarnation-</strong>）是由<a href="https://zh.moegirl.org.cn/FAVORITE">FAVORITE</a>制作的美少女游戏，为该社第七作（不计FD）。</p>
 <p>体验版于2018年12月19日公开，同日公布与<a href="https://zh.moegirl.org.cn/%E7%88%B1%E4%B8%8A%E7%81%AB%E8%BD%A6">爱上火车</a>进行联动。经数次延期后于2019年1月31日发售。</p></p>
-
-    
-    
-    <a href="/p/6977/">阅读更多...</a>
-    
   </li>
   
-  <li class="post-item">
-    
-    <h2><a href="/p/61936/">魔女的夜宴／サノバウィッチ／魔宴／Sabbat of the Witch</a></h2>
-    <p><p><img src="https://static.saop.cc/vns/img/sothewitch.webp" alt="sothewitch"></p>
+  <li class="post-item"><h2><a href="/p/61936/">魔女的夜宴／サノバウィッチ／魔宴／Sabbat of the Witch</a></h2>
+    <p><p><img src="https://static.saop.cc/vns/img/sothewitch.webp" data-fancybox="gallery" data-caption="sothewitch" title="sothewitch"
+    alt="sothewitch" /></p>
 <p>《<strong>魔女的夜宴</strong>》（日语：<strong>サノバウィッチ</strong>）是由<a href="https://zh.moegirl.org.cn/YUZU_SOFT">柚子社</a>制作发行的恋爱文字冒险游戏，于2015年2月27日面向Windows PC平台发售。英文版由NekoNyan代理，于2018年10月27日在Steam、NekoNyan的网上商城还有其他平台发售，并发行实体版。中文版由HIKARI FIELD代理，于2023年7月21日~~柚子厨特有的<a href="https://zh.moegirl.org.cn/0721">0721</a>~~在Steam发售。</p></p>
-
-    
-    
-    <a href="/p/61936/">阅读更多...</a>
-    
   </li>
   
 </ul>
-
 
 <div class="pagination">
   
@@ -80,6 +68,11 @@
 
   </main>
 
+  <script
+    src="https://registry.npmmirror.com/@fancyapps/ui/latest/files/dist/fancybox/fancybox.umd.js"></script>
+  <link rel="stylesheet"
+    href="https://registry.npmmirror.com/@fancyapps/ui/latest/files/dist/fancybox/fancybox.css">
+
   <footer>
     <p>&copy; 2025 VNS</p>
     <p style="text-align: center; color: rgb(220, 220, 220);">PV&nbsp;<span
@@ -87,7 +80,7 @@
     <script async src="https://busuanzi.9420.ltd/js"></script>
 </footer>
 
-  <script src="https://registry.npmmirror.com/@highlightjs/cdn-assets/latest/files/highlight.min.js"></script>
+  <script async src="https://registry.npmmirror.com/@highlightjs/cdn-assets/latest/files/highlight.min.js"></script>
 <script>
     function initCodeHighlight() {
         document.querySelectorAll('pre code').forEach((block) => {
@@ -97,23 +90,7 @@
     document.addEventListener('DOMContentLoaded', initCodeHighlight);
 </script>
 
-  <script src="https://registry.npmmirror.com/pjax/latest/files/pjax.min.js"></script>
-<script>
-    document.addEventListener('DOMContentLoaded', function () {
-        var pjax = new Pjax({
-            selectors: ["title", "#pjax-container"],
-            cacheBust: false
-        });
-
-        document.addEventListener('pjax:complete', function () {
-            
-            if (typeof initDarkMode === 'function') initDarkMode();
-            if (typeof initCodeHighlight === 'function') initCodeHighlight();
-        });
-    });
-</script>
-
-  <script async src="/js/main.js"></script>
+  <script src="/js/main.js"></script>
   <script>
     if ('serviceWorker' in navigator) {
       navigator.serviceWorker.register('/js/sw.js')
