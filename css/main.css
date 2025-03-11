@@ -567,16 +567,18 @@ main,
 }
 
 main h1,
-main h2 {
-  border-left: 4px solid var(--link-color);
-  border-radius: 4px;
-  padding-left: 1rem;
+main h2,
+main h3 {
+  border-bottom: 1px solid #e0e0e0;
 }
 
 main p img {
-  max-width: 100%;
+  max-width: calc(100% + 2em);
+  margin: 0 -1em;
   display: block;
-  margin: 0 auto;
+  position: relative;
+  left: calc(50% + 1em);
+  transform: translateX(-50%);
 }
 
 footer {
