@@ -553,10 +553,11 @@ nav a {
   text-decoration: none;
 }
 
-main {
+main,
+#search {
   max-width: 1000px;
-  margin: 0 auto;
-  padding: 1rem;
+  margin: 20px auto;
+  padding: 1em;
   border-top: none;
   border-bottom: none;
   border-radius: 4px;
@@ -595,11 +596,6 @@ pre code {
 
 [data-theme="dark"] pre code {
   background-color: #2d2d2d;
-}
-
-#search {
-  max-width: 1000px;
-  margin: 10px auto;
 }
 
 #search-results {

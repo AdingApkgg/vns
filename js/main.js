@@ -1,22 +1,24 @@
-document.addEventListener("DOMContentLoaded", function () {
-  const pjax = new Pjax({
-    selectors: ["header", "main"],
-    cacheBust: false,
-  });
-  document.addEventListener("pjax:complete", function () {
-    if (typeof initDarkMode === "function") initDarkMode();
-    if (typeof initCodeHighlight === "function") initCodeHighlight();
-    Fancybox.bind('[data-fancybox="gallery"]', {
-      // Your custom options for a specific gallery
-    });
-    pangu.spacingElementById("main");
-    pangu.spacingElementByClassName("comment");
-    pangu.spacingElementByTagName("p");
-    document.addEventListener("DOMContentLoaded", () => {
-      pangu.autoSpacingPage();
-    });
-  });
+const pjax = new Pjax({
+  selectors: ["header", "main"],
+  cacheBust: false,
 });
+document.addEventListener("pjax:complete", function () {
+  if (typeof initDarkMode === "function") initDarkMode();
+  if (typeof initCodeHighlight === "function") initCodeHighlight();
+});
+
+window.onload = function () {
+  Fancybox.bind('[data-fancybox="gallery"]', {});
+
+  pangu.spacingElementById("main");
+  pangu.spacingElementByClassName("comment");
+  pangu.spacingElementByTagName("p");
+  document.addEventListener("DOMContentLoaded", () => {
+    pangu.autoSpacingPage();
+  });
+};
+
+Fancybox.fromSelector('[data-fancybox="gallery"]');
 
 function displayResults(results) {
   searchResults.innerHTML = "";
@@ -59,5 +61,3 @@ function highlightText(text, query) {
     (match) => `<span class="highlight">${match}</span>`
   );
 }
-
-Fancybox.fromSelector('[data-fancybox="gallery"]');
