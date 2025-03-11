@@ -541,6 +541,18 @@ body {
   padding: 0;
 }
 
+body:before {
+  content: '';
+  position: fixed;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  background: url('/img/cute.webp');
+  opacity: 0.3;
+  z-index: -1;
+}
+
 header {
   background-color: var(--bg-color);
   padding: 1rem;
@@ -566,10 +578,12 @@ main,
   color: var(--text-color);
 }
 
-main h1,
-main h2,
-main h3 {
+main h2 {
   border-bottom: 1px solid #e0e0e0;
+}
+
+main h3 {
+  border-bottom: 1px dotted #e0e0e0;
 }
 
 main p img {
@@ -600,26 +614,11 @@ pre code {
   background-color: #2d2d2d;
 }
 
-#search-results {
-  margin-top: 1rem;
-}
-
-#search-results ul {
-  list-style-type: none;
-  padding: 0;
-}
-
-#search-results li {
-  margin: 0.5rem 0;
-}
-
-#search-results a {
-  color: var(--link-color);
-  text-decoration: none;
-}
-
-#search-results a:hover {
-  text-decoration: underline;
+.pagefind-ui form input,
+.pagefind-ui form button,
+.pagefind-ui div * {
+  background: var(--bg-color) !important;
+  color: var(--text-color) !important;
 }
 
 .highlight {
@@ -679,7 +678,7 @@ pre code {
 }
 
 .comments {
-  max-width: 800px;
+  max-width: 960px;
   margin: 0 auto;
 }
 
@@ -691,4 +690,45 @@ pre code {
 
 .comment {
   padding: 1rem 0;
+}
+
+#fps {
+  position: fixed;
+  right: 0px;
+  bottom: 0px;
+  z-index: 1000;
+  background-color: var(--bg-color);
+  padding: 2px 4px;
+  border-top-left-radius: 4px;
+}
+
+.aplayer-list,
+.aplayer-list-index,
+.aplayer-list-title,
+.aplayer-list-author,
+.aplayer-title,
+.aplayer-info,
+.aplayer-music *,
+.aplayer-icon {
+  background: var(--bg-color);
+  color: var(--text-color) !important;
+}
+
+.aplayer-list ol li,
+.aplayer-music {
+  text-align: initial !important;
+}
+
+@media (max-width: 960px) {
+  #fps {
+    z-index: 1;
+  }
+
+  .aplayer.aplayer-fixed.aplayer-narrow .aplayer-body {
+    left: -66px !important;
+  }
+
+  .aplayer.aplayer-fixed.aplayer-narrow .aplayer-body:hover {
+    left: 0 !important;
+  }
 }
