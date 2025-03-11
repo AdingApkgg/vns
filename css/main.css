@@ -597,6 +597,11 @@ pre code {
   background-color: #2d2d2d;
 }
 
+#search {
+  max-width: 1000px;
+  margin: 10px auto;
+}
+
 #search-results {
   margin-top: 1rem;
 }

@@ -11,6 +11,8 @@
     href="https://registry.npmmirror.com/@highlightjs/cdn-assets/latest/files/styles/github-dark.min.css">
   <script async src="https://registry.npmmirror.com/pangu/latest/files/dist/browser/pangu.min.js"></script>
   <script src="https://registry.npmmirror.com/pjax/latest/files/pjax.min.js"></script>
+  <link href="/pagefind/pagefind-ui.css" rel="stylesheet">
+  <script async src="/pagefind/pagefind-ui.js"></script>
 </head>
 
 <body>
@@ -28,16 +30,16 @@
         <a href="/tags/">标签</a>
         
         <button id="theme-toggle">昼夜切换</button>
-        <link href="/pagefind/pagefind-ui.css" rel="stylesheet">
-        <script async src="/pagefind/pagefind-ui.js"></script>
-        <div id="search"></div>
-        <script>
-            window.addEventListener('DOMContentLoaded', (event) => {
-                new PagefindUI({ element: "#search", showSubResults: true });
-            });
-        </script>
     </nav>
 </header>
+<link href="/pagefind/pagefind-ui.css" rel="stylesheet">
+<script src="/pagefind/pagefind-ui.js"></script>
+<div id="search"></div>
+<script>
+    window.addEventListener("DOMContentLoaded", (event) => {
+        new PagefindUI({ element: "#search", showSubResults: true });
+    });
+</script>
 
   <main>
     
