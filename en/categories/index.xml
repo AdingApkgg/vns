@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on VNS</title>
+    <link>https://vns.saop.cc/en/categories/</link>
+    <description>Recent content in Categories on VNS</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 21 Dec 2024 03:45:40 +0000</lastBuildDate>
+    <atom:link href="https://vns.saop.cc/en/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Android</title>
+      <link>https://vns.saop.cc/en/categories/android/</link>
+      <pubDate>Sat, 21 Dec 2024 03:45:40 +0000</pubDate>
+      <guid>https://vns.saop.cc/en/categories/android/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Windows</title>
+      <link>https://vns.saop.cc/en/categories/windows/</link>
+      <pubDate>Sat, 21 Dec 2024 03:45:40 +0000</pubDate>
+      <guid>https://vns.saop.cc/en/categories/windows/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>PSP</title>
+      <link>https://vns.saop.cc/en/categories/psp/</link>
+      <pubDate>Wed, 20 Nov 2024 02:47:40 +0000</pubDate>
+      <guid>https://vns.saop.cc/en/categories/psp/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>KRKR</title>
+      <link>https://vns.saop.cc/en/categories/krkr/</link>
+      <pubDate>Mon, 18 Nov 2024 20:51:40 +0000</pubDate>
+      <guid>https://vns.saop.cc/en/categories/krkr/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tyranor</title>
+      <link>https://vns.saop.cc/en/categories/tyranor/</link>
+      <pubDate>Mon, 11 Nov 2024 00:26:50 +0000</pubDate>
+      <guid>https://vns.saop.cc/en/categories/tyranor/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>IOS</title>
+      <link>https://vns.saop.cc/en/categories/ios/</link>
+      <pubDate>Tue, 24 Sep 2024 00:26:30 +0000</pubDate>
+      <guid>https://vns.saop.cc/en/categories/ios/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Linux</title>
+      <link>https://vns.saop.cc/en/categories/linux/</link>
+      <pubDate>Tue, 24 Sep 2024 00:26:30 +0000</pubDate>
+      <guid>https://vns.saop.cc/en/categories/linux/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>MacOS</title>
+      <link>https://vns.saop.cc/en/categories/macos/</link>
+      <pubDate>Tue, 24 Sep 2024 00:26:30 +0000</pubDate>
+      <guid>https://vns.saop.cc/en/categories/macos/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>ONS</title>
+      <link>https://vns.saop.cc/en/categories/ons/</link>
+      <pubDate>Mon, 16 Sep 2024 03:50:00 +0000</pubDate>
+      <guid>https://vns.saop.cc/en/categories/ons/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Other</title>
+      <link>https://vns.saop.cc/en/categories/other/</link>
+      <pubDate>Sat, 10 Feb 2024 03:00:00 +0000</pubDate>
+      <guid>https://vns.saop.cc/en/categories/other/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

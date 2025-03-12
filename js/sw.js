@@ -1,5 +1,12 @@
 const CACHE_NAME = "i";
-const urlsToCache = ["/", "/css/main.css", "/js/main.js"];
+const urlsToCache = [
+  "/",
+  "/css/main.css",
+  "/js/main.js",
+  "/favicon.ico",
+  "/p/",
+  "/pagefind/",
+];
 
 self.addEventListener("install", function (event) {
   event.waitUntil(

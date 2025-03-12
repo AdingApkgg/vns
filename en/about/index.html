@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" data-theme="light">
+
+<head>
+  <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>about | VNS</title>
+<script async src="https://registry.npmmirror.com/pjax/latest/files/pjax.min.js"></script>
+<link rel="stylesheet"
+    href="https://registry.npmmirror.com/@highlightjs/cdn-assets/latest/files/styles/github-dark.min.css">
+<script async src="https://registry.npmmirror.com/pangu/latest/files/dist/browser/pangu.min.js"></script>
+<link href="/pagefind/pagefind-ui.css" rel="stylesheet">
+<script src="/pagefind/pagefind-ui.js"></script>
+<script async src="https://registry.npmmirror.com/pace-js/latest/files/pace.min.js"></script>
+<link rel="stylesheet" href="https://registry.npmmirror.com/pace-js/latest/files/themes/blue/pace-theme-flash.css">
+<link rel="stylesheet" href="https://registry.npmmirror.com/weblive2d/latest/files/waifu.css">
+<script async="async" src="https://registry.npmmirror.com/weblive2d/latest/files/js/autoload.js"></script>
+<link href="/pagefind/pagefind-ui.css" rel="stylesheet">
+<script async src="/pagefind/pagefind-ui.js"></script>
+
+<link rel="stylesheet" href="/css/main.min.ad884b71fd4925be3603a1656e1d5b31579954f659ddd060296c3bd8c8508ced.css" integrity="sha256-rYhLcf1JJb42A6Flbh1bMVeZVPZZ3dBgKWw72MhQjO0=" crossorigin="anonymous">
+
+<script src="/js/main.4f1ad0a6c621865e7425025c3c0780569f419c970917a17e5a8c55c4be422714.js" integrity="sha256-TxrQpsYhhl50JQJcPAeAVp9BnJcJF6F&#43;WoxVxL5CJxQ=" crossorigin="anonymous"></script>
+</head>
+
+<body>
+  <header>
+    <nav>
+    
+    <a href="https://gal.saop.cc/">OldSite</a>
+    
+    <a href="/en/">Home</a>
+    
+    <a href="/en/p/">Posts</a>
+    
+    <a href="/en/categories/">Categories</a>
+    
+    <a href="/en/tags/">Tags</a>
+    
+    <a href="/en/about/">About</a>
+    
+    <a href="/">简体中文</a>
+    
+    <button id="theme-toggle">Change Theme</button>
+</nav>
+  </header>
+  <div id="search"></div>
+  <main>
+    
+<h1>about</h1>
+
+
+
+<time datetime="2025-03-12T02:20:20&#43;00:00">March 12, 2025</time>
+
+<h2 id="about-me">About Me</h2>
+<p>Hello! This is my about page.</p>
+
+
+
+
+
+
+
+  </main>
+  <footer>
+    <p>&copy; 2025 VNS</p>
+<p>PV: <span id="busuanzi_site_pv">null</span>，UV: <span
+                id="busuanzi_site_uv">null</span>
+</p>
+<script async src="https://busuanzi.9420.ltd/js"></script>
+  </footer>
+  <script>
+    window.addEventListener("DOMContentLoaded", (event) => {
+        new PagefindUI({ element: "#search", showSubResults: true });
+    });
+</script>
+<script src="https://registry.npmmirror.com/@fancyapps/ui/latest/files/dist/fancybox/fancybox.umd.js"></script>
+<link rel="stylesheet" href="https://registry.npmmirror.com/@fancyapps/ui/latest/files/dist/fancybox/fancybox.css">
+<script>
+    window.onload = function () {
+        Fancybox.bind('[data-fancybox="gallery"]', {});
+        pangu.spacingElementById("main");
+        pangu.spacingElementByClassName("comment");
+        pangu.spacingElementByTagName("p");
+        document.addEventListener("DOMContentLoaded", () => {
+            pangu.autoSpacingPage();
+        });
+    };
+    Fancybox.fromSelector('[data-fancybox="gallery"]');
+    function initDarkMode() {
+        const themeToggle = document.getElementById("theme-toggle");
+        const currentTheme = localStorage.getItem("theme") || "light";
+        document.documentElement.setAttribute("data-theme", currentTheme);
+        if (themeToggle) {
+            themeToggle.addEventListener("click", () => {
+                const newTheme =
+                    document.documentElement.getAttribute("data-theme") === "dark"
+                        ? "light"
+                        : "dark";
+                document.documentElement.setAttribute("data-theme", newTheme);
+                localStorage.setItem("theme", newTheme);
+            });
+        }
+    }
+    document.addEventListener("DOMContentLoaded", initDarkMode);
+    function initScrollEffects() {
+        const header = document.querySelector("header");
+        const backToTopButton = document.getElementById("back-to-top");
+        if (!header || !backToTopButton) return;
+        window.addEventListener("scroll", function () {
+            if (window.scrollY > 100) {
+                header.classList.add("fixed");
+            } else {
+                header.classList.remove("fixed");
+            }
+            if (window.scrollY > 300) {
+                backToTopButton.style.display = "block";
+                backToTopButton.classList.add("show");
+            } else {
+                backToTopButton.style.display = "none";
+                backToTopButton.classList.remove("show");
+            }
+        });
+        backToTopButton.addEventListener("click", function () {
+            window.scrollTo({
+                top: 0,
+                behavior: "smooth",
+            });
+        });
+    }
+    document.addEventListener('DOMContentLoaded', initScrollEffects);
+    var meting_api =
+        "https://meting.qjqq.cn/?server=:server&type=:type&id=:id&auth=:auth&r=:r";
+</script>
+<script async src="https://registry.npmmirror.com/@highlightjs/cdn-assets/latest/files/highlight.min.js"></script>
+<script>
+    function initCodeHighlight() {
+        document.querySelectorAll('pre code').forEach((block) => {
+            hljs.highlightBlock(block);
+        });
+    }
+    document.addEventListener('DOMContentLoaded', initCodeHighlight);
+</script>
+<button id="back-to-top" title="Go to top">↑</button>
+<span id="fps"></span>
+<link rel="stylesheet" href="https://lf26-cdn-tos.bytecdntp.com/cdn/expire-1-M/aplayer/1.10.1/APlayer.min.css">
+<meting-js id="8464409595" server="netease" type="playlist" fixed="true" autoplay="false" order="random" volume="0.3"
+    list-folded="false" list-max-height="36vh"></meting-js>
+<script async="async" src="https://lf26-cdn-tos.bytecdntp.com/cdn/expire-1-M/aplayer/1.10.1/APlayer.min.js"></script>
+<script async="async" src="https://registry.npmmirror.com/meting/latest/files/dist/Meting.min.js"></script>
+</body>
+
+</html>
