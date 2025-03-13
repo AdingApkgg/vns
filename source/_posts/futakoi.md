@@ -49,7 +49,7 @@ updated: 2025-03-02 20:45:08
 
 - [官方网站](https://asa-pro.com/futakoi/)
 - [萌娘百科](https://mzh.moegirl.org.cn/%E6%B0%B8%E4%B8%8D%E6%9E%AF%E8%90%8E%E7%9A%84%E4%B8%96%E7%95%8C%E4%B8%8E%E7%BB%88%E7%BB%93%E4%B9%8B%E8%8A%B1)
-- [Steam的恋爱成双](https://store.steampowered.com/app/3113990/)
+- [Steam](https://store.steampowered.com/app/3113990/)
 - [vndb](https://vndb.org/v19658)
 
 ## 提示
@@ -63,8 +63,8 @@ updated: 2025-03-02 20:45:08
 1. [TouchGAL](https://www.touchgal.io/) & `Windows` 【靴下汉化组】：[点击下载](https://www.touchgal.io/1d32f99b)
 2. [TouchGAL](https://www.touchgal.io/) & `KRKR` 【英俊三人组】：[点击下载](https://www.touchgal.io/1d32f99b)
 3. [失落小站](https://www.shinnku.com/) & `Windows` 【靴下汉化组】：[点击下载](https://www.shinnku.com/api/download/0/win/恋爱成双&劈腿之恋/劈腿之恋(靴下).7z)
-4. [量子ACG](https://odd.lzacg.one) & `Windows` 【英俊三人组】：[点击下载](https://odd.lzacg.one/[%E4%BC%9A%E7%A4%BE]ASa%20Project%E9%A2%9C%E8%89%BA%E7%A4%BE/%E6%81%8B%E7%88%B1%E6%88%90%E5%8F%8C/%E6%9C%80%E8%8B%B1%E4%BF%8A%E7%9A%84%E6%B8%A3%E7%94%B7%E6%B1%89%E5%8C%96)
-5. [量子ACG](https://odd.lzacg.one) & `Windows` 【靴下汉化组】：[点击下载](https://odd.lzacg.one/[%E4%BC%9A%E7%A4%BE]ASa%20Project%E9%A2%9C%E8%89%BA%E7%A4%BE/%E6%81%8B%E7%88%B1%E6%88%90%E5%8F%8C/%E3%80%90%E9%9D%B4%E4%B8%8B%E6%B1%89%E5%8C%96%E7%BB%84%E3%80%911.0%E6%B1%89%E5%8C%96)
+4. [量子ACG](https://lzacg.org) & `Windows` 【英俊三人组】：[点击下载](https://lzacg.org/5284)
+5. [量子ACG](https://lzacg.org) & `Windows` 【靴下汉化组】：[点击下载](https://lzacg.org/5284)
 6. [梓澪の妙妙屋](https://zi0.cc/) & `Windows` + `KRKR`：[点击下载](https://zi0.cc/d/%60%E3%80%90%E5%BD%92%20%E6%A1%A3%E3%80%91/%E3%80%90%E5%AE%89%E5%8D%93%E3%80%91/%E3%80%90KR%E3%80%91%E6%81%8B%E7%88%B1%E6%88%90%E5%8F%8C/%E6%81%8B%E7%88%B1%E6%88%90%E5%8F%8C%E3%80%90KR%E3%80%81GAL%E3%80%81R18%E3%80%91.7z?sign=huUWSC7ZS_g28-8SDT_pac4pzMknDJpRo3COho8DZKo=:0)
 
 ### FD1 瑠衣&宫子 Mini After Story
@@ -72,12 +72,12 @@ updated: 2025-03-02 20:45:08
 1. [TouchGAL](https://www.touchgal.io/) & `Windows` + `KRKR`【最英俊的渣男汉化】：[点击下载](https://www.touchgal.io/840fde82)
 2. [梓澪の妙妙屋](https://zi0.cc/) & `Windows`：[点击下载](https://zi0.cc/d/%2C%E3%80%90ADV-%E5%86%92%E9%99%A9%E6%B8%B8%E6%88%8F%E3%80%91/%E3%80%90PC%2B%E5%AE%89%E5%8D%93%E3%80%91%E6%81%8B%E7%88%B1%E6%88%90%E5%8F%8CFD/%E3%83%95%E3%82%BF%E3%83%9E%E3%82%BF%E6%81%8B%E6%84%9BAS1.7z?sign=PuO19KvRkSVWMI_NnZUu5eTPIx10NsppmZpCQj5FGxg=:0)
 3. [失落小站](https://www.shinnku.com/) & `Windows` 【最英俊的渣男汉化】：[点击下载](https://www.shinnku.com/api/download/zd/2001-2500/[220826][ASa%20Project]%20フタマタ恋愛%20瑠衣＆宮子ミニアフターストーリー.rar)
-4. [量子ACG](https://odd.lzacg.one) & `Windows` 【最英俊的渣男汉化】：[点击下载](https://lzacg.org/5524)
-5. [量子ACG](https://odd.lzacg.one) & `KRKR` 【最英俊的渣男汉化】：[点击下载](https://lzacg.org/5914)
+4. [量子ACG](https://lzacg.org) & `Windows` 【最英俊的渣男汉化】：[点击下载](https://lzacg.org/5524)
+5. [量子ACG](https://lzacg.org) & `KRKR` 【最英俊的渣男汉化】：[点击下载](https://lzacg.org/5914)
 
 ### FD2 结爱&煌 Mini After Story
 
 1. [TouchGAL](https://www.touchgal.io/) & `Windows` + `KRKR`【最英俊的渣男汉化】 ：[点击下载](https://www.touchgal.io/caef22a8)
-2. [量子ACG](https://www.shinnku.com/) & `Windows`【最英俊的渣男汉化】：[点击下载](https://lzacg.org/5705)
-3. [量子ACG](https://www.shinnku.com/) & `KRKR`【最英俊的渣男汉化】：[点击下载](https://lzacg.org/6985)
+2. [量子ACG](https://lzacg.org) & `Windows`【最英俊的渣男汉化】：[点击下载](https://lzacg.org/5705)
+3. [量子ACG](https://lzacg.org) & `KRKR`【最英俊的渣男汉化】：[点击下载](https://lzacg.org/6985)
 4. [失落小站](https://www.shinnku.com/) & `Windows`：[点击下载](https://www.shinnku.com/api/download/0/win/恋爱成双%20结爱&煌.7z)
