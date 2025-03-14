@@ -1,19 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>超能力 on VNS</title>
-    <link>https://vns.saop.cc/tags/%E8%B6%85%E8%83%BD%E5%8A%9B/</link>
-    <description>Recent content in 超能力 on VNS</description>
-    <generator>Hugo</generator>
-    <language>zh</language>
-    <lastBuildDate>Tue, 30 Jan 2024 22:00:00 +0000</lastBuildDate>
-    <atom:link href="https://vns.saop.cc/tags/%E8%B6%85%E8%83%BD%E5%8A%9B/index.xml" rel="self" type="application/rss+xml" />
+    <title>VNS</title>
+    <link>https://vns.saop.cc/</link>
+    <description></description>
+    <atom:link href="https://vns.saop.cc/tags/%E8%B6%85%E8%83%BD%E5%8A%9B/" rel="self" type="application/rss+xml" />
+    
     <item>
       <title>RIDDLE JOKER／リドルジョーカー／密命王牌</title>
       <link>https://vns.saop.cc/p/63577/</link>
       <pubDate>Tue, 30 Jan 2024 22:00:00 +0000</pubDate>
       <guid>https://vns.saop.cc/p/63577/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://static.saop.cc/vns/img/riddle.webp&#34; data-fancybox=&#34;gallery&#34; data-caption=&#34;riddle&#34; title=&#34;riddle&#34;&#xD;&#xA;    alt=&#34;riddle&#34; /&gt;&lt;/p&gt;&#xA;&lt;p&gt;《&lt;strong&gt;RIDDLE JOKER&lt;/strong&gt;》是由&lt;a href=&#34;https://zh.moegirl.org.cn/%e6%9f%9a%e5%ad%90%e7%a4%be&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;柚子社&lt;/a&gt;制作的第十部&lt;a href=&#34;https://zh.moegirl.org.cn/Galgame&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;Galgame&lt;/a&gt;，于2018年3月30日发售，Steam版于2020年12月18日发售。&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img class=&#34;lozad&#34; data-src=&#34;https://static.saop.cc/vns/img/riddle.webp&#34; data-fancybox=&#34;gallery&#34; data-caption=&#34;riddle&#34;
+    title=&#34;riddle&#34; alt=&#34;riddle&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;《&lt;strong&gt;RIDDLE JOKER&lt;/strong&gt;》是由&lt;a href=&#34;https://zh.moegirl.org.cn/%e6%9f%9a%e5%ad%90%e7%a4%be&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;柚子社&lt;/a&gt;制作的第十部&lt;a href=&#34;https://zh.moegirl.org.cn/Galgame&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;Galgame&lt;/a&gt;，于2018年3月30日发售，Steam版于2020年12月18日发售。&lt;/p&gt;</description>
     </item>
+    
   </channel>
 </rss>

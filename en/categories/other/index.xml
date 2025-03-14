@@ -1,19 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Other on VNS</title>
-    <link>https://vns.saop.cc/en/categories/other/</link>
-    <description>Recent content in Other on VNS</description>
-    <generator>Hugo</generator>
-    <language>en</language>
-    <lastBuildDate>Sat, 10 Feb 2024 03:00:00 +0000</lastBuildDate>
-    <atom:link href="https://vns.saop.cc/en/categories/other/index.xml" rel="self" type="application/rss+xml" />
+    <title>VNS</title>
+    <link>https://vns.saop.cc/</link>
+    <description></description>
+    <atom:link href="https://vns.saop.cc/en/categories/other/" rel="self" type="application/rss+xml" />
+    
     <item>
       <title>（画集・设定资料集）向日葵的教会与长长的暑假 官方艺术作品／（画集・設定資料集）向日葵の教会と長い夏休み オフィシャルアートワークス／向日葵的教会与长夏假期／向日葵教会和漫长的暑假</title>
       <link>https://vns.saop.cc/en/p/33924/</link>
       <pubDate>Sat, 10 Feb 2024 03:00:00 +0000</pubDate>
       <guid>https://vns.saop.cc/en/p/33924/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://static.saop.cc/vns/img/himanatsu-bonuses-gallery.webp&#34; data-fancybox=&#34;gallery&#34; data-caption=&#34;himanatsu-bonuses-gallery&#34; title=&#34;himanatsu-bonuses-gallery&#34;&#xD;&#xA;    alt=&#34;himanatsu-bonuses-gallery&#34; /&gt;&lt;/p&gt;&#xA;&lt;p&gt;（画集・设定资料集）向日葵的教会与长长的暑假 官方艺术作品&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img class=&#34;lozad&#34; data-src=&#34;https://static.saop.cc/vns/img/himanatsu-bonuses-gallery.webp&#34; data-fancybox=&#34;gallery&#34; data-caption=&#34;himanatsu-bonuses-gallery&#34;
+    title=&#34;himanatsu-bonuses-gallery&#34; alt=&#34;himanatsu-bonuses-gallery&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;（画集・设定资料集）向日葵的教会与长长的暑假 官方艺术作品&lt;/p&gt;</description>
     </item>
+    
   </channel>
 </rss>

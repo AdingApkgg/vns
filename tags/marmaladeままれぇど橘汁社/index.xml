@@ -1,19 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>MARMALADE／ま～まれぇど／橘汁社 on VNS</title>
-    <link>https://vns.saop.cc/tags/marmalade%E3%81%BE%E3%81%BE%E3%82%8C%E3%81%87%E3%81%A9%E6%A9%98%E6%B1%81%E7%A4%BE/</link>
-    <description>Recent content in MARMALADE／ま～まれぇど／橘汁社 on VNS</description>
-    <generator>Hugo</generator>
-    <language>zh</language>
-    <lastBuildDate>Fri, 02 Feb 2024 03:00:00 +0000</lastBuildDate>
-    <atom:link href="https://vns.saop.cc/tags/marmalade%E3%81%BE%E3%81%BE%E3%82%8C%E3%81%87%E3%81%A9%E6%A9%98%E6%B1%81%E7%A4%BE/index.xml" rel="self" type="application/rss+xml" />
+    <title>VNS</title>
+    <link>https://vns.saop.cc/</link>
+    <description></description>
+    <atom:link href="https://vns.saop.cc/tags/marmalade%E3%81%BE%E3%81%BE%E3%82%8C%E3%81%87%E3%81%A9%E6%A9%98%E6%B1%81%E7%A4%BE/" rel="self" type="application/rss+xml" />
+    
     <item>
       <title>回家之前的棉花糖／回家前都算是棉花糖／お家に帰るまでがましまろです</title>
       <link>https://vns.saop.cc/p/5431/</link>
       <pubDate>Fri, 02 Feb 2024 03:00:00 +0000</pubDate>
       <guid>https://vns.saop.cc/p/5431/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://static.saop.cc/vns/img/mashimaro.webp&#34; data-fancybox=&#34;gallery&#34; data-caption=&#34;mashimaro&#34; title=&#34;mashimaro&#34;&#xD;&#xA;    alt=&#34;mashimaro&#34; /&gt;&lt;/p&gt;&#xA;&lt;p&gt;《&lt;strong&gt;回家之前的棉花糖&lt;/strong&gt; - I&amp;rsquo;ll find my way home》（英语：Marshmallow All the Way Home）是&lt;a href=&#34;https://mzh.moegirl.org.cn/MARMALADE&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;MARMALADE&lt;/a&gt;开发的一款&lt;a href=&#34;https://mzh.moegirl.org.cn/Galgame&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;Galgame&lt;/a&gt;，获得2017年萌系游戏大赏“实用奖”。&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img class=&#34;lozad&#34; data-src=&#34;https://static.saop.cc/vns/img/mashimaro.webp&#34; data-fancybox=&#34;gallery&#34; data-caption=&#34;mashimaro&#34;
+    title=&#34;mashimaro&#34; alt=&#34;mashimaro&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;《&lt;strong&gt;回家之前的棉花糖&lt;/strong&gt; - I&amp;rsquo;ll find my way home》（英语：Marshmallow All the Way Home）是&lt;a href=&#34;https://mzh.moegirl.org.cn/MARMALADE&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;MARMALADE&lt;/a&gt;开发的一款&lt;a href=&#34;https://mzh.moegirl.org.cn/Galgame&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;Galgame&lt;/a&gt;，获得2017年萌系游戏大赏“实用奖”。&lt;/p&gt;</description>
     </item>
+    
   </channel>
 </rss>

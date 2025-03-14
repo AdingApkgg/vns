@@ -2,19 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://vns.saop.cc/about/</loc>
-    <lastmod>2025-03-12T02:20:20+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://vns.saop.cc/en/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://vns.saop.cc/about/"
-                />
-  </url><url>
     <loc>https://vns.saop.cc/p/56047/</loc>
     <lastmod>2024-12-21T03:45:40+00:00</lastmod>
     <xhtml:link
@@ -4914,6 +4901,32 @@
                 rel="alternate"
                 hreflang="zh"
                 href="https://vns.saop.cc/p/4883/"
+                />
+  </url><url>
+    <loc>https://vns.saop.cc/about/</loc>
+    <lastmod>2024-01-27T21:53:55+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://vns.saop.cc/en/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://vns.saop.cc/about/"
+                />
+  </url><url>
+    <loc>https://vns.saop.cc/archives/</loc>
+    <lastmod>2024-01-27T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://vns.saop.cc/en/archives/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://vns.saop.cc/archives/"
                 />
   </url><url>
     <loc>https://vns.saop.cc/</loc>
