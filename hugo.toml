@@ -29,9 +29,9 @@ name = '首页'
 pageRef = '/'
 weight = 2
 [[languages.zh.menus.main]]
-identifier = "posts"
-name = '文章'
-pageRef = '/p'
+identifier = "archives"
+name = '归档'
+pageRef = '/archives'
 weight = 3
 [[languages.zh.menus.main]]
 identifier = "categories"
@@ -71,8 +71,9 @@ name = 'Home'
 pageRef = '/'
 weight = 2
 [[languages.en.menus.main]]
-name = 'Posts'
-pageRef = '/p'
+identifier = "archives"
+name = 'Archives'
+pageRef = '/archives'
 weight = 3
 [[languages.en.menus.main]]
 identifier = "categories"
@@ -107,16 +108,19 @@ escapedSpace = true
 [params]
 summaryLength = 100
 date_format = "1970年01月01日"
+mainSections = ["p"]
+ogImage = "img/logo.svg"
 
-paginate = 5
+paginate = 10
 paginatePath = "page"
 
 [permalinks]
+categories = "/categories/:slug/"
 tags = "/tags/:slug/"
 
 [taxonomies]
-tag = "tags"
 category = "categories"
+tag = "tags"
 
 [params.comments]
 enabled = true
