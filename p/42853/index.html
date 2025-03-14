@@ -48,9 +48,29 @@
     
     <a href="/about/">关于</a>
     
-    <a href="/en">English</a>
-    
     <button id="theme-toggle">昼夜切换</button>
+    <select onchange="changeLanguage(this.value)">
+    
+    <option value="zh" selected>
+        简体中文
+    </option>
+    
+    <option value="ja" >
+        日本語
+    </option>
+    
+    <option value="en" >
+        English
+    </option>
+    
+</select>
+<script>
+    function changeLanguage(lang) {
+        var currentPath = window.location.pathname;
+        var newUrl = "/" + lang + currentPath.replace(/^\/[a-z]{2}\//, "/");
+        window.location.href = newUrl;
+    }
+</script>
 </nav>
   </header>
   <div id="search"></div>
@@ -169,7 +189,7 @@ H场景中带有可个别切换的断面图和漫画表现以及手写的台词�
 
 <div class="comments">
     <div id="vcomments" class="comment"></div>
-    <script async src="//registry.npmmirror.com/valine/latest/files/dist/Valine.min.js"></script>
+    <script src="//registry.npmmirror.com/valine/latest/files/dist/Valine.min.js"></script>
     <script>
         new Valine({
             el: "#vcomments",
