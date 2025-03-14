@@ -26,13 +26,13 @@ date = 2023-01-01T08:00:00-07:00
 
 > Bilibili: [bilibili.com/video/BV1YYDSYwExS](https://www.bilibili.com/video/BV1YYDSYwExS/?share_source=copy_web&vd_source=fad28c3dbd9214bb50e66f8dd77d9f46)
 
-<iframe style="width: 100%; aspect-ratio: 16 / 9;" src="//player.bilibili.com/player.html?isOutside=true&aid=113441243205169&bvid=BV1YYDSYwExS&cid=26655394707&p=1&autoplay=0&t=8" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+<iframe style="width: 100%; aspect-ratio: 16 / 9;" src="https://player.bilibili.com/player.html?isOutside=true&aid=113441243205169&bvid=BV1YYDSYwExS&cid=26655394707&p=1&autoplay=0&t=8" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 
 ## Survey
 
 > If you have suggestions or ideas for this site, please click the link below to participate in our survey~
 > Please answer seriously—your responses are crucial to the future development of this site! So… please help us out~
-> <https://wjx.cn/vm/Pp44mSC.aspx>
+> - <https://wjx.cn/vm/Pp44mSC.aspx>
 
 ## Join Us
 
@@ -41,8 +41,8 @@ Work hours are flexible and not fixed—you can start whenever you want~
 If interested, contact us via [About This Site](/about/) or through the communication methods listed under **Sidebar > Site Overview > Below Avatar > Social Icons**!
 
 - **Writers**
-  Requirements: Proficient in advanced magic, able to find resources and write in `Markdown` or `Word`. Writing format should roughly follow the style of existing articles on this site.
-  Recruited: `Asuna`, `秋生GE`, `WTY`, `searvee`, `OT63`
+  - Requirements: Proficient in advanced magic, able to find resources and write in `Markdown` or `Word`. Writing format should roughly follow the style of existing articles on this site.
+  - Recruited: `Asuna`, `秋生GE`, `WTY`, `searvee`, `OT63`、`molin`、`WWS`
 - **Testers**
-  Requirements: Download and run resources, check if they are raw or localized, note the localization group, version, and any `BUGs` that appear.
-  Recruited: `Asuna`, `NEO`
+  - Requirements: Download and run resources, check if they are raw or localized, note the localization group, version, and any `BUGs` that appear.
+  - Recruited: `Asuna`, `NEO`

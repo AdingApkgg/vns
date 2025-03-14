@@ -48,18 +48,51 @@ identifier = "about"
 name = '关于'
 pageRef = '/about'
 weight = 6
-[[languages.zh.menus.main]]
-name = 'English'
-url = '/en'
-weight = 7
+
+[languages.ja]
+contentDir = 'content/ja'
+languageName = "日本語"
+languageDirection = "ltr"
+languageCode = "ja"
+hasCJKLanguage = true
+weight = 2
+[[languages.ja.menus.main]]
+identifier = "oldsite"
+name = '旧サイト'
+url = 'https://gal.saop.cc/'
+weight = 1
+[[languages.ja.menus.main]]
+identifier = "home"
+name = 'ホームページ'
+pageRef = '/'
+weight = 2
+[[languages.ja.menus.main]]
+identifier = "archives"
+name = 'アーカイブ'
+pageRef = '/archives'
+weight = 3
+[[languages.ja.menus.main]]
+identifier = "categories"
+name = 'カテゴリー'
+pageRef = '/categories'
+weight = 4
+[[languages.ja.menus.main]]
+identifier = "tags"
+name = 'タグ'
+pageRef = '/tags'
+weight = 5
+[[languages.ja.menus.main]]
+identifier = "about"
+name = 'このサイトについて'
+pageRef = '/about'
+weight = 6
 
 [languages.en]
 contentDir = 'content/en'
 languageName = "English"
 languageDirection = "ltr"
 languageCode = "en"
-hasCJKLanguage = true
-weight = 2
+weight = 3
 [[languages.en.menus.main]]
 identifier = "oldsite"
 name = 'OldSite'
@@ -90,10 +123,6 @@ identifier = "about"
 name = 'About'
 pageRef = '/about'
 weight = 6
-[[languages.en.menus.main]]
-name = '简体中文'
-url = '/'
-weight = 7
 
 [markup]
 defaultMarkdownHandler = "goldmark"

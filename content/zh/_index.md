@@ -26,13 +26,13 @@ date = 2023-01-01T08:00:00-07:00
 
 > B站：[bilibili.com/video/BV1YYDSYwExS](https://www.bilibili.com/video/BV1YYDSYwExS/?share_source=copy_web&vd_source=fad28c3dbd9214bb50e66f8dd77d9f46)
 
-<iframe style="width: 100%; aspect-ratio: 16 / 9;" src="//player.bilibili.com/player.html?isOutside=true&aid=113441243205169&bvid=BV1YYDSYwExS&cid=26655394707&p=1&autoplay=0&t=8" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+<iframe style="width: 100%; aspect-ratio: 16 / 9;" src="https://player.bilibili.com/player.html?isOutside=true&aid=113441243205169&bvid=BV1YYDSYwExS&cid=26655394707&p=1&autoplay=0&t=8" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 
 ## 问卷调查
 
 > 如需对本站提出建议与想法，请点击下方链接即可参与本站的问卷调查~
 > 请认真作答，你的回答对本站今后的发展很重要！ 所以.. 拜托啦~
-> <https://wjx.cn/vm/Pp44mSC.aspx>
+> - <https://wjx.cn/vm/Pp44mSC.aspx>
 
 ## 加入我们
 
@@ -41,8 +41,8 @@ date = 2023-01-01T08:00:00-07:00
 有意愿可通过 [关于本站](/about/) 或 **侧边栏 > 站点概览 > 头像下方 > 社交图标** 里留下的通讯方式与我们联系！
 
 - **写手**
-  要求：掌握高阶魔法的使用，会寻找资源写 `Markdown` 或 `Word` 文档等，写作格式参考本站已有文章的大概格式..
-  已招：`Asuna`、`秋生GE`、`WTY`、`searvee`、`OT63`
+  - 要求：掌握高阶魔法的使用，会寻找资源写 `Markdown` 或 `Word` 文档等，写作格式参考本站已有文章的大概格式..
+  - 已招：`Asuna`、`秋生GE`、`WTY`、`searvee`、`OT63`、`molin`、`WWS`
 - **测试**
-  要求：下载资源运行，检查是生肉或熟肉，汉化组名，版本，以及有无 `BUG` 出现等..
-  已招：`Asuna`、`NEO`
+  - 要求：下载资源运行，检查是生肉或熟肉，汉化组名，版本，以及有无 `BUG` 出现等..
+  - 已招：`Asuna`、`NEO`
