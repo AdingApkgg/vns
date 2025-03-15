@@ -1,8 +1,4 @@
-# hexo robots.txt
 User-agent: *
 Allow: /
-
 Disallow: /404/
-
-Sitemap: https://gal.saop.cc/sitemap.xml
-Sitemap: https://gal.saop.cc/baidusitemap.xml
+Sitemap: https://vns.saop.cc/sitemap.xml
