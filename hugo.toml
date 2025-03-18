@@ -1,7 +1,7 @@
 baseURL = 'https://vns.saop.cc/'
 languageCode = 'zh'
 defaultContentLanguage = "zh"
-defaultContentLanguageInSubdir = false
+defaultContentLanguageInSubdir = true
 title = 'VNS'
 theme = 'i'
 
@@ -139,13 +139,14 @@ summaryLength = 100
 date_format = "1970年01月01日"
 mainSections = ["p"]
 ogImage = "img/logo.svg"
+preserveTaxonomyNames = true
 
 paginate = 10
 paginatePath = "page"
 
 [permalinks]
-categories = "/categories/:slug/"
-tags = "/tags/:slug/"
+categories = "/categories/:title/"
+tags = "/tags/:title/"
 
 [taxonomies]
 category = "categories"
