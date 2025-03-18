@@ -1,0 +1,18 @@
+{
+    "dir": "ltr",
+    "name": "Visual Novel Site",
+    "description": "LINK START!",
+    "display": "standalone",
+    "short_name": "VNS",
+    "scope": "/",
+    "start_url": "/",
+    "background_color": "#f8f9fa",
+    "theme_color": "#4dabf7",
+    "icons": [
+        {
+            "src": "/img/logo.svg",
+            "sizes": "any",
+            "type": "image/svg+xml"
+        }
+    ]
+}

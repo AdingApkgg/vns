@@ -11,25 +11,36 @@
 <meta property="og:url" content="https://vns.saop.cc/ja/tags/orcsoft/" />
 <meta property="og:image" content="https://vns.saop.cc/img/logo.svg" />
 <meta property="og:site_name" content="VNS" />
+<link rel="manifest" href="https://vns.saop.cc/manifest.json">
 <link rel="alternate" type="application/rss+xml" href="https://vns.saop.cc/index.xml" title="VNS" />
 <script async src="https://registry.npmmirror.com/pjax/latest/files/pjax.min.js"></script>
-<script async src="https://registry.npmmirror.com/quicklink/latest/files/dist/quicklink.umd.js"></script>
-<script async src="https://registry.npmmirror.com/lozad/latest/files/dist/lozad.min.js"></script>
-<link rel="stylesheet"
-    href="https://registry.npmmirror.com/@highlightjs/cdn-assets/latest/files/styles/github-dark.min.css">
-<script async src="https://registry.npmmirror.com/pangu/latest/files/dist/browser/pangu.min.js"></script>
+<script src="https://registry.npmmirror.com/quicklink/latest/files/dist/quicklink.umd.js"></script>
 <link href="/pagefind/pagefind-ui.css" rel="stylesheet">
 <script src="/pagefind/pagefind-ui.js"></script>
 <script async src="https://registry.npmmirror.com/pace-js/latest/files/pace.min.js"></script>
 <link rel="stylesheet" href="https://registry.npmmirror.com/pace-js/latest/files/themes/blue/pace-theme-flash.css">
-<link rel="stylesheet" href="https://registry.npmmirror.com/weblive2d/latest/files/waifu.css">
-<script async src="https://registry.npmmirror.com/weblive2d/latest/files/js/autoload.js"></script>
-<link href="/pagefind/pagefind-ui.css" rel="stylesheet">
+<link rel="stylesheet" href="/pagefind/pagefind-ui.css">
 <script async src="/pagefind/pagefind-ui.js"></script>
+<script>
+    document.addEventListener("DOMContentLoaded", () => {
+        const pjax = new Pjax({
+            selectors: [
+                "title",
+                "meta[name=description]",
+                "header",
+                "main",
+                ".comments",
+                "footer",
+            ],
+            cacheBust: false,
+        });
+        quicklink.listen({ priority: true });
+    });
+</script>
 
-<link rel="stylesheet" href="/css/main.min.9e7cf51b79b1a1d7cb4f471e7db23b29776e42a361402d3ad18452207772ae34.css" integrity="sha256-nnz1G3mxodfLT0cefbI7KXduQqNhQC060YRSIHdyrjQ=" crossorigin="anonymous">
+<link rel="stylesheet" href="/css/main.min.2c4a4bbb7261a4b9d0d09ac2e49899768ab735eb593f31708162b6ab53803243.css" integrity="sha256-LEpLu3JhpLnQ0JrC5JiZdoq3NetZPzFwgWK2q1OAMkM=" crossorigin="anonymous">
 
-<script src="/js/main.171a67c848d91a36acb956576e75cffbaacbdaee165a7992a9197afddfba81a0.js" integrity="sha256-FxpnyEjZGjasuVZXbnXP&#43;6rL2u4WWnmSqRl6/d&#43;6gaA=" crossorigin="anonymous"></script>
+<script src="/js/main.821d9a5706e748e3058b6d5fbc435288c0c4236adb2d18d60333f0e7dcc84b2f.js" integrity="sha256-gh2aVwbnSOMFi21fvENSiMDEI2rbLRjWAzPw59zISy8=" crossorigin="anonymous"></script>
 </head>
 
 <body>
@@ -80,8 +91,8 @@
 
 
 <h2><a href="/ja/p/50434/">巧嘴辣妹笨小千／バカだけどチンチンしゃぶるのだけはじょうずなちーちゃん♥／Oral Lessons With Chii-chan／Chieri&#39;s Dumb But She&#39;s A World Class D*cksucker</a></h2>
-<p><img class="lozad" data-src="https://static.saop.cc/vns/img/gob006.webp" data-fancybox="gallery" data-caption="gob006"
-    title="gob006" alt="gob006" /></p>
+<p><img class="zoomable" loading="lazy" src="https://static.saop.cc/vns/img/gob006.webp" title="gob006"
+    alt="gob006" /></p>
 <p>室户浩太，一名普普通通的肥宅大学生在机缘巧合之下，成为了放荡不羁的校花小千的补习伙伴。在如此美色当前，从未与女生进行过近距离接触的浩太又会怎样呢？</p>
 
 
@@ -93,86 +104,19 @@
 </p>
 <script async src="https://busuanzi.9420.ltd/js"></script>
   </footer>
-  <script src="https://registry.npmmirror.com/@fancyapps/ui/latest/files/dist/fancybox/fancybox.umd.js"></script>
-<link rel="stylesheet" href="https://registry.npmmirror.com/@fancyapps/ui/latest/files/dist/fancybox/fancybox.css">
-<script async src="https://registry.npmmirror.com/@highlightjs/cdn-assets/latest/files/highlight.min.js"></script>
+  <link rel="stylesheet" href="https://registry.npmmirror.com/weblive2d/latest/files/waifu.css">
+<script async src="https://registry.npmmirror.com/weblive2d/latest/files/js/autoload.js"></script>
 <script>
+    if ('serviceWorker' in navigator) {
+        window.addEventListener('load', () => {
+            navigator.serviceWorker.register('/js/sw.js')
+                .then(reg => console.log('Service Worker Reg', reg))
+                .catch(err => console.log('Service Worker Err', err));
+        });
+    }
     window.addEventListener("DOMContentLoaded", (event) => {
         new PagefindUI({ element: "#search", showSubResults: true });
     });
-    window.onload = function () {
-        Fancybox.bind('[data-fancybox="gallery"]', {});
-        pangu.spacingElementById("main");
-        pangu.spacingElementByClassName("comment");
-        pangu.spacingElementByTagName("p");
-        document.addEventListener("DOMContentLoaded", () => {
-            pangu.autoSpacingPage();
-        });
-        quicklink.listen({
-            priority: true,
-        });
-        const observerLozad = lozad(".lozad", {
-            load: function (element) {
-                element.src = element.dataset.src;
-                element.onload = function () {
-                    element.classList.add("loaded");
-                };
-            },
-        });
-        observerLozad.observe();
-    };
-    Fancybox.fromSelector('[data-fancybox="gallery"]');
-    function initDarkMode() {
-        const themeToggle = document.getElementById("theme-toggle");
-        const currentTheme = localStorage.getItem("theme") || "light";
-        document.documentElement.setAttribute("data-theme", currentTheme);
-        if (themeToggle) {
-            themeToggle.addEventListener("click", () => {
-                const newTheme =
-                    document.documentElement.getAttribute("data-theme") === "dark"
-                        ? "light"
-                        : "dark";
-                document.documentElement.setAttribute("data-theme", newTheme);
-                localStorage.setItem("theme", newTheme);
-            });
-        }
-    }
-    document.addEventListener("DOMContentLoaded", initDarkMode);
-    function initScrollEffects() {
-        const header = document.querySelector("header");
-        const backToTopButton = document.getElementById("back-to-top");
-        if (!header || !backToTopButton) return;
-        window.addEventListener("scroll", function () {
-            if (window.scrollY > 100) {
-                header.classList.add("fixed");
-            } else {
-                header.classList.remove("fixed");
-            }
-            if (window.scrollY > 300) {
-                backToTopButton.style.display = "block";
-                backToTopButton.classList.add("show");
-            } else {
-                backToTopButton.style.display = "none";
-                backToTopButton.classList.remove("show");
-            }
-        });
-        backToTopButton.addEventListener("click", function () {
-            window.scrollTo({
-                top: 0,
-                behavior: "smooth",
-            });
-        });
-    }
-    document.addEventListener('DOMContentLoaded', initScrollEffects);
-    quicklink.listen({
-        priority: true,
-    });
-    function initCodeHighlight() {
-        document.querySelectorAll('pre code').forEach((block) => {
-            hljs.highlightBlock(block);
-        });
-    }
-    document.addEventListener('DOMContentLoaded', initCodeHighlight);
     var meting_api =
         "https://meting.qjqq.cn/?server=:server&type=:type&id=:id&auth=:auth&r=:r";
 </script>
@@ -181,8 +125,9 @@
 <link rel="stylesheet" href="https://lf26-cdn-tos.bytecdntp.com/cdn/expire-1-M/aplayer/1.10.1/APlayer.min.css">
 <meting-js id="8464409595" server="netease" type="playlist" fixed="true" autoplay="false" order="random" volume="0.3"
     list-folded="false" list-max-height="36vh"></meting-js>
-<script async="async" src="https://lf26-cdn-tos.bytecdntp.com/cdn/expire-1-M/aplayer/1.10.1/APlayer.min.js"></script>
-<script async="async" src="https://registry.npmmirror.com/meting/latest/files/dist/Meting.min.js"></script>
+<script async src="https://lf26-cdn-tos.bytecdntp.com/cdn/expire-1-M/aplayer/1.10.1/APlayer.min.js"></script>
+<script async src="https://registry.npmmirror.com/meting/latest/files/dist/Meting.min.js"></script>
+<script defer src="https://registry.npmmirror.com/medium-zoom/latest/files/dist/medium-zoom.min.js"></script>
 </body>
 
 </html>
