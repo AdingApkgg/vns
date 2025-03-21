@@ -1,6 +1,6 @@
 ---
 title: Rubi-sama 为主人献上圣罗的甜蜜侍奉 / 主人，请让塞拉为您献上如梦幻般甜蜜恩爱的侍奉吧 / ご主人様、セイラに夢みたいないちゃラブご奉仕させていただけますか
-abbrlink: 60971
+abbrlink:
 tags:
   - 2022
   - 纯爱
@@ -9,16 +9,17 @@ tags:
   - 萌拔
   - 短篇
 categories:
-  - Windows
-  - Tyranor
+  - - Windows
+  - - Tyranor
 author: molin
 date: 2025-03-07 19:21:25
+updated: 2025-03-22 03:08:45
 ---
-
 
 ![seira](https://static.saop.cc/vns/img/seira.webp)
 
-《为主人献上圣罗的甜蜜侍奉》（日语：ご主人様、セイラに夢みたいないちゃラブご奉仕させていただけますか）是由[るび様崇める会](https://rubisama.com/)制作发行的一款视觉小说，于2022年7月15日发售。2024年8月23日简体中文、繁体中文、英文版上架Steam。 
+《为主人献上圣罗的甜蜜侍奉》（日语：ご主人様、セイラに夢みたいないちゃラブご奉仕させていただけますか）是由[るび様崇める会](https://rubisama.com/)制作发行的一款视觉小说，于2022年7月15日发售。2024年8月23日简体中文、繁体中文、英文版上架Steam。
+
 <!-- more -->
 
 ## 简介
@@ -57,7 +58,3 @@ date: 2025-03-07 19:21:25
 2. [失落小站](https://www.shinnku.com/) & `Windows`【琴音个人汉化】：[点击下载](https://www.shinnku.com/search?q=%E4%B8%BA%E4%B8%BB%E4%BA%BA%E7%8C%AE%E4%B8%8A%E5%9C%A3%E7%BD%97%E7%9A%84%E7%94%9C%E8%9C%9C%E4%BE%8D%E5%A5%89)
 3. [NekoGAL](https://www.nekogal.com) & `Windows`【琴音个人汉化】 + `Tyrano`【琴音个人汉化】 ：[点击下载](https://www.nekogal.com/archives/361)
 4. [TouchGAL](https://www.touchgal.io/) & `Tyrano`【琴音个人汉化】 ：[点击下载](https://www.touchgal.io/c5e60d1a)
-
-
-
-

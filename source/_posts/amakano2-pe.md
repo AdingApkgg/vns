@@ -77,7 +77,7 @@ updated: 2024-09-04 09:19:00
 5. [姬路白雪](https://pan.jlbx.xyz/) & `Windows`：[点击下载](https://pan.jlbx.xyz/?s=%E7%94%9C%E8%9C%9C%E5%A5%B3%E5%8F%8B)，密码：`终点`
 6. [烟郁Galgame](https://yanyugal.top/) & `Windows`：[点击下载](https://yanyugal.top/d/disk1/%E5%B0%8F%E5%B0%8F%E7%9A%84%E5%88%86%E4%BA%AB%EF%BC%88PC%EF%BC%86%E5%AE%89%E5%8D%93%EF%BC%89/%E5%AE%89%E5%8D%93/krkr/ATRI%20-My%20Dear%20Moments-.7z)，密码：`lumouweinb`、`烟郁频道`
 7. [失落小站](https://www.shinnku.com/) & `Windows`：[点击下载](https://www.shinnku.com/api/download/0/win/%E7%94%9C%E8%9C%9C%E5%A5%B3%E5%8F%8B2.7z)
-8. [绮梦](https://acgs.one/) & `Windows`：[点击下载](https://acgs.one/game/288.html)，密码：`绮梦`
+8. [绮梦](https://acgs.one/) & `Windows`：[点击下载](https://game.acgs.one/game/288.html)，密码：`绮梦`
 9. [稻荷ACG](https://amoebi.com/) & `Windows`：[点击下载](https://sakustar.com/art/7163)
 
 ### 完美版

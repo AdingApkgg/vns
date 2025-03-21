@@ -88,7 +88,7 @@ updated: 2024-09-20 11:03:30
 1. [TouchGAL](https://www.touchgal.io/) & `Windows`：[点击下载](https://pan.touchgal.net/s/1Nj5uX)，密码：`touchgal`
 2. [NekoGAL](https://www.nekogal.com/) & `Windows`：[点击下载](https://pan.nekogal.top/s/Nr0Hx)
 3. [梓澪の妙妙屋](https://zi0.cc/) & `Windows`：[点击下载](https://zi0.cc/,%E3%80%90ADV-%E5%86%92%E9%99%A9%E6%B8%B8%E6%88%8F%E3%80%91/%E3%80%90PC%E3%80%91[ADV][AI%E7%BF%BB%E8%AF%91]%E7%BE%8E%E5%B0%91%E5%A5%B3%E4%B8%87%E5%8D%8E%E9%95%9C%E5%BC%82%E9%97%BB%20%E9%9B%AA%E5%A5%B3%20%E7%BE%8E%E5%B0%91%E5%A5%B3%E4%B8%87%E8%8F%AF%E9%8F%A1%E7%95%B0%E8%81%9E%20%E9%9B%AA%E3%81%8A%E3%82%93%E3%81%AA?from=search)
-4. [绮梦](https://acgs.one/) & `Windows`：[点击下载](https://acgs.one/game/492.html)，密码：`绮梦`
+4. [绮梦](https://acgs.one/) & `Windows`：[点击下载](https://game.acgs.one/game/492.html)，密码：`绮梦`
 5. [失落小站](https://www.shinnku.com/) & `Windows`：[点击下载](https://www.shinnku.com/api/download/0/win/%E7%BE%8E%E5%B0%91%E5%A5%B3%E4%B8%87%E8%8F%AF%E9%8F%A1%E7%95%B0%E8%81%9E%20%E9%9B%AA%E3%81%8A%E3%82%93%E3%81%AA%20%E9%9B%AA%E5%A5%B3%20%E7%BE%8E%E5%B0%91%E5%A5%B3%E4%B8%87%E5%8D%8E%E9%95%9C.7z)
 6. [稻荷ACG](https://amoebi.com/) & `Windows`：[点击下载](https://sakustar.com/art/12989)
 7. [量子ACG](https://lzacg.org/) & `Windows`：[点击下载](https://lzacg.org/7163)，密码：`量子acg`、`lzacg.top`

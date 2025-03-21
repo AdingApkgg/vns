@@ -63,7 +63,7 @@ updated: 2024-08-27 07:20:00
 
 1. [TouchGAL](https://www.touchgal.net/) & `Windows`：[点击下载](https://pan.touchgal.net/s/pJ86ID)
 2. [姬路白雪](https://pan.jlbx.xyz/) & `Windows`：[点击下载](https://pan.jlbx.xyz/?s=euphoria)，密码：`终点`
-3. [绮梦](https://acgs.one/) & `Windows`：[点击下载](https://acgs.one/game/12.html)，密码：`acgs`
+3. [绮梦](https://acgs.one/) & `Windows`：[点击下载](https://game.acgs.one/game/12.html)，密码：`acgs`
 4. [量子ACG](https://lzacg.org/) & `Windows`：[点击下载](https://lzacg.org/4408)，密码：`量子acg`、`lzacg.top`
 5. [失落小站](https://www.shinnku.com/) & `Windows`：[点击下载](https://www.shinnku.com/api/download/0/win/euphoria.7z)
 6. [失落小站](https://www.shinnku.com/) & `Windows`：[点击下载](https://www.shinnku.com/api/download/zd/0501-1000/[110624][CLOCKUP]%20euphoria.rar)
@@ -74,6 +74,6 @@ updated: 2024-08-27 07:20:00
 1. [TouchGAL](https://www.touchgal.net/) & `Windows`：[点击下载](https://pan.touchgal.net/s/pJ86ID)
 2. [梓澪の妙妙屋](https://zi0.cc/) & `Windows`：[点击下载](https://zi0.cc/d/%60%E3%80%90%E5%90%88%E9%9B%86%E7%B3%BB%E5%88%97%E3%80%91/%E6%B1%89%E5%8C%96galgame%E4%BC%9A%E7%A4%BE%E5%90%88%E9%9B%86/%E6%B1%89%E5%8C%96%E4%BC%9A%E7%A4%BE%E5%90%88%E9%9B%86%E9%83%A8%E5%88%86%20part5/CLOCKUP/%5B140425%5D%5BCLOCKUP%5D%20euphoria%20HD.rar?sign=MNe6N9sQeMqbXb6P5pvRriz72ClcvfxGD4cRpOpaApQ=:0)
 3. [梓澪の妙妙屋](https://zi0.cc/) & `Windows`【萌你妹汉化组】：[点击下载](https://zi0.cc/d/%60%E3%80%90%E5%90%88%E9%9B%86%E7%B3%BB%E5%88%97%E3%80%91/%E5%8D%97%2BGalGame%E6%B1%89%E5%8C%96%E5%8C%BA%E5%85%A8%E5%8C%BA%E8%B5%84%E6%BA%90%E5%A4%87%E4%BB%BD/1/06/%5BCLOCKUP%5D%20euphoria%20HD%20%20%E4%B9%90%E5%9B%AD%E9%AB%98%E6%B8%85%E7%89%88%20%E6%B1%89%E5%8C%96%E7%A1%AC%E7%9B%98%E7%89%88%5B%E8%90%8C%E4%BD%A0%E5%A6%B9%E6%B1%89%E5%8C%96%E7%BB%84%5D.zip?sign=uunr3vOfADFs70hr_IAOtJYn9FvZb50N8ItS1C-0RLQ=:0)
-4. [绮梦](https://acgs.one/) & `Windows`：[点击下载](https://acgs.one/game/12.html)，密码：`acgs`
+4. [绮梦](https://acgs.one/) & `Windows`：[点击下载](https://game.acgs.one/game/12.html)，密码：`acgs`
 5. [失落小站](https://www.shinnku.com/) & `Windows`：[点击下载](https://www.shinnku.com/api/download/zd/0501-1000/[140425][CLOCKUP]%20euphoria%20HD.rar)
 6. [我的Galgame资源发布站](https://www.ttloli.com/) & `Windows`：[点击下载](https://www.ttloli.com/euphoria.html)，密码：`忧郁的弟弟`、`忧郁的loli`

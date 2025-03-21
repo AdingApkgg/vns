@@ -121,5 +121,5 @@ updated: 2024-11-01 22:15:00
 18. [烟郁Galgame](https://yanyugal.top/) & `Windows`：[点击下载](https://yanyugal.top/d/disk1/PC/key/Summer%20Pockets%20REFLECTION%20BLUE.rar)，密码：`烟郁频道`
 19. [烟郁Galgame](https://yanyugal.top/) & `Android`：[点击下载](https://yanyugal.top/d/disk1/%E5%B0%8F%E5%B0%8F%E7%9A%84%E5%88%86%E4%BA%AB%EF%BC%88PC%EF%BC%86%E5%AE%89%E5%8D%93%EF%BC%89/%E5%AE%89%E5%8D%93/%E7%9B%B4%E8%A3%85%E5%AE%89%E8%A3%85%E5%8C%85/%E5%A4%8F%E6%97%A5%E5%8F%A3%E8%A2%8B%20REFLECTION%20BLUE.7z)，密码：`lumouweinb`、`烟郁频道`
 20. [小鳥遊暁の会员制餐厅](https://t-satoru.top/) & `Android`：[点击下载](https://pan.t-satoru.top/d/ode5/Galgames/%E3%80%90%E8%87%AA%E5%B0%81%E5%8C%85%E3%80%91%E9%9A%8F%E7%BC%98%E5%88%86%E4%BA%AB/SPRB/SPRB_Flix_v1.0.5_FINALE_od.rar)，密码：`三司绫濑天下第一`
-21. [绮梦](https://acgs.one/) & `Windows` + `Android`：[点击下载](https://acgs.one/game/4.html)，密码：`acgs`、`绮梦`
+21. [绮梦](https://acgs.one/) & `Windows` + `Android`：[点击下载](https://game.acgs.one/game/4.html)，密码：`acgs`、`绮梦`
 22. [量子ACG](https://lzacg.org/) & `Windows`：[点击下载](https://lzacg.org/481)，密码：`量子acg`、`lzacg.top`

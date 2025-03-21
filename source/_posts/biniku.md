@@ -76,7 +76,7 @@ updated: 2024-11-05 22:19:00
 4. [Hikarinagi](https://www.hikarinagi.com/) & `Windows`：[点击下载](https://pan.himoe.uk/s/lY07C5)，密码：`hikarinagi.com`
 5. [失落小站](https://www.shinnku.com/) & `Windows`：[点击下载](https://www.shinnku.com/api/download/0/win/%E5%AA%9A%E8%82%89%E4%B9%8B%E9%A6%99v1.2.7z)
 6. [失落小站](https://www.shinnku.com/) & `Windows`：[点击下载](https://www.shinnku.com/api/download/zd/0001-0500/[080328][%E3%82%A8%E3%83%AB%E3%83%95]%20%E5%AA%9A%E8%82%89%E3%81%AE%E9%A6%99%E3%82%8A%EF%BD%9E%E3%83%8D%E3%83%88%E3%83%AA%E3%83%8D%E3%83%88%E3%83%A9%E3%83%AC%E3%83%A4%E3%83%AA%E3%83%A4%E3%83%A9%E3%83%AC%EF%BD%9E.rar)
-7. [绮梦](https://acgs.one/) & `Windows`：[点击下载](https://acgs.one/game/17.html)，密码：`acgs`
+7. [绮梦](https://acgs.one/) & `Windows`：[点击下载](https://game.acgs.one/game/17.html)，密码：`acgs`
 8. [稻荷ACG](https://amoebi.com/) & `Windows`：[点击下载](https://xpa.zrflie.pw/PC/%E5%AA%9A%E8%82%89%E4%B9%8B%E9%A6%99.zip)
 9. [烟郁Galgame](https://yanyugal.top/) & `Windows`：[点击下载](https://yanyugal.top/d/disk1/%E5%B0%8F%E5%B0%8F%E7%9A%84%E5%88%86%E4%BA%AB%EF%BC%88PC%EF%BC%86%E5%AE%89%E5%8D%93%EF%BC%89/PC/galgame/%5B%E6%B1%89%E5%8C%96%5D%E5%AA%9A%E8%82%89%E4%B9%8B%E9%A6%99.7z)，密码：`lumouweinb`、`烟郁频道`
 10. [烟郁Galgame](https://yanyugal.top/) & `Windows`：[点击下载](https://yanyugal.top/d/disk1/PC/%E5%8D%81%E4%BA%8C%E7%A5%9E%E5%99%A8/10.%E5%AF%9D%E5%8F%96%E8%88%9E%E4%BC%9A%E2%80%94%E5%AA%9A%E8%82%89%E4%B9%8B%E9%A6%99.rar)，密码：`烟郁频道`

@@ -119,5 +119,5 @@ updated: 2024-06-09 01:33:00
 12. [迷迭香的博客](https://rosmontis.com/) & `Windows`：[点击下载](https://drive.rosmontis.com/s/W2oU7)，密码：`rosmontis`，去掉 `.rosmontis` 后缀名再解压
 13. [稻荷ACG](https://amoebi.com/) & `Windows`：[点击下载](https://sakustar.me/art/223)
 14. [稻荷ACG](https://amoebi.com/) & `ONS`：[点击下载](https://sakustar.me/art/591)
-15. [绮梦](https://acgs.one/) & `Windows` + `Android`：[点击下载](https://acgs.one/game/53.html)，密码：`acgs`、`绮梦`
+15. [绮梦](https://acgs.one/) & `Windows` + `Android`：[点击下载](https://game.acgs.one/game/53.html)，密码：`acgs`、`绮梦`
 16. [量子ACG](https://lzacg.org/) & `Windows`：[点击下载](https://lzacg.org/6058)，密码：`量子acg`、`lzacg.top`

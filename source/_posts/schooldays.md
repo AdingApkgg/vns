@@ -65,6 +65,6 @@ updated: 2024-08-12 19:20:00
 5. [失落小站](https://www.shinnku.com/) & `Windows`：[点击下载](https://www.shinnku.com/api/download/zd/0501-1000/[101008][%E3%82%AA%E3%83%BC%E3%83%90%E3%83%BC%E3%83%95%E3%83%AD%E3%83%BC]%20SCHOOL%20DAYS%20HQ.rar)
 6. [失落小站](https://www.shinnku.com/) & `Windows`：[点击下载](https://www.shinnku.com/api/download/0/win/%E6%97%A5%E5%9C%A8%E6%A0%A1%E5%9B%AD%20HQ.7z)
 7. [量子ACG](https://lzacg.org/) & `Windows`：[点击下载](https://lzacg.org/6775)，密码：`量子acg`、`lzacg.top`
-8. [绮梦](https://acgs.one/) & `Windows`：[点击下载](https://acgs.one/game/258.html)，密码：`绮梦`
+8. [绮梦](https://acgs.one/) & `Windows`：[点击下载](https://game.acgs.one/game/258.html)，密码：`绮梦`
 9. [姬路白雪](https://pan.jlbx.xyz/) & `Windows`：[点击下载](https://pan.jlbx.xyz/?s=school)，密码：`终点`
 10. [稻荷ACG](https://amoebi.com/) & `Windows`：[点击下载](https://sakustar.com/art/1698)

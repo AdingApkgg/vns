@@ -98,7 +98,7 @@ updated: 2024-11-19 05:27:00
 5. [Hikarinagi](https://www.hikarinagi.com/) & `Windows`：[点击下载](https://pan.himoe.uk/s/Z64wCV)，密码：`hikarinagi.com`
 6. [失落小站](https://www.shinnku.com/) & `Windows`：[点击下载](https://www.shinnku.com/api/download/0/win/%E6%82%A0%E4%B9%8B%E7%A9%BA.7z)
 7. [失落小站](https://www.shinnku.com/) & `ONS`：[点击下载](https://www.shinnku.com/api/download/0/ons/%E6%82%A0%E4%B9%8B%E7%A9%BA.zip)
-8. [绮梦](https://acgs.one/) & `Windows` + `ONS` + `Android`：[点击下载](https://acgs.one/game/57.html)，密码：`acgs`、`绮梦`
+8. [绮梦](https://acgs.one/) & `Windows` + `ONS` + `Android`：[点击下载](https://game.acgs.one/game/57.html)，密码：`acgs`、`绮梦`
 9. [姬路白雪](https://jlbx.xyz/) & `Windows` + `ONS`：[点击下载](https://pan.jlbx.xyz/?s=%E6%82%A0%E4%B9%8B%E7%A9%BA)，密码：`终点`
 10. [烟郁Galgame](https://yanyugal.top/) & `ONS`：[点击下载](https://yanyugal.top/d/disk1/%E5%B0%8F%E5%B0%8F%E7%9A%84%E5%88%86%E4%BA%AB%EF%BC%88PC%EF%BC%86%E5%AE%89%E5%8D%93%EF%BC%89/%E5%AE%89%E5%8D%93/ons/%E6%82%A0%E4%B9%8B%E7%A9%BA.7z)，密码：`lumouweinb`、`烟郁频道`
 11. [梓澪の妙妙屋](https://zi0.cc/) & `Windows`：[点击下载](https://zi0.cc/d/%60%E3%80%90%E5%90%88%E9%9B%86%E7%B3%BB%E5%88%97%E3%80%91/%E5%8D%97%2BGalGame%E6%B1%89%E5%8C%96%E5%8C%BA%E5%85%A8%E5%8C%BA%E8%B5%84%E6%BA%90%E5%A4%87%E4%BB%BD/1/21/%5BSphere%5D%20%E3%83%8F%E3%83%AB%E3%82%AB%E3%83%8A%E3%82%BD%E3%83%A9%20%20%E6%82%A0%E4%B9%8B%E7%A9%BA%20%5BSphere%20%E4%B8%AD%E6%96%87%E5%8C%96%E5%A7%94%E5%91%98%E4%BC%9A%5D.zip?sign=8H3lIYEFEKh4m2XWWDAcDR4f6m5YJ5Vr1uK_eqamqoQ=:0)

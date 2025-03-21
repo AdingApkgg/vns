@@ -194,7 +194,7 @@ updated: 2024-11-17 07:18:40
 14. [梓澪の妙妙屋](https://zi0.cc/) & `KRKR`：[点击下载](https://zi0.cc/d/%2C%E3%80%90ADV-%E5%86%92%E9%99%A9%E6%B8%B8%E6%88%8F%E3%80%91/%E3%80%90PC%2B%E5%AE%89%E5%8D%93%E3%80%91%E5%8D%83%E6%81%8B%E4%B8%87%E8%8A%B1/%E5%8D%83%E6%81%8B%EF%BC%8A%E4%B8%87%E8%8A%B1-krkr.zip?sign=U97BWrW75-gw3t-W4jZdC9L1u1pWh0Li9QBqdF7A9_Y=:0)
 15. [梓澪の妙妙屋](https://zi0.cc/) & `KRKR`：[点击下载](https://zi0.cc/d/%60%E3%80%90%E5%90%88%E9%9B%86%E7%B3%BB%E5%88%97%E3%80%91/%E3%80%90PC%2BKR%E3%80%91YUZUSOFT%20SOUR%20%E6%9F%9A%E5%AD%90%E7%A4%BE%E5%90%88%E9%9B%86/KRKR/%E5%8D%83%E6%81%8B%EF%BC%8A%E4%B8%87%E8%8A%B1.rar?sign=FtYfktsa9_LQzYrpL4YLRrKxfWGcS-kmhIN4sds-qrs=:0)
 16. [梓澪の妙妙屋](https://zi0.cc/) & `Android`：[点击下载](https://zi0.cc/d/.%E3%80%90%E5%A4%8F%E9%A3%8E%E3%80%91/.%E3%80%90%E5%A4%8F%E9%A3%8E-1%E3%80%91/%E5%AE%89%E5%8D%93/APK/%E5%8D%83%E6%81%8B%E4%B8%87%E8%8A%B1.apk?sign=VKImkmFwAG7z9o10OJn3RYeqfuPBebTbtrZckQjmhSE=:0)
-17. [绮梦](https://acgs.one/) & `Windows` + `KRKR`：[点击下载](https://acgs.one/game/19.html)，密码：`acgs`
+17. [绮梦](https://acgs.one/) & `Windows` + `KRKR`：[点击下载](https://game.acgs.one/game/19.html)，密码：`acgs`
 18. [失落小站](https://www.shinnku.com/) & `Windows`【官中】：[点击下载](https://www.shinnku.com/api/download/0/win/%E5%8D%83%E6%81%8B%E4%B8%87%E8%8A%B1/%E5%8D%83%E6%81%8B%E4%B8%87%E8%8A%B1(%E5%AE%98%E4%B8%AD).7z)
 19. [失落小站](https://www.shinnku.com/) & `Windows`【心愿屋】：[点击下载](https://www.shinnku.com/api/download/0/win/%E5%8D%83%E6%81%8B%E4%B8%87%E8%8A%B1/%E5%8D%83%E6%81%8B%E4%B8%87%E8%8A%B1(%E5%BF%83%E6%84%BF%E5%B1%8B).7z)
 20. [失落小站](https://www.shinnku.com/) & `Windows`【城彩修正】：[点击下载](https://www.shinnku.com/api/download/0/win/%E5%8D%83%E6%81%8B%E4%B8%87%E8%8A%B1/%E5%8D%83%E6%81%8B%E4%B8%87%E8%8A%B1(%E5%9F%8E%E5%BD%A9%E4%BF%AE%E6%AD%A3).7z)

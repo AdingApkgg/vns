@@ -89,4 +89,4 @@ updated: 2024-09-04 09:17:00
 ## 分流
 
 1. [TouchGAL](https://www.touchgal.io/) & `Windows`：[点击下载](https://pan.touchgal.net/s/ANb8hP)，密码：`touchgal`
-2. [绮梦](https://acgs.one/) & `Windows`：[点击下载](https://acgs.one/game/288.html)，密码：`绮梦`
+2. [绮梦](https://acgs.one/) & `Windows`：[点击下载](https://game.acgs.one/game/288.html)，密码：`绮梦`

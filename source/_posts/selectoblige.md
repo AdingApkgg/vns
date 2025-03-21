@@ -57,7 +57,7 @@ updated: 2024-09-25 02:44:00
 2. [Hikarinagi](https://www.hikarinagi.com/) & `Windows`：[点击下载](https://pan.himoe.uk/s/j1zfM)，密码：`hikarinagi.com`
 3. [Hikarinagi](https://www.hikarinagi.com/) & `Windows`：[点击下载](https://pan.himoe.uk/s/moACK)，密码：`hikarinagi.com`
 4. [小鳥遊暁の会员制餐厅](https://t-satoru.top/) & `Tyranor`：[点击下载](https://pan.t-satoru.top/ode5/Galgames/%E3%80%90%E8%87%AA%E5%B0%81%E5%8C%85%E3%80%91%E5%8E%9F%E5%88%9B%E4%BD%9C%E5%93%81/SelectOblige)，密码：`三司绫濑天下第一`
-5. [绮梦](https://acgs.one/) & `Windows`：[点击下载](https://acgs.one/game/549.html)，密码：`绮梦`
+5. [绮梦](https://acgs.one/) & `Windows`：[点击下载](https://game.acgs.one/game/549.html)，密码：`绮梦`
 6. [量子ACG](https://lzacg.org/) & `Windows`：[点击下载](https://lzacg.org/8064)，密码：`量子acg`、`lzacg.top`
 7. [量子ACG](https://lzacg.org/) & `Tyranor`：[点击下载](https://lzacg.org/8078)，密码：`量子acg`、`lzacg.top`
 8. [稻荷ACG](https://amoebi.com/) & `Windows`：[点击下载](https://sakustar.com/art/13325)

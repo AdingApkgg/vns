@@ -89,7 +89,7 @@ updated: 2024-09-24 00:26:30
 
 ### 合集
 
-[绮梦](https://acgs.one/) & `Windows` + `macOS` + `Linux` + `Android` + `iOS`：[点击下载](https://acgs.one/game/521.html)，密码：`绮梦`
+[绮梦](https://acgs.one/) & `Windows` + `macOS` + `Linux` + `Android` + `iOS`：[点击下载](https://game.acgs.one/game/521.html)，密码：`绮梦`
 
 ### 魔改
 

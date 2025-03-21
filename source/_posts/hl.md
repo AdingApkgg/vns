@@ -111,4 +111,4 @@ SUNNY-An Angelic Conte of"IMOUTO"
 
 ### 合集
 
-1. [绮梦](https://acgs.one/) & `Windows`：[点击下载](https://acgs.one/game/305.html)，密码：`绮梦`
+1. [绮梦](https://acgs.one/) & `Windows`：[点击下载](https://game.acgs.one/game/305.html)，密码：`绮梦`

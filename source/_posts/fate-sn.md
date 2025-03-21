@@ -89,7 +89,7 @@ updated: 2024-08-12 18:45:00
 
 1. [TouchGAL](https://www.touchgal.io/) & `Windows`：[点击下载](https://pan.touchgal.net/s/nDpUY)，密码：`touchgal`
 2. [TouchGAL](https://www.touchgal.io/) & `KRKR`：[点击下载](https://pan.touchgal.net/s/YE6ta)，密码：`touchgal`
-3. [绮梦](https://acgs.one/) & `Windows` + `KRKR`：[点击下载](https://acgs.one/game/293.html)，密码：`绮梦`
+3. [绮梦](https://acgs.one/) & `Windows` + `KRKR`：[点击下载](https://game.acgs.one/game/293.html)，密码：`绮梦`
 4. [姬路白雪](https://pan.jlbx.xyz/) & `Windows` + `KRKR` + `ONS`：[点击下载](https://pan.jlbx.xyz/?s=fate%20stay)，密码：`终点`
 5. [稻荷ACG](https://amoebi.com/) & `Windows`：[点击下载](https://sakustar.com/art/356)
 6. [稻荷ACG](https://amoebi.com/) & `ONS`：[点击下载](https://sakustar.com/art/622)

@@ -79,7 +79,7 @@ updated: 2024-07-31 03:56:40
 10. [失落小站](https://www.shinnku.com/) & `ONS`【v2.5】：[点击下载](https://www.shinnku.com/api/download/0/ons/AIR-v2.5.zip)
 11. [稻荷ACG](https://amoebi.com/) & `Windows`：[点击下载](https://sakustar.me/art/309)
 12. [稻荷ACG](https://amoebi.com/) & `ONS`：[点击下载](https://sakustar.me/art/610)
-13. [绮梦](https://acgs.one/) & `Windows` + `Android`：[点击下载](https://acgs.one/game/152.html)，密码：`acgs`、`绮梦`
+13. [绮梦](https://acgs.one/) & `Windows` + `Android`：[点击下载](https://game.acgs.one/game/152.html)，密码：`acgs`、`绮梦`
 14. [小鳥遊暁の会员制餐厅](https://t-satoru.top/) & `Android`：[点击下载](https://pan.t-satoru.top/d/ode5/Galgames/%E3%80%90%E8%87%AA%E5%B0%81%E5%8C%85%E3%80%91%E9%9A%8F%E7%BC%98%E5%88%86%E4%BA%AB/AIR/%E3%80%90%E9%9D%92%E7%A9%BA%E3%80%91AIR_od.rar)，密码：`三司绫濑天下第一`
 15. [姬路白雪](https://pan.jlbx.xyz/) & `Windows` + `ONS`：[点击下载](https://pan.jlbx.xyz/GalGame?s=air)，密码：`终点`
 16. [烟郁Galgame](https://yanyugal.top/) & `ONS`：[点击下载](https://yanyugal.top/d/disk1/%E5%B0%8F%E5%B0%8F%E7%9A%84%E5%88%86%E4%BA%AB%EF%BC%88PC%EF%BC%86%E5%AE%89%E5%8D%93%EF%BC%89/%E5%AE%89%E5%8D%93/ons/Air.7z)，密码：`烟郁频道`、`lumouweinb`

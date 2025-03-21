@@ -82,5 +82,5 @@ updated: 2024-11-11 00:26:50
 7. [失落小站](https://www.shinnku.com/) & `Windows`：[点击下载](https://www.shinnku.com/api/download/zd/1501-2000/[200619][ANIPLEX.EXE]%20%E5%BE%92%E8%8A%B1%E7%95%B0%E8%AD%9A.rar)
 8. [烟郁Galgame](https://yanyugal.top/) & `Windows`：[点击下载](https://yanyugal.top/d/disk1/PC/liar%20soft/%E6%B1%89%E5%8C%96/%E5%BE%92%E8%8A%B1%E5%BC%82%E8%B0%AD.rar)，密码：`lumouweinb`、`烟郁频道`
 9. [烟郁Galgame](https://yanyugal.top/) & `Tyranor`：[点击下载](https://yanyugal.top/d/disk1/%E5%B0%8F%E5%B0%8F%E7%9A%84%E5%88%86%E4%BA%AB%EF%BC%88PC%EF%BC%86%E5%AE%89%E5%8D%93%EF%BC%89/%E5%AE%89%E5%8D%93/ty/%E5%BE%92%E8%8A%B1%E7%95%B0%E8%AD%9A.7z)，密码：`lumouweinb`、`烟郁频道`
-10. [绮梦](https://acgs.one/) & `Windows` + `Android`：[点击下载](https://acgs.one/game/191.html)，密码：`绮梦`、`acgs`
+10. [绮梦](https://acgs.one/) & `Windows` + `Android`：[点击下载](https://game.acgs.one/game/191.html)，密码：`绮梦`、`acgs`
 11. [量子ACG](https://lzacg.org/) & `Windows`：[点击下载](https://lzacg.org/4660)，密码：`量子acg`、`lzacg.top`

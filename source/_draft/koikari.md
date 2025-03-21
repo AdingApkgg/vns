@@ -1,19 +1,25 @@
 ---
-title: ASaProject -恋爱，我就借走了-/恋愛、借りちゃいました/借恋/想谈个恋爱吗？那就给钱吧
+title: 恋爱，我就借走了／恋愛、借りちゃいました／借恋／想谈个恋爱吗？那就给钱吧／Koikari - Love For Hire
 abbrlink:
 tags:
-  - 纯爱
-  - 搞笑
+  - ASa Project／颜艺社
+  - 三角恋
   - 废萌
-  - 颜艺社
-  - ASaProject
+  - 纯爱
+  - 欢乐
+  - 搞笑
+  - 校园
+  - 萌
+  - 无修正
   - 2019
   - 2020
+  - 2021
 categories:
-  - Windows
-  - KRKR
+  - - Windows
+  - - KRKR
 author: molin
 date: 2025-03-02 20:15:22
+updated: 2025-03-22 03:08:45
 ---
 
 ![koikari](https://static.saop.cc/vns/img/koikari.webp)
@@ -22,8 +28,7 @@ date: 2025-03-02 20:15:22
 
 于2019年11月29日和2020年1月31日分别发售了FD《[恋爱，我借走了 椿&千夏&子夏小故事](#fd1-椿千夏子夏小故事)》和《[恋爱，我借走了 绘未&八纯小故事](#fd2-绘未八纯小故事)》。
 
-2021年7月21日由Entergram代理发行[PS4和NS](https://www.entergram.co.jp/koikari/)的移植版本。 
-
+2021年7月21日由Entergram代理发行[PS4和NS](https://www.entergram.co.jp/koikari/)的移植版本。
 
 <!-- more -->
 
@@ -68,14 +73,15 @@ date: 2025-03-02 20:15:22
 
 下方列出汉化组及其译名，便于检索区分资源，请留意部分资源的名称可能存在`未标注汉化组`，`文件译名与解压资源不匹配`情况。
 
-| 组名                                                                                                                     | 译名           |
-| ---------------------------------------------------------------------------------------------------------------------- | ------------ |
-| [默示](http://tieba.baidu.com/f?kw=%E9%BB%99%E7%A4%BA&ie=utf-8)                                                          | 想谈个恋爱吗？那就给钱吧 |
-| [胖次](https://bbs.zdfx.net/forum.php?mod=viewthread&tid=394920&highlight=%E6%88%91%E5%B0%B1%E5%80%9F%E8%B5%B0%E4%BA%86) | 恋爱，我就借走了     |
+|                                                           组名                                                           |           译名           |
+| :----------------------------------------------------------------------------------------------------------------------: | :----------------------: |
+|                             [默示](https://tieba.baidu.com/f?ie=utf-8&kw=%E9%BB%99%E7%A4%BA)                             | 想谈个恋爱吗？那就给钱吧 |
+| [胖次](https://bbs.zdfx.net/forum.php?mod=viewthread&tid=394920&highlight=%E6%88%91%E5%B0%B1%E5%80%9F%E8%B5%B0%E4%BA%86) |     恋爱，我就借走了     |
 
 ## 分流
 
 ### 本篇
+
 1. [TouchGAL](https://www.touchgal.io/) & `Windows` [默示]：[点击下载](https://www.touchgal.io/f97ed1e8)
 2. [TouchGAL](https://www.touchgal.io/) & `KRKR` ：[点击下载](https://www.touchgal.io/f97ed1e8)
 3. [失落小站](https://www.shinnku.com/) & `Windows` [默示]：[点击下载](https://www.shinnku.com/api/download/0/win/想谈个恋爱吗‛？那就给钱吧‛／恋爱，我就借走了/默示汉化版/想谈恋爱吗‛？那就给钱吧(默示汉化-无码).7z.001) 分卷压缩
@@ -89,13 +95,8 @@ date: 2025-03-02 20:15:22
 2. [量子ACG](https://lzacg.org) & `Windows` [默示]：[点击下载](https://lzacg.org/5349)
 3. [TouchGAL](https://www.touchgal.io/) & `Windows`+`KRKR` ：[点击下载](https://www.touchgal.io/f97ed1e8) 
 
-
-
 ### FD2 绘未&八纯小故事
 
 1. [量子ACG](https://lzacg.org) & `Windows` [默示]：[点击下载](https://lzacg.org/5349)
 2. [失落小站](https://www.shinnku.com/) & `Windows` [默示]：[点击下载](https://www.shinnku.com/api/download/0/win/想谈个恋爱吗‛？那就给钱吧_绘未&八纯_迷你小剧场.7z)
 3. [TouchGAL](https://www.touchgal.io/) & `Windows`+`KRKR` [胖次] ：[点击下载](https://www.touchgal.io/f97ed1e8)
-
-
-

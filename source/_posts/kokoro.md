@@ -66,7 +66,7 @@ updated: 2024-09-15 21:20:00
 3. [烟郁Galgame](https://yanyugal.top/) & `Windows`：[点击下载](https://yanyugal.top/d/disk1/%5B%E4%BC%9A%E7%A4%BE%5D%5B%E5%90%88%E9%9B%86%5DGalgame/%E5%8D%81%E4%BA%8C%E9%AD%94%E5%99%A8/%E5%92%8C%E6%80%AA%E7%89%A9%E6%81%8B%E7%88%B1%E5%90%A7.7z)，密码：`lumouweinb`、`烟郁频道`
 4. [烟郁Galgame](https://yanyugal.top/) & `ONS`：[点击下载](https://yanyugal.top/d/disk1/%E5%B0%8F%E5%B0%8F%E7%9A%84%E5%88%86%E4%BA%AB%EF%BC%88PC%EF%BC%86%E5%AE%89%E5%8D%93%EF%BC%89/%E5%AE%89%E5%8D%93/ons/%E5%92%8C%E6%80%AA%E7%89%A9%E8%B0%88%E6%81%8B%E7%88%B1%E5%90%A7%20%EF%BC%81.7z)，密码：`lumouweinb`、`烟郁频道`
 5. [姬路白雪](https://jlbx.xyz/) & `Windows` + `ONS`：[点击下载](https://pan.jlbx.xyz/?s=%E5%92%8C%E6%80%AA%E7%89%A9)，密码：`终点`
-6. [绮梦](https://acgs.one/) & `Windows` + `ONS`：[点击下载](https://acgs.one/game/282.html)，密码：`绮梦`
+6. [绮梦](https://acgs.one/) & `Windows` + `ONS`：[点击下载](https://game.acgs.one/game/282.html)，密码：`绮梦`
 7. [失落小站](https://www.shinnku.com/) & `Windows`：[点击下载](https://www.shinnku.com/api/download/0/win/%E5%92%8C%E6%80%AA%E7%89%A9%E6%81%8B%E7%88%B1%E5%90%A7.7z)
 8. [失落小站](https://www.shinnku.com/) & `ONS`：[点击下载](https://www.shinnku.com/api/download/0/ons/%E5%92%8C%E6%80%AA%E7%89%A9%E8%B0%88%E6%81%8B%E7%88%B1%E5%90%A7!.zip)
 9. [NekoGAL](https://www.shinnku.com/) & `Windows`：[点击下载](https://pan.nekogal.top/s/2nOtJ)

@@ -514,7 +514,7 @@ LP7年，兰斯一行在找圣女怪物的途中误入荷鲁斯的装置沉睡�
 
 1. [TouchGAL](https://www.touchgal.io/) & `Windows`：[点击下载](https://pan.touchgal.net/search?keywords=%E5%85%B0%E6%96%AF)，密码：`touchgal`
 2. [NekoGAL](https://www.nekogal.com/) & `Windows`：[点击下载](https://pan.nekogal.top/search?keywords=%E5%85%B0%E6%96%AF)
-3. [绮梦](https://acgs.one/) & `Windows`：[点击下载](https://acgs.one/game/147.html)，密码：`acgs`、`绮梦`
+3. [绮梦](https://acgs.one/) & `Windows`：[点击下载](https://game.acgs.one/game/147.html)，密码：`acgs`、`绮梦`
 4. [姬路白雪](https://pan.jlbx.xyz/) & `Windows`：[点击下载](https://pan.jlbx.xyz/?s=%E5%85%B0%E6%96%AF)，密码：`终点`
 5. [量子ACG](https://lzacg.org/) & `Windows`：[点击下载](https://lzacg.org/4741)，密码：`量子acg`、`lzacg.top`
 6. [梓澪の妙妙屋](https://zi0.cc/) & `Windows`：[点击下载](https://zi0.cc/%60%E3%80%90%E5%90%88%E9%9B%86%E7%B3%BB%E5%88%97%E3%80%91/Alice%20Soft%E7%A4%BE%2026%E9%83%A8%E6%B1%89%E5%8C%96%E5%90%88%E9%9B%86)

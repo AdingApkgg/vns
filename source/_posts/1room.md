@@ -57,4 +57,4 @@ updated: 2024-12-21 03:45:40
 4. [失落小站](https://www.shinnku.com/) & `Windows`【官中1.2.3】：[点击下载](https://www.shinnku.com/api/download/0/win/1room%20-%E5%AE%B6%E5%87%BA%E5%B0%91%E5%A5%B3/1room%20-%E5%AE%B6%E5%87%BA%E5%B0%91%E5%A5%B3v1.2.3(%E5%AE%98%E4%B8%AD).7z)
 5. [失落小站](https://www.shinnku.com/) & `Windows`：[点击下载](https://www.shinnku.com/api/download/zd/1001-1500/[180803][%E3%83%91%E3%83%AB%E3%83%86%E3%82%A3%E3%82%A2%E6%95%99%E5%9B%A3]%201room%20-%E5%AE%B6%E5%87%BA%E5%B0%91%E5%A5%B3-.rar)
 6. [失落小站](https://www.shinnku.com/) & `Windows`【Steam】：[点击下载](https://www.shinnku.com/api/download/zd/1501-2000/[200505][%E3%83%91%E3%83%AB%E3%83%86%E3%82%A3%E3%82%A2%E6%95%99%E5%9B%A3]%201room%20-%E5%AE%B6%E5%87%BA%E5%B0%91%E5%A5%B3-%20steam%E7%89%88%20(files).rar)
-7. [绮梦](https://acgs.one/) & `Windows` + `Android`：[点击下载](https://acgs.one/game/634.html)，密码：`绮梦`
+7. [绮梦](https://acgs.one/) & `Windows` + `Android`：[点击下载](https://game.acgs.one/game/634.html)，密码：`绮梦`

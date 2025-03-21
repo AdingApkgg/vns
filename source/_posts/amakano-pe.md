@@ -79,7 +79,7 @@ updated: 2024-09-04 09:15:00
 
 ### 通常版
 
-1. [绮梦](https://acgs.one/) & `Windows`：[点击下载](https://acgs.one/game/288.html)，密码：`绮梦`
+1. [绮梦](https://acgs.one/) & `Windows`：[点击下载](https://game.acgs.one/game/288.html)，密码：`绮梦`
 
 ### 完美版
 

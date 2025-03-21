@@ -117,5 +117,5 @@ updated: 2024-09-28 11:07:30
 ### 合集
 
 1. [姬路白雪](https://pan.jlbx.xyz/) & `Windows`【本篇&FD1~2】：[点击下载](https://pan.jlbx.xyz/?s=Making%20Lovers)，密码：`终点`
-2. [绮梦](https://acgs.one/) & `Windows`【本篇&FD1~2】：[点击下载](https://acgs.one/game/319.html)，密码：`绮梦`
+2. [绮梦](https://acgs.one/) & `Windows`【本篇&FD1~2】：[点击下载](https://game.acgs.one/game/319.html)，密码：`绮梦`
 3. [稻荷ACG](https://amoebi.com/) & `Windows`【官中 民汉 本篇&FD1~2】：[点击下载](https://sakustar.com/art/492)

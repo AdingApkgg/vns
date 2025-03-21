@@ -101,7 +101,7 @@ updated: 2024-11-17 07:21:10
 12. [失落小站](https://www.shinnku.com/) & `Windows`：[点击下载](https://www.shinnku.com/api/download/0/win/%E9%AD%94%E5%A5%B3%E7%9A%84%E5%A4%9C%E5%AE%B4.7z)
 13. [失落小站](https://www.shinnku.com/) & `KRKR`：[点击下载](https://www.shinnku.com/api/download/0/krkr/%E9%AD%94%E5%A5%B3%E7%9A%84%E5%A4%9C%E5%AE%B4.7z)
 14. [失落小站](https://www.shinnku.com/) & `Android`：[点击下载](https://www.shinnku.com/api/download/0/apk/%E5%86%B7%E7%8B%90/1001-1500/1156-%E9%AD%94%E5%A5%B3%E7%9A%84%E5%A4%9C%E5%AE%B4.apk)
-15. [绮梦](https://acgs.one/) & `Windows` + `KRKR` + `Android`：[点击下载](https://acgs.one/game/482.html)，密码：`绮梦`
+15. [绮梦](https://acgs.one/) & `Windows` + `KRKR` + `Android`：[点击下载](https://game.acgs.one/game/482.html)，密码：`绮梦`
 16. [我的Galgame资源发布站](https://www.ttloli.com/) & `Windows`：[点击下载](https://www.ttloli.com/monvdeyeyan.html)，密码：`忧郁的弟弟`、`忧郁的loli`
 17. [稻荷ACG](https://amoebi.com/) & `Windows`：[点击下载](https://sakustar.club/art/116)
 18. [稻荷ACG](https://amoebi.com/) & `KRKR`：[点击下载](https://sakustar.club/art/577)

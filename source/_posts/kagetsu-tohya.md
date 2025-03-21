@@ -71,5 +71,5 @@ updated: 2024-07-31 01:19:20
 6. [姬路白雪](https://pan.jlbx.xyz/) & `Windows` + `ONS`：[点击下载](https://pan.jlbx.xyz/?s=%E6%AD%8C%E6%9C%88%E5%8D%81%E5%A4%9C)，密码：`终点`
 7. [我的Galgame资源发布站](https://www.ttloli.com/) & `Windows`：[点击下载](https://www.ttloli.com/geyueshiye.html)，密码：`忧郁的弟弟`、`忧郁的loli`
 8. [量子ACG](https://lzacg.org/) & `Windows`：[点击下载](https://lzacg.org/6594)，密码：`量子acg`、`lzacg.top`
-9. [绮梦](https://acgs.one/) & `Windows` + `ONS`：[点击下载](https://acgs.one/game/400.html)，密码：`绮梦`
+9. [绮梦](https://acgs.one/) & `Windows` + `ONS`：[点击下载](https://game.acgs.one/game/400.html)，密码：`绮梦`
 10. [稻荷ACG](https://amoebi.com/) & `Windows`：[点击下载](https://sakustar.me/art/364)
