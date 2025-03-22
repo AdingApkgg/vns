@@ -2,7 +2,7 @@
 title: >-
   恋爱成双／フタマタ恋愛／Futamata Ren'ai: Two Times the Trouble／ふたこい／結愛＆煌ミニアフターストーリー／Yua &
   Kirame Mini After Story／瑠衣＆宮子ミニアフターストーリー／Rui & Miyako Mini After
-  Story／二重恋爱／劈腿之恋／后日谈 AS FD 1 2
+  Story／二重恋爱／劈腿之恋／本篇 后日谈 AS FD 1 2
 abbrlink: 18065
 tags:
   - ASa Project／颜艺社
