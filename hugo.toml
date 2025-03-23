@@ -152,7 +152,8 @@ escapedSpace = true
 [params]
 summaryLength = 100
 date_format = "1970年01月01日"
-mainSections = ["p"]
+mainSections = ["posts"]
+defaultAuthor = "Asuna"
 ogImage = "img/logo.svg"
 preserveTaxonomyNames = true
 
