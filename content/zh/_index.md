@@ -1,6 +1,6 @@
 +++
 title = '公告／発表／announcement'
-date = 2023-01-01T08:00:00-07:00
+date = 2024-04-04T19:40:00+08:00
 +++
 
 ![寒蝉鸣泣之时](https://gal.saop.cc/img/higurashi.svg)
