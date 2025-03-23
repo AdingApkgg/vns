@@ -3,7 +3,10 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://vns.saop.cc/zh/docs/</loc>
-    <lastmod>2025-03-23T17:28:40+00:00</lastmod>
+    <lastmod>2025-03-23T18:09:30+08:00</lastmod>
+  </url><url>
+    <loc>https://vns.saop.cc/zh/docs/%E6%B5%8B%E8%AF%95/</loc>
+    <lastmod>2025-03-23T18:06:30+08:00</lastmod>
   </url><url>
     <loc>https://vns.saop.cc/zh/p/56047/</loc>
     <lastmod>2024-12-21T03:45:40+00:00</lastmod>
@@ -5495,6 +5498,24 @@
                 href="https://vns.saop.cc/zh/p/48468/"
                 />
   </url><url>
+    <loc>https://vns.saop.cc/zh/</loc>
+    <lastmod>2024-04-04T19:40:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://vns.saop.cc/ja/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://vns.saop.cc/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://vns.saop.cc/zh/"
+                />
+  </url><url>
     <loc>https://vns.saop.cc/zh/p/52145/</loc>
     <lastmod>2024-04-03T23:57:00+00:00</lastmod>
     <xhtml:link
@@ -6825,24 +6846,6 @@
                 rel="alternate"
                 hreflang="zh"
                 href="https://vns.saop.cc/zh/archives/"
-                />
-  </url><url>
-    <loc>https://vns.saop.cc/zh/</loc>
-    <lastmod>2023-01-01T08:00:00-07:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://vns.saop.cc/ja/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://vns.saop.cc/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://vns.saop.cc/zh/"
                 />
   </url>
 </urlset>
