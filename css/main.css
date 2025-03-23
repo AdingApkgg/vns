@@ -566,11 +566,6 @@ a:hover {
   text-decoration: underline;
 }
 
-p {
-  text-align: justify;
-  line-height: 1.2;
-}
-
 main ol li,
 main ul li {
   line-height: 2;
@@ -706,7 +701,8 @@ main h3 {
   border-bottom: 1px dotted #e0e0e0;
 }
 
-main p img {
+p img,
+p video {
   max-width: calc(100% + 2em);
   margin: 0 -1em;
   display: block;
@@ -739,57 +735,6 @@ footer p {
   color: var(--text-color) !important;
 }
 
-.post-list {
-  list-style: none;
-  padding: 0;
-}
-
-.post-item {
-  margin-bottom: 2rem;
-  border-bottom: 1px solid #eee;
-  padding-bottom: 1rem;
-}
-
-.post-image img {
-  max-width: 100%;
-  height: auto;
-  border-radius: 8px;
-  margin-bottom: 1rem;
-}
-
-.post-item h2 {
-  margin: 0.5rem 0;
-}
-
-.post-item p {
-  margin: 0.5rem 0;
-  color: var(--text-color);
-}
-
-.pagination {
-  margin-top: 2rem;
-  text-align: center;
-}
-
-.pagination a {
-  margin: 0 0.5rem;
-  text-decoration: none;
-  color: var(--link-color);
-}
-
-.pagination a:hover {
-  color: #007bff;
-}
-
-.pagination span {
-  margin: 0 0.5rem;
-  color: var(--text-color);
-}
-
-.comments-section {
-  margin-top: 2rem;
-}
-
 .comments {
   max-width: 960px;
   margin: 0 auto;
@@ -803,6 +748,7 @@ footer p {
 
 .comment {
   padding: 1rem 0;
+  line-height: 1.6;
 }
 
 .taxonomy {
