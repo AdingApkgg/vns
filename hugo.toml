@@ -48,6 +48,11 @@ identifier = "about"
 name = '关于'
 pageRef = '/about'
 weight = 6
+[[languages.zh.menus.main]]
+identifier = "docs"
+name = '文档'
+pageRef = '/docs'
+weight = 7
 
 [languages.ja]
 contentDir = 'content/ja'
@@ -86,6 +91,11 @@ identifier = "about"
 name = 'このサイトについて'
 pageRef = '/about'
 weight = 6
+[[languages.ja.menus.main]]
+identifier = "docs"
+name = '書類'
+pageRef = '/docs'
+weight = 7
 
 [languages.en]
 contentDir = 'content/en'
@@ -123,6 +133,11 @@ identifier = "about"
 name = 'About'
 pageRef = '/about'
 weight = 6
+[[languages.en.menus.main]]
+identifier = "docs"
+name = 'Docs'
+pageRef = '/docs'
+weight = 7
 
 [markup]
 defaultMarkdownHandler = "goldmark"
