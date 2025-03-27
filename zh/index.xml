@@ -7,6 +7,14 @@
     <atom:link href="https://vns.saop.cc/zh/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>贡献指南</title>
+      <link>https://vns.saop.cc/zh/docs/%E8%B4%A1%E7%8C%AE%E6%8C%87%E5%8D%97/</link>
+      <pubDate>Fri, 28 Mar 2025 02:12:20 +0800</pubDate>
+      <guid>https://vns.saop.cc/zh/docs/%E8%B4%A1%E7%8C%AE%E6%8C%87%E5%8D%97/</guid>
+      <description>&lt;p&gt;介绍如何为本项目贡献代码&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>各种模拟器使用介绍</title>
       <link>https://vns.saop.cc/zh/docs/%E5%90%84%E7%A7%8D%E6%A8%A1%E6%8B%9F%E5%99%A8%E4%BB%8B%E7%BB%8D/</link>
       <pubDate>Wed, 26 Mar 2025 21:03:00 +0800</pubDate>
