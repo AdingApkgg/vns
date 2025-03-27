@@ -1,97 +1,42 @@
 # Visual Novel Site
 
-<p class="badges">
-  <a
-    href="https://github.com/AdingApkgg/vns"
-    target="_blank"
-    rel="noopener noreferrer"
-  >
-    <img
-      alt="GitHub last commit"
-      src="https://img.shields.io/github/last-commit/AdingApkgg/vns"
-    />
-  </a>
-<a
-    href="https://github.com/AdingApkgg/vns"
-    target="_blank"
-    rel="noopener noreferrer"
-  >
-    <img
-      alt="GitHub Repo stars"
-      src="https://img.shields.io/github/stars/AdingApkgg/vns?style=social"
-    />
-  </a>
-  <a
-    href="https://github.com/AdingApkgg/vns/blob/main/LICENSE"
-    target="_blank"
-    rel="noopener noreferrer"
-  >
-    <img
-      alt="GitHub"
-      src="https://img.shields.io/github/license/AdingApkgg/vns"
-    >
-  </a>
+[简体中文](README.zh.md) | [日本語](README.ja.md) | [English](README.md)
 
-</p>
+***
 
-<p align="center">
-中文&emsp;|&emsp;<a href="./README_en.md">English</a>
-</p>
+- Powered by the [Hugo](https://gohugo.io/) framework
+- Supports internationalization and multilingual features
 
+## Local Development
 
----
+> Setting up the development environment requires tools like [Git](https://git-scm.com/) and [Hugo](https://gohugo.io/).
 
-> [站点地址](https://gal.saop.cc/)
->
-> Galgame数据库
-
-- Hugo框架驱动,性能强劲
-- 支持中日英三种语言
-- 目前网站有许多内容需要建设完善，参阅贡献章节帮助完善
-
-## 本地运行
-
-> 搭建开发环境需要安装Git、Hugo等工具
-
-### Winget
+### Windows => Winget
 
 ```sh
-winget install Microsoft.Git
 winget install Hugo.Hugo.Extended
-git clone -b dev https://github.com/AdingApkgg/vns.git
-cd ./vns
-hugo server -D
+git clone -b dev https://github.com/AdingApkgg/vns.git && cd vns
+hugo server --gc -D
 ```
 
-### Homebrew
+### macOS => Homebrew
 
 ```sh
 brew install hugo
-git clone -b dev https://github.com/AdingApkgg/vns.git
-cd vns && hugo server -D
+git clone -b dev https://github.com/AdingApkgg/vns.git && cd vns
+hugo server --gc -D
 ```
 
-### Pacman 
+### Arch Linux => Pacman
 
 ```sh
-sudo pacman -S hugo
-git clone -b dev https://github.com/AdingApkgg/vns.git
-cd vns && hugo server -D
-
+pacman -S hugo
+git clone -b dev https://github.com/AdingApkgg/vns.git && cd vns
+hugo server --gc -D
 ```
-其他环境请参阅[HuGo官方文档](https://gohugo.io)。
 
-## 参与贡献
+For more details, please refer to [Hugo](https://gohugo.io/).
 
-欢迎对本站内容及源码做贡献，更多信息请参阅[贡献指南](/content/zh/docs/postscript/contribute.md)。
+## Contributing
 
-## 版权说明
-
-网站源代码采用MIT许可证，更多信息请参阅[版权说明](./LICENSE)
-
-## 贡献者
-
-<a href="https://github.com/AdingApkgg/vns/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=AdingApkgg/vns" alt="contributors"/>
-</a>
-
+The site still has many areas that need improvement. Contributions to both the content and source code are welcome. For more information, please refer to the [Contribution Guide](/content/en/docs/postscript/contribute.md).
