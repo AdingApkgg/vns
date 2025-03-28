@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://vns.saop.cc/zh/docs/</loc>
-    <lastmod>2025-03-28T02:12:20+08:00</lastmod>
+    <lastmod>2025-03-28T16:16:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
@@ -19,6 +19,9 @@
                 hreflang="zh"
                 href="https://vns.saop.cc/zh/docs/"
                 />
+  </url><url>
+    <loc>https://vns.saop.cc/zh/docs/%E4%BA%92%E8%81%94%E7%BD%91%E8%B5%84%E6%BA%90%E5%AF%BB%E6%89%BE%E7%AE%80%E6%98%93%E6%8C%87%E5%8D%97/</loc>
+    <lastmod>2025-03-28T16:16:00+08:00</lastmod>
   </url><url>
     <loc>https://vns.saop.cc/zh/docs/%E8%B4%A1%E7%8C%AE%E6%8C%87%E5%8D%97/</loc>
     <lastmod>2025-03-28T02:12:20+08:00</lastmod>
