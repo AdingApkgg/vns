@@ -1,5 +1,6 @@
 ---
 title: 魔女的夜宴／サノバウィッチ／魔宴／Sabbat of the Witch
+slug: 61936
 tags:
   - Yuzu-Soft／柚子社
   - 纯爱
@@ -27,9 +28,15 @@ updated: 2024-11-17 07:21:10
 
 ## 剧情简介
 
-他人の気持ちを感じる力を持つ主人公・保科柊史はある日図書室で、クラスの人気者である綾地寧々の痴態を見てしまい、彼女が魔女となった代償として発情癖がついてしまったということを知る。
+Hoshina Shuuji has a secret: He has a mysterious power that allows him to perceive the emotions of others.
 
-寧々と”秘密”を共有することになった柊史は、魔女としての活動を手伝うべくオカルト研究部に所属することにした。
+One of Shuuji’s classmates, Ayachi Nene, likewise has her own grave secret: She will randomly experience periods of strong arousal, something which she has no control over. The two of them had nothing to do with one another beyond just being classmates, until one day, when Shuuji stumbled upon a scene that defied his wildest imaginations. Ayachi Nene, THAT Ayachi Nene is pressing her crotch against the corner of a library table… using it to MASTURBATE?!
+
+Following that one accident, two strangers became friends. They bonded with one another through their shared secrets, and from this, Shuuji came to learn about certain things. That is, not only about the reason for Nene’s random ‘fits’ where she gets uncontrollably aroused, but also about the existence of people called ‘witches’—-Nene’s secret actions as a ‘witch’, and the ‘fits’ she goes through because of that serving as the magnet, a junior, an upperclassman, and a transfer student all congregate together.
+
+Shuuji’s once normal life is thrown into chaos, and with that, a certain faint hope wells up inside of him:
+
+“Maybe this will be the start of something new.”
 
 ## 图片
 

@@ -1,7 +1,7 @@
 baseURL = 'https://vns.saop.cc/'
 languageCode = 'zh'
 defaultContentLanguage = "zh"
-defaultContentLanguageInSubdir = true
+defaultContentLanguageInSubdir = false
 title = 'VNS'
 theme = 'i'
 
@@ -152,7 +152,7 @@ escapedSpace = true
 [params]
 summaryLength = 100
 date_format = "1970年01月01日"
-mainSections = ["posts"]
+mainSections = ["p"]
 defaultAuthor = "Asuna"
 ogImage = "img/logo.svg"
 preserveTaxonomyNames = true

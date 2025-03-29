@@ -1,5 +1,6 @@
 ---
 title: 魔女的夜宴／サノバウィッチ／魔宴／Sabbat of the Witch
+slug: 61936
 tags:
   - Yuzu-Soft／柚子社
   - 纯爱
@@ -27,15 +28,28 @@ updated: 2024-11-17 07:21:10
 
 ## 剧情简介
 
-Hoshina Shuuji has a secret: He has a mysterious power that allows him to perceive the emotions of others.
+**保科柊史**拥有着这样一个秘密。
+那就是拥有着“能够感受到他人的感觉、感受和心情”的不可思议的力量。
 
-One of Shuuji’s classmates, Ayachi Nene, likewise has her own grave secret: She will randomly experience periods of strong arousal, something which she has no control over. The two of them had nothing to do with one another beyond just being classmates, until one day, when Shuuji stumbled upon a scene that defied his wildest imaginations. Ayachi Nene, THAT Ayachi Nene is pressing her crotch against the corner of a library table… using it to MASTURBATE?!
+他的同班同学，**[绫地宁宁](https://zh.moegirl.org.cn/%E7%BB%AB%E5%9C%B0%E5%AE%81%E5%AE%81)**
+她也拥有着一个不能对任何人诉说的秘密。
+那就是“和自己的想法无关随时随地都可能发情”的这样一种体质。
 
-Following that one accident, two strangers became friends. They bonded with one another through their shared secrets, and from this, Shuuji came to learn about certain things. That is, not only about the reason for Nene’s random ‘fits’ where she gets uncontrollably aroused, but also about the existence of people called ‘witches’—-Nene’s secret actions as a ‘witch’, and the ‘fits’ she goes through because of that serving as the magnet, a junior, an upperclassman, and a transfer student all congregate together.
+二人本应保持着只不过是同班同学的关系。
+然而某一天，柊史因为不幸的意外事故，而撞见了冲击性的场景。
 
-Shuuji’s once normal life is thrown into chaos, and with that, a certain faint hope wells up inside of him:
+他撞见的场景，竟然是发情的宁宁正在[自慰](https://zh.moegirl.org.cn/%E8%87%AA%E6%85%B0)的镜头！
 
-“Maybe this will be the start of something new.”
+在这样一个令人震惊的事件之后，二人的距离迅速拉近。
+与宁宁成为互相共有秘密的同伴的关系的柊史，知道了她发情背后的真相。
+
+宁宁发情的理由是，她是被称为魔女的存在。
+
+无关时间地点发情的宁宁，暗地里在秘密进行着“魔女”的活动。
+就像是被这些事情吸引着一样聚集而来的[学妹](https://zh.moegirl.org.cn/%E5%9B%A0%E5%B9%A1%E5%B7%A1)、[学姐](https://zh.moegirl.org.cn/%E6%88%B7%E9%9A%90%E6%86%A7%E5%AD%90)、[转校生](https://zh.moegirl.org.cn/%E6%A4%8E%E5%8F%B6%E4%8C%B7)。
+原本平静如水的日常在匆匆之间发生了一些变化，让柊史开始抱有一丝期待。
+
+“或许从现在起，就将会有什么事情开始了呢”
 
 ## 图片
 

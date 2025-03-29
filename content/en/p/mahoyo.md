@@ -1,5 +1,6 @@
 ---
 title: 魔法使之夜／魔法使いの夜／魔法师之夜／Witch on the Holy Night／Mahoyo／魔夜 通常 HD 高清 重置 重制
+slug: 36858
 tags:
   - TYPE-MOON
   - 奇幻
