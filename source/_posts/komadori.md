@@ -65,7 +65,7 @@ updated: 2024-09-15 02:25:00
 4. [NekoGAL](https://www.shinnku.com/) & `ONS`：[点击下载](https://pan.nekogal.top/s/KmKHL)
 5. [Hikarinagi](https://www.hikarinagi.com/) & `Windows` + `ONS`：[点击下载](https://pan.himoe.uk/s/X88Cy)，密码：`hikarinagi.com`
 6. [Hikarinagi](https://www.hikarinagi.com/) & `Windows` + `ONS`：[点击下载](https://pan.himoe.uk/s/W9vug)，密码：`hikarinagi.com`
-7. [鲲 Galgame 论坛](https://kungal.com/) & `Windows` + `ONS`：[点击下载](https://www.kungal.com/zh-cn/galgame/109)
+7. [鲲 Galgame 论坛](https://kungal.com/) & `Windows` + `ONS`：[点击下载](https://www.kungal.com/galgame/109)
 8. [绮梦](https://acgs.one/) & `Windows` + `KRKR` + `ONS` + `Android`：[点击下载](https://game.acgs.one/game/21.html)，密码：`绮梦`
 9. [失落小站](https://www.shinnku.com/) & `Windows`：[点击下载](https://www.shinnku.com/api/download/0/win/%E6%98%AF%E8%B0%81%E6%9D%80%E6%AD%BB%E4%BA%86%E7%9F%A5%E6%9B%B4%E9%B8%9F.7z)
 10. [失落小站](https://www.shinnku.com/) & `KRKR`：[点击下载](https://www.shinnku.com/api/download/0/krkr/%E6%98%AF%E8%B0%81%E6%9D%80%E4%BA%86%E7%9F%A5%E6%9B%B4%E9%B8%9F.7z)
