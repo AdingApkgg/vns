@@ -16,6 +16,7 @@
 ```sh
 winget install Hugo.Hugo.Extended
 git clone -b dev https://github.com/AdingApkgg/vns.git && cd vns
+git submodule update --init --recursive
 hugo server --gc -D
 ```
 
@@ -24,6 +25,7 @@ hugo server --gc -D
 ```sh
 brew install hugo
 git clone -b dev https://github.com/AdingApkgg/vns.git && cd vns
+git submodule update --init --recursive
 hugo server --gc -D
 ```
 
@@ -32,6 +34,7 @@ hugo server --gc -D
 ```sh
 pacman -S hugo
 git clone -b dev https://github.com/AdingApkgg/vns.git && cd vns
+git submodule update --init --recursive
 hugo server --gc -D
 ```
 
