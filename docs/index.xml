@@ -7,6 +7,75 @@
     <atom:link href="https://vns.saop.cc/docs/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>用户指南</title>
+      <link>https://vns.saop.cc/docs/%E7%94%A8%E6%88%B7%E6%8C%87%E5%8D%97/</link>
+      <pubDate>Tue, 25 Mar 2025 20:52:45 +0800</pubDate>
+      <guid>https://vns.saop.cc/docs/%E7%94%A8%E6%88%B7%E6%8C%87%E5%8D%97/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;首次进入的小伙伴可能一头雾水，我知道你很急，但是先别急。&lt;/p&gt;
+&lt;p&gt;本指南包含网站使用教程、常用工具、基本术语说明。&lt;/p&gt;&lt;/blockquote&gt;
+&lt;h2 id=&#34;引言&#34;&gt;引言&lt;/h2&gt;
+&lt;p&gt;本指南的目标读者是 ACG 萌新小白/网站新用户，用途旨在引导读者理解 Galgame 相关概念，快速掌握网站的使用方式以及基本工具的用法。&lt;/p&gt;
+&lt;p&gt;本站定位是一个 Galgame 视觉小说数据库，核心功能如下：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;提供游戏资源检索，支持多结构（标签、社团、平台、译名等）多语言（中日英）&lt;/li&gt;
+&lt;li&gt;资源下载：整合 Galgame 社区资源链接，用户无需二次检索。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;章节介绍&#34;&gt;章节介绍&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;&#34; &gt;其他版本&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;&#34; &gt;介绍&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://vns.saop.cc/docs/term_explanation/&#34; &gt;Galgame术语说明&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;游戏版本&lt;/li&gt;
+&lt;li&gt;剧情内容&lt;/li&gt;
+&lt;li&gt;作品标签&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://vns.saop.cc/docs/net_usage/&#34; &gt;网站用法&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;资源检索&lt;/li&gt;
+&lt;li&gt;资源识别&lt;/li&gt;
+&lt;li&gt;下载&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://vns.saop.cc/docs/build_env/&#34; &gt;工具及环境搭建&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;下载（IDM、qBit）&lt;/li&gt;
+&lt;li&gt;运行（解压、转区）&lt;/li&gt;
+&lt;li&gt;其他（翻译）&lt;/li&gt;
+&lt;li&gt;常见问题&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>环境搭建</title>
+      <link>https://vns.saop.cc/docs/build_env/</link>
+      <pubDate>Tue, 01 Apr 2025 19:39:32 +0800</pubDate>
+      <guid>https://vns.saop.cc/docs/build_env/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Galgame 术语说明</title>
+      <link>https://vns.saop.cc/docs/term_explanation/</link>
+      <pubDate>Mon, 31 Mar 2025 21:44:11 +0800</pubDate>
+      <guid>https://vns.saop.cc/docs/term_explanation/</guid>
+      <description>&lt;p&gt;本节面向初入 Galgame 领域的小白，解释常见词汇，欢迎补充或更正。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>网站使用方法</title>
+      <link>https://vns.saop.cc/docs/net_usage/</link>
+      <pubDate>Mon, 31 Mar 2025 21:10:32 +0800</pubDate>
+      <guid>https://vns.saop.cc/docs/net_usage/</guid>
+      <description>&lt;p&gt;工欲善其事，必先利其器。&lt;/p&gt;
+&lt;p&gt;本节介绍如何使用本站获取资源，流程分为：&lt;strong&gt;检索 -&amp;gt; 识别 -&amp;gt; 下载&lt;/strong&gt;。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>互联网资源简易寻找指南教程</title>
       <link>https://vns.saop.cc/docs/%E4%BA%92%E8%81%94%E7%BD%91%E8%B5%84%E6%BA%90%E5%AF%BB%E6%89%BE%E7%AE%80%E6%98%93%E6%8C%87%E5%8D%97/</link>
       <pubDate>Fri, 28 Mar 2025 16:16:00 +0800</pubDate>
