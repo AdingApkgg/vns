@@ -1,12 +1,15 @@
 ---
 title: "Galgame术语说明"
 date: 2025-03-31 21:44:11
+description:
+tags: []
+categories: []
 author: molin
+type: 'guide'
+draft: true
 ---
 
 >本节面向初入Galgame领域的小白、萌新，解释常见词汇,欢迎补充或更正。
-{{< ref "net_usage" >}} 
----
 
 ## 游戏版本
 

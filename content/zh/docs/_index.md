@@ -1,7 +1,14 @@
 ---
 title: "用户指南"
 date: 2025-03-25 20:52:45
+description:
+tags: []
+categories: []
+weight: 10
+aliases: []
+draft: true
 author: molin
+type: 'guide'
 ---
 
 > 首次进入的小伙伴可能一头雾水，我知道你很急，但是先别急。
@@ -19,28 +26,18 @@ author: molin
 
 ## 章节介绍
 
+- [其他版本]()
 - [介绍]()
-- [Galgame术语说明]()
+- [Galgame术语说明]({{< ref "term_explanation" >}})
     - 游戏版本
     - 剧情内容
     - 作品标签
-- [网站用法]()
+- [网站用法]({{< ref "net_usage" >}})
     - 资源检索
     - 资源识别
     - 下载
-- 必备工具及环境搭建
+- [工具及环境搭建]({{< ref "build_env" >}})
     - 下载（IDM、qBit）
     - 运行（解压、转区）
     - 其他（翻译）
     - 常见问题
-
-
-
-
-
-
-
-
-
-
-

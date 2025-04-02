@@ -1,13 +1,18 @@
 ---
 title: "网站使用方法"
 date: 2025-03-31 21:10:32
+description:
+tags: []
+categories: []
 author: molin
+type: 'guide'
+draft: true
 ---
 
 > 工欲善其事，必先利其器
 > 本节介绍如何使用本站获取所需资源，流程分为检索->识别->下载三步骤
 
->在开始前确保你已阅读[Galgame术语说明]({{< ref "/docs/什么是魔法">}}),确认自己需要什么。
+>在开始前确保你已阅读[Galgame术语说明]({{< ref "term_explanation">}}),确认自己需要什么。
 
 ## 1.资源检索
 
@@ -36,7 +41,7 @@ author: molin
 
 1. 网站侧边栏单击分类或标签-> 展开筛选列表，如下图所示，字号越大，热度越高，
 
-![alt text](/static/img/1743408104.avif)
+![alt text](/img/1743408104.avif)
 
 2. 单击标签检索游戏->列出时间轴，降序排列
 
