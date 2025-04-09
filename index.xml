@@ -41,9 +41,9 @@
 &lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://vns.saop.cc/docs/build_env/&#34; &gt;工具及环境搭建&lt;/a&gt;
 &lt;ul&gt;
-&lt;li&gt;下载（IDM、qBit）&lt;/li&gt;
-&lt;li&gt;运行（解压、转区）&lt;/li&gt;
-&lt;li&gt;其他（翻译）&lt;/li&gt;
+&lt;li&gt;下载&lt;/li&gt;
+&lt;li&gt;运行&lt;/li&gt;
+&lt;li&gt;其他&lt;/li&gt;
 &lt;li&gt;常见问题&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
@@ -55,7 +55,7 @@
       <link>https://vns.saop.cc/docs/build_env/</link>
       <pubDate>Tue, 01 Apr 2025 19:39:32 +0800</pubDate>
       <guid>https://vns.saop.cc/docs/build_env/</guid>
-      <description></description>
+      <description>&lt;p&gt;⚙ 本节介绍 Galgame 的&lt;strong&gt;下载-&amp;gt;运行&lt;/strong&gt;环节所需环境的搭建，包括驱动程序、运行库、软件。&lt;/p&gt;</description>
     </item>
     
     <item>
