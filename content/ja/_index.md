@@ -3,7 +3,7 @@ title = '公告／発表／announcement'
 date = 2023-01-01T08:00:00-07:00
 +++
 
-![ひぐらしのなく頃に](https://gal.saop.cc/img/higurashi.svg)
+![ATRI](/img/atri.webp)
 
 ## 基本的なヘルプ
 
