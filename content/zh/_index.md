@@ -3,7 +3,7 @@ title = '公告／発表／announcement'
 date = 2024-04-04T19:40:00+08:00
 +++
 
-![寒蝉鸣泣之时](https://gal.saop.cc/img/higurashi.svg)
+![ATRI](/img/atri.webp)
 
 ## 基本帮助
 
