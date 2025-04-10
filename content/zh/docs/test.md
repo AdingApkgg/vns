@@ -11,6 +11,12 @@ date: 2025-03-23T18:06:30+08:00
 
 <!--more-->
 
+```rs
+fn main() {
+    println!("Hello, world!");
+}
+```
+
 <audio src="/audio/1742721919.mp3" controls></audio>
 
 <video src="/video/1742721919.webm" controls></video>
