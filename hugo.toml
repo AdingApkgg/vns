@@ -8,7 +8,7 @@ theme = 'i'
 [module]
 [module.hugoVersion]
 extended = true
-min = "0.146.2"
+min = "0.146.3"
 
 [languages]
 [languages.zh]
