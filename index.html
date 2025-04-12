@@ -2,7 +2,7 @@
 <html lang="zh" dir="ltr" data-theme="light">
 
 <head>
-	<meta name="generator" content="Hugo 0.145.0">
+	<meta name="generator" content="Hugo 0.146.1">
   <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>VNS</title>
@@ -19,6 +19,9 @@
 <script async src="https://registry.npmmirror.com/pace-js/latest/files/pace.min.js" importance="high"></script>
 <link rel="stylesheet" href="https://registry.npmmirror.com/pace-js/latest/files/themes/blue/pace-theme-flash.css"
     importance="high">
+<script src="https://registry.npmmirror.com/sweetalert2/latest/files/dist/sweetalert2.all.min.js"
+    importance="high"></script>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;700&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="/pagefind/pagefind-ui.css" importance="high">
 <script src="/pagefind/pagefind-ui.js" importance="high"></script>
 <script>
@@ -38,10 +41,10 @@
     });
 </script>
 
-<link rel="stylesheet" href="/css/main.min.876857b13d907983abcd5dad2b18e4dba4948f17afddf4cb11256e046fad890c.css" importance="high" integrity="sha256-h2hXsT2QeYOrzV2tKxjk26SUjxev3fTLESVuBG&#43;tiQw="
+<link rel="stylesheet" href="/css/main.min.358b344ec9911324dd905cd8d30ec0b24d7496540b2515f026e43aa33f60e11c.css" importance="high" integrity="sha256-NYs0TsmREyTdkFzY0w7Ask10llQLJRXwJuQ6oz9g4Rw="
     crossorigin="anonymous">
 
-<script src="/js/main.9a98324008bc00d63a8fa9d1257ec8119a1c64b93dddd54c09da4485442c68d7.js" importance="high" integrity="sha256-mpgyQAi8ANY6j6nRJX7IEZocZLk93dVMCdpEhUQsaNc=" crossorigin="anonymous"></script>
+<script src="/js/main.31faa678e184be5e377ac8ab5b2ea417032eaaadd72fee17ba699e3dd8093271.js" importance="high" integrity="sha256-MfqmeOGEvl43esirWy6kFwMuqq3XL&#43;4XummePdgJMnE=" crossorigin="anonymous"></script>
 </head>
 
 <body>
@@ -118,8 +121,7 @@
   <div id="search"></div>
   <main>
     
-<h1>公告／発表／announcement</h1>
-<p><img class="zoomable" loading="lazy" src="/img/atri.webp" title="ATRI"
+  <p><img class="zoomable" loading="lazy" src="/img/atri.webp" title="ATRI"
     alt="ATRI" /></p>
 <h2 id="基本帮助">基本帮助</h2>
 <ol>
@@ -168,6 +170,113 @@
 </li>
 </ul>
 
+  
+    <h2><a href="/docs/%E7%94%A8%E6%88%B7%E6%8C%87%E5%8D%97/">用户指南</a></h2>
+    <blockquote>
+<p>首次进入的小伙伴可能一头雾水，我知道你很急，但是先别急。</p>
+<p>本指南包含网站使用教程、常用工具、基本术语说明。</p></blockquote>
+<h2 id="引言">引言</h2>
+<p>本指南的目标读者是 ACG 萌新小白/网站新用户，用途旨在引导读者理解 Galgame 相关概念，快速掌握网站的使用方式以及基本工具的用法。</p>
+<p>本站定位是一个 Galgame 视觉小说数据库，核心功能如下：</p>
+<ul>
+<li>提供游戏资源检索，支持多结构（标签、社团、平台、译名等）多语言（中日英）</li>
+<li>资源下载：整合 Galgame 社区资源链接，用户无需二次检索。</li>
+</ul>
+<h2 id="章节介绍">章节介绍</h2>
+<ul>
+<li><a href="" >其他版本</a></li>
+<li><a href="" >介绍</a></li>
+<li><a href="/docs/term_explanation/" >Galgame术语说明</a>
+<ul>
+<li>游戏版本</li>
+<li>剧情内容</li>
+<li>作品标签</li>
+</ul>
+</li>
+<li><a href="/docs/net_usage/" >网站用法</a>
+<ul>
+<li>资源检索</li>
+<li>资源识别</li>
+<li>下载</li>
+</ul>
+</li>
+<li><a href="/docs/build_env/" >工具及环境搭建</a>
+<ul>
+<li>下载</li>
+<li>运行</li>
+<li>其他</li>
+<li>常见问题</li>
+</ul>
+</li>
+</ul>
+  
+    <h2><a href="/docs/build_env/">环境搭建</a></h2>
+    <p>⚙ 本节介绍 Galgame 的<strong>下载-&gt;运行</strong>环节所需环境的搭建，包括驱动程序、运行库、软件。</p>
+  
+    <h2><a href="/docs/term_explanation/">Galgame 术语说明</a></h2>
+    <p>本节面向初入 Galgame 领域的小白，解释常见词汇，欢迎补充或更正。</p>
+  
+    <h2><a href="/docs/net_usage/">网站使用方法</a></h2>
+    <p>工欲善其事，必先利其器。</p>
+<p>本节介绍如何使用本站获取资源，流程分为：<strong>检索 -&gt; 识别 -&gt; 下载</strong>。</p>
+  
+    <h2><a href="/docs/%E4%BA%92%E8%81%94%E7%BD%91%E8%B5%84%E6%BA%90%E5%AF%BB%E6%89%BE%E7%AE%80%E6%98%93%E6%8C%87%E5%8D%97/">互联网资源简易寻找指南教程</a></h2>
+    <p>互联网资源寻找指南</p>
+  
+    <h2><a href="/docs/%E8%B4%A1%E7%8C%AE%E6%8C%87%E5%8D%97/">贡献指南</a></h2>
+    <p>介绍如何为本项目贡献代码</p>
+  
+    <h2><a href="/docs/%E5%90%84%E7%A7%8D%E6%A8%A1%E6%8B%9F%E5%99%A8%E4%BB%8B%E7%BB%8D/">各种模拟器使用介绍</a></h2>
+    <p>本文介绍 iOS，安卓，Windows 端的各种模拟器</p>
+  
+    <h2><a href="/docs/%E5%90%84%E7%A7%8D%E9%93%BE%E6%8E%A5%E5%BD%A2%E5%BC%8F%E4%BB%8B%E7%BB%8D/">各种链接形式介绍，下载</a></h2>
+    <p>本文介绍一些链接格式/原理/介绍与使用方法</p>
+  
+    <h2><a href="/docs/%E4%BB%80%E4%B9%88%E6%98%AF%E9%AD%94%E6%B3%95/">什么是“魔法”</a></h2>
+    <p>魔法，也就是虚拟专用网</p>
+  
+    <h2><a href="/docs/%E4%BB%80%E4%B9%88%E6%98%AF%E7%94%9F%E8%82%89%E5%92%8C%E7%86%9F%E8%82%89/">什么是生肉和熟肉</a></h2>
+    <p>“生肉”指未经翻译的外语作品
+“熟肉”指经过翻译的外语作品</p>
+  
+    <h2><a href="/docs/%E8%A7%A3%E5%8E%8B%E8%BD%AF%E4%BB%B6%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8/">双端解压缩工具软件快速入门</a></h2>
+    <p>部分游戏资源会以压缩文件的形式提供，您需要使用解压工具来提取文件。</p>
+  
+    <h2><a href="/docs/test/">测试</a></h2>
+    <p><img class="zoomable" loading="lazy" src="/img/1742721344.avif" title="Arch Linux KDE 桌面环境"
+    alt="Arch Linux KDE 桌面环境" /></p>
+<h2 id="h2-测试">H2 测试</h2>
+<p>这是一段测试内容..</p>
+  
+    <h2><a href="/p/36858/">魔法使之夜／魔法使いの夜／魔法师之夜／Witch on the Holy Night／Mahoyo／魔夜 通常 HD 高清 重置 重制</a></h2>
+    <p><img class="zoomable" loading="lazy" src="https://static.saop.cc/vns/img/mahoyo.webp" title="mahoyo"
+    alt="mahoyo" /></p>
+<p>《<strong>魔法使之夜</strong>》（日语：魔法使いの夜／まほうつかいのよる <em>Mahōtsukai no Yoru</em>），是日本<a href="https://zh.wikipedia.org/wiki/TYPE-MOON"  target="_blank" rel="noopener" >TYPE-MOON</a>公司制作并发售的<a href="https://zh.wikipedia.org/wiki/%e8%a7%86%e8%a7%89%e5%b0%8f%e8%af%b4"  target="_blank" rel="noopener" >视觉小说</a>类型游戏。简称为“魔夜”（「まほよ」）。</p>
+  
+    <h2><a href="/p/61936/">魔女的夜宴／サノバウィッチ／魔宴／Sabbat of the Witch</a></h2>
+    <p><img class="zoomable" loading="lazy" src="https://static.saop.cc/vns/img/sothewitch.webp" title="sothewitch"
+    alt="sothewitch" /></p>
+<p>《<strong>魔女的夜宴</strong>》（日语：<strong>サノバウィッチ</strong>）是由<a href="https://zh.moegirl.org.cn/YUZU_SOFT"  target="_blank" rel="noopener" >柚子社</a>制作发行的恋爱文字冒险游戏，于2015年2月27日面向Windows PC平台发售。英文版由NekoNyan代理，于2018年10月27日在Steam、NekoNyan的网上商城还有其他平台发售，并发行实体版。中文版由HIKARI FIELD代理，于2023年7月21日~~柚子厨特有的<a href="https://zh.moegirl.org.cn/0721"  target="_blank" rel="noopener" >0721</a>~~在Steam发售。</p>
+  
+    <h2><a href="/about/">关于本站</a></h2>
+    <p><img class="zoomable" loading="lazy" src="https://registry.npmmirror.com/js-asuna/latest/files/pic/Asuna/Asuna16x9.webp" title="asuna"
+    alt="asuna" /></p>
+<ul>
+<li>本站始建于 2024 年 01 月 27 日</li>
+<li>站长将以最低成本维护本站，力求稳定存活长久</li>
+</ul>
+<h2 id="通讯方式">通讯方式</h2>
+<ul>
+<li>Telegram：<a href="https://t.me/FullDiveSAO"  target="_blank" rel="noopener" >FullDiveSAO</a></li>
+<li>E-mail：<a href="mailto:i@saop.cc" >i@saop.cc</a></li>
+</ul>
+<h2 id="订阅本站">订阅本站</h2>
+<p>如需订阅本站的 <code>Feed</code> 可访问：<a href="/index.xml" >index.xml</a></p>
+<p>推荐这款在线 <code>RSS</code> 阅读器：<a href="https://www.qireader.com/"  target="_blank" rel="noopener" >QiReader</a></p>
+  
+    <h2><a href="/archives/">归档</a></h2>
+    
+  
 
   </main>
   <footer>
@@ -196,6 +305,8 @@
 </script>
 <button id="back-to-top" title="Go to top">↑</button>
 <span id="fps"></span>
+<div id="tAgeVerification" data-text='您已年满 18 岁？' data-yes='是'
+    data-no='否' data-url='//player.bilibili.com/player.html?bvid=BV1GJ411x7h7' style="display: none;"></div>
 <link rel="stylesheet" href="https://lf26-cdn-tos.bytecdntp.com/cdn/expire-1-M/aplayer/1.10.1/APlayer.min.css"
     importance="low">
 <meting-js id="8464409595" server="netease" type="playlist" fixed="true" autoplay="false" order="random" volume="0.3"
