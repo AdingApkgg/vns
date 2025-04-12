@@ -115,7 +115,7 @@ NEKOPARA特点为引进[E-mote](https://zh.wikipedia.org/wiki/E-mote)系统，�
 
 ## 提示
 
-> 基本帮助请参阅公告：[点我跳转](/p/announcement/)
+> 基本帮助请参阅公告：[点我跳转](/)
 
 ## 分流
 

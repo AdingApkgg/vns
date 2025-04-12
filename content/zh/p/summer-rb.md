@@ -78,7 +78,7 @@ updated: 2024-11-01 22:15:00
 
 ## 提示
 
-> 基本帮助请参阅公告：[点我跳转](/p/announcement/)
+> 基本帮助请参阅公告：[点我跳转](/)
 
 - [失落小站](https://www.shinnku.com/) > [README.md](https://www.shinnku.com/api/download/0/win/Summer%20Pockets/README.md)
   - Summer Pockets REFLECTION BLUE 为 Summer Pockets 的加强版，加强的有点多，看了下攻略，吓到我了。内置全 CG 存档和攻略

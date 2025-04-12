@@ -90,7 +90,7 @@ SUNNY-An Angelic Conte of"IMOUTO"
 
 ## 提示
 
-> 基本帮助请参阅公告：[点我跳转](/p/announcement/)
+> 基本帮助请参阅公告：[点我跳转](/)
 
 ## 分流
 

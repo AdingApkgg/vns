@@ -74,7 +74,7 @@ Unlimited篇共有11个结局，对应御剑冥夜、榊千鹤、彩峰慧、珠
 
 ## 提示
 
-> 基本帮助请参阅公告：[点我跳转](/p/announcement/)
+> 基本帮助请参阅公告：[点我跳转](/)
 
 1. **一般情况下请使用 `Windows 7` 系统运行本作、如不是该系统也可使用 [VMware](https://www.vmware.com/) 或 [VirtualBox](https://www.virtualbox.org/) 虚拟机安装 `Windows 7` 系统运行..**
 

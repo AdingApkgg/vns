@@ -99,7 +99,7 @@ updated: 2024-10-29 05:04:00
 
 ## 提示
 
-> 基本帮助请参阅公告：[点我跳转](/p/announcement/)
+> 基本帮助请参阅公告：[点我跳转](/)
 
 - [失落小站](https://www.shinnku.com/) > [README.md](https://www.shinnku.com/api/download/0/win/%E7%99%BD%E8%89%B2%E7%9B%B8%E7%B0%BF%20(WHITE%20ALBUM)/README.md)
   - 原版需要先运行 `bgmserv.exe`，再启动游戏才会有音乐，不报错

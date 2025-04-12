@@ -129,7 +129,7 @@ https://tmblr.co/ZWIqQi22aQ_0M
 
 ## 提示
 
-> 基本帮助请参阅公告：[点我跳转](/p/announcement/)
+> 基本帮助请参阅公告：[点我跳转](/)
 
 ## 下载
 
