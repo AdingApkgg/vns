@@ -12,8 +12,8 @@ tags:
   - 废萌
   - 2023
 categories:
-  - - Windows
-  - - KRKR
+  - Windows
+  - KRKR
 date: 2024-01-30 22:00:00
 updated: 2024-07-17 07:19:30
 ---

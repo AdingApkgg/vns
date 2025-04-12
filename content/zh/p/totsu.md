@@ -12,8 +12,8 @@ tags:
   - 废萌
   - 2022
 categories:
-  - - Windows
-  - - Tyranor
+  - Windows
+  - Tyranor
 author: Sinon
 date: 2024-01-31 21:40:00
 updated: 2025-02-24 15:31:10

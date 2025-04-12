@@ -13,9 +13,9 @@ tags:
   - 剧情
   - 2020
 categories:
-  - - Windows
-  - - Tyranor
-  - - Android
+  - Windows
+  - Tyranor
+  - Android
 date: 2024-11-11 00:26:50
 updated: 2024-11-11 00:26:50
 ---

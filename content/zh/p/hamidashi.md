@@ -14,9 +14,9 @@ tags:
   - 2021
   - 2022
 categories:
-  - - Windows
-  - - Tyranor
-  - - Tyranor
+  - Windows
+  - Tyranor
+  - Tyranor
 author: Sinon
 date: 2024-01-31 20:40:00
 updated: 2024-04-13 22:40:00

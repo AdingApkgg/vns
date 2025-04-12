@@ -19,8 +19,8 @@ tags:
   - 2018
   - 2022
 categories:
-  - - Windows
-  - - ONS
+  - Windows
+  - ONS
 author: searvee
 date: 2024-04-16 00:43:00
 updated: 2024-04-16 00:43:00

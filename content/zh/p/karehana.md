@@ -14,9 +14,9 @@ tags:
   - 青梅竹马
   - 2016
 categories:
-  - - Windows
-  - - KRKR
-  - - Android
+  - Windows
+  - KRKR
+  - Android
 author: molin
 date: 2025-03-02 20:39:32
 updated: 2025-03-22 02:00:00

@@ -15,9 +15,9 @@ tags:
   - 2012
   - 2017
 categories:
-  - - Windows
-  - - ONS
-  - - Android
+  - Windows
+  - ONS
+  - Android
 date: 2024-06-08 03:57:00
 updated: 2024-06-08 03:57:00
 ---

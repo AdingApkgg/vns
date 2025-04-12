@@ -14,9 +14,9 @@ tags:
   - 萌
   - 2022
 categories:
-  - - Windows
-  - - Tyranor
-  - - Android
+  - Windows
+  - Tyranor
+  - Android
 author: molin
 date: 2025-03-07 19:21:25
 updated: 2025-03-22 23:59:50

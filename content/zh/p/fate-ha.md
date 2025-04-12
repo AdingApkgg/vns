@@ -18,8 +18,8 @@ tags:
   - 2005
   - 2014
 categories:
-  - - Windows
-  - - KRKR
+  - Windows
+  - KRKR
 date: 2024-04-19 22:58:00
 updated: 2024-04-19 22:58:00
 ---

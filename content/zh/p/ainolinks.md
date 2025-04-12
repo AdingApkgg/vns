@@ -13,8 +13,8 @@ tags:
   - 校园
   - 2021
 categories:
-  - - Windows
-  - - KRKR
+  - Windows
+  - KRKR
 author: molin
 date: 2025-03-12 21:55:38
 updated: 2025-03-22 03:08:45

@@ -13,8 +13,8 @@ tags:
   - 哲学
   - 2015
 categories:
-  - - Windows
-  - - KRKR
+  - Windows
+  - KRKR
 author: WTY
 date: 2024-10-25 03:44:30
 updated: 2024-10-25 03:44:30

@@ -17,8 +17,8 @@ tags:
   - 2018
   - 2019
 categories:
-  - - Windows
-  - - ONS
+  - Windows
+  - ONS
 date: 2024-02-26 02:20:00
 updated: 2024-04-01 12:26:40
 ---

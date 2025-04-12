@@ -13,8 +13,8 @@ tags:
   - 2013
   - 2016
 categories:
-  - - Windows
-  - - KRKR
+  - Windows
+  - KRKR
 date: 2024-02-15 20:35:00
 updated: 2024-04-21 19:32:00
 ---

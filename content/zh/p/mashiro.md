@@ -19,10 +19,10 @@ tags:
   - 2023
   - 2024
 categories:
-  - - Windows
-  - - KRKR
-  - - Tyranor
-  - - ONS
+  - Windows
+  - KRKR
+  - Tyranor
+  - ONS
 author: searvee
 date: 2024-05-11 02:31:30
 updated: 2024-05-11 02:31:30

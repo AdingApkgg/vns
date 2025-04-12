@@ -13,8 +13,8 @@ tags:
   - 2009
   - 2015
 categories:
-  - - Windows
-  - - ONS
+  - Windows
+  - ONS
 date: 2024-02-25 02:32:00
 updated: 2024-02-25 02:32:00
 ---

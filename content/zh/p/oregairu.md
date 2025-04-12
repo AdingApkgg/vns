@@ -17,12 +17,12 @@ tags:
   - 2013
   - 2016
 categories:
-  - - Windows
-  - - macOS
-  - - Linux
-  - - Android
-  - - iOS
-  - - KRKR
+  - Windows
+  - macOS
+  - Linux
+  - Android
+  - iOS
+  - KRKR
 date: 2024-09-24 00:26:30
 updated: 2024-09-24 00:26:30
 ---

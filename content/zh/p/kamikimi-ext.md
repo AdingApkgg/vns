@@ -18,8 +18,8 @@ tags:
   - 2021
   - 2022
 categories:
-  - - Windows
-  - - KRKR
+  - Windows
+  - KRKR
 date: 2024-01-30 14:00:00
 updated: 2024-09-23 01:25:00
 ---

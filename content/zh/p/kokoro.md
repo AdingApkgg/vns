@@ -13,8 +13,8 @@ tags:
   - 2012
   - 2013
 categories:
-  - - Windows
-  - - ONS
+  - Windows
+  - ONS
 author: OT63
 date: 2024-09-15 21:20:00
 updated: 2024-09-15 21:20:00

@@ -15,8 +15,8 @@ tags:
   - 兽耳
   - 2020
 categories:
-  - - Windows
-  - - Android
+  - Windows
+  - Android
 date: 2024-12-19 03:38:12
 updated: 2024-12-19 03:38:12
 ---

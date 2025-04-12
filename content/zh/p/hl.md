@@ -16,8 +16,8 @@ tags:
   - 2017
   - 2020
 categories:
-  - - Windows
-  - - KRKR
+  - Windows
+  - KRKR
 date: 2024-09-25 02:05:00
 updated: 2024-09-25 02:05:00
 ---

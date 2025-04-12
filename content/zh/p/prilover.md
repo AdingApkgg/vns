@@ -10,9 +10,9 @@ tags:
   - 2008
   - 2010
 categories:
-  - - Windows
-  - - ONS
-  - - Android
+  - Windows
+  - ONS
+  - Android
 date: 2024-03-30 02:52:00
 updated: 2024-03-30 02:52:00
 ---

@@ -8,8 +8,8 @@ tags:
   - 纯爱
   - 2023
 categories:
-  - - Windows
-  - - Tyranor
+  - Windows
+  - Tyranor
 date: 2024-04-21 06:05:00
 updated: 2024-08-17 01:34:40
 ---

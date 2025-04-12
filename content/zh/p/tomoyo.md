@@ -20,8 +20,8 @@ tags:
   - 2016
   - 2020
 categories:
-  - - Windows
-  - - ONS
+  - Windows
+  - ONS
 date: 2024-06-09 20:21:30
 updated: 2024-06-09 20:21:30
 ---

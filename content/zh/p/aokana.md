@@ -21,8 +21,8 @@ tags:
   - 2017
   - 2022
 categories:
-  - - Windows
-  - - Android
+  - Windows
+  - Android
 date: 2024-10-27 03:13:40
 updated: 2024-10-27 03:13:40
 ---

@@ -14,9 +14,9 @@ tags:
   - 哲学
   - 2022
 categories:
-  - - Windows
-  - - KRKR
-  - - Android
+  - Windows
+  - KRKR
+  - Android
 author: WTY
 date: 2024-10-25 03:57:40
 updated: 2024-10-25 03:57:40

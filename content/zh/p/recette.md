@@ -10,9 +10,9 @@ tags:
   - 2023
   - Recette
 categories:
-  - - Windows
-  - - KRKR
-  - - Android
+  - Windows
+  - KRKR
+  - Android
 date: 2024-02-02 02:30:00
 updated: 2024-09-23 01:50:00
 author: WTY

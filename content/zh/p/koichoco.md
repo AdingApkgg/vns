@@ -17,8 +17,8 @@ tags:
   - 2010
   - 2020
 categories:
-  - - Windows
-  - - PSP
+  - Windows
+  - PSP
 date: 2024-11-20 02:47:40
 updated: 2024-11-20 02:47:40
 ---

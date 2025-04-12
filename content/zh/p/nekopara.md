@@ -28,9 +28,9 @@ tags:
   - 2019
   - 2020
 categories:
-  - - Windows
-  - - KRKR
-  - - Android
+  - Windows
+  - KRKR
+  - Android
 date: 2024-10-03 01:48:30
 updated: 2024-10-03 01:48:30
 ---

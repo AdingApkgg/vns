@@ -21,8 +21,8 @@ tags:
   - 2013
   - 2014
 categories:
-  - - Windows
-  - - PSP
+  - Windows
+  - PSP
 date: 2024-10-29 05:04:00
 updated: 2024-10-29 05:04:00
 ---

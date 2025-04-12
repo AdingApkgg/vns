@@ -13,8 +13,8 @@ tags:
   - 惩罚
   - 2022
 categories:
-  - - Windows
-  - - Tyranor
+  - Windows
+  - Tyranor
 date: 2024-02-07 02:00:00
 updated: 2025-03-22 03:51:20
 ---

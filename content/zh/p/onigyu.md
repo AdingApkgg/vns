@@ -14,8 +14,8 @@ tags:
   - 2018
   - 2019
 categories:
-  - - Windows
-  - - KRKR
+  - Windows
+  - KRKR
 date: 2024-02-03 23:20:00
 updated: 2024-03-31 01:29:00
 author: WTY

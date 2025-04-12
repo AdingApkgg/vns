@@ -13,8 +13,8 @@ tags:
   - 废萌
   - 喜剧
 categories:
-  - - Windows
-  - - KRKR
+  - Windows
+  - KRKR
 date: 2024-02-10 23:42:00
 updated: 2024-11-17 07:20:20
 ---

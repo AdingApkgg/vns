@@ -17,10 +17,10 @@ tags:
   - 2012
   - 2016
 categories:
-  - - Windows
-  - - ONS
-  - - Android
-  - - Tyranor
+  - Windows
+  - ONS
+  - Android
+  - Tyranor
 date: 2024-06-08 03:32:00
 updated: 2024-06-08 03:32:00
 ---

@@ -30,9 +30,9 @@ tags:
   - 2015
   - 2018
 categories:
-  - - Windows
-  - - ONS
-  - - PSP
+  - Windows
+  - ONS
+  - PSP
 author: OT63
 date: 2024-09-16 03:50:00
 updated: 2024-09-17 21:42:30

@@ -16,9 +16,9 @@ tags:
   - 2022
   - 2024
 categories:
-  - - Windows
-  - - Tyranor
-  - - Android
+  - Windows
+  - Tyranor
+  - Android
 date: 2024-10-21 20:55:00
 updated: 2024-10-21 20:55:00
 ---

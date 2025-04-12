@@ -20,8 +20,8 @@ tags:
   - 甜蜜
   - 2022
 categories:
-  - - Windows
-  - - KRKR
+  - Windows
+  - KRKR
 author: molin
 date: 2025-03-02 20:45:08
 updated: 2025-03-22 01:08:30

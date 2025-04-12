@@ -15,9 +15,9 @@ tags:
   - 2011
   - 2021
 categories:
-  - - Windows
-  - - ONS
-  - - Android
+  - Windows
+  - ONS
+  - Android
 author: OT63
 date: 2024-04-26 23:33:00
 updated: 2024-04-26 23:33:00

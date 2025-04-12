@@ -9,8 +9,8 @@ tags:
   - 2020
   - 2021
 categories:
-  - - Windows
-  - - Android
+  - Windows
+  - Android
 date: 2024-03-17 05:30:00
 updated: 2024-03-17 05:30:00
 ---

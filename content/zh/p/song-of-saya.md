@@ -12,9 +12,9 @@ tags:
   - 2014
   - 2019
 categories:
-  - - Windows
-  - - ONS
-  - - Android
+  - Windows
+  - ONS
+  - Android
 date: 2024-03-29 23:05:00
 updated: 2024-03-29 23:30:00
 ---

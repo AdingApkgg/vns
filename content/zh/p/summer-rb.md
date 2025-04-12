@@ -14,8 +14,8 @@ tags:
   - 2018
   - 2020
 categories:
-  - - Windows
-  - - Android
+  - Windows
+  - Android
 author: Sinon
 date: 2024-02-02 00:30:00
 updated: 2024-11-01 22:15:00

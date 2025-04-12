@@ -17,8 +17,8 @@ tags:
   - 2015
   - 2018
 categories:
-  - - Windows
-  - - Android
+  - Windows
+  - Android
 date: 2024-10-24 00:23:40
 updated: 2024-10-24 00:23:40
 ---

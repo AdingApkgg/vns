@@ -14,9 +14,9 @@ tags:
   - 恋爱
   - 2020
 categories:
-  - - Windows
-  - - KRKR
-  - - Android
+  - Windows
+  - KRKR
+  - Android
 author: WTY
 date: 2024-10-25 03:55:00
 updated: 2024-10-25 03:55:00

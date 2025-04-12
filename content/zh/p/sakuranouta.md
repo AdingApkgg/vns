@@ -9,8 +9,8 @@ tags:
   - 纯爱
   - 2015
 categories:
-  - - Windows
-  - - Android
+  - Windows
+  - Android
 date: 2024-04-21 04:10:00
 updated: 2024-04-21 04:10:00
 ---

@@ -16,9 +16,9 @@ tags:
   - 2016
   - 2022
 categories:
-  - - Windows
-  - - ONS
-  - - Tyranor
+  - Windows
+  - ONS
+  - Tyranor
 author: searvee
 date: 2024-04-19 23:51:00
 updated: 2024-04-19 23:51:00
