@@ -1391,12 +1391,6 @@
     <loc>https://vns.saop.cc/p/48468/</loc>
     <lastmod>2024-04-04T21:42:00+00:00</lastmod>
   </url><url>
-    <loc>https://vns.saop.cc/categories/other/</loc>
-    <lastmod>2024-04-04T19:40:00+00:00</lastmod>
-  </url><url>
-    <loc>https://vns.saop.cc/p/announcement/</loc>
-    <lastmod>2024-04-04T19:40:00+00:00</lastmod>
-  </url><url>
     <loc>https://vns.saop.cc/</loc>
     <lastmod>2024-04-04T19:40:00+08:00</lastmod>
     <xhtml:link
@@ -1541,6 +1535,9 @@
     <loc>https://vns.saop.cc/p/33924/</loc>
     <lastmod>2024-02-10T03:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://vns.saop.cc/categories/other/</loc>
+    <lastmod>2024-02-10T03:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://vns.saop.cc/tags/qruppo/</loc>
     <lastmod>2024-02-07T02:00:00+00:00</lastmod>
   </url><url>
@@ -1675,9 +1672,6 @@
                 hreflang="zh"
                 href="https://vns.saop.cc/about/"
                 />
-  </url><url>
-    <loc>https://vns.saop.cc/p/hello-world/</loc>
-    <lastmod>2024-01-27T21:52:00+00:00</lastmod>
   </url><url>
     <loc>https://vns.saop.cc/archives/</loc>
     <lastmod>2024-01-27T08:00:00+08:00</lastmod>
