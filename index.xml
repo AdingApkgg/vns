@@ -25,37 +25,19 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;&#34; &gt;其他版本&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;&#34; &gt;介绍&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://vns.saop.cc/docs/term_explanation/&#34; &gt;Galgame术语说明&lt;/a&gt;
-&lt;ul&gt;
-&lt;li&gt;游戏版本&lt;/li&gt;
-&lt;li&gt;剧情内容&lt;/li&gt;
-&lt;li&gt;作品标签&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://vns.saop.cc/docs/net_usage/&#34; &gt;网站用法&lt;/a&gt;
-&lt;ul&gt;
-&lt;li&gt;资源检索&lt;/li&gt;
-&lt;li&gt;资源识别&lt;/li&gt;
-&lt;li&gt;下载&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://vns.saop.cc/docs/build_env/&#34; &gt;工具及环境搭建&lt;/a&gt;
-&lt;ul&gt;
-&lt;li&gt;下载&lt;/li&gt;
-&lt;li&gt;运行&lt;/li&gt;
-&lt;li&gt;其他&lt;/li&gt;
-&lt;li&gt;常见问题&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://vns.saop.cc/docs/term_explanation/&#34; &gt;Galgame术语说明&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://vns.saop.cc/docs/net_usage/&#34; &gt;网站用法&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://vns.saop.cc/docs/build_env_windows/&#34; &gt;Galgame入坑指南&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://vns.saop.cc/docs/build_env_android/&#34; &gt;Android篇&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
     </item>
     
     <item>
-      <title>环境搭建</title>
-      <link>https://vns.saop.cc/docs/build_env/</link>
+      <title>Galgame 入坑指南</title>
+      <link>https://vns.saop.cc/docs/build_env_windows/</link>
       <pubDate>Tue, 01 Apr 2025 19:39:32 +0800</pubDate>
-      <guid>https://vns.saop.cc/docs/build_env/</guid>
-      <description>&lt;p&gt;⚙ 本节介绍 Galgame 的&lt;strong&gt;下载-&amp;gt;运行&lt;/strong&gt;环节所需环境的搭建，包括驱动程序、运行库、软件。&lt;/p&gt;</description>
+      <guid>https://vns.saop.cc/docs/build_env_windows/</guid>
+      <description>&lt;p&gt;⚙ 本节介绍如何在 Windows 平台上手 Galgame，包括&lt;strong&gt;资源下载-&amp;gt;游戏运行&lt;/strong&gt;等环节。&lt;/p&gt;</description>
     </item>
     
     <item>
