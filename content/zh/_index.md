@@ -3,7 +3,7 @@ title: 公告／発表／announcement
 date: 2024-04-04T19:40:00+08:00
 ---
 
-![ATRI](/img/atri.webp)
+![Random Image](https://img-api.saop.cc/api)
 
 ## 基本帮助
 
