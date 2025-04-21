@@ -1,7 +1,7 @@
 ---
 title: 关于本站
 date: 2024-01-27 21:53:55
-updated: 2024-11-09 00:00:00
+updated: 2025-04-21 00:00:00
 comments: false
 ---
 
@@ -14,6 +14,8 @@ comments: false
 
 - Telegram：[FullDiveSAO](https://t.me/FullDiveSAO)
 - E-mail：[i@saop.cc](mailto:i@saop.cc)
+- QQ 社群：[1037396187](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=a0v1vVzAixSZHtzEv8CDjqixn_DORxFk&authKey=RAMUimVPIwUzxIbDf8tNfJmic%2BagIybvYqmVId41e4Qpz2syvM%2BhzE3n%2F0ffHpjf&noverify=0&group_code=1037396187)
+- 腾讯频道：[70j9kz204s](https://pd.qq.com/s/bkzyduno1?businessType=9)
 
 ## 订阅本站
 
