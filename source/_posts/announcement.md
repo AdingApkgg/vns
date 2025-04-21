@@ -6,10 +6,10 @@ categories:
 sticky: 10
 comments: false
 date: 2024-04-04 19:40:00
-updated: 2025-03-21 19:07:10
+updated: 2025-04-17 05:26:40
 ---
 
-![寒蝉鸣泣之时](/img/higurashi.svg)
+![Random Image](https://img-api.saop.cc/api)
 
 ## 基本帮助
 
