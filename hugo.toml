@@ -53,6 +53,11 @@ identifier = "docs"
 name = '文档'
 pageRef = '/docs'
 weight = 7
+[[languages.zh.menus.main]]
+identifier = "data"
+name = '分流'
+pageRef = '/data'
+weight = 8
 
 [languages.ja]
 contentDir = 'content/ja'
