@@ -56,5 +56,64 @@
         "url": "https://www.touchgal.io/73734ae8"
       }
     ]
+  },
+  {
+    "title": "缘之空",
+    "company": "Sphere",
+    "cover": "https://static.saop.cc/vns/img/yosuga.webp",
+    "description": "与在昔日到访奥木染时认识的天女目瑛和依媛奈绪重遇、认识了新的朋友、以及被妹妹所倚赖，就这样悠的新生活展开了。在安稳的日子里，很快悠注意到了对自己来说谁是重要的存在...",
+    "tags": [
+      "妹",
+      "兄妹",
+      "妹控",
+      "恋爱",
+      "校园",
+      "2008"
+    ],
+    "platforms": [
+      "Windows",
+      "Android",
+      "ONS",
+      "PSP"
+    ],
+    "downloads": [
+      {
+        "provider": "AsunaDrive",
+        "url": "https://drive.saop.cc/VNS/%E7%BC%98%E4%B9%8B%E7%A9%BA"
+      },
+      {
+        "provider": "TouchGal",
+        "url": "https://www.touchgal.io/71944fd5"
+      }
+    ]
+  },
+  {
+    "title": "悠之空",
+    "company": "Sphere",
+    "cover": "https://static.saop.cc/vns/img/haruka.webp",
+    "description": "ヨスガノソラ（缘之空）的FD. 新增班长线和穹妹后日谈",
+    "tags": [
+      "妹",
+      "兄妹",
+      "妹控",
+      "恋爱",
+      "校园",
+      "2008"
+    ],
+    "platforms": [
+      "Windows",
+      "Android",
+      "ONS"
+    ],
+    "downloads": [
+      {
+        "provider": "AsunaDrive",
+        "url": "https://drive.saop.cc/VNS/%E6%82%A0%E4%B9%8B%E7%A9%BA"
+      },
+      {
+        "provider": "TouchGal",
+        "url": "https://www.touchgal.io/d0014015"
+      }
+    ]
   }
 ]
