@@ -115,5 +115,33 @@
         "url": "https://www.touchgal.io/d0014015"
       }
     ]
+  },
+  {
+    "title": "Trinoline",
+    "company": "minori",
+    "cover": "https://t.vndb.org/cv/86/101686.jpg",
+    "description": "《Trinoline》（日语：トリノライン）是由minori制作并发行的一部Galgame。",
+    "tags": [
+      "机器人",
+      "巨乳",
+      "恋爱",
+      "科幻",
+      "天门",
+      "R18",
+      "2017"
+    ],
+    "platforms": [
+      "Windows"
+    ],
+    "downloads": [
+      {
+        "provider": "TouchGal",
+        "url": "https://www.touchgal.io/44a33a97"
+      },
+      {
+        "provider": "量子ACG",
+        "url": "https://lzacg.org/482"
+      }
+    ]
   }
 ]
