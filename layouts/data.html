@@ -2,11 +2,44 @@
 <style>
     article div#content {
         display: grid;
-        grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+        grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
         gap: 16px;
         justify-content: center;
-        padding: 16px;
         background: var(--bg-color);
+    }
+
+    @media (min-width: 1024px) {
+        article div#content {
+            grid-template-columns: repeat(3, 1fr);
+        }
+    }
+
+    @media (max-width: 480px) {
+        article div#content {
+            grid-template-columns: repeat(1, 1fr);
+            gap: 12px;
+        }
+
+        article div#content .item {
+            padding: 12px;
+        }
+
+        article div#content .item img {
+            height: 150px;
+        }
+
+        article div#content .item .title {
+            font-size: 1.1rem;
+        }
+
+        article div#content .item .platforms {
+            font-size: 0.75rem;
+        }
+
+        article div#content .item .download-button {
+            padding: 6px 10px;
+            font-size: 0.75rem;
+        }
     }
 
     article div#content .item {
@@ -31,7 +64,6 @@
         height: 180px;
         object-fit: cover;
         border-radius: 8px;
-        margin-bottom: 12px;
     }
 
     article div#content .item .title {
@@ -41,20 +73,6 @@
         color: var(--text-color);
     }
 
-    article div#content .item .company {
-        font-size: 0.95rem;
-        color: var(--text-color);
-        margin-bottom: 8px;
-    }
-
-    article div#content .item .description {
-        font-size: 0.85rem;
-        color: var(--text-color);
-        margin-bottom: 12px;
-        line-height: 1.5;
-    }
-
-    article div#content .item .tags,
     article div#content .item .platforms {
         font-size: 0.8rem;
         color: var(--text-color);
@@ -82,37 +100,6 @@
     article div#content .item .download-button:hover {
         background: #4a5568;
         transform: scale(1.05);
-    }
-
-    @media (max-width: 480px) {
-        article div#content {
-            padding: 12px;
-            gap: 12px;
-        }
-
-        article div#content .item {
-            padding: 12px;
-        }
-
-        article div#content .item img {
-            height: 150px;
-        }
-
-        article div#content .item .title {
-            font-size: 1.1rem;
-        }
-
-        article div#content .item .company,
-        article div#content .item .description,
-        article div#content .item .tags,
-        article div#content .item .platforms {
-            font-size: 0.75rem;
-        }
-
-        article div#content .item .download-button {
-            padding: 6px 10px;
-            font-size: 0.75rem;
-        }
     }
 </style>
 <article>
@@ -144,11 +131,6 @@
                     const itemDiv = document.createElement("div");
                     itemDiv.className = "item";
 
-                    const title = document.createElement("h2");
-                    title.className = "title";
-                    title.textContent = item.title;
-                    itemDiv.appendChild(title);
-
                     const cover = document.createElement("img");
                     cover.className = "cover";
                     cover.src = item.cover;
@@ -157,29 +139,18 @@
                     cover.loading = "lazy";
                     itemDiv.appendChild(cover);
 
-                    const description = document.createElement("p");
-                    description.className = "description";
-                    description.textContent = item.description;
-                    itemDiv.appendChild(description);
-
-                    const company = document.createElement("p");
-                    company.className = "company";
-                    company.textContent = `会社：${item.company}`;
-                    itemDiv.appendChild(company);
-
-                    const tags = document.createElement("p");
-                    tags.className = "tags";
-                    tags.textContent = `标签：${item.tags.join("、")}`;
-                    itemDiv.appendChild(tags);
+                    const title = document.createElement("h2");
+                    title.className = "title";
+                    title.textContent = item.title;
+                    itemDiv.appendChild(title);
 
                     const platforms = document.createElement("p");
                     platforms.className = "platforms";
-                    platforms.textContent = `平台：${item.platforms.join("、")}`;
+                    platforms.textContent = `${item.platforms.join("、")}`;
                     itemDiv.appendChild(platforms);
 
                     const downloads = document.createElement("p");
                     downloads.className = "downloads";
-                    downloads.textContent = "分流：";
 
                     item.downloads.forEach((download) => {
                         const button = document.createElement("button");
