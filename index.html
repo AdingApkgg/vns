@@ -24,18 +24,6 @@
                 cover.title = item.title
                 cover.loading = "lazy";
                 itemDiv.appendChild(cover);
-                const description = document.createElement("p");
-                description.className = "description";
-                description.textContent = item.description;
-                itemDiv.appendChild(description);
-                const company = document.createElement("p");
-                company.className = "company";
-                company.textContent = `会社：${item.company}`;
-                itemDiv.appendChild(company);
-                const tags = document.createElement("p");
-                tags.className = "tags";
-                tags.textContent = `标签：${item.tags.join("、")}`;
-                itemDiv.appendChild(tags);
                 const platforms = document.createElement("p");
                 platforms.className = "platforms";
                 platforms.textContent = `平台：${item.platforms.join("、")}`;

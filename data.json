@@ -1,20 +1,9 @@
 [
   {
     "title": "魔法使之夜",
-    "company": "TYPE-MOON",
     "cover": "https://static.saop.cc/vns/img/mahoyo.webp",
-    "description": "1980年代后半，正是繁华与活力的时代的末期。在地方都市三咲町，有传言说“在坡道上的房子里，住着两个魔女”。从乡村来到三咲町的少年静希草十郎，与转入学校的学生会长苍崎青子，以及孤高的美少女久远寺有珠相遇了。实际上，这两人正是坡道上的房子里住着的魔女。由于一系列的事件，完全没有共同点的三人在久远寺宅邸中开始了共同生活。",
-    "tags": [
-      "剧情",
-      "奇幻",
-      "战斗",
-      "氛围",
-      "魔法",
-      "2012"
-    ],
     "platforms": [
       "Windows",
-      "Android",
       "KRKR"
     ],
     "downloads": [
@@ -30,20 +19,9 @@
   },
   {
     "title": "魔女的夜宴",
-    "company": "Yuzusoft",
     "cover": "https://static.saop.cc/vns/img/sothewitch.webp",
-    "description": "拥有可以感受他人心情能力的男主角保科柊史某一天在图书馆帮忙时，见到了班上很有人气的女孩子绫地宁宁自慰的场景，并且知道宁宁以发情癖为代价成为魔女的事实。与宁宁共享秘密的柊史，决定加入宁宁所属的超自然研究社并帮她达成愿望。",
-    "tags": [
-      "喜剧",
-      "废萌",
-      "恋爱",
-      "校园",
-      "纯爱",
-      "2015"
-    ],
     "platforms": [
       "Windows",
-      "Android",
       "KRKR"
     ],
     "downloads": [
@@ -59,17 +37,7 @@
   },
   {
     "title": "缘之空",
-    "company": "Sphere",
     "cover": "https://static.saop.cc/vns/img/yosuga.webp",
-    "description": "与在昔日到访奥木染时认识的天女目瑛和依媛奈绪重遇、认识了新的朋友、以及被妹妹所倚赖，就这样悠的新生活展开了。在安稳的日子里，很快悠注意到了对自己来说谁是重要的存在...",
-    "tags": [
-      "妹",
-      "兄妹",
-      "妹控",
-      "恋爱",
-      "校园",
-      "2008"
-    ],
     "platforms": [
       "Windows",
       "Android",
@@ -89,17 +57,7 @@
   },
   {
     "title": "悠之空",
-    "company": "Sphere",
     "cover": "https://static.saop.cc/vns/img/haruka.webp",
-    "description": "ヨスガノソラ（缘之空）的FD. 新增班长线和穹妹后日谈",
-    "tags": [
-      "妹",
-      "兄妹",
-      "妹控",
-      "恋爱",
-      "校园",
-      "2008"
-    ],
     "platforms": [
       "Windows",
       "Android",
@@ -117,19 +75,99 @@
     ]
   },
   {
+    "title": "星光咖啡馆与死神之蝶",
+    "cover": "https://static.saop.cc/vns/img/stella_yuzu-soft.webp",
+    "platforms": [
+      "Windows",
+      "KRKR"
+    ],
+    "downloads": [
+      {
+        "provider": "AsunaDrive",
+        "url": "https://drive.saop.cc/VNS/%E6%98%9F%E5%85%89%E5%92%96%E5%95%A1%E9%A6%86%E4%B8%8E%E6%AD%BB%E7%A5%9E%E4%B9%8B%E8%9D%B6"
+      },
+      {
+        "provider": "TouchGal",
+        "url": "https://www.touchgal.io/bdac4236"
+      }
+    ]
+  },
+  {
+    "title": "天使纷扰",
+    "cover": "https://static.saop.cc/vns/img/ten-sz.webp",
+    "platforms": [
+      "Windows",
+      "KRKR"
+    ],
+    "downloads": [
+      {
+        "provider": "AsunaDrive",
+        "url": "https://drive.saop.cc/VNS/%E5%A4%A9%E4%BD%BF%E7%BA%B7%E6%89%B0"
+      },
+      {
+        "provider": "TouchGal",
+        "url": "https://www.touchgal.io/e2275eb2"
+      }
+    ]
+  },
+  {
+    "title": "千恋＊万花",
+    "cover": "https://static.saop.cc/vns/img/senren.webp",
+    "platforms": [
+      "Windows",
+      "KRKR"
+    ],
+    "downloads": [
+      {
+        "provider": "AsunaDrive",
+        "url": "https://drive.saop.cc/VNS/%E5%8D%83%E6%81%8B%E4%B8%87%E8%8A%B1"
+      },
+      {
+        "provider": "TouchGal",
+        "url": "https://www.touchgal.io/a555829b"
+      }
+    ]
+  },
+  {
+    "title": "奴隶少女希尔薇",
+    "cover": "https://static.saop.cc/vns/img/sylvie.webp",
+    "platforms": [
+      "Windows",
+      "Android"
+    ],
+    "downloads": [
+      {
+        "provider": "AsunaDrive",
+        "url": "https://drive.saop.cc/VNS/TeachingFeeling"
+      },
+      {
+        "provider": "TouchGal",
+        "url": "https://www.touchgal.io/58d1c5bd"
+      }
+    ]
+  },
+  {
+    "title": "1room -家出少女-",
+    "cover": "https://static.saop.cc/vns/img/1room.webp",
+    "platforms": [
+      "Windows",
+      "Android"
+    ],
+    "downloads": [
+      {
+        "provider": "AsunaDrive",
+        "url": "https://drive.saop.cc/VNS/1room"
+      },
+      {
+        "provider": "TouchGal",
+        "url": "https://www.touchgal.io/36df8313"
+      }
+    ]
+  },
+  {
     "title": "Trinoline",
     "company": "minori",
     "cover": "https://pic1.imgdb.cn/item/681a2ed658cb8da5c8e149b2.png",
-    "description": "《Trinoline》（日语：トリノライン）是由minori制作并发行的一部Galgame。",
-    "tags": [
-      "机器人",
-      "巨乳",
-      "恋爱",
-      "科幻",
-      "天门",
-      "R18",
-      "2017"
-    ],
     "platforms": [
       "Windows"
     ],
