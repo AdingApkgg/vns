@@ -234,7 +234,7 @@
   },
   {
     "title": "大图书馆的牧羊人 -Dreaming Sheep-",
-    "cover": "https://free4.yunpng.top/2025/05/12/6820cb093f0fc.jpg",
+    "cover": "https://cdn4.winhlb.com/2025/05/12/6820cbb34f4d2.jpg",
     "platforms": [
       "Windows"
     ],
@@ -246,6 +246,172 @@
       {
         "provider": "量子ACG",
         "url": "https://lzacg.org/408"
+      }
+    ]
+  },
+  {
+    "title": "大图书馆的牧羊人 -Library Party-",
+    "cover": "https://cdn4.winhlb.com/2025/05/12/6820cc78e7204.jpg",
+    "platforms": [
+      "Switch"
+    ],
+    "downloads": [
+      {
+        "provider": "BaiduNetdisk",
+        "url": "https://pan.baidu.com/s/1cSDu_nYro_MnEdKV3iVrSQ?pwd=mbc3"
+      }
+    ]
+  },
+  {
+    "title": "ef - the first tale",
+    "cover": "https://cdn4.winhlb.com/2025/05/12/68220c2b2c904.jpg",
+    "platforms": [
+      "Windows"
+    ],
+    "downloads": [
+      {
+        "provider": "TouchGal",
+        "url": "https://www.touchgal.io/aa8f7ad0"
+      },
+      {
+        "provider": "量子ACG",
+        "url": "https://lzacg.org/416"
+      }
+    ]
+  },
+  {
+    "title": "ef - the latter tale",
+    "cover": "https://cdn4.winhlb.com/2025/05/12/68220cd452eb4.jpg",
+    "platforms": [
+      "Windows"
+    ],
+    "downloads": [
+      {
+        "provider": "TouchGal",
+        "url": "https://www.touchgal.io/2d99d346"
+      },
+      {
+        "provider": "量子ACG",
+        "url": "https://lzacg.org/3839"
+      }
+    ]
+  },
+  {
+    "title": "天使的日曜日",
+    "cover": "https://cdn4.winhlb.com/2025/05/12/68220e7e76b0c.jpg",
+    "platforms": [
+      "Windows"
+    ],
+    "downloads": [
+      {
+        "provider": "TouchGal",
+        "url": "https://www.touchgal.io/41bcf386"
+      },
+      {
+        "provider": "绮梦ACG",
+        "url": "https://game.acgs.one/game/233.html"
+      }
+    ]
+  },
+  {
+    "title": "近月少女的礼仪",
+    "cover": "https://cdn4.winhlb.com/2025/05/12/68220fa645d34.jpg",
+    "platforms": [
+      "Windows"
+    ],
+    "downloads": [
+      {
+        "provider": "TouchGal",
+        "url": "https://www.touchgal.io/3faab6a4"
+      },
+      {
+        "provider": "量子ACG",
+        "url": "https://lzacg.org/550"
+      }
+    ]
+  },
+  {
+    "title": "少女理论及其周边 -巴黎学院篇-",
+    "cover": "https://cdn4.winhlb.com/2025/05/12/6822105dcd8df.jpg",
+    "platforms": [
+      "Windows"
+    ],
+    "downloads": [
+      {
+        "provider": "TouchGal",
+        "url": "https://www.touchgal.io/bd238a75"
+      },
+      {
+        "provider": "量子ACG",
+        "url": "https://lzacg.org/440"
+      }
+    ]
+  },
+  {
+    "title": "少女理论及其之后的周边 -美好年代篇-",
+    "cover": "https://cdn4.winhlb.com/2025/05/12/682210d0e51c5.jpg",
+    "platforms": [
+      "Windows"
+    ],
+    "downloads": [
+      {
+        "provider": "TouchGal",
+        "url": "https://www.touchgal.io/2a62583f"
+      },
+      {
+        "provider": "量子ACG",
+        "url": "https://lzacg.org/433"
+      }
+    ]
+  },
+  {
+    "title": "近月少女的礼仪2",
+    "cover": "https://cdn4.winhlb.com/2025/05/12/68221245e3713.jpg",
+    "platforms": [
+      "Windows"
+    ],
+    "downloads": [
+      {
+        "provider": "TouchGal",
+        "url": "https://www.touchgal.io/cd6ad727"
+      },
+      {
+        "provider": "量子ACG",
+        "url": "https://lzacg.org/549"
+      }
+    ]
+  },
+  {
+    "title": "近月少女的礼仪2.1 E×S×PAR!!",
+    "cover": "https://cdn4.winhlb.com/2025/05/12/682212857e344.jpg",
+    "platforms": [
+      "Windows"
+    ],
+    "downloads": [
+      {
+        "provider": "TouchGal",
+        "url": "https://www.touchgal.io/97aec187"
+      },
+      {
+        "provider": "量子ACG",
+        "url": "https://lzacg.org/3581"
+      }
+    ]
+  },
+  {
+    "title": "近月少女的礼仪2.2 A×L+SA!!",
+    "cover": "https://cdn4.winhlb.com/2025/05/12/682212c83e429.jpg",
+    "platforms": [
+      "Windows"
+    ],
+    "downloads": [
+      {
+        "provider": "TouchGal",
+        "url": "https://www.touchgal.io/6e7aa7fe"
+      },
+      {
+        "provider": "量子ACG",
+        "url": "https://lzacg.org/3581"
       }
     ]
   }
