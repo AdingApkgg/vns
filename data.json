@@ -414,5 +414,34 @@
         "url": "https://lzacg.org/3581"
       }
     ]
+  },
+  {
+    "title": "StreamLove Voyage",
+    "cover": "https://cdn4.winhlb.com/2025/05/14/6824bba0a753a.jpg",
+    "platforms": [
+      "Windows"
+    ],
+    "downloads": [
+      {
+        "provider": "TouchGal",
+        "url": "https://www.touchgal.io/36eeed78"
+      },
+      {
+        "provider": "量子ACG",
+        "url": "https://lzacg.org/9188"
+      },
+      {
+        "provider": "晴空咖啡馆",
+        "url": "https://aozoracafe.com/detail/3091"
+      },
+      {
+        "provider": "鲲Galgame",
+        "url": "https://www.kungal.com/galgame/2929"
+      },
+      {
+        "provider": "FuFuACG",
+        "url": "https://www.fufugal.com/detail?id=3371"
+      }
+    ]
   }
 ]
