@@ -8,7 +8,7 @@ theme = 'i'
 [module]
 [module.hugoVersion]
 extended = true
-min = "0.147.1"
+min = "0.147.3"
 
 [languages]
 [languages.zh]
@@ -152,7 +152,10 @@ unsafe = true
 enable = true
 eastAsianLineBreaks = true
 escapedSpace = true
-
+[markup.tableOfContents]
+startLevel = 2
+endLevel = 4
+ordered = true
 
 [params]
 summaryLength = 100
