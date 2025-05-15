@@ -1,54 +1,101 @@
 <!DOCTYPE html>
-<html lang="ja" dir="ltr" data-theme="light">
-
-<head>
-	<meta name="generator" content="Hugo 0.147.1">
-  <meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>VNS</title>
+<html
+  lang="ja"
+  dir="ltr"
+  data-theme="light"
+>
+  <head>
+	<meta name="generator" content="Hugo 0.147.3">
+    <meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>
+  VNS
+</title>
 <meta property="og:title" content="公告／発表／announcement" />
-<meta property="og:description" content="" />
+<meta
+  property="og:description"
+  content="
+基本的なヘルプ
+
+可能であれば、公式サイトで正規版をサポートしてください！ 過度な海賊版の宣伝は控えてください！
+当サイトは 2024年06月04日 より、不定期の長期間更新モードに移行します。その際は基本的な運営のみ維持し、管理人は生活に専念します。。
+ダウンロードの問題が発生した場合は、まず 魔法 を試してから再試行してください。それでも解決しない場合は 高等魔法 を試し、それでもダメなら ミラーリンク で試してください。
+機能異常が発生した場合は、ブラウザを変更し、広告ブロッカーやウイルス対策ソフトを無効にし、プライベートモードやゲストモードで再度アクセスしてください！または Ctrl &#43; Shift &#43; R でキャッシュをリフレッシュしてください。
+サイト内検索を有効活用してください Ctrl &#43; K 。検索が完全にロードされてから結果が表示されます。ページ内検索には Ctrl &#43; F を使用するとより効果的です。
+クラウドストレージのオンライン解凍機能を使用しないでください！オンライン解凍はファイルをロックし、最終的に削除される可能性があります！！
+翻訳パッチは Windows のウイルス対策機能によって隔離される場合があります。手動で許可してください。
+Windows で Android をプレイしたい場合は、エミュレーターを使用してください：Mobox、Winlator、JoiPlay
+PSP のゲームを Windows、macOS、Linux、Android、iOS でプレイしたい場合は、PSP エミュレーター PPSSPP を使用してください。
+国産ブラウザの使用は避け、以下のブラウザを推奨します：Chrome、Firefox。ブロックを回避するためです。
+問題が発生した場合は、関連するキーワードを使用して Baidu、Bing、Google で検索してください。
+Windows では 7-Zip、Bandizip、WinRAR などの専用解凍ツールを使用してください。そうしないと解凍に失敗する可能性があります。
+Android での解凍には以下のアプリを推奨します：MT管理器、ZA、ESファイルエクスプローラー
+BTマグネットリンク などのダウンロードには、Windows では qBittorrent、Android では ADM を使用してください。
+
+使用デモ
+
+Bilibili：bilibili.com/video/BV1YYDSYwExS"
+/>
 <meta property="og:type" content="website" />
 <meta property="og:url" content="https://vns.saop.cc/ja/" />
 <meta property="og:image" content="https://vns.saop.cc/img/logo.svg" />
 <meta property="og:site_name" content="VNS" />
-<link rel="manifest" href="https://vns.saop.cc/manifest.json">
-<link rel="alternate" type="application/rss+xml" href="https://vns.saop.cc/index.xml" title="VNS" />
-<script async src="https://registry.npmmirror.com/pjax/latest/files/pjax.min.js" importance="high"></script>
-<script src="https://registry.npmmirror.com/sweetalert2/latest/files/dist/sweetalert2.all.min.js"
-    importance="high"></script>
-<script src="https://registry.npmmirror.com/quicklink/latest/files/dist/quicklink.umd.js" importance="high"></script>
-<script async src="https://registry.npmmirror.com/pace-js/latest/files/pace.min.js" importance="high"></script>
-<link rel="stylesheet" href="https://registry.npmmirror.com/pace-js/latest/files/themes/blue/pace-theme-flash.css"
-    importance="high">
-<link rel="stylesheet" href="/pagefind/pagefind-ui.css" importance="high">
+<link rel="manifest" href="https://vns.saop.cc/manifest.json" />
+<link
+  rel="alternate"
+  type="application/rss+xml"
+  href="https://vns.saop.cc/index.xml"
+  title="VNS"
+/>
+<script
+  src="https://registry.npmmirror.com/pjax/latest/files/pjax.min.js"
+  importance="high"
+></script>
+<script
+  src="https://registry.npmmirror.com/sweetalert2/latest/files/dist/sweetalert2.all.min.js"
+  importance="high"
+></script>
+<script
+  src="https://registry.npmmirror.com/quicklink/latest/files/dist/quicklink.umd.js"
+  importance="high"
+></script>
+<script
+  async
+  src="https://registry.npmmirror.com/pace-js/latest/files/pace.min.js"
+  importance="high"
+></script>
+<link
+  rel="stylesheet"
+  href="https://registry.npmmirror.com/pace-js/latest/files/themes/blue/pace-theme-flash.css"
+  importance="high"
+/>
+<link rel="stylesheet" href="/pagefind/pagefind-ui.css" importance="high" />
 <script src="/pagefind/pagefind-ui.js" importance="high"></script>
 <script>
-    document.addEventListener("DOMContentLoaded", () => {
-        const pjax = new Pjax({
-            selectors: [
-                "title",
-                "meta[name=description]",
-                "header",
-                "main",
-                ".comments",
-                "footer",
-            ],
-            cacheBust: false,
-        });
-        quicklink.listen({ priority: true });
+  document.addEventListener("DOMContentLoaded", () => {
+    const pjax = new Pjax({
+      selectors: [
+        "title",
+        "meta[property='og:description']",
+        "header",
+        ".article-main",
+        ".comments",
+        "footer",
+      ],
+      cacheBust: false,
     });
+    quicklink.listen({ priority: true });
+  });
 </script>
 
-<link rel="stylesheet" href="/css/main.min.358b344ec9911324dd905cd8d30ec0b24d7496540b2515f026e43aa33f60e11c.css" importance="high" integrity="sha256-NYs0TsmREyTdkFzY0w7Ask10llQLJRXwJuQ6oz9g4Rw="
-    crossorigin="anonymous">
-
+<link rel="stylesheet" href="/css/main.min.d61342cf013729b13b1492f705e94ad0cd854f922f5f2a72844e3ea423eedf4f.css" importance="high" integrity="sha256-1hNCzwE3KbE7FJL3BelK0M2FT5IvXypyhE4&#43;pCPu308="
+    crossorigin="anonymous"> 
 <script src="/js/main.520fe86f117b71f1285c0edc40bb349ce27080a6623c3a24279cafd7cbfff88d.js" importance="high" integrity="sha256-Ug/obxF7cfEoXA7cQLs0nOJwgKZiPDokJ5yv18v/&#43;I0=" crossorigin="anonymous"></script>
-</head>
 
-<body>
-  <header>
-    <nav>
+  </head>
+
+  <body>
+    <header><nav>
     
     <a href="https://gal.saop.cc/">旧サイト</a>
     
@@ -115,13 +162,12 @@
         window.location.href = newUrl;
     }
 </script>
-</nav>
-  </header>
-  <div id="search"></div>
-  <main>
-    
-<h1>公告／発表／announcement</h1>
-<p><img class="zoomable" loading="lazy" src="https://img-api.saop.cc/api" title="Random Image"
+</nav></header>
+    <div id="search"></div>
+    <main>
+<article class="article-main">
+  <h1>公告／発表／announcement</h1>
+  <p><img class="zoomable" loading="lazy" src="https://img-api.saop.cc/api" title="Random Image"
     alt="Random Image" /></p>
 <h2 id="基本的なヘルプ">基本的なヘルプ</h2>
 <ol>
@@ -168,36 +214,17 @@
 </ul>
 </li>
 </ul>
-
-
-<article>
-  <h2><a href="/ja/docs/test/">テスト</a></h2>
-  <div class="post-meta">
-    <span>著者: Asuna</span>
-    
-    <span> | 投稿日: 2025-03-23 18:06:30 &#43;08:00</span>
-    
-</div>
-  <p><img class="zoomable" loading="lazy" src="/img/1742721344.avif" title="Arch Linux KDE デスクトップ環境"
-    alt="Arch Linux KDE デスクトップ環境" /></p>
-<h2 id="h2-テスト">H2 テスト</h2>
-<p>これはテスト内容です..</p>
   
-  
-</article>
-
-<article>
-  <h2><a href="/ja/p/36858/">魔法使之夜／魔法使いの夜／魔法师之夜／Witch on the Holy Night／Mahoyo／魔夜 通常 HD 高清 重置 重制</a></h2>
-  <div class="post-meta">
+  <article>
+    <h2><a href="/ja/p/36858/">魔法使之夜／魔法使いの夜／魔法师之夜／Witch on the Holy Night／Mahoyo／魔夜 通常 HD 高清 重置 重制</a></h2>
+    <div class="post-meta">
     <span>著者: searvee</span>
     
     <span> | 投稿日: 2024-05-04 03:23:00 &#43;00:00</span>
     
-</div>
-  <p><img class="zoomable" loading="lazy" src="https://static.saop.cc/vns/img/mahoyo.webp" title="mahoyo"
+</div> <p><img class="zoomable" loading="lazy" src="https://static.saop.cc/vns/img/mahoyo.webp" title="mahoyo"
     alt="mahoyo" /></p>
-<p>《<strong>魔法使之夜</strong>》（日语：魔法使いの夜／まほうつかいのよる <em>Mahōtsukai no Yoru</em>），是日本<a href="https://zh.wikipedia.org/wiki/TYPE-MOON"  target="_blank" rel="noopener" >TYPE-MOON</a>公司制作并发售的<a href="https://zh.wikipedia.org/wiki/%e8%a7%86%e8%a7%89%e5%b0%8f%e8%af%b4"  target="_blank" rel="noopener" >视觉小说</a>类型游戏。简称为“魔夜”（「まほよ」）。</p>
-  
+<p>《<strong>魔法使之夜</strong>》（日语：魔法使いの夜／まほうつかいのよる <em>Mahōtsukai no Yoru</em>），是日本<a href="https://zh.wikipedia.org/wiki/TYPE-MOON"  target="_blank" rel="noopener" >TYPE-MOON</a>公司制作并发售的<a href="https://zh.wikipedia.org/wiki/%e8%a7%86%e8%a7%89%e5%b0%8f%e8%af%b4"  target="_blank" rel="noopener" >视觉小说</a>类型游戏。简称为“魔夜”（「まほよ」）。</p> 
 <div>
   <div>Categories:</div>
   <ul class="taxonomy">
@@ -205,8 +232,7 @@
     <li><a href="/ja/categories/krkr/">KRKR</a></li>
     <li><a href="/ja/categories/android/">Android</a></li>
   </ul>
-</div>
-  
+</div> 
 <div>
   <div>Tags:</div>
   <ul class="taxonomy">
@@ -221,20 +247,18 @@
     <li><a href="/ja/tags/2013/">2013</a></li>
   </ul>
 </div>
-</article>
-
-<article>
-  <h2><a href="/ja/p/61936/">魔女的夜宴／サノバウィッチ／魔宴／Sabbat of the Witch</a></h2>
-  <div class="post-meta">
+  </article>
+  
+  <article>
+    <h2><a href="/ja/p/61936/">魔女的夜宴／サノバウィッチ／魔宴／Sabbat of the Witch</a></h2>
+    <div class="post-meta">
     <span>著者: Asuna</span>
     
     <span> | 投稿日: 2024-01-30 20:50:00 &#43;00:00</span>
     
-</div>
-  <p><img class="zoomable" loading="lazy" src="https://static.saop.cc/vns/img/sothewitch.webp" title="sothewitch"
+</div> <p><img class="zoomable" loading="lazy" src="https://static.saop.cc/vns/img/sothewitch.webp" title="sothewitch"
     alt="sothewitch" /></p>
-<p>《<strong>魔女的夜宴</strong>》（日语：<strong>サノバウィッチ</strong>）是由<a href="https://zh.moegirl.org.cn/YUZU_SOFT"  target="_blank" rel="noopener" >柚子社</a>制作发行的恋爱文字冒险游戏，于2015年2月27日面向Windows PC平台发售。英文版由NekoNyan代理，于2018年10月27日在Steam、NekoNyan的网上商城还有其他平台发售，并发行实体版。中文版由HIKARI FIELD代理，于2023年7月21日~~柚子厨特有的<a href="https://zh.moegirl.org.cn/0721"  target="_blank" rel="noopener" >0721</a>~~在Steam发售。</p>
-  
+<p>《<strong>魔女的夜宴</strong>》（日语：<strong>サノバウィッチ</strong>）是由<a href="https://zh.moegirl.org.cn/YUZU_SOFT"  target="_blank" rel="noopener" >柚子社</a>制作发行的恋爱文字冒险游戏，于2015年2月27日面向Windows PC平台发售。英文版由NekoNyan代理，于2018年10月27日在Steam、NekoNyan的网上商城还有其他平台发售，并发行实体版。中文版由HIKARI FIELD代理，于2023年7月21日~~柚子厨特有的<a href="https://zh.moegirl.org.cn/0721"  target="_blank" rel="noopener" >0721</a>~~在Steam发售。</p> 
 <div>
   <div>Categories:</div>
   <ul class="taxonomy">
@@ -242,8 +266,7 @@
     <li><a href="/ja/categories/krkr/">KRKR</a></li>
     <li><a href="/ja/categories/android/">Android</a></li>
   </ul>
-</div>
-  
+</div> 
 <div>
   <div>Tags:</div>
   <ul class="taxonomy">
@@ -259,87 +282,86 @@
     <li><a href="/ja/tags/2023/">2023</a></li>
   </ul>
 </div>
+  </article>
+   
 </article>
-
-<article>
-  <h2><a href="/ja/about/">本サイトについて</a></h2>
-  <div class="post-meta">
-    <span>著者: Asuna</span>
-    
-    <span> | 投稿日: 2024-01-27 21:53:55 &#43;00:00</span>
-    
-</div>
-  <p><img class="zoomable" loading="lazy" src="https://registry.npmmirror.com/js-asuna/latest/files/pic/Asuna/Asuna16x9.webp" title="asuna"
-    alt="asuna" /></p>
-<ul>
-<li>本サイトは 2024 年 01 月 27 日に設立されました。</li>
-<li>管理人は最低限のコストでサイトを維持し、長期間安定した運営を目指します。</li>
-</ul>
-<h2 id="連絡方法">連絡方法</h2>
-<ul>
-<li>Telegram：<a href="https://t.me/FullDiveSAO"  target="_blank" rel="noopener" >FullDiveSAO</a></li>
-<li>E-mail：<a href="mailto:i@saop.cc" >i@saop.cc</a></li>
-<li>QQ コミュニティ：<a href="http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&amp;k=a0v1vVzAixSZHtzEv8CDjqixn_DORxFk&amp;authKey=RAMUimVPIwUzxIbDf8tNfJmic%2BagIybvYqmVId41e4Qpz2syvM%2BhzE3n%2F0ffHpjf&amp;noverify=0&amp;group_code=1037396187"  target="_blank" rel="noopener" >1037396187</a></li>
-<li>テンセントチャンネル：<a href="https://pd.qq.com/s/bkzyduno1?businessType=9"  target="_blank" rel="noopener" >70j9kz204s</a></li>
-</ul>
-<h2 id="サイトの購読">サイトの購読</h2>
-<p>本サイトの <code>Feed</code> を購読するには、以下のリンクにアクセスしてください：<a href="/index.xml" >index.xml</a></p>
-  
-  
-</article>
-
-<article>
-  <h2><a href="/ja/archives/">アーカイブ</a></h2>
-  <div class="post-meta">
-    <span>著者: Asuna</span>
-    
-    <span> | 投稿日: 2024-01-27 08:00:00 &#43;08:00</span>
-    
-</div>
-  
-  
-  
-</article>
-
-
-  </main>
-  <footer>
-    <p>&copy; 2025 VNS</p>
-<p>総閲覧数：<span id="busuanzi_site_pv">null</span>，訪問者数：<span
-        id="busuanzi_site_uv">null</span>
+</main>
+    <footer><p>&copy; 2025 VNS</p>
+<p>
+  総閲覧数：<span id="busuanzi_site_pv">null</span>，訪問者数：<span id="busuanzi_site_uv">null</span>
 </p>
 <script async src="https://busuanzi.9420.ltd/js"></script>
-  </footer>
-  <script src="https://registry.npmmirror.com/instant.page/latest/files/instantpage.js" type="module"></script>
-<link rel="stylesheet" href="https://registry.npmmirror.com/weblive2d/latest/files/waifu.css" importance="low">
-<script async src="https://registry.npmmirror.com/weblive2d/latest/files/js/autoload.js" importance="low"></script>
+</footer>
+    <script
+  src="https://registry.npmmirror.com/instant.page/latest/files/instantpage.js"
+  type="module"
+></script>
+<link
+  rel="stylesheet"
+  href="https://registry.npmmirror.com/weblive2d/latest/files/waifu.css"
+  importance="low"
+/>
+<script
+  async
+  src="https://registry.npmmirror.com/weblive2d/latest/files/js/autoload.js"
+  importance="low"
+></script>
 <script>
-    if ('serviceWorker' in navigator) {
-        window.addEventListener('load', () => {
-            navigator.serviceWorker.register('/js/sw.js')
-                .then(reg => console.log('Service Worker Reg', reg))
-                .catch(err => console.log('Service Worker Err', err));
-        });
-    }
-    window.addEventListener("DOMContentLoaded", (event) => {
-        new PagefindUI({ element: "#search", showSubResults: true });
+  if ("serviceWorker" in navigator) {
+    window.addEventListener("load", () => {
+      navigator.serviceWorker
+        .register("/js/sw.js")
+        .then((reg) => console.log("Service Worker Reg", reg))
+        .catch((err) => console.log("Service Worker Err", err));
     });
-    var meting_api =
-        "https://meting.qjqq.cn/?server=:server&type=:type&id=:id&auth=:auth&r=:r";
+  }
+  window.addEventListener("DOMContentLoaded", (event) => {
+    new PagefindUI({ element: "#search", showSubResults: true });
+  });
+  var meting_api =
+    "https://meting.qjqq.cn/?server=:server&type=:type&id=:id&auth=:auth&r=:r";
 </script>
 <button id="back-to-top" title="Go to top">↑</button>
 <span id="fps"></span>
-<div id="tAgeVerification" data-text='あなたは18歳以上ですか?' data-yes='はい'
-    data-no='いいえ' data-url='//nicovideo.jp/watch/sm7127483' style="display: none;"></div>
-<link rel="stylesheet" href="https://lf26-cdn-tos.bytecdntp.com/cdn/expire-1-M/aplayer/1.10.1/APlayer.min.css"
-    importance="low">
-<meting-js id="8464409595" server="netease" type="playlist" fixed="true" autoplay="false" order="random" volume="0.3"
-    list-folded="false" list-max-height="36vh"></meting-js>
-<script async src="https://lf26-cdn-tos.bytecdntp.com/cdn/expire-1-M/aplayer/1.10.1/APlayer.min.js"
-    importance="low"></script>
-<script async src="https://registry.npmmirror.com/meting/latest/files/dist/Meting.min.js" importance="low"></script>
-<script defer src="https://registry.npmmirror.com/medium-zoom/latest/files/dist/medium-zoom.min.js"
-    importance="high"></script>
-</body>
+<div
+  id="tAgeVerification"
+  data-text='あなたは18歳以上ですか?'
+  data-yes='はい'
+  data-no='いいえ'
+  data-url='//nicovideo.jp/watch/sm7127483'
+  style="display: none"
+></div>
+<link
+  rel="stylesheet"
+  href="https://lf26-cdn-tos.bytecdntp.com/cdn/expire-1-M/aplayer/1.10.1/APlayer.min.css"
+  importance="low"
+/>
+<meting-js
+  id="8464409595"
+  server="netease"
+  type="playlist"
+  fixed="true"
+  autoplay="false"
+  order="random"
+  volume="0.3"
+  list-folded="false"
+  list-max-height="36vh"
+></meting-js>
+<script
+  async
+  src="https://lf26-cdn-tos.bytecdntp.com/cdn/expire-1-M/aplayer/1.10.1/APlayer.min.js"
+  importance="low"
+></script>
+<script
+  async
+  src="https://registry.npmmirror.com/meting/latest/files/dist/Meting.min.js"
+  importance="low"
+></script>
+<script
+  defer
+  src="https://registry.npmmirror.com/medium-zoom/latest/files/dist/medium-zoom.min.js"
+  importance="high"
+></script>
 
+  </body>
 </html>
