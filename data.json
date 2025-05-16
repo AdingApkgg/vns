@@ -477,5 +477,51 @@
         "url": "https://www.ttloli.com/gegezaoshangqichuangzhiqiandouyaobaojinwoowanshangshuijuezhiqianzuogengduosesedeshiba.html"
       }
     ]
+  }，
+  {
+    "title": "哥哥，还没做好KISS的准备吗？",
+    "cover": "https://cdn4.winhlb.com/2025/05/16/68276005586c8.jpg",
+    "platforms": [
+      "Windows"
+    ],
+    "downloads": [
+      {
+        "provider": "GAL图书馆",
+        "url": "https://gallibrary.pw/game.html?id=668"
+      },
+      {
+        "provider": "晴空咖啡馆",
+        "url": "https://aozoracafe.com/detail/441"
+      },
+      {
+        "provider": "鲲Galgame",
+        "url": "https://www.kungal.com/zh-cn/galgame/1750"
+      },
+      {
+        "provider": "量子ACG",
+        "url": "https://lzacg.org/681"
+      }
+    ]
+  }，
+  {
+    "title": "哥哥，还没做好KISS的准备吗？还没做好H的准备吗？",
+    "cover": "https://cdn4.winhlb.com/2025/05/16/68275f8517034.jpg",
+    "platforms": [
+      "Windows"
+    ],
+    "downloads": [
+      {
+        "provider": "鲲Galgame",
+        "url": "https://www.kungal.com/zh-cn/galgame/1751"
+      },
+      {
+        "provider": "GAL图书馆",
+        "url": "https://gallibrary.pw/game.html?id=670"
+      },
+      {
+        "provider": "量子ACG",
+        "url": "https://lzacg.org/5220"
+      }
+    ]
   }
 ]
