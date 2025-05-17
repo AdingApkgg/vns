@@ -14,6 +14,6 @@ NTHU | https://www.nthu.cc/#/register?code=aNmoRTlr | NTHU.CC
 MESL | https://in.mesl.cloud/#/register?code=ShZZijKA | ... | https://in.mesl.cloud/theme/aurora-mesl/favicon.svg
 XFX | https://www.xfx.life/#/register?code=w5ipzDiy | ...
 狗狗加速 | https://go.dginv.click/#/register?code=q3SCfHiE | 狗狗加速.com | https://xn--yfrp36ea9901a.com/images/logo.svg
-AI风月 | https://aiporn.tw/ | 专注于 R18 AI 角色扮演和互动叙事 | https://aifordum.github.io/?ref_id=5b5865a1-d429-4633-9d23-3df49be0164c
+AI风月 | https://aifordum.github.io/?ref_id=5b5865a1-d429-4633-9d23-3df49be0164c | 专注于 R18 AI 角色扮演和互动叙事 | https://aiporn.tw/logo/logo-site.png
 % test | test | test | test
 {% endlg %}
