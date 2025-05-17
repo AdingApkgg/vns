@@ -523,5 +523,183 @@
         "url": "https://lzacg.org/5220"
       }
     ]
+  },
+  {
+    "title": "バイナリィ・ポット -Binary Pot-",
+    "cover": "https://cdn4.winhlb.com/2025/05/17/6828afd51fcf7.jpg",
+    "platforms": [
+      "Windows"
+    ],
+    "downloads": [
+      {
+        "provider": "TouchGal",
+        "url": "https://www.touchgal.io/19cbff4c"
+      },
+      {
+        "provider": "GAL图书馆",
+        "url": "https://gallibrary.pw/game.html?id=82"
+      }
+    ]
+  },
+  {
+    "title": "Princess Holiday~回转苹果亭的一千零一夜~",
+    "cover": "https://cdn4.winhlb.com/2025/05/17/6828b12a6abc7.jpg",
+    "platforms": [
+      "Windows"
+    ],
+    "downloads": [
+      {
+        "provider": "TouchGal",
+        "url": "https://www.touchgal.io/7e5d285c"
+      },
+      {
+        "provider": "GAL图书馆",
+        "url": "https://gallibrary.pw/game.html?id=84"
+      }
+    ]
+  },
+  {
+    "title": "夜月东升•暮日西沉～Operation Sanctuary～",
+    "cover": "https://cdn4.winhlb.com/2025/05/17/6828b15196897.jpg",
+    "platforms": [
+      "Windows"
+    ],
+    "downloads": [
+      {
+        "provider": "TouchGal",
+        "url": "https://www.touchgal.io/960c0f7f"
+      },
+      {
+        "provider": "量子ACG",
+        "url": "https://lzacg.org/9100"
+      }
+    ]
+  },
+  {
+    "title": "黎明前的琉璃色",
+    "cover": "https://cdn4.winhlb.com/2025/05/18/6828b3859c720.jpg",
+    "platforms": [
+      "Windows"
+    ],
+    "downloads": [
+      {
+        "provider": "TouchGal",
+        "url": "https://www.touchgal.io/af80dc08"
+      },
+      {
+        "provider": "量子ACG",
+        "url": "https://lzacg.org/5921"
+      }
+    ]
+  },
+  {
+    "title": "黎明前的琉璃色 -Brighter than dawning blue-",
+    "cover": "https://cdn4.winhlb.com/2025/05/18/6828b3859c720.jpg",
+    "platforms": [
+      "Windows"
+    ],
+    "downloads": [
+      {
+        "provider": "TouchGal",
+        "url": "https://www.touchgal.io/af80dc08"
+      },
+      {
+        "provider": "量子ACG",
+        "url": "https://lzacg.org/5882"
+      }
+    ]
+  },
+  {
+    "title": "命运脉动 FORTUNE ARTERIAL",
+    "cover": "https://cdn4.winhlb.com/2025/05/18/6828b43341320.jpg",
+    "platforms": [
+      "Windows"
+    ],
+    "downloads": [
+      {
+        "provider": "TouchGal",
+        "url": "https://www.touchgal.io/6fd081be"
+      },
+      {
+        "provider": "GAL图书馆",
+        "url": "https://gallibrary.pw/game.html?id=78"
+      }
+    ]
+  },
+  {
+    "title": "更胜黎明前的琉璃色 Moonlight Cradle",
+    "cover": "https://cdn4.winhlb.com/2025/05/18/6828b49aeaa88.jpg",
+    "platforms": [
+      "Windows"
+    ],
+    "downloads": [
+      {
+        "provider": "TouchGal",
+        "url": "https://www.touchgal.io/fd72ce52"
+      },
+      {
+        "provider": "量子ACG",
+        "url": "https://lzacg.org/5920"
+      }
+    ]
+  },
+  {
+    "title": "秽翼的尤斯蒂娅",
+    "cover": "https://cdn4.winhlb.com/2025/05/18/6828b518d31eb.jpg",
+    "platforms": [
+      "Windows"
+    ],
+    "downloads": [
+      {
+        "provider": "TouchGal",
+        "url": "https://www.touchgal.io/6fb97b64"
+      },
+      {
+        "provider": "GAL图书馆",
+        "url": "https://gallibrary.pw/game.html?id=1"
+      },
+      {
+        "provider": "量子ACG",
+        "url": "https://lzacg.org/527"
+      }
+    ]
+  },
+  {
+    "title": "千之刃涛、桃花染之皇姬",
+    "cover": "https://cdn4.winhlb.com/2025/05/18/6828b5bb7d903.jpg",
+    "platforms": [
+      "Windows"
+    ],
+    "downloads": [
+      {
+        "provider": "GAL图书馆",
+        "url": "https://gallibrary.pw/game.html?id=20"
+      },
+      {
+        "provider": "量子ACG",
+        "url": "https://lzacg.org/383"
+      }
+    ]
+  },
+  {
+    "title": "千之刃涛、桃花染之皇姬 -柳暗花明-",
+    "cover": "https://cdn4.winhlb.com/2025/05/18/6828b625aa735.jpg",
+    "platforms": [
+      "Windows"
+    ],
+    "downloads": [
+      {
+        "provider": "TouchGal",
+        "url": "https://www.touchgal.io/a9548348"
+      },
+      {
+        "provider": "GAL图书馆",
+        "url": "https://gallibrary.pw/game.html?id=69"
+      },
+      {
+        "provider": "量子ACG",
+        "url": "https://lzacg.org/384"
+      }
+    ]
   }
 ]
