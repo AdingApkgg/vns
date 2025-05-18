@@ -6,7 +6,25 @@
     <lastmod>2025-03-25T20:52:45+08:00</lastmod>
   </url><url>
     <loc>https://vns.saop.cc/data/</loc>
-    <lastmod>2025-05-05T22:19:20+08:00</lastmod>
+    <lastmod>2025-05-18T08:00:00+08:00</lastmod>
+  </url><url>
+    <loc>https://vns.saop.cc/</loc>
+    <lastmod>2025-05-18T08:00:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://vns.saop.cc/ja/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://vns.saop.cc/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://vns.saop.cc/"
+                />
   </url><url>
     <loc>https://vns.saop.cc/docs/</loc>
     <lastmod>2025-04-01T19:39:32+08:00</lastmod>
@@ -1393,24 +1411,6 @@
   </url><url>
     <loc>https://vns.saop.cc/p/48468/</loc>
     <lastmod>2024-04-04T21:42:00+00:00</lastmod>
-  </url><url>
-    <loc>https://vns.saop.cc/</loc>
-    <lastmod>2024-04-04T19:40:00+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://vns.saop.cc/ja/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://vns.saop.cc/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://vns.saop.cc/"
-                />
   </url><url>
     <loc>https://vns.saop.cc/p/52145/</loc>
     <lastmod>2024-04-03T23:57:00+00:00</lastmod>
