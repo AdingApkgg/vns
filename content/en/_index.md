@@ -1,6 +1,6 @@
 +++
 title = '公告／発表／announcement'
-date = 2023-01-01T08:00:00-07:00
+date = 2025-05-18T08:00:00+08:00
 +++
 
 ![Random Image](https://img-api.saop.cc/api)
@@ -42,7 +42,7 @@ If interested, contact us via [About This Site](/about/) or through the communic
 
 - **Writers**
   - Requirements: Proficient in advanced magic, able to find resources and write in `Markdown` or `Word`. Writing format should roughly follow the style of existing articles on this site.
-  - Recruited: `Asuna`, `Sinon`, `WTY`, `searvee`, `OT63`、`molin`、`WWS`
+  - Recruited: `Asuna`, `Sinon`, `WTY`, `searvee`, `OT63`、`molin`、`WWS`、`Phoebe`
 - **Testers**
   - Requirements: Download and run resources, check if they are raw or localized, note the localization group, version, and any `BUGs` that appear.
   - Recruited: `Asuna`, `NEO`
