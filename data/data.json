@@ -1,0 +1,783 @@
+[
+  {
+    "title": "魔法使之夜",
+    "cover": "https://static.saop.cc/vns/img/mahoyo.webp",
+    "company": "TYPE-MOON",
+    "author": "Asuna",
+    "platforms": [
+      "Windows",
+      "KRKR"
+    ],
+    "downloads": [
+      {
+        "provider": "AsunaDrive",
+        "url": "https://drive.saop.cc/VNS/%E9%AD%94%E6%B3%95%E4%BD%BF%E4%B9%8B%E5%A4%9C"
+      },
+      {
+        "provider": "TouchGal",
+        "url": "https://www.touchgal.io/39c7052e"
+      }
+    ]
+  },
+  {
+    "title": "魔女的夜宴",
+    "cover": "https://static.saop.cc/vns/img/sothewitch.webp",
+    "company": "YUZUSOFT",
+    "author": "Asuna",
+    "platforms": [
+      "Windows",
+      "KRKR"
+    ],
+    "downloads": [
+      {
+        "provider": "AsunaDrive",
+        "url": "https://drive.saop.cc/VNS/%E9%AD%94%E5%A5%B3%E7%9A%84%E5%A4%9C%E5%AE%B4"
+      },
+      {
+        "provider": "TouchGal",
+        "url": "https://www.touchgal.io/73734ae8"
+      }
+    ]
+  },
+  {
+    "title": "缘之空",
+    "cover": "https://static.saop.cc/vns/img/yosuga.webp",
+    "company": "Sphere",
+    "author": "Asuna",
+    "platforms": [
+      "Windows",
+      "Android",
+      "ONS",
+      "PSP"
+    ],
+    "downloads": [
+      {
+        "provider": "AsunaDrive",
+        "url": "https://drive.saop.cc/VNS/%E7%BC%98%E4%B9%8B%E7%A9%BA"
+      },
+      {
+        "provider": "TouchGal",
+        "url": "https://www.touchgal.io/71944fd5"
+      }
+    ]
+  },
+  {
+    "title": "悠之空",
+    "cover": "https://static.saop.cc/vns/img/haruka.webp",
+    "company": "Sphere",
+    "author": "Asuna",
+    "platforms": [
+      "Windows",
+      "Android",
+      "ONS"
+    ],
+    "downloads": [
+      {
+        "provider": "AsunaDrive",
+        "url": "https://drive.saop.cc/VNS/%E6%82%A0%E4%B9%8B%E7%A9%BA"
+      },
+      {
+        "provider": "TouchGal",
+        "url": "https://www.touchgal.io/d0014015"
+      }
+    ]
+  },
+  {
+    "title": "星光咖啡馆与死神之蝶",
+    "cover": "https://static.saop.cc/vns/img/stella_yuzu-soft.webp",
+    "company": "YUZUSOFT",
+    "author": "Asuna",
+    "platforms": [
+      "Windows",
+      "KRKR"
+    ],
+    "downloads": [
+      {
+        "provider": "AsunaDrive",
+        "url": "https://drive.saop.cc/VNS/%E6%98%9F%E5%85%89%E5%92%96%E5%95%A1%E9%A6%86%E4%B8%8E%E6%AD%BB%E7%A5%9E%E4%B9%8B%E8%9D%B6"
+      },
+      {
+        "provider": "TouchGal",
+        "url": "https://www.touchgal.io/bdac4236"
+      }
+    ]
+  },
+  {
+    "title": "天使纷扰",
+    "cover": "https://static.saop.cc/vns/img/ten-sz.webp",
+    "company": "YUZUSOFT",
+    "author": "Asuna",
+    "platforms": [
+      "Windows",
+      "KRKR"
+    ],
+    "downloads": [
+      {
+        "provider": "AsunaDrive",
+        "url": "https://drive.saop.cc/VNS/%E5%A4%A9%E4%BD%BF%E7%BA%B7%E6%89%B0"
+      },
+      {
+        "provider": "TouchGal",
+        "url": "https://www.touchgal.io/e2275eb2"
+      }
+    ]
+  },
+  {
+    "title": "千恋＊万花",
+    "cover": "https://static.saop.cc/vns/img/senren.webp",
+    "company": "YUZUSOFT",
+    "author": "Asuna",
+    "platforms": [
+      "Windows",
+      "KRKR"
+    ],
+    "downloads": [
+      {
+        "provider": "AsunaDrive",
+        "url": "https://drive.saop.cc/VNS/%E5%8D%83%E6%81%8B%E4%B8%87%E8%8A%B1"
+      },
+      {
+        "provider": "TouchGal",
+        "url": "https://www.touchgal.io/a555829b"
+      }
+    ]
+  },
+  {
+    "title": "奴隶少女希尔薇",
+    "cover": "https://static.saop.cc/vns/img/sylvie.webp",
+    "company": "FreakilyCharming",
+    "author": "Asuna",
+    "platforms": [
+      "Windows",
+      "Android"
+    ],
+    "downloads": [
+      {
+        "provider": "AsunaDrive",
+        "url": "https://drive.saop.cc/VNS/TeachingFeeling"
+      },
+      {
+        "provider": "TouchGal",
+        "url": "https://www.touchgal.io/58d1c5bd"
+      }
+    ]
+  },
+  {
+    "title": "1room -家出少女-",
+    "cover": "https://static.saop.cc/vns/img/1room.webp",
+    "company": "Akari Blast!",
+    "author": "Asuna",
+    "platforms": [
+      "Windows",
+      "Android"
+    ],
+    "downloads": [
+      {
+        "provider": "AsunaDrive",
+        "url": "https://drive.saop.cc/VNS/1room"
+      },
+      {
+        "provider": "TouchGal",
+        "url": "https://www.touchgal.io/36df8313"
+      }
+    ]
+  },
+  {
+    "title": "Trinoline",
+    "cover": "https://pic1.imgdb.cn/item/681a2ed658cb8da5c8e149b2.png",
+    "company": "minori",
+    "author": "Phoebe",
+    "platforms": [
+      "Windows"
+    ],
+    "downloads": [
+      {
+        "provider": "TouchGal",
+        "url": "https://www.touchgal.io/44a33a97"
+      },
+      {
+        "provider": "量子ACG",
+        "url": "https://lzacg.org/482"
+      }
+    ]
+  },
+  {
+    "title": "Trinoline Genesis",
+    "cover": "https://free4.yunpng.top/2025/05/11/682004f316da1.jpg",
+    "company": "minori",
+    "author": "Phoebe",
+    "platforms": [
+      "Windows"
+    ],
+    "downloads": [
+      {
+        "provider": "TouchGal",
+        "url": "https://www.touchgal.io/44a33a97"
+      },
+      {
+        "provider": "量子ACG",
+        "url": "https://lzacg.org/6160"
+      }
+    ]
+  },
+  {
+    "title": "大图书馆的牧羊人",
+    "cover": "https://free4.yunpng.top/2025/05/11/68200848a26f1.jpg",
+    "company": "August",
+    "author": "Phoebe",
+    "platforms": [
+      "Windows"
+    ],
+    "downloads": [
+      {
+        "provider": "TouchGal",
+        "url": "https://www.touchgal.io/pc50ac4e"
+      },
+      {
+        "provider": "量子ACG",
+        "url": "https://lzacg.org/1003"
+      }
+    ]
+  },
+  {
+    "title": "大图书馆的牧羊人 ～课馀的尾巴时光～",
+    "cover": "https://free4.yunpng.top/2025/05/12/6820cb093f0fc.jpg",
+    "company": "August",
+    "author": "Phoebe",
+    "platforms": [
+      "Windows"
+    ],
+    "downloads": [
+      {
+        "provider": "TouchGal",
+        "url": "https://www.touchgal.io/39a62e3f"
+      },
+      {
+        "provider": "量子ACG",
+        "url": "https://lzacg.org/413"
+      }
+    ]
+  },
+  {
+    "title": "大图书馆的牧羊人 -Dreaming Sheep-",
+    "cover": "https://cdn4.winhlb.com/2025/05/12/6820cbb34f4d2.jpg",
+    "company": "August",
+    "author": "Phoebe",
+    "platforms": [
+      "Windows"
+    ],
+    "downloads": [
+      {
+        "provider": "TouchGal",
+        "url": "https://www.touchgal.io/94eaa721"
+      },
+      {
+        "provider": "量子ACG",
+        "url": "https://lzacg.org/408"
+      }
+    ]
+  },
+  {
+    "title": "大图书馆的牧羊人 -Library Party-",
+    "cover": "https://cdn4.winhlb.com/2025/05/12/6820cc78e7204.jpg",
+    "company": "August",
+    "author": "Phoebe",
+    "platforms": [
+      "Switch"
+    ],
+    "downloads": [
+      {
+        "provider": "BaiduNetdisk",
+        "url": "https://pan.baidu.com/s/1cSDu_nYro_MnEdKV3iVrSQ?pwd=mbc3"
+      }
+    ]
+  },
+  {
+    "title": "ef - the first tale",
+    "cover": "https://cdn4.winhlb.com/2025/05/12/68220c2b2c904.jpg",
+    "company": "minori",
+    "author": "Phoebe",
+    "platforms": [
+      "Windows"
+    ],
+    "downloads": [
+      {
+        "provider": "TouchGal",
+        "url": "https://www.touchgal.io/aa8f7ad0"
+      },
+      {
+        "provider": "量子ACG",
+        "url": "https://lzacg.org/416"
+      }
+    ]
+  },
+  {
+    "title": "ef - the latter tale",
+    "cover": "https://cdn4.winhlb.com/2025/05/12/68220cd452eb4.jpg",
+    "company": "minori",
+    "author": "Phoebe",
+    "platforms": [
+      "Windows"
+    ],
+    "downloads": [
+      {
+        "provider": "TouchGal",
+        "url": "https://www.touchgal.io/2d99d346"
+      },
+      {
+        "provider": "量子ACG",
+        "url": "https://lzacg.org/3839"
+      }
+    ]
+  },
+  {
+    "title": "天使的日曜日",
+    "cover": "https://cdn4.winhlb.com/2025/05/12/68220e7e76b0c.jpg",
+    "company": "minori",
+    "author": "Phoebe",
+    "platforms": [
+      "Windows"
+    ],
+    "downloads": [
+      {
+        "provider": "TouchGal",
+        "url": "https://www.touchgal.io/41bcf386"
+      },
+      {
+        "provider": "绮梦ACG",
+        "url": "https://game.acgs.one/game/233.html"
+      }
+    ]
+  },
+  {
+    "title": "近月少女的礼仪",
+    "cover": "https://cdn4.winhlb.com/2025/05/12/68220fa645d34.jpg",
+    "company": "Navel",
+    "author": "Phoebe",
+    "platforms": [
+      "Windows"
+    ],
+    "downloads": [
+      {
+        "provider": "TouchGal",
+        "url": "https://www.touchgal.io/3faab6a4"
+      },
+      {
+        "provider": "量子ACG",
+        "url": "https://lzacg.org/550"
+      }
+    ]
+  },
+  {
+    "title": "少女理论及其周边 -巴黎学院篇-",
+    "cover": "https://cdn4.winhlb.com/2025/05/12/6822105dcd8df.jpg",
+    "company": "Navel",
+    "author": "Phoebe",
+    "platforms": [
+      "Windows"
+    ],
+    "downloads": [
+      {
+        "provider": "TouchGal",
+        "url": "https://www.touchgal.io/bd238a75"
+      },
+      {
+        "provider": "量子ACG",
+        "url": "https://lzacg.org/440"
+      }
+    ]
+  },
+  {
+    "title": "少女理论及其之后的周边 -美好年代篇-",
+    "cover": "https://cdn4.winhlb.com/2025/05/12/682210d0e51c5.jpg",
+    "company": "Navel",
+    "author": "Phoebe",
+    "platforms": [
+      "Windows"
+    ],
+    "downloads": [
+      {
+        "provider": "TouchGal",
+        "url": "https://www.touchgal.io/2a62583f"
+      },
+      {
+        "provider": "量子ACG",
+        "url": "https://lzacg.org/433"
+      }
+    ]
+  },
+  {
+    "title": "近月少女的礼仪2",
+    "cover": "https://cdn4.winhlb.com/2025/05/12/68221245e3713.jpg",
+    "company": "Navel",
+    "author": "Phoebe",
+    "platforms": [
+      "Windows"
+    ],
+    "downloads": [
+      {
+        "provider": "TouchGal",
+        "url": "https://www.touchgal.io/cd6ad727"
+      },
+      {
+        "provider": "量子ACG",
+        "url": "https://lzacg.org/549"
+      }
+    ]
+  },
+  {
+    "title": "近月少女的礼仪2.1 E×S×PAR!!",
+    "cover": "https://cdn4.winhlb.com/2025/05/12/682212857e344.jpg",
+    "company": "Navel",
+    "author": "Phoebe",
+    "platforms": [
+      "Windows"
+    ],
+    "downloads": [
+      {
+        "provider": "TouchGal",
+        "url": "https://www.touchgal.io/97aec187"
+      },
+      {
+        "provider": "量子ACG",
+        "url": "https://lzacg.org/3581"
+      }
+    ]
+  },
+  {
+    "title": "近月少女的礼仪2.2 A×L+SA!!",
+    "cover": "https://cdn4.winhlb.com/2025/05/12/682212c83e429.jpg",
+    "company": "Navel",
+    "author": "Phoebe",
+    "platforms": [
+      "Windows"
+    ],
+    "downloads": [
+      {
+        "provider": "TouchGal",
+        "url": "https://www.touchgal.io/6e7aa7fe"
+      },
+      {
+        "provider": "量子ACG",
+        "url": "https://lzacg.org/3581"
+      }
+    ]
+  },
+  {
+    "title": "StreamLove Voyage",
+    "cover": "https://cdn4.winhlb.com/2025/05/14/6824bba0a753a.jpg",
+    "company": "ASa Project",
+    "author": "Phoebe",
+    "platforms": [
+      "Windows"
+    ],
+    "downloads": [
+      {
+        "provider": "TouchGal",
+        "url": "https://www.touchgal.io/36eeed78"
+      },
+      {
+        "provider": "量子ACG",
+        "url": "https://lzacg.org/9188"
+      },
+      {
+        "provider": "晴空咖啡馆",
+        "url": "https://aozoracafe.com/detail/3091"
+      },
+      {
+        "provider": "鲲Galgame",
+        "url": "https://www.kungal.com/galgame/2929"
+      },
+      {
+        "provider": "FuFuACG",
+        "url": "https://www.fufugal.com/detail?id=3371"
+      }
+    ]
+  },
+  {
+    "title": "哥哥，早上起床之前都要抱紧我哦！",
+    "cover": "https://cdn4.winhlb.com/2025/05/15/68253b17e58ee.jpg",
+    "company": "Tinkle Position",
+    "author": "Phoebe",
+    "platforms": [
+      "Windows"
+    ],
+    "downloads": [
+      {
+        "provider": "TouchGal",
+        "url": "https://www.touchgal.io/825c401e"
+      },
+      {
+        "provider": "鲲Galgame",
+        "url": "https://www.kungal.com/zh-cn/galgame/229"
+      }
+    ]
+  },
+  {
+    "title": "哥哥，早上起床之前都要抱紧我哦！晚上睡觉之前做更多色色的事吧！",
+    "cover": "https://cdn4.winhlb.com/2025/05/15/68254fc8a1b18.jpg",
+    "company": "Tinkle Position",
+    "author": "Phoebe",
+    "platforms": [
+      "Windows"
+    ],
+    "downloads": [
+      {
+        "provider": "TouchGal",
+        "url": "https://www.touchgal.io/mud2axl7"
+      },
+      {
+        "provider": "忧郁的loli",
+        "url": "https://www.ttloli.com/gegezaoshangqichuangzhiqiandouyaobaojinwoowanshangshuijuezhiqianzuogengduosesedeshiba.html"
+      }
+    ]
+  },
+  {
+    "title": "哥哥，还没做好KISS的准备吗？",
+    "cover": "https://cdn4.winhlb.com/2025/05/16/68276005586c8.jpg",
+    "company": "Tinkle Position",
+    "author": "Phoebe",
+    "platforms": [
+      "Windows"
+    ],
+    "downloads": [
+      {
+        "provider": "GAL图书馆",
+        "url": "https://gallibrary.pw/game.html?id=668"
+      },
+      {
+        "provider": "晴空咖啡馆",
+        "url": "https://aozoracafe.com/detail/441"
+      },
+      {
+        "provider": "鲲Galgame",
+        "url": "https://www.kungal.com/zh-cn/galgame/1750"
+      },
+      {
+        "provider": "量子ACG",
+        "url": "https://lzacg.org/681"
+      }
+    ]
+  },
+  {
+    "title": "哥哥，还没做好KISS的准备吗？还没做好H的准备吗？",
+    "cover": "https://cdn4.winhlb.com/2025/05/16/68275f8517034.jpg",
+    "company": "Tinkle Position",
+    "author": "Phoebe",
+    "platforms": [
+      "Windows"
+    ],
+    "downloads": [
+      {
+        "provider": "鲲Galgame",
+        "url": "https://www.kungal.com/zh-cn/galgame/1751"
+      },
+      {
+        "provider": "GAL图书馆",
+        "url": "https://gallibrary.pw/game.html?id=670"
+      },
+      {
+        "provider": "量子ACG",
+        "url": "https://lzacg.org/5220"
+      }
+    ]
+  },
+  {
+    "title": "バイナリィ・ポット -Binary Pot-",
+    "cover": "https://cdn4.winhlb.com/2025/05/17/6828afd51fcf7.jpg",
+    "company": "August",
+    "author": "Phoebe",
+    "platforms": [
+      "Windows"
+    ],
+    "downloads": [
+      {
+        "provider": "TouchGal",
+        "url": "https://www.touchgal.io/19cbff4c"
+      },
+      {
+        "provider": "GAL图书馆",
+        "url": "https://gallibrary.pw/game.html?id=82"
+      }
+    ]
+  },
+  {
+    "title": "Princess Holiday~回转苹果亭的一千零一夜~",
+    "cover": "https://cdn4.winhlb.com/2025/05/17/6828b12a6abc7.jpg",
+    "company": "August",
+    "author": "Phoebe",
+    "platforms": [
+      "Windows"
+    ],
+    "downloads": [
+      {
+        "provider": "TouchGal",
+        "url": "https://www.touchgal.io/7e5d285c"
+      },
+      {
+        "provider": "GAL图书馆",
+        "url": "https://gallibrary.pw/game.html?id=84"
+      }
+    ]
+  },
+  {
+    "title": "夜月东升•暮日西沉～Operation Sanctuary～",
+    "cover": "https://cdn4.winhlb.com/2025/05/17/6828b15196897.jpg",
+    "company": "August",
+    "author": "Phoebe",
+    "platforms": [
+      "Windows"
+    ],
+    "downloads": [
+      {
+        "provider": "TouchGal",
+        "url": "https://www.touchgal.io/960c0f7f"
+      },
+      {
+        "provider": "量子ACG",
+        "url": "https://lzacg.org/9100"
+      }
+    ]
+  },
+  {
+    "title": "黎明前的琉璃色",
+    "cover": "https://cdn4.winhlb.com/2025/05/18/6828b3859c720.jpg",
+    "company": "August",
+    "author": "Phoebe",
+    "platforms": [
+      "Windows"
+    ],
+    "downloads": [
+      {
+        "provider": "TouchGal",
+        "url": "https://www.touchgal.io/af80dc08"
+      },
+      {
+        "provider": "量子ACG",
+        "url": "https://lzacg.org/5921"
+      }
+    ]
+  },
+  {
+    "title": "黎明前的琉璃色 -Brighter than dawning blue-",
+    "cover": "https://cdn4.winhlb.com/2025/05/18/6828b3859c720.jpg",
+    "company": "August",
+    "author": "Phoebe",
+    "platforms": [
+      "Windows"
+    ],
+    "downloads": [
+      {
+        "provider": "TouchGal",
+        "url": "https://www.touchgal.io/af80dc08"
+      },
+      {
+        "provider": "量子ACG",
+        "url": "https://lzacg.org/5882"
+      }
+    ]
+  },
+  {
+    "title": "命运脉动 FORTUNE ARTERIAL",
+    "cover": "https://cdn4.winhlb.com/2025/05/18/6828b43341320.jpg",
+    "company": "August",
+    "author": "Phoebe",
+    "platforms": [
+      "Windows"
+    ],
+    "downloads": [
+      {
+        "provider": "TouchGal",
+        "url": "https://www.touchgal.io/6fd081be"
+      },
+      {
+        "provider": "GAL图书馆",
+        "url": "https://gallibrary.pw/game.html?id=78"
+      }
+    ]
+  },
+  {
+    "title": "更胜黎明前的琉璃色 Moonlight Cradle",
+    "cover": "https://cdn4.winhlb.com/2025/05/18/6828b49aeaa88.jpg",
+    "company": "August",
+    "author": "Phoebe",
+    "platforms": [
+      "Windows"
+    ],
+    "downloads": [
+      {
+        "provider": "TouchGal",
+        "url": "https://www.touchgal.io/fd72ce52"
+      },
+      {
+        "provider": "量子ACG",
+        "url": "https://lzacg.org/5920"
+      }
+    ]
+  },
+  {
+    "title": "秽翼的尤斯蒂娅",
+    "cover": "https://cdn4.winhlb.com/2025/05/18/6828b518d31eb.jpg",
+    "company": "August",
+    "author": "Phoebe",
+    "platforms": [
+      "Windows"
+    ],
+    "downloads": [
+      {
+        "provider": "TouchGal",
+        "url": "https://www.touchgal.io/6fb97b64"
+      },
+      {
+        "provider": "GAL图书馆",
+        "url": "https://gallibrary.pw/game.html?id=1"
+      },
+      {
+        "provider": "量子ACG",
+        "url": "https://lzacg.org/527"
+      }
+    ]
+  },
+  {
+    "title": "千之刃涛、桃花染之皇姬",
+    "cover": "https://cdn4.winhlb.com/2025/05/18/6828b5bb7d903.jpg",
+    "company": "AUGUST",
+    "author": "Phoebe",
+    "platforms": [
+      "Windows"
+    ],
+    "downloads": [
+      {
+        "provider": "GAL图书馆",
+        "url": "https://gallibrary.pw/game.html?id=20"
+      },
+      {
+        "provider": "量子ACG",
+        "url": "https://lzacg.org/383"
+      }
+    ]
+  },
+  {
+    "title": "千之刃涛、桃花染之皇姬 -柳暗花明-",
+    "cover": "https://cdn4.winhlb.com/2025/05/18/6828b625aa735.jpg",
+    "company": "AUGUST",
+    "author": "Phoebe",
+    "platforms": [
+      "Windows"
+    ],
+    "downloads": [
+      {
+        "provider": "TouchGal",
+        "url": "https://www.touchgal.io/a9548348"
+      },
+      {
+        "provider": "GAL图书馆",
+        "url": "https://gallibrary.pw/game.html?id=69"
+      },
+      {
+        "provider": "量子ACG",
+        "url": "https://lzacg.org/384"
+      }
+    ]
+  }
+]
