@@ -857,7 +857,7 @@
     ]
   },
   {
-    "title": "伊甸园eden*",
+    "title": "eden*",
     "cover": "https://cdn4.winhlb.com/2025/05/25/6831f21c1a6d3.jpg",
     "company": "minori",
     "author": "Phoebe",
@@ -876,6 +876,21 @@
       {
         "provider": "鲲Galgame",
         "url": "https://www.kungal.com/zh-cn/galgame/22"
+      }
+    ]
+  },
+  {
+    "title": "eden* PLUS+MOSAIC",
+    "cover": "https://cdn4.winhlb.com/2025/05/25/6831f21c1a6d3.jpg",
+    "company": "minori",
+    "author": "Phoebe",
+    "platforms": [
+      "Windows"
+    ],
+    "downloads": [
+      {
+        "provider": "TouchGal",
+        "url": "https://www.touchgal.io/7dda3a06"
       }
     ]
   },
@@ -1057,6 +1072,159 @@
       {
         "provider": "量子acg",
         "url": "https://lzacg.org/3880"
+      }
+    ]
+  },
+  {
+    "title": "花与少女的祝福",
+    "cover": "https://cdn4.winhlb.com/2025/05/25/683335398568c.jpg",
+    "company": "ensemble",
+    "author": "Phoebe",
+    "platforms": [
+      "Windows"
+    ],
+    "downloads": [
+      {
+        "provider": "TouchGal",
+        "url": "https://www.touchgal.io/49c9a2cf"
+      },
+      {
+        "provider": "GAL图书馆",
+        "url": "https://gallibrary.pw/game.html?id=368"
+      }
+    ]
+  },
+  {
+    "title": "花与乙女的祝福～皇家花束～",
+    "cover": "https://cdn4.winhlb.com/2025/05/25/6833357b07a62.jpg",
+    "company": "ensemble",
+    "author": "Phoebe",
+    "platforms": [
+      "Windows"
+    ],
+    "downloads": [
+      {
+        "provider": "TouchGal",
+        "url": "https://www.touchgal.io/61e38e39"
+      },
+      {
+        "provider": "GAL图书馆",
+        "url": "https://gallibrary.pw/game.html?id=893"
+      }
+    ]
+  },
+  {
+    "title": "千金逼我嫁",
+    "cover": "",
+    "company": "ensemble",
+    "author": "Phoebe",
+    "platforms": [
+      "Windows"
+    ],
+    "downloads": [
+      {
+        "provider": "GAL图书馆",
+        "url": "https://gallibrary.pw/game.html?id=406"
+      },
+      {
+        "provider": "量子acg",
+        "url": "https://lzacg.org/3728"
+      },
+      {
+        "provider": "鲲Galgame",
+        "url": "https://www.kungal.com/zh-cn/galgame/1967"
+      },
+      {
+        "provider": "忧郁的loli",
+        "url": "https://www.ttloli.com/qianjinbiwojia.html"
+      }
+    ]
+  },
+  {
+    "title": "少女编织爱的画布",
+    "cover": "https://cdn4.winhlb.com/2025/05/25/68333625def6d.jpg",
+    "company": "ensemble",
+    "author": "Phoebe",
+    "platforms": [
+      "Windows"
+    ],
+    "downloads": [
+      {
+        "provider": "GAL图书馆",
+        "url": "https://gallibrary.pw/game.html?id=895"
+      },
+      {
+        "provider": "量子acg",
+        "url": "https://lzacg.org/3737"
+      },
+      {
+        "provider": "忧郁的loli",
+        "url": "https://www.ttloli.com/shaonvbianzhiaidehuabu.html"
+      },
+      {
+        "provider": "鲲Galgame",
+        "url": "https://www.kungal.com/zh-cn/galgame/806"
+      },
+      {
+        "provider": "FuFuACG",
+        "url": "https://www.fufugal.com/detail?id=63"
+      }
+    ]
+  },
+  {
+    "title": "少女编织爱的画布 ～二人的画廊～",
+    "cover": "https://cdn4.winhlb.com/2025/05/25/683336f6e06c0.jpg",
+    "company": "ensemble",
+    "author": "Phoebe",
+    "platforms": [
+      "Windows"
+    ],
+    "downloads": [
+      {
+        "provider": "GAL图书馆",
+        "url": "https://gallibrary.pw/game.html?id=896"
+      },
+      {
+        "provider": "量子acg",
+        "url": "https://lzacg.org/5830"
+      },
+      {
+        "provider": "FuFuACG",
+        "url": "https://www.fufugal.com/detail?id=2422"
+      }
+    ]
+  },
+  {
+    "title": "大小姐心情很糟糕",
+    "cover": "https://cdn4.winhlb.com/2025/05/25/683337d4ea05e.jpg",
+    "company": "ensemble",
+    "author": "Phoebe",
+    "platforms": [
+      "Windows"
+    ],
+    "downloads": [
+      {
+        "provider": "TouchGal",
+        "url": "https://www.touchgal.io/c5f768f6"
+      }
+    ]
+  },
+  {
+    "title": "樱舞少女的轮舞曲",
+    "cover": "https://cdn4.winhlb.com/2025/05/25/6833386e4f6f1.jpg",
+    "company": "ensemble",
+    "author": "Phoebe",
+    "platforms": [
+      "Windows"
+    ],
+    "downloads": [
+      {
+        "provider": "鲲Galgame",
+        "url": "https://www.kungal.com/zh-cn/galgame/1397"
+      },
+      {
+        "provider": "GAL图书馆",
+        "url": "https://gallibrary.pw/game.html?id=898"
       }
     ]
   }
