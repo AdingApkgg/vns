@@ -1095,7 +1095,7 @@
     ]
   },
   {
-    "title": "花与乙女的祝福～皇家花束～",
+    "title": "花与乙女的祝福 ～皇家花束～",
     "cover": "https://cdn4.winhlb.com/2025/05/25/6833357b07a62.jpg",
     "company": "ensemble",
     "author": "Phoebe",
@@ -1115,7 +1115,7 @@
   },
   {
     "title": "千金逼我嫁",
-    "cover": "",
+    "cover": "https://cdn4.winhlb.com/2025/05/25/683335df7d0a6.jpg",
     "company": "ensemble",
     "author": "Phoebe",
     "platforms": [
@@ -1225,6 +1225,75 @@
       {
         "provider": "GAL图书馆",
         "url": "https://gallibrary.pw/game.html?id=898"
+      }
+    ]
+  },
+  {
+    "title": "樱舞少女的轮舞曲 ～女装主人公们的受难记～",
+    "cover": "https://cdn4.winhlb.com/2025/05/26/6833430fc473b.jpg",
+    "company": "ensemble",
+    "author": "Phoebe",
+    "platforms": [
+      "Windows"
+    ],
+    "downloads": [
+      {
+        "provider": "GAL图书馆",
+        "url": "https://gallibrary.pw/game.html?id=906"
+      },
+      {
+        "provider": "FuFuACG",
+        "url": "https://www.fufugal.com/detail?id=596"
+      },
+      {
+        "provider": "TouchGal",
+        "url": "https://www.touchgal.io/730630dc"
+      }
+    ]
+  },
+  {
+    "title": "樱舞少女的轮舞曲 ～想成为你的恋人～",
+    "cover": "https://pic1.imgdb.cn/item/683348ca58cb8da5c80e0997.jpg",
+    "company": "ensemble",
+    "author": "Phoebe",
+    "platforms": [
+      "Windows"
+    ],
+    "downloads": [
+      {
+        "provider": "TouchGal",
+        "url": "https://www.touchgal.io/afe3636d"
+      },
+      {
+        "provider": "量子acg",
+        "url": "https://lzacg.org/4054"
+      },
+      {
+        "provider": "GAL图书馆",
+        "url": "https://gallibrary.pw/game.html?id=903"
+      }
+    ]
+  },
+  {
+    "title": "樱舞少女的轮舞曲 ～与你一起看冬樱～",
+    "cover": "https://pic1.imgdb.cn/item/6833445c58cb8da5c80e092a.webp",
+    "company": "ensemble",
+    "author": "Phoebe",
+    "platforms": [
+      "Windows"
+    ],
+    "downloads": [
+      {
+        "provider": "GAL图书馆",
+        "url": "https://gallibrary.pw/game.html?id=906"
+      },
+      {
+        "provider": "TouchGal",
+        "url": "https://www.touchgal.io/3b91eca4"
+      },
+      {
+        "provider": "量子acg",
+        "url": "https://lzacg.org/4055"
       }
     ]
   }
