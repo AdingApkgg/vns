@@ -9,16 +9,6 @@
     (dict "taxonomy" "categories" "page" .) }} {{ partial "terms.html" (dict
     "taxonomy" "tags" "page" .) }}
   </article>
-  {{ end }} {{ if gt $paginator.TotalPages 1 }}
-  <nav class="pagination">
-    {{ if $paginator.HasPrev }}
-    <a href="{{ $paginator.Prev.URL }}"><</a>
-    {{ end }}
-    <span>{{ $paginator.PageNumber }}</span>
-    {{ if $paginator.HasNext }}
-    <a href="{{ $paginator.Next.URL }}">></a>
-    {{ end }}
-  </nav>
-  {{ end }}
+  {{ end }} {{ partial "pagination.html" . }}
 </article>
 {{ end }}

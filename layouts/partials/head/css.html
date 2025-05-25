@@ -1,10 +1,12 @@
-{{- with resources.Get "css/main.css" }}
-{{- if eq hugo.Environment "development" }}
-<link rel="stylesheet" href="{{ .RelPermalink }}" importance="high">
-{{- else }}
-{{- with . | minify | fingerprint }}
-<link rel="stylesheet" href="{{ .RelPermalink }}" importance="high" integrity="{{ .Data.Integrity }}"
-    crossorigin="anonymous">
-{{- end }}
-{{- end }}
-{{- end }}
+{{- with resources.Get "css/main.css" }} {{- if eq hugo.Environment
+"development" }}
+<link rel="stylesheet" href="{{ .RelPermalink }}" importance="high" />
+{{- else }} {{- with . | minify | fingerprint }}
+<link
+  rel="stylesheet"
+  href="{{ .RelPermalink }}"
+  importance="high"
+  integrity="{{ .Data.Integrity }}"
+  crossorigin="anonymous"
+/>
+{{- end }} {{- end }} {{- end }}

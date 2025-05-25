@@ -1196,9 +1196,9 @@ main h3 {
   border-bottom: 1px dotted #e0e0e0;
 }
 
-p img,
-p video,
-p iframe {
+.article-main img.zoomable,
+.article-main video,
+.article-main iframe {
   max-width: calc(100% + 2em);
   margin: 0 -1em;
   display: block;

@@ -6,5 +6,5 @@
   {{ partial "terms.html" (dict "taxonomy" "categories" "page" .) }} {{ partial
   "terms.html" (dict "taxonomy" "tags" "page" .) }}
 </article>
-{{ if not (eq .Params.comments false) }} {{ partial "comments/include" . }} {{
-end }} {{ end }}
+{{ if not (eq .Params.comments false) }} {{ partial "comments.html" . }} {{ end
+}} {{ end }}
