@@ -1,0 +1,10 @@
+{{ define "main" }}
+<article class="article-main">
+  <h1>{{ .Title }}</h1>
+  {{ partial "post-meta.html" . }} {{ .TableOfContents }}
+  <div class="content">{{ .Content }}</div>
+  {{ partial "terms.html" (dict "taxonomy" "categories" "page" .) }} {{ partial
+  "terms.html" (dict "taxonomy" "tags" "page" .) }}
+</article>
+{{ if not (eq .Params.comments false) }} {{ partial "comments/include" . }} {{
+end }} {{ end }}

@@ -1,0 +1,24 @@
+{{ define "main" }}
+<article class="article-main">
+  <h1>{{ T "archives" }}</h1>
+  {{ $pages := where .Site.RegularPages "Type" "in" .Site.Params.mainSections }}
+  {{ $groupedPages := $pages.GroupByDate "2006" }} {{ range $groupedPages }}
+  <h2>{{ .Key }}</h2>
+  {{ range .Pages }}
+  <article>
+    <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
+    {{ partial "post-meta.html" . }} {{- $img := findRE `!\[.*?\]\((.*?)\)`
+    .Content 1 -}} {{- if $img -}} {{- $imgUrl := index $img 0 | replaceRE
+    `!\[.*?\]\((.*?)\)` "$1" -}}
+    <img
+      src="{{ $imgUrl }}"
+      alt="imgAlt"
+      style="max-width: 100%; height: auto"
+    />
+    {{- end -}} {{ .Summary }} {{ partial "terms.html" (dict "taxonomy"
+    "categories" "page" .) }} {{ partial "terms.html" (dict "taxonomy" "tags"
+    "page" .) }}
+  </article>
+  {{ end }} {{ end }}
+</article>
+{{ end }}

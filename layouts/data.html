@@ -1,203 +1,203 @@
 {{ define "main" }}
-<style>
-  article div#content {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
-    gap: 16px;
-    justify-content: center;
-    background: var(--bg-color);
-    font-size: 15px;
-  }
-
-  @media (min-width: 1024px) {
+<article class="article-main">
+  <style>
     article div#content {
-      grid-template-columns: repeat(3, 1fr);
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+      gap: 16px;
+      justify-content: center;
+      background: var(--bg-color);
+      font-size: 15px;
     }
-  }
 
-  @media (max-width: 480px) {
-    article div#content {
-      grid-template-columns: repeat(1, 1fr);
-      gap: 12px;
-      font-size: 14px;
+    @media (min-width: 1024px) {
+      article div#content {
+        grid-template-columns: repeat(3, 1fr);
+      }
+    }
+
+    @media (max-width: 480px) {
+      article div#content {
+        grid-template-columns: repeat(1, 1fr);
+        gap: 12px;
+        font-size: 14px;
+      }
+
+      article div#content .item {
+        padding: 12px;
+      }
+
+      article div#content .item img {
+        height: 150px;
+      }
+
+      article div#content .item .title {
+        font-size: 1rem;
+      }
+
+      article div#content .item .platforms {
+        font-size: 0.7rem;
+      }
+
+      article div#content .item .download-button {
+        padding: 6px 10px;
+        font-size: 0.7rem;
+      }
     }
 
     article div#content .item {
-      padding: 12px;
-    }
-
-    article div#content .item img {
-      height: 150px;
-    }
-
-    article div#content .item .title {
+      border: 1px solid rgba(0, 0, 0, 0.1);
+      border-radius: 12px;
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.05);
+      background: var(--bg-color);
+      overflow: hidden;
+      display: flex;
+      flex-direction: column;
+      padding: 16px;
+      transition: transform 0.2s, box-shadow 0.2s;
       font-size: 1rem;
     }
 
+    article div#content .item:hover {
+      transform: translateY(-5px);
+      box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1);
+    }
+
+    article div#content .item img {
+      width: 100%;
+      height: 180px;
+      object-fit: cover;
+      border-radius: 8px;
+    }
+
+    article div#content .item .title {
+      font-size: 1.15rem;
+      font-weight: bold;
+      margin-bottom: 8px;
+      color: var(--text-color);
+    }
+
+    article div#content .item .company {
+      font-size: 0.95rem;
+      color: #888;
+      margin-bottom: 4px;
+    }
+
     article div#content .item .platforms {
-      font-size: 0.7rem;
+      font-size: 0.85rem;
+      color: var(--text-color);
+      margin-bottom: 2px;
+      margin-top: 4px;
+    }
+
+    article div#content .item .downloads {
+      margin-top: 3px;
+      margin-bottom: 2px;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      font-size: 0.85rem;
     }
 
     article div#content .item .download-button {
-      padding: 6px 10px;
-      font-size: 0.7rem;
+      background: var(--link-color);
+      color: #fff;
+      border: none;
+      border-radius: 6px;
+      padding: 8px 12px;
+      font-size: 0.85rem;
+      cursor: pointer;
+      transition: background 0.2s, transform 0.2s;
     }
-  }
 
-  article div#content .item {
-    border: 1px solid rgba(0, 0, 0, 0.1);
-    border-radius: 12px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.05);
-    background: var(--bg-color);
-    overflow: hidden;
-    display: flex;
-    flex-direction: column;
-    padding: 16px;
-    transition: transform 0.2s, box-shadow 0.2s;
-    font-size: 1rem;
-  }
+    article div#content .item .download-button:hover {
+      background: #4a5568;
+      transform: scale(1.05);
+    }
 
-  article div#content .item:hover {
-    transform: translateY(-5px);
-    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1);
-  }
-
-  article div#content .item img {
-    width: 100%;
-    height: 180px;
-    object-fit: cover;
-    border-radius: 8px;
-  }
-
-  article div#content .item .title {
-    font-size: 1.15rem;
-    font-weight: bold;
-    margin-bottom: 8px;
-    color: var(--text-color);
-  }
-
-  article div#content .item .company {
-    font-size: 0.95rem;
-    color: #888;
-    margin-bottom: 4px;
-  }
-
-  article div#content .item .platforms {
-    font-size: 0.85rem;
-    color: var(--text-color);
-    margin-bottom: 2px;
-    margin-top: 4px;
-  }
-
-  article div#content .item .downloads {
-    margin-top: 3px;
-    margin-bottom: 2px;
-    display: flex;
-    flex-wrap: wrap;
-    gap: 8px;
-    font-size: 0.85rem;
-  }
-
-  article div#content .item .download-button {
-    background: var(--link-color);
-    color: #fff;
-    border: none;
-    border-radius: 6px;
-    padding: 8px 12px;
-    font-size: 0.85rem;
-    cursor: pointer;
-    transition: background 0.2s, transform 0.2s;
-  }
-
-  article div#content .item .download-button:hover {
-    background: #4a5568;
-    transform: scale(1.05);
-  }
-
-  article div#content .item .author {
-    font-size: 0.8rem;
-    color: #aaa;
-    margin-top: 8px;
-    display: block;
-  }
-</style>
-<article>
+    article div#content .item .author {
+      font-size: 0.8rem;
+      color: #aaa;
+      margin-top: 8px;
+      display: block;
+    }
+  </style>
   <h1>分流</h1>
   <div id="content">少女祈祷中...</div>
-</article>
-<script>
-  document.addEventListener("DOMContentLoaded", () => {
-    fetchData();
-  });
-  document.addEventListener("pjax:complete", () => {
-    fetchData();
-  });
+  <script>
+    document.addEventListener("DOMContentLoaded", () => {
+      fetchData();
+    });
+    document.addEventListener("pjax:complete", () => {
+      fetchData();
+    });
 
-  function fetchData() {
-    const jsonUrl =
-      "https://ghfast.top/https://raw.githubusercontent.com/AdingApkgg/vns/refs/heads/dev/data/data.json";
+    function fetchData() {
+      const jsonUrl =
+        "https://ghfast.top/https://raw.githubusercontent.com/AdingApkgg/vns/refs/heads/dev/data/data.json";
 
-    fetch(jsonUrl)
-      .then((response) => {
-        if (!response.ok) {
-          throw new Error("网络响应失败");
-        }
-        return response.json();
-      })
-      .then((data) => {
-        const contentDiv = document.getElementById("content");
-        contentDiv.innerHTML = "";
-        data.forEach((item) => {
-          const itemDiv = document.createElement("div");
-          itemDiv.className = "item";
+      fetch(jsonUrl)
+        .then((response) => {
+          if (!response.ok) {
+            throw new Error("网络响应失败");
+          }
+          return response.json();
+        })
+        .then((data) => {
+          const contentDiv = document.getElementById("content");
+          contentDiv.innerHTML = "";
+          data.forEach((item) => {
+            const itemDiv = document.createElement("div");
+            itemDiv.className = "item";
 
-          const cover = document.createElement("img");
-          cover.className = "cover";
-          cover.src = item.cover;
-          cover.alt = item.title;
-          cover.title = item.title;
-          cover.loading = "lazy";
-          itemDiv.appendChild(cover);
+            const cover = document.createElement("img");
+            cover.className = "cover";
+            cover.src = item.cover;
+            cover.alt = item.title;
+            cover.title = item.title;
+            cover.loading = "lazy";
+            itemDiv.appendChild(cover);
 
-          const title = document.createElement("h2");
-          title.className = "title";
-          title.textContent = item.title;
-          itemDiv.appendChild(title);
+            const title = document.createElement("h2");
+            title.className = "title";
+            title.textContent = item.title;
+            itemDiv.appendChild(title);
 
-          const company = document.createElement("span");
-          company.className = "company";
-          company.textContent = item.company;
-          itemDiv.appendChild(company);
+            const company = document.createElement("span");
+            company.className = "company";
+            company.textContent = item.company;
+            itemDiv.appendChild(company);
 
-          const platforms = document.createElement("p");
-          platforms.className = "platforms";
-          platforms.textContent = `${item.platforms.join("、")}`;
-          itemDiv.appendChild(platforms);
+            const platforms = document.createElement("p");
+            platforms.className = "platforms";
+            platforms.textContent = `${item.platforms.join("、")}`;
+            itemDiv.appendChild(platforms);
 
-          const downloads = document.createElement("p");
-          downloads.className = "downloads";
-          item.downloads.forEach((download) => {
-            const button = document.createElement("button");
-            button.className = "download-button";
-            button.textContent = `${download.provider}`;
-            button.onclick = () => window.open(download.url, "_blank");
-            downloads.appendChild(button);
+            const downloads = document.createElement("p");
+            downloads.className = "downloads";
+            item.downloads.forEach((download) => {
+              const button = document.createElement("button");
+              button.className = "download-button";
+              button.textContent = `${download.provider}`;
+              button.onclick = () => window.open(download.url, "_blank");
+              downloads.appendChild(button);
+            });
+            itemDiv.appendChild(downloads);
+
+            const author = document.createElement("span");
+            author.className = "author";
+            author.textContent = `作者：${item.author}`;
+            itemDiv.appendChild(author);
+
+            contentDiv.appendChild(itemDiv);
           });
-          itemDiv.appendChild(downloads);
-
-          const author = document.createElement("span");
-          author.className = "author";
-          author.textContent = `作者：${item.author}`;
-          itemDiv.appendChild(author);
-
-          contentDiv.appendChild(itemDiv);
+        })
+        .catch((error) => {
+          console.error("获取数据失败:", error);
+          document.getElementById("content").textContent =
+            "加载数据失败，请稍后重试。";
         });
-      })
-      .catch((error) => {
-        console.error("获取数据失败:", error);
-        document.getElementById("content").textContent =
-          "加载数据失败，请稍后重试。";
-      });
-  }
-</script>
+    }
+  </script>
+</article>
 {{ end }}

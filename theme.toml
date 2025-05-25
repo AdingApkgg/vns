@@ -1,0 +1,32 @@
+name = 'i'
+license = 'MIT'
+licenselink = 'https://github.com/AdingApkgg/vns/blob/main/LICENSE'
+description = 'Easily & powerful theme for Hugo engine.'
+homepage = 'https://github.com/AdingApkgg/vns'
+tags = [
+  'blog',
+  'responsive',
+  'minimal',
+  'personal',
+  'multilingual',
+  'dark mode',
+  'docs',
+  'archive',
+]
+features = [
+  'blog',
+  'responsive',
+  'cover',
+  'multilingual',
+  'social-icons',
+  'pjax',
+  'sw',
+  'search',
+  'highlight',
+]
+min_version = "0.147.3"
+demosite = 'https://vns.saop.cc/'
+
+[author]
+name = 'Asuna'
+homepage = 'https://saop.cc/'

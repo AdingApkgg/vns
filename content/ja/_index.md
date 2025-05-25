@@ -3,7 +3,7 @@ title = '公告／発表／announcement'
 date = 2025-05-18T08:00:00+08:00
 +++
 
-![Random Image](https://img-api.saop.cc/api)
+![Random Image](https://www.loliapi.com/acg/)
 
 ## 基本的なヘルプ
 

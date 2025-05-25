@@ -1,0 +1,161 @@
+---
+#--------------------------------------
+# English Version
+#--------------------------------------
+archives:
+  other: Archives
+docs:
+  other: Docs
+tag:
+  other: Tag
+tags:
+  other: Tags
+TagTitle:
+  other: Tag Collection
+category:
+  other: Category
+categories:
+  other: Categories
+CateTitle:
+  other: Classification Items
+author:
+  other: Author
+AllSome:
+  other: "All {{ .Some }}"
+
+Symbol:
+  colon: ":"
+  comma: ","
+  period: "."
+
+Sidebar:
+  label:
+    posts: Posts
+    categories: Categories
+    tags: Tags
+    rss: RSS
+    ccommons: "Creative Commons"
+    toc: TOC
+    overview: Overview
+    navToggle: "Toggle Navigation Bar"
+    search: Search
+
+Terms:
+  archives: "{{ .Count }} posts in total"
+  categories: "{{ .Count }} categories in total"
+  tags: "{{ .Count }} tags in total"
+
+PostArchive:
+  cheers:
+    um: Um...
+    ok: Ok
+    nice: Nice
+    good: Good
+    great: Greate
+    excellent: Excellent
+  keepOn: Keep on posting.╰(*°▽°*)╯
+
+PostMeta:
+  sticky: Stickys
+  publish:
+    date: "Publish on"
+    time: "Create Time"
+  lastmod:
+    date: "Update on"
+    time: "Modify Time"
+  category: "Classify at"
+  words:
+    title: Words
+    count: "{{- .WordCount -}}"
+  reading:
+    title: Read
+    time: "{{- .ReadingTime -}}mins"
+  views: Views
+  comments: Comments
+  tags: Tags
+  more: "Read More"
+  edit: "Edit this post"
+  expired:
+    title: "Note"
+    info: "🕰️ Hey，This article is an aged wine of over # the information may need updating, please check the best before date before reading."
+    warn: "🚀 Heads up! This article is from # ago and might not keep up with the pace of time. Bring your own time machine for reading, watch out for the time travel!"
+  summary:
+    title: Summary
+
+PostAlert:
+  info: "Info"
+  note: "Note"
+  help: "Help"
+  error: "Error"
+  warning: "Warning"
+  success: "Success"
+  important: "Important"
+
+PostCopyRight:
+  title: Post Title
+  author: Post Author
+  link: Post Link
+  origin:
+    author: Written By
+    link: Originally From
+  license:
+    title: Copyright Notice
+    content: 'All articles in this blog are licensed under <i class="fab fa-fw fa-creative-commons"></i>%s unless stating additionally.'
+
+PostFollowMe:
+  other: Welcome to my other publishing channels
+
+PostComments:
+  title: Comments
+
+Reward:
+  title: Donate
+  wechatpay: WechatPay
+  alipay: Alipay
+  paypal: Paypal
+  bitcoin: Bitcoin
+
+SiteInfoItems:
+  title: "Web Status"
+  runTimes: "Running: "
+  words: "Words: "
+  readTimes: "ReadTime: "
+  visitors: "UV: "
+  pageViews: "Views: "
+  todayViews: "Today Views: "
+  yesterdayViews: "Yesterday Views: "
+  monthViews: "Month Views: "
+  totalViews: "PV: "
+  lastUpdate: "Last Update: "
+
+Footer:
+  powerby: "Power by %s"
+
+Search:
+  placeholder: Searching...
+  empty: "We didn't find any results for the search: ${query}"
+  hits: "${hits} results found"
+  time: "${hits} results found in ${time} ms"
+
+DateSuffix:
+  years: " Year "
+  days: " Day "
+  hours: " Hour "
+  mins: " Min"
+  month: " Month Ago"
+  day: " Day Ago"
+  hour: " Hour Ago"
+  min: " Min Ago"
+  just: "Just"
+
+ToolBtns:
+  comment: "Go to Comment"
+  theme: "Change Theme"
+  lang: "Multilingual translation"
+  backTop: "Back to Top"
+
+AgeWarning:
+  text: "Are you 18 years or older?"
+  confirm: "YES"
+  deny: "NO"
+  url: "//youtube.com/watch?v=dQw4w9WgXcQ"

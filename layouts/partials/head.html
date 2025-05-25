@@ -1,0 +1,63 @@
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>
+  {{ if .IsHome }}{{ site.Title }}{{ else }}{{ printf "%s | %s" .Title
+  site.Title }}{{ end }}
+</title>
+<meta property="og:title" content="{{ .Title }}" />
+<meta
+  property="og:description"
+  content="{{ .Summary | default .Site.Params.description }}"
+/>
+<meta property="og:type" content="website" />
+<meta property="og:url" content="{{ .Permalink }}" />
+<meta property="og:image" content="{{ .Site.Params.ogImage | absURL }}" />
+<meta property="og:site_name" content="{{ .Site.Title }}" />
+<link rel="manifest" href="{{ .Site.BaseURL }}manifest.json" />
+<link
+  rel="alternate"
+  type="application/rss+xml"
+  href="{{ .Site.BaseURL }}index.xml"
+  title="{{ .Site.Title }}"
+/>
+<script
+  src="https://registry.npmmirror.com/pjax/latest/files/pjax.min.js"
+  importance="high"
+></script>
+<script
+  src="https://registry.npmmirror.com/sweetalert2/latest/files/dist/sweetalert2.all.min.js"
+  importance="high"
+></script>
+<script
+  src="https://registry.npmmirror.com/quicklink/latest/files/dist/quicklink.umd.js"
+  importance="high"
+></script>
+<script
+  async
+  src="https://registry.npmmirror.com/pace-js/latest/files/pace.min.js"
+  importance="high"
+></script>
+<link
+  rel="stylesheet"
+  href="https://registry.npmmirror.com/pace-js/latest/files/themes/blue/pace-theme-flash.css"
+  importance="high"
+/>
+<link rel="stylesheet" href="/pagefind/pagefind-ui.css" importance="high" />
+<script src="/pagefind/pagefind-ui.js" importance="high"></script>
+<script>
+  document.addEventListener("DOMContentLoaded", () => {
+    const pjax = new Pjax({
+      selectors: [
+        "title",
+        "meta[property='og:description']",
+        "header",
+        ".article-main",
+        ".comments",
+        "footer",
+      ],
+      cacheBust: false,
+    });
+    quicklink.listen({ priority: true });
+  });
+</script>
+{{ partialCached "head/css.html" . }} {{ partialCached "head/js.html" . }}

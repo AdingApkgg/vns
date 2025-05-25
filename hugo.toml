@@ -3,7 +3,6 @@ languageCode = 'zh'
 defaultContentLanguage = "zh"
 defaultContentLanguageInSubdir = false
 title = 'VNS'
-theme = 'i'
 
 [module]
 [module.hugoVersion]

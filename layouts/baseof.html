@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html
+  lang="{{ .Site.LanguageCode }}"
+  dir="{{ or site.Language.LanguageDirection `ltr` }}"
+  data-theme="light"
+>
+  <head>
+    {{ partial "head.html" . }}
+  </head>
+
+  <body>
+    <header>{{ partial "header.html" . }}</header>
+    <div id="search"></div>
+    <main>{{ block "main" . }}{{ end }}</main>
+    <footer>{{ partial "footer.html" . }}</footer>
+    {{ partial "scripts.html" . }}
+  </body>
+</html>

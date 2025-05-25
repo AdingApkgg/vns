@@ -1,0 +1,20 @@
+{{ define "main" }}
+<article class="article-main">
+  <h1>{{ .Title }}</h1>
+  {{ .Content }} {{ $paginator := .Paginate (where .Site.RegularPages "Type"
+  "docs") }} {{ range $paginator.Pages }}
+  <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
+  {{ partial "post-meta.html" . }} {{ .Summary }} {{ end }} {{ if gt
+  $paginator.TotalPages 1 }}
+  <nav class="pagination">
+    {{ if $paginator.HasPrev }}
+    <a href="{{ $paginator.Prev.URL }}"><</a>
+    {{ end }}
+    <span>{{ $paginator.PageNumber }}</span>
+    {{ if $paginator.HasNext }}
+    <a href="{{ $paginator.Next.URL }}">></a>
+    {{ end }}
+  </nav>
+  {{ end }}
+</article>
+{{ end }}

@@ -1,0 +1,13 @@
+{{ define "main" }}
+<article class="article-main">
+  <h1>{{ i18n $.Data.Plural }}</h1>
+  <ul class="taxonomy">
+    {{ range .Data.Terms }}
+    <li>
+      <a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a>
+      <span>{{ .Count }}</span>
+    </li>
+    {{ end }}
+  </ul>
+</article>
+{{ end }}

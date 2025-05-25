@@ -1,0 +1,7 @@
+<nav>
+    {{ range .Site.Menus.main }}
+    <a href="{{ .URL }}">{{ .Name }}</a>
+    {{ end }}
+    <button id="theme-toggle">{{ T "ToolBtns.theme" }}</button>
+    {{ partial "language-switcher.html" . }}
+</nav>
