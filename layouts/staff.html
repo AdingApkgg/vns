@@ -1,0 +1,70 @@
+{{ define "main" }}
+<article class="article-main">
+  <style>
+    .article-main .content {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+      gap: 16px;
+      justify-content: center;
+      background: var(--bg-color);
+      font-size: 15px;
+    }
+
+    @media (min-width: 1024px) {
+      .article-main .content {
+        grid-template-columns: repeat(5, 1fr);
+      }
+    }
+
+    @media (max-width: 480px) {
+      .article-main .content {
+        grid-template-columns: repeat(2, 1fr);
+        gap: 8px;
+        font-size: 14px;
+      }
+    }
+
+    .article-main .content .staff {
+      border: 1px solid rgba(0, 0, 0, 0.1);
+      border-radius: 8px;
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.05);
+      background: var(--bg-color);
+      overflow: hidden;
+      display: flex;
+      flex-direction: column;
+      transition: transform 0.2s, box-shadow 0.2s;
+      font-size: 1rem;
+    }
+    .article-main .content .staff:hover {
+      transform: translateY(-4px);
+      box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1);
+    }
+    .article-main .content .staff p {
+      text-align: center;
+      margin: 0.6em 0;
+      padding: 0 16px;
+    }
+    .article-main .content .staff p a {
+      font-size: 1.4em;
+    }
+  </style>
+  <h1>{{ .Title }}</h1>
+  {{ .Content }}
+  <div class="content">
+    {{ range .Site.Data.staff }}
+    <div class="staff">
+      <img
+        loading="lazy"
+        src="{{ .avatar | absURL }}"
+        alt="{{ .author }}"
+        title="{{ .author }}"
+      />
+      <p>
+        <a href="{{ .url }}" target="_blank"><strong>{{ .author }}</strong></a>
+      </p>
+      <p>{{ .desc }}</p>
+    </div>
+    {{ end }}
+  </div>
+</article>
+{{ end }}

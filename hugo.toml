@@ -57,6 +57,11 @@ identifier = "data"
 name = '分流'
 pageRef = '/data'
 weight = 8
+[[languages.zh.menus.main]]
+identifier = "staff"
+name = '成员'
+pageRef = '/staff'
+weight = 9
 
 [languages.ja]
 contentDir = 'content/ja'
