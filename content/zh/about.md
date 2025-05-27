@@ -1,7 +1,6 @@
 ---
-title: 关于本站
-date: 2024-01-27 21:53:55
-updated: 2025-04-21 00:00:00
+title: "关于本站"
+date: 2024-01-27T21:53:55+08:00
 comments: false
 ---
 
@@ -29,13 +28,13 @@ comments: false
 
 找不到网址的时候可到这里看最新网址：
 
-[AdingApkgg/gal-site](https://github.com/AdingApkgg/gal-site/blob/main/README.md)
+[AdingApkgg/vns](https://github.com/AdingApkgg/vns/blob/gh-pages/README.md)
 
 收藏以上回家链，避免忘记归家路~
 
 ## 开放源码
 
-由 [Hugo](https://gohugo.io/) 框架与 [i](https://github.com/AdingApkgg/hugo-theme-i) 主题强力驱动！
+由 [Hugo](https://gohugo.io/) 框架强力驱动！
 
 本站大部分源码已开源至 GitHub 社区，
 

@@ -53,15 +53,30 @@ name = '文档'
 pageRef = '/docs'
 weight = 7
 [[languages.zh.menus.main]]
+identifier = "comments"
+name = '留言'
+pageRef = '/comments'
+weight = 8
+[[languages.zh.menus.main]]
 identifier = "data"
 name = '分流'
 pageRef = '/data'
-weight = 8
+weight = 9
 [[languages.zh.menus.main]]
 identifier = "staff"
 name = '成员'
 pageRef = '/staff'
-weight = 9
+weight = 10
+[[languages.zh.menus.main]]
+identifier = "cloud"
+name = '云盘'
+url = 'https://cloud.saop.cc/'
+weight = 11
+[[languages.zh.menus.main]]
+identifier = "drive"
+name = '网盘'
+url = 'https://drive.saop.cc/'
+weight = 12
 
 [languages.ja]
 contentDir = 'content/ja'

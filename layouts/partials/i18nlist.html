@@ -3,7 +3,10 @@
 <ul>
   {{ range .Translations }}
   <li>
-    <a href="{{ .RelPermalink }}">{{ .Language.Lang }}: {{ .LinkTitle }}{{ if .IsPage }} ({{ i18n "wordCount" . }}){{ end }}</a>
+    <a href="{{ .RelPermalink }}"
+      >{{ .Language.Lang }}: {{ .LinkTitle }}{{ if .IsPage }} ({{ i18n
+      "wordCount" . }}){{ end }}</a
+    >
   </li>
   {{ end }}
 </ul>

@@ -3,9 +3,10 @@
 .Site.Params.comments.valine }}
 <div class="comments">
   <div id="vcomments" class="comment"></div>
+  <script src="//registry.npmmirror.com/leancloud-storage/latest/files/dist/av-min.js"></script>
   <script src="//registry.npmmirror.com/valine/latest/files/dist/Valine.min.js"></script>
   <script>
-    new window.Valine({
+    new Valine({
       el: "#vcomments",
       appId: "{{ $valine.appId }}",
       appKey: "{{ $valine.appKey }}",
