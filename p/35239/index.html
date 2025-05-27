@@ -7,6 +7,10 @@
   <head>
     <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="preconnect" href="https://registry.npmmirror.com/" crossorigin />
+<link rel="dns-prefetch" href="https://registry.npmmirror.com/" />
+<link rel="dns-prefetch" href="https://lf26-cdn-tos.bytecdntp.com/" />
+<link rel="dns-prefetch" href="https://busuanzi.9420.ltd/" />
 <title>
   智代After ～It&#39;s a Wonderful Life～／智代アフター ～It’s a Wonderful Life～／Tomoyo After ~It&#39;s a Wonderful Life~ | VNS
 </title>
@@ -56,7 +60,9 @@
     const pjax = new Pjax({
       selectors: [
         "title",
+        "meta[property='og:title']",
         "meta[property='og:description']",
+        "meta[property='og:url']",
         "header",
         ".article-main",
         ".comments",
@@ -97,9 +103,15 @@
     
     <a href="/docs/">文档</a>
     
+    <a href="/comments/">留言</a>
+    
     <a href="/data/">分流</a>
     
     <a href="/staff/">成员</a>
+    
+    <a href="https://cloud.saop.cc/">云盘</a>
+    
+    <a href="https://drive.saop.cc/">网盘</a>
     
     <button id="theme-toggle">昼夜切换</button>
     <select onchange="changeLanguage(this.value)">
@@ -140,7 +152,7 @@
     
     <span> | 发表于: 2024-06-09 20:21:30 &#43;00:00</span>
     
-</div> <nav id="TableOfContents">
+</div>  <nav id="TableOfContents">
   <ol>
     <li><a href="#简介">简介</a></li>
     <li><a href="#剧情">剧情</a></li>
@@ -149,7 +161,7 @@
     <li><a href="#提示">提示</a></li>
     <li><a href="#分流">分流</a></li>
   </ol>
-</nav>
+</nav> 
   <div class="content"><p><img class="zoomable" loading="lazy" src="https://static.saop.cc/vns/img/tomoyo.webp" title="tomoyo"
     alt="tomoyo" /></p>
 <p><strong>《智代After ～It&rsquo;s a Wonderful Life～》</strong>（日语：<strong>智代アフター ～It&rsquo;s a Wonderful Life～</strong>）是由日本Visual Art&rsquo;s公司旗下的<a href="https://zh.moegirl.org.cn/Key"  target="_blank" rel="noopener" >Key</a>（“Key社”）所制作发行的<a href="https://zh.moegirl.org.cn/AVG"  target="_blank" rel="noopener" >AVG</a>。其剧情为游戏《<a href="https://zh.moegirl.org.cn/CLANNAD"  target="_blank" rel="noopener" >CLANNAD</a>》中智代路线之后续发展，因此接触本作前建议对《CLANNAD》有一定了解。</p>
@@ -242,9 +254,10 @@
  
 <div class="comments">
   <div id="vcomments" class="comment"></div>
+  <script src="//registry.npmmirror.com/leancloud-storage/latest/files/dist/av-min.js"></script>
   <script src="//registry.npmmirror.com/valine/latest/files/dist/Valine.min.js"></script>
   <script>
-    new window.Valine({
+    new Valine({
       el: "#vcomments",
       appId: "BnlZFCN5ghutLVVEX0el3pz3-MdYXbMMI",
       appKey: "OvpvXLKwajI2qYE4XsNMokpW",

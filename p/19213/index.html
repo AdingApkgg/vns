@@ -7,6 +7,10 @@
   <head>
     <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="preconnect" href="https://registry.npmmirror.com/" crossorigin />
+<link rel="dns-prefetch" href="https://registry.npmmirror.com/" />
+<link rel="dns-prefetch" href="https://lf26-cdn-tos.bytecdntp.com/" />
+<link rel="dns-prefetch" href="https://busuanzi.9420.ltd/" />
 <title>
   秽翼的尤斯蒂娅／穢翼のユースティア／Eustia of the Tarnished Wings／Aiyoku no Eustia／脏翅膀 | VNS
 </title>
@@ -56,7 +60,9 @@
     const pjax = new Pjax({
       selectors: [
         "title",
+        "meta[property='og:title']",
         "meta[property='og:description']",
+        "meta[property='og:url']",
         "header",
         ".article-main",
         ".comments",
@@ -97,9 +103,15 @@
     
     <a href="/docs/">文档</a>
     
+    <a href="/comments/">留言</a>
+    
     <a href="/data/">分流</a>
     
     <a href="/staff/">成员</a>
+    
+    <a href="https://cloud.saop.cc/">云盘</a>
+    
+    <a href="https://drive.saop.cc/">网盘</a>
     
     <button id="theme-toggle">昼夜切换</button>
     <select onchange="changeLanguage(this.value)">
@@ -140,7 +152,7 @@
     
     <span> | 发表于: 2024-04-19 23:51:00 &#43;00:00</span>
     
-</div> <nav id="TableOfContents">
+</div>  <nav id="TableOfContents">
   <ol>
     <li><a href="#世界观">世界观</a></li>
     <li><a href="#故事">故事</a></li>
@@ -150,7 +162,7 @@
     <li><a href="#提示">提示</a></li>
     <li><a href="#分流">分流</a></li>
   </ol>
-</nav>
+</nav> 
   <div class="content"><p><img class="zoomable" loading="lazy" src="https://static.saop.cc/vns/img/eustia.webp" title="eustia"
     alt="eustia" /></p>
 <p>《<strong>秽翼的尤斯蒂娅</strong>》（日语：穢翼のユースティア）为<a href="https://zh.wikipedia.org/wiki/AUGUST"  target="_blank" rel="noopener" >AUGUST</a>发行的<a href="https://zh.wikipedia.org/wiki/%e6%88%80%e6%84%9b%e5%86%92%e9%9a%aa"  target="_blank" rel="noopener" >恋爱冒险</a>类型<a href="https://zh.wikipedia.org/wiki/%e6%97%a5%e6%9c%ac%e6%88%90%e4%ba%ba%e9%81%8a%e6%88%b2"  target="_blank" rel="noopener" >日本成人游戏</a>。2010年8月释出全部主配角资料，2011年初推出体验版，2011年4月28日和7月29日各发售于<a href="https://zh.wikipedia.org/wiki/Windows"  target="_blank" rel="noopener" >Windows</a>平台运行的初回版和通常版。2014年2月，在电击G&rsquo;s杂志上宣布将移植到<a href="https://zh.wikipedia.org/wiki/PlayStation_Vita"  target="_blank" rel="noopener" >PSV</a>平台，基于平台的性质问题，会取消娼妇部分的相关设定。实体版本《秽翼的尤斯蒂娅 Angel’s blessing》于同年6月26日发售，下载版本则于7月10日上架。2016年11月22日由<a href="https://zh.wikipedia.org/wiki/DMM.com"  target="_blank" rel="noopener" >DMM.com</a>发售Windows平台和<a href="https://zh.wikipedia.org/wiki/Android"  target="_blank" rel="noopener" >Android</a>平台的新装版。</p>
@@ -241,9 +253,10 @@
  
 <div class="comments">
   <div id="vcomments" class="comment"></div>
+  <script src="//registry.npmmirror.com/leancloud-storage/latest/files/dist/av-min.js"></script>
   <script src="//registry.npmmirror.com/valine/latest/files/dist/Valine.min.js"></script>
   <script>
-    new window.Valine({
+    new Valine({
       el: "#vcomments",
       appId: "BnlZFCN5ghutLVVEX0el3pz3-MdYXbMMI",
       appKey: "OvpvXLKwajI2qYE4XsNMokpW",

@@ -7,6 +7,10 @@
   <head>
     <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="preconnect" href="https://registry.npmmirror.com/" crossorigin />
+<link rel="dns-prefetch" href="https://registry.npmmirror.com/" />
+<link rel="dns-prefetch" href="https://lf26-cdn-tos.bytecdntp.com/" />
+<link rel="dns-prefetch" href="https://busuanzi.9420.ltd/" />
 <title>
   夏娃年代记／イブニクル／Evenicle／主人公是兰斯的话… If Disk 兰斯版 兰斯年代记 Rance 1 2 外典 | VNS
 </title>
@@ -56,7 +60,9 @@
     const pjax = new Pjax({
       selectors: [
         "title",
+        "meta[property='og:title']",
         "meta[property='og:description']",
+        "meta[property='og:url']",
         "header",
         ".article-main",
         ".comments",
@@ -97,9 +103,15 @@
     
     <a href="/docs/">文档</a>
     
+    <a href="/comments/">留言</a>
+    
     <a href="/data/">分流</a>
     
     <a href="/staff/">成员</a>
+    
+    <a href="https://cloud.saop.cc/">云盘</a>
+    
+    <a href="https://drive.saop.cc/">网盘</a>
     
     <button id="theme-toggle">昼夜切换</button>
     <select onchange="changeLanguage(this.value)">
@@ -140,7 +152,7 @@
     
     <span> | 发表于: 2024-10-22 00:47:10 &#43;00:00</span>
     
-</div> <nav id="TableOfContents">
+</div>  <nav id="TableOfContents">
   <ol>
     <li><a href="#剧情">剧情</a></li>
     <li><a href="#链接">链接</a></li>
@@ -156,7 +168,7 @@
       </ol>
     </li>
   </ol>
-</nav>
+</nav> 
   <div class="content"><p><img class="zoomable" loading="lazy" src="https://static.saop.cc/vns/img/evenicle.webp" title="evenicle"
     alt="evenicle" /></p>
 <p>《<strong>夏娃年代记</strong>》（日语：<strong>イブニクル</strong>）是<a href="https://zh.moegirl.org.cn/AliceSoft"  target="_blank" rel="noopener" >AliceSoft</a>在2015年4月24日所发售的恋爱冒险<a href="https://zh.moegirl.org.cn/%e8%a7%92%e8%89%b2%e6%89%ae%e6%bc%94%e7%b1%bb%e6%b8%b8%e6%88%8f"  target="_blank" rel="noopener" >RPG</a>类型18禁游戏，获得2015年<a href="https://zh.moegirl.org.cn/%e8%90%8c%e7%b3%bb%e6%b8%b8%e6%88%8f%e5%a4%a7%e8%b5%8f"  target="_blank" rel="noopener" >萌系游戏大赏</a>金赏。</p>
@@ -279,9 +291,10 @@
  
 <div class="comments">
   <div id="vcomments" class="comment"></div>
+  <script src="//registry.npmmirror.com/leancloud-storage/latest/files/dist/av-min.js"></script>
   <script src="//registry.npmmirror.com/valine/latest/files/dist/Valine.min.js"></script>
   <script>
-    new window.Valine({
+    new Valine({
       el: "#vcomments",
       appId: "BnlZFCN5ghutLVVEX0el3pz3-MdYXbMMI",
       appKey: "OvpvXLKwajI2qYE4XsNMokpW",

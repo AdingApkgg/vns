@@ -7,6 +7,10 @@
   <head>
     <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="preconnect" href="https://registry.npmmirror.com/" crossorigin />
+<link rel="dns-prefetch" href="https://registry.npmmirror.com/" />
+<link rel="dns-prefetch" href="https://lf26-cdn-tos.bytecdntp.com/" />
+<link rel="dns-prefetch" href="https://busuanzi.9420.ltd/" />
 <title>
   和怪物恋爱吧／クリーチャーと恋しよっ! -ここのえこころ-／和怪物谈恋爱吧！／九重心／人虫之恋／Kokoro | VNS
 </title>
@@ -59,7 +63,9 @@
     const pjax = new Pjax({
       selectors: [
         "title",
+        "meta[property='og:title']",
         "meta[property='og:description']",
+        "meta[property='og:url']",
         "header",
         ".article-main",
         ".comments",
@@ -100,9 +106,15 @@
     
     <a href="/docs/">文档</a>
     
+    <a href="/comments/">留言</a>
+    
     <a href="/data/">分流</a>
     
     <a href="/staff/">成员</a>
+    
+    <a href="https://cloud.saop.cc/">云盘</a>
+    
+    <a href="https://drive.saop.cc/">网盘</a>
     
     <button id="theme-toggle">昼夜切换</button>
     <select onchange="changeLanguage(this.value)">
@@ -143,7 +155,7 @@
     
     <span> | 发表于: 2024-09-15 21:20:00 &#43;00:00</span>
     
-</div> <nav id="TableOfContents">
+</div>  <nav id="TableOfContents">
   <ol>
     <li><a href="#故事">故事</a></li>
     <li><a href="#图片">图片</a></li>
@@ -151,7 +163,7 @@
     <li><a href="#提示">提示</a></li>
     <li><a href="#分流">分流</a></li>
   </ol>
-</nav>
+</nav> 
   <div class="content"><p><img class="zoomable" loading="lazy" src="https://static.saop.cc/vns/img/kokoro.webp" title="kokoro"
     alt="kokoro" /></p>
 <p>《和怪物谈恋爱吧》（クリーチャーと恋しよっ！），由同人游戏社团 nostalgia 所开发的面向纯爱系玩家游戏。</p>
@@ -220,9 +232,10 @@
  
 <div class="comments">
   <div id="vcomments" class="comment"></div>
+  <script src="//registry.npmmirror.com/leancloud-storage/latest/files/dist/av-min.js"></script>
   <script src="//registry.npmmirror.com/valine/latest/files/dist/Valine.min.js"></script>
   <script>
-    new window.Valine({
+    new Valine({
       el: "#vcomments",
       appId: "BnlZFCN5ghutLVVEX0el3pz3-MdYXbMMI",
       appKey: "OvpvXLKwajI2qYE4XsNMokpW",

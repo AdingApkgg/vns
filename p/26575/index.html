@@ -7,6 +7,10 @@
   <head>
     <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="preconnect" href="https://registry.npmmirror.com/" crossorigin />
+<link rel="dns-prefetch" href="https://registry.npmmirror.com/" />
+<link rel="dns-prefetch" href="https://lf26-cdn-tos.bytecdntp.com/" />
+<link rel="dns-prefetch" href="https://busuanzi.9420.ltd/" />
 <title>
   与小萝莉相思相爱／相思相愛ロリータ／Mutual Love Lolita／相思相爱洛丽塔 | VNS
 </title>
@@ -57,7 +61,9 @@
     const pjax = new Pjax({
       selectors: [
         "title",
+        "meta[property='og:title']",
         "meta[property='og:description']",
+        "meta[property='og:url']",
         "header",
         ".article-main",
         ".comments",
@@ -98,9 +104,15 @@
     
     <a href="/docs/">文档</a>
     
+    <a href="/comments/">留言</a>
+    
     <a href="/data/">分流</a>
     
     <a href="/staff/">成员</a>
+    
+    <a href="https://cloud.saop.cc/">云盘</a>
+    
+    <a href="https://drive.saop.cc/">网盘</a>
     
     <button id="theme-toggle">昼夜切换</button>
     <select onchange="changeLanguage(this.value)">
@@ -141,13 +153,13 @@
     
     <span> | 发表于: 2024-10-25 03:38:40 &#43;00:00</span>
     
-</div> <nav id="TableOfContents">
+</div>  <nav id="TableOfContents">
   <ol>
     <li><a href="#链接">链接</a></li>
     <li><a href="#提示">提示</a></li>
     <li><a href="#分流">分流</a></li>
   </ol>
-</nav>
+</nav> 
   <div class="content"><p><img class="zoomable" loading="lazy" src="https://static.saop.cc/vns/img/lol.webp" title="lol"
     alt="lol" /></p>
 <p>那位少女甜美又芬芳。天真无邪，眼神里透着诱惑，等待着你的拥抱。不用再担忧与忍耐了，你与她已经身处相思相爱之中。就让她接受你的所有，你的孤独寂寞，还有……
@@ -215,9 +227,10 @@
  
 <div class="comments">
   <div id="vcomments" class="comment"></div>
+  <script src="//registry.npmmirror.com/leancloud-storage/latest/files/dist/av-min.js"></script>
   <script src="//registry.npmmirror.com/valine/latest/files/dist/Valine.min.js"></script>
   <script>
-    new window.Valine({
+    new Valine({
       el: "#vcomments",
       appId: "BnlZFCN5ghutLVVEX0el3pz3-MdYXbMMI",
       appKey: "OvpvXLKwajI2qYE4XsNMokpW",

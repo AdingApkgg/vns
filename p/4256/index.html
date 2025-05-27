@@ -7,6 +7,10 @@
   <head>
     <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="preconnect" href="https://registry.npmmirror.com/" crossorigin />
+<link rel="dns-prefetch" href="https://registry.npmmirror.com/" />
+<link rel="dns-prefetch" href="https://lf26-cdn-tos.bytecdntp.com/" />
+<link rel="dns-prefetch" href="https://busuanzi.9420.ltd/" />
 <title>
   EXTRAVAGANZA 爱虫的少女／虫爱少女／～蟲愛でる少女～／Extravaganza ~Mushi Mederu Shoujo~ | VNS
 </title>
@@ -56,7 +60,9 @@
     const pjax = new Pjax({
       selectors: [
         "title",
+        "meta[property='og:title']",
         "meta[property='og:description']",
+        "meta[property='og:url']",
         "header",
         ".article-main",
         ".comments",
@@ -97,9 +103,15 @@
     
     <a href="/docs/">文档</a>
     
+    <a href="/comments/">留言</a>
+    
     <a href="/data/">分流</a>
     
     <a href="/staff/">成员</a>
+    
+    <a href="https://cloud.saop.cc/">云盘</a>
+    
+    <a href="https://drive.saop.cc/">网盘</a>
     
     <button id="theme-toggle">昼夜切换</button>
     <select onchange="changeLanguage(this.value)">
@@ -140,7 +152,7 @@
     
     <span> | 发表于: 2024-05-25 01:50:00 &#43;00:00</span>
     
-</div> <nav id="TableOfContents">
+</div>  <nav id="TableOfContents">
   <ol>
     <li><a href="#简介">简介</a></li>
     <li><a href="#图片">图片</a></li>
@@ -148,7 +160,7 @@
     <li><a href="#提示">提示</a></li>
     <li><a href="#分流">分流</a></li>
   </ol>
-</nav>
+</nav> 
   <div class="content"><p><img class="zoomable" loading="lazy" src="https://static.saop.cc/vns/img/extra.webp" title="extra"
     alt="extra" /></p>
 <p>《<strong>EXTRAVAGANZA 爱虫的少女</strong>》（日语：EXTRAVAGANZA ～蟲愛でる少女～；英语：mushiai）是由<a href="https://zh.moegirl.org.cn/index.php?title=Black_Cyc&amp;action=edit&amp;redlink=1"  target="_blank" rel="noopener" >Black Cyc</a>制作的galgame游戏，并有虫使，EXTRAVAGANZA 虫狂篇等衍生作品。通称<strong>虫爱少女</strong>，是“<a href="https://zh.moegirl.org.cn/%e5%8d%81%e4%ba%8c%e9%ad%94%e5%99%a8"  target="_blank" rel="noopener" >十二魔器</a>”之一，其魔性甚于<a href="https://zh.moegirl.org.cn/Galgame%e5%90%a7%e5%8d%81%e4%ba%8c%e7%a5%9e%e5%99%a8"  target="_blank" rel="noopener" >十二神器</a>。</p>
@@ -222,9 +234,10 @@
  
 <div class="comments">
   <div id="vcomments" class="comment"></div>
+  <script src="//registry.npmmirror.com/leancloud-storage/latest/files/dist/av-min.js"></script>
   <script src="//registry.npmmirror.com/valine/latest/files/dist/Valine.min.js"></script>
   <script>
-    new window.Valine({
+    new Valine({
       el: "#vcomments",
       appId: "BnlZFCN5ghutLVVEX0el3pz3-MdYXbMMI",
       appKey: "OvpvXLKwajI2qYE4XsNMokpW",

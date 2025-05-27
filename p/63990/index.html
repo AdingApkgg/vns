@@ -7,6 +7,10 @@
   <head>
     <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="preconnect" href="https://registry.npmmirror.com/" crossorigin />
+<link rel="dns-prefetch" href="https://registry.npmmirror.com/" />
+<link rel="dns-prefetch" href="https://lf26-cdn-tos.bytecdntp.com/" />
+<link rel="dns-prefetch" href="https://busuanzi.9420.ltd/" />
 <title>
   少女理论及其周边 -巴黎学院篇-／乙女理論とその周辺 -Ecole de Paris-／乙りろ／Otoriro, Otome Riron to Sono Shuuhen -École de Paris- | VNS
 </title>
@@ -56,7 +60,9 @@
     const pjax = new Pjax({
       selectors: [
         "title",
+        "meta[property='og:title']",
         "meta[property='og:description']",
+        "meta[property='og:url']",
         "header",
         ".article-main",
         ".comments",
@@ -97,9 +103,15 @@
     
     <a href="/docs/">文档</a>
     
+    <a href="/comments/">留言</a>
+    
     <a href="/data/">分流</a>
     
     <a href="/staff/">成员</a>
+    
+    <a href="https://cloud.saop.cc/">云盘</a>
+    
+    <a href="https://drive.saop.cc/">网盘</a>
     
     <button id="theme-toggle">昼夜切换</button>
     <select onchange="changeLanguage(this.value)">
@@ -140,7 +152,7 @@
     
     <span> | 发表于: 2024-05-05 02:26:00 &#43;00:00</span>
     
-</div> <nav id="TableOfContents">
+</div>  <nav id="TableOfContents">
   <ol>
     <li><a href="#简介">简介</a></li>
     <li><a href="#图片">图片</a></li>
@@ -148,7 +160,7 @@
     <li><a href="#提示">提示</a></li>
     <li><a href="#分流">分流</a></li>
   </ol>
-</nav>
+</nav> 
   <div class="content"><p><img class="zoomable" loading="lazy" src="https://static.saop.cc/vns/img/otomeriron.webp" title="otomeriron"
     alt="otomeriron" /></p>
 <p>《少女理论及其周边  -Ecole de Paris-》（日语：<strong>乙女理論とその周辺 -Ecole de Paris-</strong>）是由<a href="https://zh.moegirl.org.cn/Navel"  target="_blank" rel="noopener" >Navel</a>制作、发行的Galgame，于2013年7月26日发售。简称为乙りろ（おとりろ）。是《<a href="https://zh.moegirl.org.cn/%e8%bf%91%e6%9c%88%e5%b0%91%e5%a5%b3%e7%9a%84%e7%a4%bc%e4%bb%aa"  target="_blank" rel="noopener" >近月少女的礼仪</a>》的续作，剧情衔接《近月少女的礼仪》的BAD END。</p>
@@ -239,9 +251,10 @@
  
 <div class="comments">
   <div id="vcomments" class="comment"></div>
+  <script src="//registry.npmmirror.com/leancloud-storage/latest/files/dist/av-min.js"></script>
   <script src="//registry.npmmirror.com/valine/latest/files/dist/Valine.min.js"></script>
   <script>
-    new window.Valine({
+    new Valine({
       el: "#vcomments",
       appId: "BnlZFCN5ghutLVVEX0el3pz3-MdYXbMMI",
       appKey: "OvpvXLKwajI2qYE4XsNMokpW",

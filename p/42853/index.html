@@ -7,6 +7,10 @@
   <head>
     <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="preconnect" href="https://registry.npmmirror.com/" crossorigin />
+<link rel="dns-prefetch" href="https://registry.npmmirror.com/" />
+<link rel="dns-prefetch" href="https://lf26-cdn-tos.bytecdntp.com/" />
+<link rel="dns-prefetch" href="https://busuanzi.9420.ltd/" />
 <title>
   奴隶少女希尔薇／Teaching Feeling ～和瘢痕少女在一起的生活～／傷肌少女との生活／奴隷との生活／和奴隶在一起的生活／与奴隶的生活 | VNS
 </title>
@@ -56,7 +60,9 @@
     const pjax = new Pjax({
       selectors: [
         "title",
+        "meta[property='og:title']",
         "meta[property='og:description']",
+        "meta[property='og:url']",
         "header",
         ".article-main",
         ".comments",
@@ -97,9 +103,15 @@
     
     <a href="/docs/">文档</a>
     
+    <a href="/comments/">留言</a>
+    
     <a href="/data/">分流</a>
     
     <a href="/staff/">成员</a>
+    
+    <a href="https://cloud.saop.cc/">云盘</a>
+    
+    <a href="https://drive.saop.cc/">网盘</a>
     
     <button id="theme-toggle">昼夜切换</button>
     <select onchange="changeLanguage(this.value)">
@@ -140,7 +152,7 @@
     
     <span> | 发表于: 2024-01-28 11:00:00 &#43;00:00</span>
     
-</div> <nav id="TableOfContents">
+</div>  <nav id="TableOfContents">
   <ol>
     <li><a href="#游戏概要">游戏概要</a></li>
     <li><a href="#游戏简介">游戏简介</a></li>
@@ -150,7 +162,7 @@
     <li><a href="#下载">下载</a></li>
     <li><a href="#分流">分流</a></li>
   </ol>
-</nav>
+</nav> 
   <div class="content"><p><img class="zoomable" loading="lazy" src="https://static.saop.cc/vns/img/sylvie.webp" title="sylvie"
     alt="sylvie" /></p>
 <p>《<strong>Teaching Feeling ～和奴隶在一起的生活～</strong>》（日语：<strong>Teaching Feeling -傷肌少女との生活-</strong>）是由日本社团<a href="https://zh.moegirl.org.cn/index.php?title=FreakilyCharming&amp;action=edit&amp;redlink=1"  target="_blank" rel="noopener" >FreakilyCharming</a>发行的一部R-18养成类文字冒险游戏，游戏本体于2015年10月27日在DLsite发售，29日在DMM发售。</p>
@@ -280,9 +292,10 @@ H场景中带有可个别切换的断面图和漫画表现以及手写的台词�
  
 <div class="comments">
   <div id="vcomments" class="comment"></div>
+  <script src="//registry.npmmirror.com/leancloud-storage/latest/files/dist/av-min.js"></script>
   <script src="//registry.npmmirror.com/valine/latest/files/dist/Valine.min.js"></script>
   <script>
-    new window.Valine({
+    new Valine({
       el: "#vcomments",
       appId: "BnlZFCN5ghutLVVEX0el3pz3-MdYXbMMI",
       appKey: "OvpvXLKwajI2qYE4XsNMokpW",

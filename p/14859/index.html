@@ -7,6 +7,10 @@
   <head>
     <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="preconnect" href="https://registry.npmmirror.com/" crossorigin />
+<link rel="dns-prefetch" href="https://registry.npmmirror.com/" />
+<link rel="dns-prefetch" href="https://lf26-cdn-tos.bytecdntp.com/" />
+<link rel="dns-prefetch" href="https://busuanzi.9420.ltd/" />
 <title>
   恋爱，我就借走了／恋爱？我就借走了哦！／恋愛、借りちゃいました／椿＆ちなつ＆こなつ／絵未＆八純／想谈个恋爱吗？那就给钱吧！／Koikari - Love For Hire／借恋 恋借 本篇 FD 1 2 椿&amp;千夏&amp;小夏 绘未&amp;八纯 迷你小剧场 ミニアフターストーリー Mini After Story | VNS
 </title>
@@ -57,7 +61,9 @@
     const pjax = new Pjax({
       selectors: [
         "title",
+        "meta[property='og:title']",
         "meta[property='og:description']",
+        "meta[property='og:url']",
         "header",
         ".article-main",
         ".comments",
@@ -98,9 +104,15 @@
     
     <a href="/docs/">文档</a>
     
+    <a href="/comments/">留言</a>
+    
     <a href="/data/">分流</a>
     
     <a href="/staff/">成员</a>
+    
+    <a href="https://cloud.saop.cc/">云盘</a>
+    
+    <a href="https://drive.saop.cc/">网盘</a>
     
     <button id="theme-toggle">昼夜切换</button>
     <select onchange="changeLanguage(this.value)">
@@ -141,7 +153,7 @@
     
     <span> | 发表于: 2025-03-02 20:15:22 &#43;00:00</span>
     
-</div> <nav id="TableOfContents">
+</div>  <nav id="TableOfContents">
   <ol>
     <li><a href="#故事">故事</a></li>
     <li><a href="#链接">链接</a></li>
@@ -155,7 +167,7 @@
       </ol>
     </li>
   </ol>
-</nav>
+</nav> 
   <div class="content"><p><img class="zoomable" loading="lazy" src="https://static.saop.cc/vns/img/koikari.webp" title="koikari"
     alt="koikari" /></p>
 <p>《<strong>恋爱，我借走了</strong>》（日语：<strong>恋愛、借りちゃいました</strong>）是由<a href="https://zh.moegirl.org.cn/ASa_Project"  target="_blank" rel="noopener" >ASa Project</a>制作发行的一款<a href="https://zh.moegirl.org.cn/Galgame"  target="_blank" rel="noopener" >Galgame</a>，于2019年7月26日发售。</p>
@@ -297,9 +309,10 @@
  
 <div class="comments">
   <div id="vcomments" class="comment"></div>
+  <script src="//registry.npmmirror.com/leancloud-storage/latest/files/dist/av-min.js"></script>
   <script src="//registry.npmmirror.com/valine/latest/files/dist/Valine.min.js"></script>
   <script>
-    new window.Valine({
+    new Valine({
       el: "#vcomments",
       appId: "BnlZFCN5ghutLVVEX0el3pz3-MdYXbMMI",
       appKey: "OvpvXLKwajI2qYE4XsNMokpW",

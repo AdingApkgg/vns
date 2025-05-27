@@ -7,6 +7,10 @@
   <head>
     <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="preconnect" href="https://registry.npmmirror.com/" crossorigin />
+<link rel="dns-prefetch" href="https://registry.npmmirror.com/" />
+<link rel="dns-prefetch" href="https://lf26-cdn-tos.bytecdntp.com/" />
+<link rel="dns-prefetch" href="https://busuanzi.9420.ltd/" />
 <title>
   About This Site | VNS
 </title>
@@ -70,7 +74,9 @@ You can use an RSS reader to subscribe to this site for the latest resource upda
     const pjax = new Pjax({
       selectors: [
         "title",
+        "meta[property='og:title']",
         "meta[property='og:description']",
+        "meta[property='og:url']",
         "header",
         ".article-main",
         ".comments",
@@ -172,14 +178,14 @@ You can use an RSS reader to subscribe to this site for the latest resource upda
     
     <span> | Publish on: 2024-01-27 21:53:55 &#43;00:00</span>
     
-</div> <nav id="TableOfContents">
+</div>  <nav id="TableOfContents">
   <ol>
     <li><a href="#contact-information">Contact Information</a></li>
     <li><a href="#subscribe-to-this-site">Subscribe to This Site</a></li>
     <li><a href="#permanent-url">Permanent URL</a></li>
     <li><a href="#open-source">Open Source</a></li>
   </ol>
-</nav>
+</nav> 
   <div class="content"><p><img class="zoomable" loading="lazy" src="https://registry.npmmirror.com/js-asuna/latest/files/pic/Asuna/Asuna16x9.webp" title="asuna"
     alt="asuna" /></p>
 <ul>

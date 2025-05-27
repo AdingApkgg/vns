@@ -7,6 +7,10 @@
   <head>
     <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="preconnect" href="https://registry.npmmirror.com/" crossorigin />
+<link rel="dns-prefetch" href="https://registry.npmmirror.com/" />
+<link rel="dns-prefetch" href="https://lf26-cdn-tos.bytecdntp.com/" />
+<link rel="dns-prefetch" href="https://busuanzi.9420.ltd/" />
 <title>
   关于本站 | VNS
 </title>
@@ -68,7 +72,9 @@ QQ 社群：1037396187
     const pjax = new Pjax({
       selectors: [
         "title",
+        "meta[property='og:title']",
         "meta[property='og:description']",
+        "meta[property='og:url']",
         "header",
         ".article-main",
         ".comments",
@@ -109,9 +115,15 @@ QQ 社群：1037396187
     
     <a href="/docs/">文档</a>
     
+    <a href="/comments/">留言</a>
+    
     <a href="/data/">分流</a>
     
     <a href="/staff/">成员</a>
+    
+    <a href="https://cloud.saop.cc/">云盘</a>
+    
+    <a href="https://drive.saop.cc/">网盘</a>
     
     <button id="theme-toggle">昼夜切换</button>
     <select onchange="changeLanguage(this.value)">
@@ -172,16 +184,16 @@ QQ 社群：1037396187
   <div class="post-meta">
     <span>作者: Asuna</span>
     
-    <span> | 发表于: 2024-01-27 21:53:55 &#43;00:00</span>
+    <span> | 发表于: 2024-01-27 21:53:55 &#43;08:00</span>
     
-</div> <nav id="TableOfContents">
+</div>  <nav id="TableOfContents">
   <ol>
     <li><a href="#通讯方式">通讯方式</a></li>
     <li><a href="#订阅本站">订阅本站</a></li>
     <li><a href="#永久网址">永久网址</a></li>
     <li><a href="#开放源码">开放源码</a></li>
   </ol>
-</nav>
+</nav> 
   <div class="content"><p><img class="zoomable" loading="lazy" src="https://registry.npmmirror.com/js-asuna/latest/files/pic/Asuna/Asuna16x9.webp" title="asuna"
     alt="asuna" /></p>
 <ul>
@@ -201,10 +213,10 @@ QQ 社群：1037396187
 <p>可使用 <code>RSS</code> 阅读器订阅本站，以便获取最新资源推送~</p>
 <h2 id="永久网址">永久网址</h2>
 <p>找不到网址的时候可到这里看最新网址：</p>
-<p><a href="https://github.com/AdingApkgg/gal-site/blob/main/README.md"  target="_blank" rel="noopener" >AdingApkgg/gal-site</a></p>
+<p><a href="https://github.com/AdingApkgg/vns/blob/gh-pages/README.md"  target="_blank" rel="noopener" >AdingApkgg/vns</a></p>
 <p>收藏以上回家链，避免忘记归家路~</p>
 <h2 id="开放源码">开放源码</h2>
-<p>由 <a href="https://gohugo.io/"  target="_blank" rel="noopener" >Hugo</a> 框架与 <a href="https://github.com/AdingApkgg/hugo-theme-i"  target="_blank" rel="noopener" >i</a> 主题强力驱动！</p>
+<p>由 <a href="https://gohugo.io/"  target="_blank" rel="noopener" >Hugo</a> 框架强力驱动！</p>
 <p>本站大部分源码已开源至 GitHub 社区，</p>
 <p>有兴趣探索本站的原理可访问：</p>
 <p><a href="https://github.com/AdingApkgg/vns"  target="_blank" rel="noopener" >AdingApkgg/vns</a></p>

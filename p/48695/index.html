@@ -7,6 +7,10 @@
   <head>
     <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="preconnect" href="https://registry.npmmirror.com/" crossorigin />
+<link rel="dns-prefetch" href="https://registry.npmmirror.com/" />
+<link rel="dns-prefetch" href="https://lf26-cdn-tos.bytecdntp.com/" />
+<link rel="dns-prefetch" href="https://busuanzi.9420.ltd/" />
 <title>
   我的妹妹哪有这么可爱！／我的妹妹不可能那么可爱／俺妹／Oreimo／俺の妹がこんなに可愛いわけがない／携带版 Disc 不可能出续作 哪有可能继续 | VNS
 </title>
@@ -56,7 +60,9 @@
     const pjax = new Pjax({
       selectors: [
         "title",
+        "meta[property='og:title']",
         "meta[property='og:description']",
+        "meta[property='og:url']",
         "header",
         ".article-main",
         ".comments",
@@ -97,9 +103,15 @@
     
     <a href="/docs/">文档</a>
     
+    <a href="/comments/">留言</a>
+    
     <a href="/data/">分流</a>
     
     <a href="/staff/">成员</a>
+    
+    <a href="https://cloud.saop.cc/">云盘</a>
+    
+    <a href="https://drive.saop.cc/">网盘</a>
     
     <button id="theme-toggle">昼夜切换</button>
     <select onchange="changeLanguage(this.value)">
@@ -140,7 +152,7 @@
     
     <span> | 发表于: 2024-09-13 03:14:00 &#43;00:00</span>
     
-</div> <nav id="TableOfContents">
+</div>  <nav id="TableOfContents">
   <ol>
     <li><a href="#故事">故事</a></li>
     <li><a href="#图片">图片</a></li>
@@ -154,7 +166,7 @@
       </ol>
     </li>
   </ol>
-</nav>
+</nav> 
   <div class="content"><p><img class="zoomable" loading="lazy" src="https://static.saop.cc/vns/img/oreimo.webp" title="oreimo"
     alt="oreimo" /></p>
 <p>《<strong>我的妹妹哪有这么可爱！</strong>》（日语：<strong>俺の妹がこんなに可愛いわけがない</strong>，简称“<strong>俺妹（おれいも）</strong>”、“<strong>俺（おれ）の妹（いもうと）</strong>”），是<a href="https://zh.moegirl.org.cn/%e4%bc%8f%e8%a7%81%e5%8f%b8"  target="_blank" rel="noopener" >伏见司</a>所作的轻小说作品，以及以此为原作而改编的动画、漫画、广播剧CD、卡片游戏、电子游戏等作品。小说插画由<a href="https://zh.moegirl.org.cn/%e7%a5%9e%e5%b4%8e%e5%b9%bf"  target="_blank" rel="noopener" >神崎广</a>负责。</p>
@@ -245,9 +257,10 @@
  
 <div class="comments">
   <div id="vcomments" class="comment"></div>
+  <script src="//registry.npmmirror.com/leancloud-storage/latest/files/dist/av-min.js"></script>
   <script src="//registry.npmmirror.com/valine/latest/files/dist/Valine.min.js"></script>
   <script>
-    new window.Valine({
+    new Valine({
       el: "#vcomments",
       appId: "BnlZFCN5ghutLVVEX0el3pz3-MdYXbMMI",
       appKey: "OvpvXLKwajI2qYE4XsNMokpW",

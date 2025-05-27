@@ -7,6 +7,10 @@
   <head>
     <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="preconnect" href="https://registry.npmmirror.com/" crossorigin />
+<link rel="dns-prefetch" href="https://registry.npmmirror.com/" />
+<link rel="dns-prefetch" href="https://lf26-cdn-tos.bytecdntp.com/" />
+<link rel="dns-prefetch" href="https://busuanzi.9420.ltd/" />
 <title>
   魔法使之夜／魔法使いの夜／魔法师之夜／Witch on the Holy Night／Mahoyo／魔夜 通常 HD 高清 重置 重制 | VNS
 </title>
@@ -56,7 +60,9 @@
     const pjax = new Pjax({
       selectors: [
         "title",
+        "meta[property='og:title']",
         "meta[property='og:description']",
+        "meta[property='og:url']",
         "header",
         ".article-main",
         ".comments",
@@ -158,7 +164,7 @@
     
     <span> | 投稿日: 2024-05-04 03:23:00 &#43;00:00</span>
     
-</div> <nav id="TableOfContents">
+</div>  <nav id="TableOfContents">
   <ol>
     <li><a href="#简介">简介</a></li>
     <li><a href="#故事">故事</a></li>
@@ -176,7 +182,7 @@
       </ol>
     </li>
   </ol>
-</nav>
+</nav> 
   <div class="content"><p><img class="zoomable" loading="lazy" src="https://static.saop.cc/vns/img/mahoyo.webp" title="mahoyo"
     alt="mahoyo" /></p>
 <p>《<strong>魔法使之夜</strong>》（日语：魔法使いの夜／まほうつかいのよる <em>Mahōtsukai no Yoru</em>），是日本<a href="https://zh.wikipedia.org/wiki/TYPE-MOON"  target="_blank" rel="noopener" >TYPE-MOON</a>公司制作并发售的<a href="https://zh.wikipedia.org/wiki/%e8%a7%86%e8%a7%89%e5%b0%8f%e8%af%b4"  target="_blank" rel="noopener" >视觉小说</a>类型游戏。简称为“魔夜”（「まほよ」）。</p>
@@ -312,9 +318,10 @@
  
 <div class="comments">
   <div id="vcomments" class="comment"></div>
+  <script src="//registry.npmmirror.com/leancloud-storage/latest/files/dist/av-min.js"></script>
   <script src="//registry.npmmirror.com/valine/latest/files/dist/Valine.min.js"></script>
   <script>
-    new window.Valine({
+    new Valine({
       el: "#vcomments",
       appId: "BnlZFCN5ghutLVVEX0el3pz3-MdYXbMMI",
       appKey: "OvpvXLKwajI2qYE4XsNMokpW",

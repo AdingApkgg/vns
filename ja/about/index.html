@@ -7,6 +7,10 @@
   <head>
     <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="preconnect" href="https://registry.npmmirror.com/" crossorigin />
+<link rel="dns-prefetch" href="https://registry.npmmirror.com/" />
+<link rel="dns-prefetch" href="https://lf26-cdn-tos.bytecdntp.com/" />
+<link rel="dns-prefetch" href="https://busuanzi.9420.ltd/" />
 <title>
   本サイトについて | VNS
 </title>
@@ -68,7 +72,9 @@ QQ コミュニティ：1037396187
     const pjax = new Pjax({
       selectors: [
         "title",
+        "meta[property='og:title']",
         "meta[property='og:description']",
+        "meta[property='og:url']",
         "header",
         ".article-main",
         ".comments",
@@ -170,14 +176,14 @@ QQ コミュニティ：1037396187
     
     <span> | 投稿日: 2024-01-27 21:53:55 &#43;00:00</span>
     
-</div> <nav id="TableOfContents">
+</div>  <nav id="TableOfContents">
   <ol>
     <li><a href="#連絡方法">連絡方法</a></li>
     <li><a href="#サイトの購読">サイトの購読</a></li>
     <li><a href="#永久リンク">永久リンク</a></li>
     <li><a href="#オープンソース">オープンソース</a></li>
   </ol>
-</nav>
+</nav> 
   <div class="content"><p><img class="zoomable" loading="lazy" src="https://registry.npmmirror.com/js-asuna/latest/files/pic/Asuna/Asuna16x9.webp" title="asuna"
     alt="asuna" /></p>
 <ul>

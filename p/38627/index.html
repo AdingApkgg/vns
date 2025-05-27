@@ -7,6 +7,10 @@
   <head>
     <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="preconnect" href="https://registry.npmmirror.com/" crossorigin />
+<link rel="dns-prefetch" href="https://registry.npmmirror.com/" />
+<link rel="dns-prefetch" href="https://lf26-cdn-tos.bytecdntp.com/" />
+<link rel="dns-prefetch" href="https://busuanzi.9420.ltd/" />
 <title>
   纯白交响曲 Remake for FHD／ましろ色シンフォニー／Mashiroiro Symphony HD -Love is Pure White-／原版 通常 HD 高清 重置 重制 | VNS
 </title>
@@ -56,7 +60,9 @@
     const pjax = new Pjax({
       selectors: [
         "title",
+        "meta[property='og:title']",
         "meta[property='og:description']",
+        "meta[property='og:url']",
         "header",
         ".article-main",
         ".comments",
@@ -97,9 +103,15 @@
     
     <a href="/docs/">文档</a>
     
+    <a href="/comments/">留言</a>
+    
     <a href="/data/">分流</a>
     
     <a href="/staff/">成员</a>
+    
+    <a href="https://cloud.saop.cc/">云盘</a>
+    
+    <a href="https://drive.saop.cc/">网盘</a>
     
     <button id="theme-toggle">昼夜切换</button>
     <select onchange="changeLanguage(this.value)">
@@ -140,7 +152,7 @@
     
     <span> | 发表于: 2024-05-11 02:31:30 &#43;00:00</span>
     
-</div> <nav id="TableOfContents">
+</div>  <nav id="TableOfContents">
   <ol>
     <li><a href="#简介">简介</a></li>
     <li><a href="#图片">图片</a></li>
@@ -153,7 +165,7 @@
       </ol>
     </li>
   </ol>
-</nav>
+</nav> 
   <div class="content"><p><img class="zoomable" loading="lazy" src="https://static.saop.cc/vns/img/mashiro.webp" title="mashiro"
     alt="mashiro" /></p>
 <p><strong>《纯白交响曲》</strong>（日语：<strong>ましろ色シンフォニー</strong>；英语：<strong>Mashiroiro Symphony</strong>）是由<a href="https://zh.moegirl.org.cn/Palette%28%e6%b8%b8%e6%88%8f%e5%85%ac%e5%8f%b8%29"  target="_blank" rel="noopener" >Palette</a>制作的一部以校园恋爱为主题的文字冒险游戏，PSP版<a href="https://zh.moegirl.org.cn/%e4%b9%be%e7%ba%b1%e5%87%aa"  target="_blank" rel="noopener" >升格一名</a>、<a href="https://zh.moegirl.org.cn/%e5%b0%8f%e9%87%8e%e5%ae%ab%e7%bb%93%e6%9c%88"  target="_blank" rel="noopener" >新增一名</a>可攻略角色，并有动画、漫画等衍生作品。</p>
@@ -244,9 +256,10 @@
  
 <div class="comments">
   <div id="vcomments" class="comment"></div>
+  <script src="//registry.npmmirror.com/leancloud-storage/latest/files/dist/av-min.js"></script>
   <script src="//registry.npmmirror.com/valine/latest/files/dist/Valine.min.js"></script>
   <script>
-    new window.Valine({
+    new Valine({
       el: "#vcomments",
       appId: "BnlZFCN5ghutLVVEX0el3pz3-MdYXbMMI",
       appKey: "OvpvXLKwajI2qYE4XsNMokpW",

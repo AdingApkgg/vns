@@ -7,6 +7,10 @@
   <head>
     <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="preconnect" href="https://registry.npmmirror.com/" crossorigin />
+<link rel="dns-prefetch" href="https://registry.npmmirror.com/" />
+<link rel="dns-prefetch" href="https://lf26-cdn-tos.bytecdntp.com/" />
+<link rel="dns-prefetch" href="https://busuanzi.9420.ltd/" />
 <title>
   9-nine-／九次九日九重色 天色天歌天籁音 春色春恋春熙风 雪色雪花雪余痕 新章 ここのつここのかここのいろ そらいろそらうたそらのおと はるいろはるこいはるのかぜ ゆきいろゆきはなゆきのあと New Episode 系列合集 Series | VNS
 </title>
@@ -64,7 +68,9 @@
     const pjax = new Pjax({
       selectors: [
         "title",
+        "meta[property='og:title']",
         "meta[property='og:description']",
+        "meta[property='og:url']",
         "header",
         ".article-main",
         ".comments",
@@ -105,9 +111,15 @@
     
     <a href="/docs/">文档</a>
     
+    <a href="/comments/">留言</a>
+    
     <a href="/data/">分流</a>
     
     <a href="/staff/">成员</a>
+    
+    <a href="https://cloud.saop.cc/">云盘</a>
+    
+    <a href="https://drive.saop.cc/">网盘</a>
     
     <button id="theme-toggle">昼夜切换</button>
     <select onchange="changeLanguage(this.value)">
@@ -148,7 +160,7 @@
     
     <span> | 发表于: 2024-02-22 03:55:00 &#43;00:00</span>
     
-</div> <nav id="TableOfContents">
+</div>  <nav id="TableOfContents">
   <ol>
     <li><a href="#剧情">剧情</a></li>
     <li><a href="#图片">图片</a></li>
@@ -165,7 +177,7 @@
       </ol>
     </li>
   </ol>
-</nav>
+</nav> 
   <div class="content"><p><img class="zoomable" loading="lazy" src="https://static.saop.cc/vns/img/9-nine-.webp" title="9-nine-"
     alt="9-nine-" /></p>
 <p>《<strong>9-nine-</strong>》是<a href="https://zh.wikipedia.org/wiki/PALETTE"  target="_blank" rel="noopener" >PALETTE</a>发售的<a href="https://zh.wikipedia.org/wiki/%e6%88%80%e6%84%9b%e5%86%92%e9%9a%aa"  target="_blank" rel="noopener" >恋爱冒险</a>类型<a href="https://zh.wikipedia.org/wiki/%e6%97%a5%e6%9c%ac%e6%88%90%e4%ba%ba%e9%81%8a%e6%88%b2"  target="_blank" rel="noopener" >成人游戏</a>。本作分为多个章节，自2017年开始发售：</p>
@@ -364,9 +376,10 @@
  
 <div class="comments">
   <div id="vcomments" class="comment"></div>
+  <script src="//registry.npmmirror.com/leancloud-storage/latest/files/dist/av-min.js"></script>
   <script src="//registry.npmmirror.com/valine/latest/files/dist/Valine.min.js"></script>
   <script>
-    new window.Valine({
+    new Valine({
       el: "#vcomments",
       appId: "BnlZFCN5ghutLVVEX0el3pz3-MdYXbMMI",
       appKey: "OvpvXLKwajI2qYE4XsNMokpW",
