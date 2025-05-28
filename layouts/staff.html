@@ -39,30 +39,58 @@
       transform: translateY(-4px);
       box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1);
     }
-    .article-main .content .staff p {
+    .article-main .content .staff section {
+      height: 100%;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-evenly;
+    }
+    .article-main .content .staff section p {
       text-align: center;
       margin: 0.6em 0;
       padding: 0 16px;
     }
-    .article-main .content .staff p a {
+    .article-main .content .staff section p strong {
       font-size: 1.4em;
     }
   </style>
   <h1>{{ .Title }}</h1>
   {{ .Content }}
   <div class="content">
-    {{ range .Site.Data.staff }}
+    {{ $defaultAuthor := .Site.Params.ogImage | absURL }} {{ range
+    .Site.Data.staff }}
     <div class="staff">
+      {{ if .avatar }}
       <img
         loading="lazy"
         src="{{ .avatar | absURL }}"
         alt="{{ .author }}"
         title="{{ .author }}"
       />
-      <p>
-        <a href="{{ .url }}" target="_blank"><strong>{{ .author }}</strong></a>
-      </p>
-      <p>{{ .desc }}</p>
+      {{ else }}
+      <img
+        loading="lazy"
+        src="{{ $defaultAuthor }}"
+        alt="{{ .author }}"
+        title="{{ .author }}"
+      />
+      {{ end }}
+      <section>
+        <p>
+          {{ if .url }}
+          <a href="{{ .url }}" target="_blank"
+            ><strong>{{ .author }}</strong></a
+          >
+          {{ else }} {{ if .author }}
+          <strong>{{ .author }}</strong>
+          {{ else }}
+          <strong>null</strong>
+          {{ end }} {{ end }}
+        </p>
+        {{ if .desc }}
+        <p>{{ .desc }}</p>
+        {{ end }}
+      </section>
     </div>
     {{ end }}
   </div>

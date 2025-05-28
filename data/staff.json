@@ -13,15 +13,11 @@
     },
     {
         "author": "WTY",
-        "desc": "...",
         "url": "https://wpa.qq.com/msgrd?v=3&uin=1723894031&site=qq&menu=yes",
         "avatar": "/img/staff/wty.avif"
     },
     {
-        "author": "searvee",
-        "desc": "...",
-        "url": "https://t.me/searvees",
-        "avatar": "/img/logo.svg"
+        "author": "searvee"
     },
     {
         "author": "Kirishima",
@@ -31,8 +27,7 @@
     },
     {
         "author": "molin",
-        "desc": "...",
-        "url": "https://t.me/Sumilith",
+        "desc": "我只想要后宫结局",
         "avatar": "/img/staff/molin.avif"
     },
     {
@@ -49,8 +44,6 @@
     },
     {
         "author": "NEO",
-        "desc": "应无所住而生其心",
-        "url": "https://wpa.qq.com/msgrd?v=3&uin=1398581458&site=qq&menu=yes",
         "avatar": "/img/staff/neo.avif"
     }
 ]
