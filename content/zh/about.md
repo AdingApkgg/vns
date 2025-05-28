@@ -1,8 +1,7 @@
----
-title: "关于本站"
-date: 2024-01-27T21:53:55+08:00
-comments: false
----
++++
+title = "关于本站"
+comments = false
++++
 
 ![asuna](https://registry.npmmirror.com/js-asuna/latest/files/pic/Asuna/Asuna16x9.webp)
 

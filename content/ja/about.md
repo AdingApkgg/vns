@@ -1,44 +1,42 @@
----
-title: 本サイトについて
-date: 2024-01-27 21:53:55
-updated: 2025-04-21 00:00:00
-comments: false
----
++++
+title = "当サイトについて"
+comments = false
++++
 
 ![asuna](https://registry.npmmirror.com/js-asuna/latest/files/pic/Asuna/Asuna16x9.webp)
 
-- 本サイトは 2024 年 01 月 27 日に設立されました。
-- 管理人は最低限のコストでサイトを維持し、長期間安定した運営を目指します。
+- 当サイトは 2024年1月27日に設立されました
+- 管理人は最低限のコストで当サイトを維持し、安定した長期存続を目指します
 
 ## 連絡方法
 
 - Telegram：[FullDiveSAO](https://t.me/FullDiveSAO)
 - E-mail：[i@saop.cc](mailto:i@saop.cc)
-- QQ コミュニティ：[1037396187](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=a0v1vVzAixSZHtzEv8CDjqixn_DORxFk&authKey=RAMUimVPIwUzxIbDf8tNfJmic%2BagIybvYqmVId41e4Qpz2syvM%2BhzE3n%2F0ffHpjf&noverify=0&group_code=1037396187)
+- QQコミュニティ：[1037396187](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=a0v1vVzAixSZHtzEv8CDjqixn_DORxFk&authKey=RAMUimVPIwUzxIbDf8tNfJmic%2BagIybvYqmVId41e4Qpz2syvM%2BhzE3n%2F0ffHpjf&noverify=0&group_code=1037396187)
 - テンセントチャンネル：[70j9kz204s](https://pd.qq.com/s/bkzyduno1?businessType=9)
 
-## サイトの購読
+## 当サイトの購読
 
-本サイトの `Feed` を購読するには、以下のリンクにアクセスしてください：[index.xml](/index.xml)
+当サイトの `Feed` を購読するには、以下にアクセスしてください：[index.xml](/index.xml)
 
-おすすめのオンライン `RSS` リーダー：[QiReader](https://www.qireader.com/)
+推奨オンライン `RSS` リーダー：[QiReader](https://www.qireader.com/)
 
-`RSS` リーダーを利用することで、最新のリソース情報を簡単に取得できます。
+`RSS` リーダーを使用して当サイトを購読すると、最新のリソース更新情報を取得できます~
 
-## 永久リンク
+## 永久URL
 
-サイトが見つからない場合は、以下のリンクで最新のURLを確認できます：
+サイトのURLが見つからない場合は、最新のURLをこちらで確認してください：
 
-[AdingApkgg/gal-site](https://github.com/AdingApkgg/gal-site/blob/main/README.md)
+[AdingApkgg/vns](https://github.com/AdingApkgg/vns/blob/gh-pages/README.md)
 
-上記のリンクをブックマークして、帰り道を忘れないようにしましょう！
+上記のリンクをブックマークして、帰路を忘れないようにしてください~
 
 ## オープンソース
 
-本サイトは [Hugo](https://gohugo.io/) フレームワークと [i](https://github.com/AdingApkgg/hugo-theme-i) テーマによって強力に駆動されています。
+[Hugo](https://gohugo.io/) フレームワークによる強力な駆動！
 
-本サイトの大部分のソースコードは GitHub に公開されています。
+当サイトのほとんどのソースコードは GitHub コミュニティでオープンソース化されています。
 
-サイトの仕組みに興味がある方は、以下のリポジトリをご覧ください：
+当サイトの仕組みに興味がある方は、以下を参照してください：
 
 [AdingApkgg/vns](https://github.com/AdingApkgg/vns)

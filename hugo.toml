@@ -120,6 +120,31 @@ identifier = "docs"
 name = '書類'
 pageRef = '/docs'
 weight = 7
+[[languages.ja.menus.main]]
+identifier = "comments"
+name = 'メッセージ'
+pageRef = '/comments'
+weight = 8
+[[languages.ja.menus.main]]
+identifier = "data"
+name = '分流'
+pageRef = '/data'
+weight = 9
+[[languages.ja.menus.main]]
+identifier = "staff"
+name = 'メンバー'
+pageRef = '/staff'
+weight = 10
+[[languages.ja.menus.main]]
+identifier = "cloud"
+name = 'クラウド'
+url = 'https://cloud.saop.cc/'
+weight = 11
+[[languages.ja.menus.main]]
+identifier = "drive"
+name = 'ネットディスク'
+url = 'https://drive.saop.cc/'
+weight = 12
 
 [languages.en]
 contentDir = 'content/en'
@@ -162,6 +187,31 @@ identifier = "docs"
 name = 'Docs'
 pageRef = '/docs'
 weight = 7
+[[languages.en.menus.main]]
+identifier = "comments"
+name = 'Comments'
+pageRef = '/comments'
+weight = 8
+[[languages.en.menus.main]]
+identifier = "data"
+name = 'Mirrors'
+pageRef = '/data'
+weight = 9
+[[languages.en.menus.main]]
+identifier = "staff"
+name = 'Team'
+pageRef = '/staff'
+weight = 10
+[[languages.en.menus.main]]
+identifier = "cloud"
+name = 'Cloud'
+url = 'https://cloud.saop.cc/'
+weight = 11
+[[languages.en.menus.main]]
+identifier = "drive"
+name = 'Drive'
+url = 'https://drive.saop.cc/'
+weight = 12
 
 [markup]
 defaultMarkdownHandler = "goldmark"
@@ -193,6 +243,9 @@ tags = "/tags/:title/"
 [taxonomies]
 category = "categories"
 tag = "tags"
+
+[params.postmeta]
+enabled = true
 
 [params.comments]
 enabled = true

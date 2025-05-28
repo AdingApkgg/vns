@@ -1,7 +1,6 @@
----
-title: 公告／発表／announcement
-date: 2025-05-18T08:00:00+08:00
----
++++
+title = "公告／発表／announcement"
++++
 
 ![Random Image](https://www.loliapi.com/acg/)
 

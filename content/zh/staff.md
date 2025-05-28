@@ -1,9 +1,8 @@
----
-title: "团队成员"
-date: 2025-05-26T10:46:40+08:00
-layout: staff
-comments: false
----
++++
+title = "团队成员"
+layout = "staff"
+comments = false
++++
 
 以下工作人员自愿奉献时间和技能，使 VNS 尽可能持续运行！感谢他们持续的努力和奉献。
 

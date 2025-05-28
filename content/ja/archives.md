@@ -1,6 +1,5 @@
----
-title: "アーカイブ"
-date: 2024-01-27T08:00:00+08:00
-layout: archives
-comments: false
----
++++
+title = "アーカイブ"
+layout = "archives"
+comments = false
++++

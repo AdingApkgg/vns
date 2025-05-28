@@ -1,6 +1,14 @@
+{{ if .Site.Params.postmeta.enabled }}
 <div class="post-meta">
-    <span>{{ T "author" }}: {{ .Params.author | default .Site.Params.defaultAuthor }}</span>
-    {{ with .Date }}
-    <span> | {{ T "PostMeta.publish.date" }}: {{ .Format "2006-01-02 15:04:05 -07:00" }}</span>
-    {{ end }}
+  <span
+    >{{ T "author" }}: {{ .Params.author | default .Site.Params.defaultAuthor
+    }}</span
+  >
+  {{ with .Date }}
+  <span>
+    | {{ T "PostMeta.publish.date" }}: {{ .Format "2006-01-02 15:04:05 -07:00"
+    }}</span
+  >
+  {{ end }}
 </div>
+{{ end }}
