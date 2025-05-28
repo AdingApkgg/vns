@@ -40,33 +40,66 @@
     <item>
       <title>About This Site</title>
       <link>https://vns.saop.cc/en/about/</link>
-      <pubDate>Sat, 27 Jan 2024 21:53:55 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://vns.saop.cc/en/about/</guid>
       <description>&lt;p&gt;&lt;img class=&#34;zoomable&#34; loading=&#34;lazy&#34; src=&#34;https://registry.npmmirror.com/js-asuna/latest/files/pic/Asuna/Asuna16x9.webp&#34; title=&#34;asuna&#34;
     alt=&#34;asuna&#34; /&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;This site was established on January 27, 2024.&lt;/li&gt;
-&lt;li&gt;The site administrator will maintain this site at the lowest cost, striving for long-term stability and survival.&lt;/li&gt;
+&lt;li&gt;This site was established on January 27, 2024&lt;/li&gt;
+&lt;li&gt;The admin will maintain the site at minimal cost, striving for stable and long-term operation&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;contact-information&#34;&gt;Contact Information&lt;/h2&gt;
+&lt;h2 id=&#34;contact-methods&#34;&gt;Contact Methods&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Telegram: &lt;a href=&#34;https://t.me/FullDiveSAO&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;FullDiveSAO&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;E-mail: &lt;a href=&#34;mailto:i@saop.cc&#34; &gt;i@saop.cc&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;QQ Community：&lt;a href=&#34;http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&amp;amp;k=a0v1vVzAixSZHtzEv8CDjqixn_DORxFk&amp;amp;authKey=RAMUimVPIwUzxIbDf8tNfJmic%2BagIybvYqmVId41e4Qpz2syvM%2BhzE3n%2F0ffHpjf&amp;amp;noverify=0&amp;amp;group_code=1037396187&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;1037396187&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Tencent Channel：&lt;a href=&#34;https://pd.qq.com/s/bkzyduno1?businessType=9&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;70j9kz204s&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;QQ Community: &lt;a href=&#34;http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&amp;amp;k=a0v1vVzAixSZHtzEv8CDjqixn_DORxFk&amp;amp;authKey=RAMUimVPIwUzxIbDf8tNfJmic%2BagIybvYqmVId41e4Qpz2syvM%2BhzE3n%2F0ffHpjf&amp;amp;noverify=0&amp;amp;group_code=1037396187&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;1037396187&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Tencent Channel: &lt;a href=&#34;https://pd.qq.com/s/bkzyduno1?businessType=9&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;70j9kz204s&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;subscribe-to-this-site&#34;&gt;Subscribe to This Site&lt;/h2&gt;
-&lt;p&gt;If you wish to subscribe to the &lt;code&gt;Feed&lt;/code&gt; of this site, please visit: &lt;a href=&#34;https://vns.saop.cc/index.xml&#34; &gt;index.xml&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;To subscribe to this site’s &lt;code&gt;Feed&lt;/code&gt;, visit: &lt;a href=&#34;https://vns.saop.cc/index.xml&#34; &gt;index.xml&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Recommended online &lt;code&gt;RSS&lt;/code&gt; reader: &lt;a href=&#34;https://www.qireader.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;QiReader&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;You can use an &lt;code&gt;RSS&lt;/code&gt; reader to subscribe to this site for the latest resource updates~&lt;/p&gt;</description>
+&lt;p&gt;Use an &lt;code&gt;RSS&lt;/code&gt; reader to subscribe to this site to receive the latest resource updates~&lt;/p&gt;
+&lt;h2 id=&#34;permanent-url&#34;&gt;Permanent URL&lt;/h2&gt;
+&lt;p&gt;If you can’t find the site’s URL, check the latest URL here:&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Archives</title>
       <link>https://vns.saop.cc/en/archives/</link>
-      <pubDate>Sat, 27 Jan 2024 08:00:00 +0800</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://vns.saop.cc/en/archives/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Mirrors</title>
+      <link>https://vns.saop.cc/en/data/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vns.saop.cc/en/data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Team Members</title>
+      <link>https://vns.saop.cc/en/staff/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vns.saop.cc/en/staff/</guid>
+      <description>&lt;p&gt;The following staff members voluntarily dedicate their time and skills to keep VNS running as smoothly as possible! Thank you for their ongoing efforts and dedication.&lt;/p&gt;
+&lt;p&gt;We are looking for a few passionate individuals who are willing to &lt;strong&gt;contribute out of love for free&lt;/strong&gt;. Work hours are flexible and not fixed, so you can start whenever you like~&lt;/p&gt;
+&lt;p&gt;If you are skilled in using advanced magic, can search for resources and write &lt;code&gt;Markdown&lt;/code&gt; or &lt;code&gt;Word&lt;/code&gt; documents following the general format of existing articles on this site&amp;hellip; download and test resources to check if they are raw or localized, note the localization group name, version, and whether any &lt;code&gt;BUGs&lt;/code&gt; appear&amp;hellip; and are willing to support VNS, please feel free to contact us by clicking the nicknames of the staff members below.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Violet Evergarden&#39;s Message Board</title>
+      <link>https://vns.saop.cc/en/comments/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vns.saop.cc/en/comments/</guid>
+      <description>&lt;p&gt;&lt;img class=&#34;zoomable&#34; loading=&#34;lazy&#34; src=&#34;https://tuchuang.voooe.cn/images/2023/01/02/violet.webp&#34; title=&#34;violet&#34;
+    alt=&#34;violet&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;A message from &lt;strong&gt;Violet&lt;/strong&gt;:&lt;/p&gt;
+&lt;p&gt;Got something to ask? Something to say? Something to rant about?
+Even if it’s something you want to eat, feel free to tell me~
+Your Auto-Memories Doll is here to serve you wholeheartedly!&lt;/p&gt;</description>
     </item>
     
   </channel>

@@ -2,24 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://vns.saop.cc/en/</loc>
-    <lastmod>2025-05-18T08:00:00+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://vns.saop.cc/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://vns.saop.cc/ja/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://vns.saop.cc/en/"
-                />
-  </url><url>
     <loc>https://vns.saop.cc/en/docs/</loc>
     <lastmod>2025-03-23T18:06:30+08:00</lastmod>
     <xhtml:link
@@ -54,6 +36,24 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://vns.saop.cc/en/docs/test/"
+                />
+  </url><url>
+    <loc>https://vns.saop.cc/en/</loc>
+    <lastmod>2025-03-23T18:06:30+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://vns.saop.cc/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://vns.saop.cc/ja/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://vns.saop.cc/en/"
                 />
   </url><url>
     <loc>https://vns.saop.cc/en/tags/2012/</loc>
@@ -543,7 +543,6 @@
                 />
   </url><url>
     <loc>https://vns.saop.cc/en/about/</loc>
-    <lastmod>2024-01-27T21:53:55+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
@@ -561,7 +560,6 @@
                 />
   </url><url>
     <loc>https://vns.saop.cc/en/archives/</loc>
-    <lastmod>2024-01-27T08:00:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
@@ -576,6 +574,57 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://vns.saop.cc/en/archives/"
+                />
+  </url><url>
+    <loc>https://vns.saop.cc/en/data/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://vns.saop.cc/data/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://vns.saop.cc/ja/data/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://vns.saop.cc/en/data/"
+                />
+  </url><url>
+    <loc>https://vns.saop.cc/en/staff/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://vns.saop.cc/staff/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://vns.saop.cc/ja/staff/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://vns.saop.cc/en/staff/"
+                />
+  </url><url>
+    <loc>https://vns.saop.cc/en/comments/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://vns.saop.cc/comments/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://vns.saop.cc/ja/comments/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://vns.saop.cc/en/comments/"
                 />
   </url>
 </urlset>
