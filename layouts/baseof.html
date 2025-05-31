@@ -11,7 +11,9 @@
   <body>
     <header>{{ partial "header.html" . }}</header>
     <div id="search"></div>
-    <main>{{ block "main" . }}{{ end }}</main>
+    <main class="animate__animated animate__fadeIn">
+      {{ block "main" . }}{{ end }}
+    </main>
     <footer>{{ partial "footer.html" . }}</footer>
     {{ partial "scripts.html" . }}
   </body>
