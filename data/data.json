@@ -1,5 +1,110 @@
 [
   {
+    "title": "月姬",
+    "cover": "https://pic1.imgdb.cn/item/683c6f8958cb8da5c821898f.webp",
+    "company": "TYPE-MOON",
+    "author": "Phoebe",
+    "platforms": [
+      "Windows"
+    ],
+    "downloads": [
+      {
+        "provider": "鲲Galgame",
+        "url": "https://www.kungal.com/zh-cn/galgame/574"
+      },
+      {
+        "provider": "梓澪の妙妙屋",
+        "url": "https://zi0.cc/合集系列/汉化galgame会社合集/汉化会社合集部分 part22/TYPE-MOON/汉化/[001229][TYPE-MOON] 月姬 v1.6.rar"
+      }
+    ]
+  },
+  {
+    "title": "月姬PLUS-DISC",
+    "cover": "https://pic1.imgdb.cn/item/683c703c58cb8da5c82189f0.webp",
+    "company": "TYPE-MOON",
+    "author": "Phoebe",
+    "platforms": [
+      "Windows",
+      "ONS",
+      "NS"
+    ],
+    "downloads": [
+      {
+        "provider": "绮梦ACG",
+        "url": "https://game.acgs.one/game/215.html"
+      },
+      {
+        "provider": "真红小站",
+        "url": "https://download.shinnku.com/file/shinnku/zd/0001-0500/%5B010121%5D%5BTYPE-MOON%5D%20%E6%9C%88%E5%A7%ABPLUS-DISC.rar"
+      },
+      {
+        "provider": "青桔ACG",
+        "url": "https://www.qingju.org/5582.html"
+      }
+    ]
+  },
+  {
+    "title": "歌月十夜",
+    "cover": "https://pic1.imgdb.cn/item/683c708158cb8da5c8218a0a.webp",
+    "company": "TYPE-MOON",
+    "author": "Phoebe",
+    "platforms": [
+      "Windows"
+    ],
+    "downloads": [
+      {
+        "provider": "鲲Galgame",
+        "url": "https://www.kungal.com/zh-cn/galgame/949"
+      },
+      {
+        "provider": "GAL图书馆",
+        "url": "https://gallibrary.pw/game.html?id=583"
+      },
+      {
+        "provider": "梓澪の妙妙屋",
+        "url": "https://zi0.cc/合集系列/汉化galgame会社合集/汉化会社合集部分 part22/TYPE-MOON/汉化/[010908][TYPE-MOON] 月姫 -歌月十夜-.rar"
+      }
+    ]
+  },
+  {
+    "title": "Fate／stay night",
+    "cover": "https://pic1.imgdb.cn/item/683c714558cb8da5c8218a75.webp",
+    "company": "TYPE-MOON",
+    "author": "Phoebe",
+    "platforms": [
+      "Windows"
+    ],
+    "downloads": [
+      {
+        "provider": "量子acg",
+        "url": "https://lzacg.org/4601"
+      },
+      {
+        "provider": "梓澪の妙妙屋",
+        "url": "https://zi0.cc/合集系列/汉化galgame会社合集/汉化会社合集部分 part22/TYPE-MOON/汉化/[040130][TYPE-MOON] Fate／stay night 最终版.rar"
+      }
+    ]
+  },
+  {
+    "title": "Fate／Hollow Ataraxia",
+    "cover": "https://pic1.imgdb.cn/item/683c720b58cb8da5c8218abe.webp",
+    "company": "TYPE-MOON",
+    "author": "Phoebe",
+    "platforms": [
+      "Windows"
+    ],
+    "downloads": [
+      {
+        "provider": "忧郁的loli",
+        "url": "https://www.ttloli.com/fatehollow-ataraxia.html"
+      },
+      {
+        "provider": "梓澪の妙妙屋",
+        "url": "https://zi0.cc/合集系列/汉化galgame会社合集/汉化会社合集部分 part22/TYPE-MOON/汉化/[051229][TYPE-MOON] Fate／Hollow Ataraxia.rar"
+      }
+    ]
+  },
+  {
     "title": "魔法使之夜",
     "cover": "https://static.saop.cc/vns/img/mahoyo.webp",
     "company": "TYPE-MOON",
@@ -16,6 +121,25 @@
       {
         "provider": "TouchGal",
         "url": "https://www.touchgal.io/39c7052e"
+      }
+    ]
+  },
+  {
+    "title": "月姫 -A piece of blue glass moon-",
+    "cover": "https://pic1.imgdb.cn/item/683c733b58cb8da5c8218b0d.webp",
+    "company": "TYPE-MOON",
+    "author": "Phoebe",
+    "platforms": [
+      "Windows"
+    ],
+    "downloads": [
+      {
+        "provider": "青桔ACG",
+        "url": "https://www.qingju.org/5585.html"
+      },
+      {
+        "provider": "绮梦ACG",
+        "url": "https://game.acgs.one/game/215.html"
       }
     ]
   },
