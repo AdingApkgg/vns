@@ -144,6 +144,170 @@
     ]
   },
   {
+    "title": "管乐恋曲！~The bonds of melody~",
+    "cover": "https://pic1.imgdb.cn/item/683dc9fa58cb8da5c825d88b.webp",
+    "company": "YUZUSOFT",
+    "author": "Phoebe",
+    "platforms": [
+      "Windows",
+      "KRKR"
+    ],
+    "downloads": [
+      {
+        "provider": "梓澪の妙妙屋",
+        "url": "https://zi0.cc/合集系列/【PC+KR】YUZUSOFT SOUR 柚子社合集/KRKR/管乐恋曲！~The bonds of melody~.rar"
+      },
+      {
+        "provider": "GAL图书馆",
+        "url": "https://gallibrary.pw/game.html?id=28"
+      },
+      {
+        "provider": "TouchGal",
+        "url": "https://www.touchgal.io/39fa03d4"
+      }
+    ]
+  },
+  {
+    "title": "E×E",
+    "cover": "https://pic1.imgdb.cn/item/683dcaaa58cb8da5c825d8d5.webp",
+    "company": "YUZUSOFT",
+    "author": "Phoebe",
+    "platforms": [
+      "Windows"
+    ],
+    "downloads": [
+      {
+        "provider": "梓澪の妙妙屋",
+        "url": "https://zi0.cc/合集系列/汉化galgame会社合集/汉化会社合集部分 part30/ゆずソフト/汉化版/[070601][ゆずソフト] E×E（エグゼ）.rar"
+      },
+      {
+        "provider": "GAL图书馆",
+        "url": "https://gallibrary.pw/game.html?id=29"
+      },
+      {
+        "provider": "忧郁的loli",
+        "url": "https://www.ttloli.com/xempty-x-embryo.html"
+      }
+    ]
+  },
+  {
+    "title": "夏空彼方",
+    "cover": "https://pic1.imgdb.cn/item/683dcb8458cb8da5c825d935.webp",
+    "company": "YUZUSOFT",
+    "author": "Phoebe",
+    "platforms": [
+      "Windows",
+      "KRKR"
+    ],
+    "downloads": [
+      {
+        "provider": "梓澪の妙妙屋",
+        "url": "https://zi0.cc/合集系列/【PC+KR】YUZUSOFT SOUR 柚子社合集/PC/夏空彼方.rar"
+      },
+      {
+        "provider": "鲲Galgame",
+        "url": "https://www.kungal.com/zh-cn/galgame/203"
+      },
+      {
+        "provider": "TouchGal",
+        "url": "https://www.touchgal.io/d0730253"
+      }
+    ]
+  },
+  {
+    "title": "天神乱漫 -LUCKY or UNLUCKY!?-",
+    "cover": "https://pic1.imgdb.cn/item/683dcbbb58cb8da5c825d944.webp",
+    "company": "YUZUSOFT",
+    "author": "Phoebe",
+    "platforms": [
+      "Windows",
+      "KRKR"
+    ],
+    "downloads": [
+      {
+        "provider": "TouchGal",
+        "url": "https://www.touchgal.io/a27f6438"
+      }
+    ]
+  },
+  {
+    "title": "天神乱漫 Happy Go Lucky！！",
+    "cover": "https://pic1.imgdb.cn/item/683dcc6458cb8da5c825d996.webp",
+    "company": "YUZUSOFT",
+    "author": "Phoebe",
+    "platforms": [
+      "Windows"
+    ],
+    "downloads": [
+      {
+        "provider": "VikaACG",
+        "url": "https://www.vikacg.com/p/295478.html"
+      },
+      {
+        "provider": "TouchGal",
+        "url": "https://www.touchgal.io/6528e025"
+      }
+    ]
+  },
+  {
+    "title": "Noble Works",
+    "cover": "https://pic1.imgdb.cn/item/683dccf458cb8da5c825d9b3.webp",
+    "company": "YUZUSOFT",
+    "author": "Phoebe",
+    "platforms": [
+      "Windows"
+    ],
+    "downloads": [
+      {
+        "provider": "鲲Galgame",
+        "url": "https://www.kungal.com/zh-cn/galgame/117"
+      },
+      {
+        "provider": "TouchGal",
+        "url": "https://www.touchgal.io/u4a1pkbb"
+      }
+    ]
+  },
+  {
+    "title": "DRACU-RIOT!",
+    "cover": "https://pic1.imgdb.cn/item/683dcd5358cb8da5c825d9c1.webp",
+    "company": "YUZUSOFT",
+    "author": "Phoebe",
+    "platforms": [
+      "Windows"
+    ],
+    "downloads": [
+      {
+        "provider": "GAL图书馆",
+        "url": "https://gallibrary.pw/game.html?id=27"
+      },
+      {
+        "provider": "TouchGal",
+        "url": "https://www.touchgal.io/4c4aebf6"
+      }
+    ]
+  },
+  {
+    "title": "天色幻想岛",
+    "cover": "https://pic1.imgdb.cn/item/683dcd9a58cb8da5c825d9d8.webp",
+    "company": "YUZUSOFT",
+    "author": "Phoebe",
+    "platforms": [
+      "Windows",
+      "KRKR"
+    ],
+    "downloads": [
+      {
+        "provider": "GAL图书馆",
+        "url": "https://gallibrary.pw/game.html?id=16"
+      },
+      {
+        "provider": "TouchGal",
+        "url": "https://www.touchgal.io/6fa12b42"
+      }
+    ]
+  },
+  {
     "title": "魔女的夜宴",
     "cover": "https://static.saop.cc/vns/img/sothewitch.webp",
     "company": "YUZUSOFT",
@@ -160,6 +324,105 @@
       {
         "provider": "TouchGal",
         "url": "https://www.touchgal.io/73734ae8"
+      }
+    ]
+  },
+  {
+    "title": "千恋＊万花",
+    "cover": "https://static.saop.cc/vns/img/senren.webp",
+    "company": "YUZUSOFT",
+    "author": "Asuna",
+    "platforms": [
+      "Windows",
+      "KRKR"
+    ],
+    "downloads": [
+      {
+        "provider": "AsunaDrive",
+        "url": "https://drive.saop.cc/VNS/%E5%8D%83%E6%81%8B%E4%B8%87%E8%8A%B1"
+      },
+      {
+        "provider": "TouchGal",
+        "url": "https://www.touchgal.io/a555829b"
+      }
+    ]
+  },
+  {
+    "title": "RIDDLE JOKER",
+    "cover": "https://pic1.imgdb.cn/item/683dce2d58cb8da5c825d9f1.webp",
+    "company": "YUZUSOFT",
+    "author": "Phoebe",
+    "platforms": [
+      "Windows"
+    ],
+    "downloads": [
+      {
+        "provider": "GAL图书馆",
+        "url": "https://gallibrary.pw/game.html?id=25"
+      },
+      {
+        "provider": "TouchGal",
+        "url": "https://www.touchgal.io/39665f84"
+      }
+    ]
+  },
+  {
+    "title": "星光咖啡馆与死神之蝶",
+    "cover": "https://static.saop.cc/vns/img/stella_yuzu-soft.webp",
+    "company": "YUZUSOFT",
+    "author": "Asuna",
+    "platforms": [
+      "Windows",
+      "KRKR"
+    ],
+    "downloads": [
+      {
+        "provider": "AsunaDrive",
+        "url": "https://drive.saop.cc/VNS/%E6%98%9F%E5%85%89%E5%92%96%E5%95%A1%E9%A6%86%E4%B8%8E%E6%AD%BB%E7%A5%9E%E4%B9%8B%E8%9D%B6"
+      },
+      {
+        "provider": "TouchGal",
+        "url": "https://www.touchgal.io/bdac4236"
+      }
+    ]
+  },
+  {
+    "title": "PARQUET",
+    "cover": "https://pic1.imgdb.cn/item/683dce8258cb8da5c825da05.webp",
+    "company": "YUZUSOFT",
+    "author": "Phoebe",
+    "platforms": [
+      "Windows",
+      "KRKR"
+    ],
+    "downloads": [
+      {
+        "provider": "GAL图书馆",
+        "url": "https://gallibrary.pw/game.html?id=685"
+      },
+      {
+        "provider": "TouchGal",
+        "url": "https://www.touchgal.io/9c019e15"
+      }
+    ]
+  },
+  {
+    "title": "天使纷扰",
+    "cover": "https://static.saop.cc/vns/img/ten-sz.webp",
+    "company": "YUZUSOFT",
+    "author": "Asuna",
+    "platforms": [
+      "Windows",
+      "KRKR"
+    ],
+    "downloads": [
+      {
+        "provider": "AsunaDrive",
+        "url": "https://drive.saop.cc/VNS/%E5%A4%A9%E4%BD%BF%E7%BA%B7%E6%89%B0"
+      },
+      {
+        "provider": "TouchGal",
+        "url": "https://www.touchgal.io/e2275eb2"
       }
     ]
   },
@@ -203,66 +466,6 @@
       {
         "provider": "TouchGal",
         "url": "https://www.touchgal.io/d0014015"
-      }
-    ]
-  },
-  {
-    "title": "星光咖啡馆与死神之蝶",
-    "cover": "https://static.saop.cc/vns/img/stella_yuzu-soft.webp",
-    "company": "YUZUSOFT",
-    "author": "Asuna",
-    "platforms": [
-      "Windows",
-      "KRKR"
-    ],
-    "downloads": [
-      {
-        "provider": "AsunaDrive",
-        "url": "https://drive.saop.cc/VNS/%E6%98%9F%E5%85%89%E5%92%96%E5%95%A1%E9%A6%86%E4%B8%8E%E6%AD%BB%E7%A5%9E%E4%B9%8B%E8%9D%B6"
-      },
-      {
-        "provider": "TouchGal",
-        "url": "https://www.touchgal.io/bdac4236"
-      }
-    ]
-  },
-  {
-    "title": "天使纷扰",
-    "cover": "https://static.saop.cc/vns/img/ten-sz.webp",
-    "company": "YUZUSOFT",
-    "author": "Asuna",
-    "platforms": [
-      "Windows",
-      "KRKR"
-    ],
-    "downloads": [
-      {
-        "provider": "AsunaDrive",
-        "url": "https://drive.saop.cc/VNS/%E5%A4%A9%E4%BD%BF%E7%BA%B7%E6%89%B0"
-      },
-      {
-        "provider": "TouchGal",
-        "url": "https://www.touchgal.io/e2275eb2"
-      }
-    ]
-  },
-  {
-    "title": "千恋＊万花",
-    "cover": "https://static.saop.cc/vns/img/senren.webp",
-    "company": "YUZUSOFT",
-    "author": "Asuna",
-    "platforms": [
-      "Windows",
-      "KRKR"
-    ],
-    "downloads": [
-      {
-        "provider": "AsunaDrive",
-        "url": "https://drive.saop.cc/VNS/%E5%8D%83%E6%81%8B%E4%B8%87%E8%8A%B1"
-      },
-      {
-        "provider": "TouchGal",
-        "url": "https://www.touchgal.io/a555829b"
       }
     ]
   },
