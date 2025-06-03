@@ -7,7 +7,7 @@ title = 'VNS'
 [module]
 [module.hugoVersion]
 extended = true
-min = "0.147.6"
+min = "0.147.7"
 
 [languages]
 [languages.zh]
