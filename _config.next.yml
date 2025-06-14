@@ -416,6 +416,8 @@ codeblock:
   fold:
     enable: true
     height: 500
+  # Display language name
+  language: true
 
 back2top:
   enable: true

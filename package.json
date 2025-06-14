@@ -35,7 +35,7 @@
     "hexo-server": "^3.0.0",
     "hexo-submit-urls-to-search-engine": "^2.1.0",
     "hexo-swpp": "^3.3.7",
-    "hexo-theme-next": "^8.23.0",
+    "hexo-theme-next": "^8.23.1",
     "highlight.js": "^11.11.1",
     "markdown-it-named-headings": "^1.1.0",
     "swpp-backends": "^2.3.12"
