@@ -104,7 +104,7 @@ menu:
   #sitemap: /sitemap.xml || fa fa-sitemap
   #commonweal: /404/ || fa fa-heartbeat
   新站: https://vns.saop.cc/ || fas fa-champagne-glasses
-  云游: /cloud/ || fas fa-gamepad
+  云游: /live/ || fas fa-gamepad
   home: / || fa fa-home
   archives: /archives/ || fa fa-archive
   tags: /tags/ || fa fa-tags
