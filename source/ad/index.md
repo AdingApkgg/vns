@@ -8,7 +8,7 @@ comments: false
 使用以下广告服务出现任何问题皆与站长责任无关；站长只是赚点佣金用于魔法补魔开销，请经过慎重考虑后再使用！如出现问题请找对应广告服务商的客服支持询问..
 
 {% lg /images/logo.svg %}
-ZMoe Air | https://air.zmoe.org/#/register?code=BcPwACww | 大陆首选 亚洲区最佳 VPN | https://air.zmoe.org/favicon.svg
+青云梯 | https://ivt01.qytaff.cc/register?aff=aa4XN9iD | 五年专线，百节点全球，每月仅 8 元，4K 流媒体极速秒开 | https://i.postimg.cc/bJTvL7t3/qyt.png
 一元机场 | https://xn--4gq62f52gdss.ink/#/register?code=WO0mrSfp | ...
 NTHU | https://www.nthu.cc/#/register?code=aNmoRTlr | NTHU.CC
 MESL | https://in.mesl.cloud/#/register?code=ShZZijKA | ... | https://in.mesl.cloud/theme/aurora-mesl/favicon.svg
