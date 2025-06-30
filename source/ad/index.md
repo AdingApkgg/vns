@@ -1,14 +1,14 @@
 ---
 title: 补魔广告
 date: 2024-09-28 12:36:27
-updated: 2025-06-30 02:21:50
+updated: 2025-06-30 08:00:00
 comments: false
 ---
 
 使用以下广告服务出现任何问题皆与站长责任无关；站长只是赚点佣金用于魔法补魔开销，请经过慎重考虑后再使用！如出现问题请找对应广告服务商的客服支持询问..
 
 {% lg /images/logo.svg %}
-青云梯 | https://ivt01.qytaff.cc/register?aff=aa4XN9iD | 五年专线，百节点全球，每月仅 8 元，4K 流媒体极速秒开 | https://i.postimg.cc/bJTvL7t3/qyt.png
+青云梯 | https://adingapkgg.qytvipaff.cc/register?aff=aa4XN9iD | 五年专线，百节点全球，每月仅 8 元，4K 流媒体极速秒开 | https://i.postimg.cc/rFFNMcyC/qyt.jpg
 一元机场 | https://xn--4gq62f52gdss.ink/#/register?code=WO0mrSfp | ...
 NTHU | https://www.nthu.cc/#/register?code=aNmoRTlr | NTHU.CC
 MESL | https://in.mesl.cloud/#/register?code=ShZZijKA | ... | https://in.mesl.cloud/theme/aurora-mesl/favicon.svg
