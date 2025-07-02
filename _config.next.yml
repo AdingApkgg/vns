@@ -105,6 +105,7 @@ menu:
   #commonweal: /404/ || fa fa-heartbeat
   新站: https://vns.saop.cc/ || fas fa-champagne-glasses
   云游: /live/ || fas fa-gamepad
+  聚搜: https://searchgal.homes/ || fas fa-hexagon-nodes
   home: / || fa fa-home
   archives: /archives/ || fa fa-archive
   tags: /tags/ || fa fa-tags

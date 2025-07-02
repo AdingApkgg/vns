@@ -1,7 +1,7 @@
 ---
 title: 友情链接
 date: 2024-08-25 09:25:12
-updated: 2025-03-21 00:00:00
+updated: 2025-07-02 08:00:00
 comments: false
 ---
 
@@ -12,11 +12,8 @@ TouchGAL | https://www.touchgal.io/ | 一站式Galgame文化社区！ | https://
 NekoGAL | https://www.nekogal.com/ | Galgame传递者 | https://www.nekogal.com/wp-content/uploads/2023/11/favneko.png
 Hikarinagi | https://www.hikarinagi.com/ | 一个ACGN文化社区，免费获取Galgame等资源，无限制地交流和分享
 梓澪 | https://zi0.cc/ | 梓澪の妙妙屋 | https://img.mjj.today/2023/01/23/2b6331a29bf32d2af96a2537e10a5ee8.webp
-稻荷ACG | https://amoebi.com/ | 稻荷ACG，除了有GalGame也没别的了，全部免费，GAL作品几乎都能找到 | https://amoebi.com/favicon.ico
-晴空咖啡馆 | https://aozoracafe.com/ | Galgame资源和补丁站 | https://aozoracafe.com/favicon.ico
-失落小站 | https://www.shinnku.com/ | galgame资源站
-姬路白雪 | https://pan.jlbx.xyz/ | 姬路白雪の资源小站
-烟郁Galgame | https://yanyugal.top/ | 烟郁Galgame频道
+晴空咖啡馆 | https://aosoracafe.com/ | Galgame资源分享和下载网站 | https://aosoracafe.com/favicon.ico
+真红小站 | https://www.shinnku.com/ | 收录了大部分的熟肉生肉 galgame 资源、krkr 资源、visual novel、等。
 小鳥遊暁の会员制餐厅 | https://t-satoru.top/ | 专注音质的安卓平台Galgame移植者 | https://pbs.twimg.com/profile_images/1725764290152693760/ZQg06nEI_400x400.jpg
 绮梦 | https://acgs.one/ | 专注分享次元世界 | https://acgs.one/favicon.ico
 量子ACG | https://lzacg.org/ | 以游戏为主，进而推动日语学习的网站
