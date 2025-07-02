@@ -8,7 +8,7 @@ comments: false
 由这些站点为本站的索引赋能~
 
 {% lg /images/logo.svg %}
-TouchGAL | https://www.touchgal.io/ | 一站式Galgame文化社区！ | https://unpkg.com/touchgalstatic1/img/CnLIp.png
+TouchGAL | https://www.touchgal.us/ | 一站式Galgame文化社区！ | https://unpkg.com/touchgalstatic1/img/CnLIp.png
 NekoGAL | https://www.nekogal.com/ | Galgame传递者 | https://www.nekogal.com/wp-content/uploads/2023/11/favneko.png
 Hikarinagi | https://www.hikarinagi.com/ | 一个ACGN文化社区，免费获取Galgame等资源，无限制地交流和分享
 梓澪 | https://zi0.cc/ | 梓澪の妙妙屋 | https://img.mjj.today/2023/01/23/2b6331a29bf32d2af96a2537e10a5ee8.webp
