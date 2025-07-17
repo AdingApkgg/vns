@@ -43,7 +43,7 @@ updated: 2024-10-29 05:04:00
 
 2018年2月14日，Leaf发售《白色相簿2 扩展版》（WHITE ALBUM2 EXTENDED EDITION）。除序章与终章外，扩展版还包括《不共戴天的你》与《Mini After Story》，以及广播剧、小说等内容。
 
-<!-- more -->
+<!--more-->
 
 ![wa_p1](https://static.saop.cc/vns/img/wa_p1.webp)
 

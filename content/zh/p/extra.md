@@ -29,7 +29,7 @@ updated: 2024-05-25 01:50:00
 
 《**EXTRAVAGANZA 爱虫的少女**》（日语：EXTRAVAGANZA ～蟲愛でる少女～；英语：mushiai）是由[Black Cyc](https://zh.moegirl.org.cn/index.php?title=Black_Cyc&action=edit&redlink=1)制作的galgame游戏，并有虫使，EXTRAVAGANZA 虫狂篇等衍生作品。通称**虫爱少女**，是“[十二魔器](https://zh.moegirl.org.cn/十二魔器)”之一，其魔性甚于[十二神器](https://zh.moegirl.org.cn/Galgame吧十二神器)。
 
-<!-- more -->
+<!--more-->
 
 ## 简介
 

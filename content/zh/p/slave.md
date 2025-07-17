@@ -36,7 +36,7 @@ O島…從沖繩的水座島只要開快艇30分鐘就能到達的小小離島�
 
 染上了ＸＸ的白色與絕望的藍色的、肉慾的度假勝地…
 
-<!-- more -->
+<!--more-->
 
 ![slave_p1](https://static.saop.cc/vns/img/slave_p1.webp)
 

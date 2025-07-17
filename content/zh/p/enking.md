@@ -55,7 +55,7 @@ updated: 2024-11-18 20:51:40
 喜欢Hgame的话，
 绝对不能进入游戏公司！
 
-<!-- more -->
+<!--more-->
 
 ![enking_p1](https://static.saop.cc/vns/img/enking_p1.webp)
 

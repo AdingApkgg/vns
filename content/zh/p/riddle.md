@@ -20,7 +20,7 @@ updated: 2024-07-22 02:05:00
 
 《**RIDDLE JOKER**》是由[柚子社](https://zh.moegirl.org.cn/柚子社)制作的第十部[Galgame](https://zh.moegirl.org.cn/Galgame)，于2018年3月30日发售，Steam版于2020年12月18日发售。
 
-<!-- more -->
+<!--more-->
 
 ## 剧情简介
 

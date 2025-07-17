@@ -44,7 +44,7 @@ updated: 2024-10-25 03:55:00
 
 但是也有想被捉弄的感觉。你不会输吧？
 
-<!-- more -->
+<!--more-->
 
 ![lol6_p1](https://static.saop.cc/vns/img/lol6_p1.webp)
 

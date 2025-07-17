@@ -26,7 +26,7 @@ updated: 2024-09-15 02:25:00
 
 **《是谁杀死了知更鸟》**（日语：**誰が殺したコマドリを**）是スマイル戦機于2011年8月13日发行的一款[治愈系](https://zh.moegirl.org.cn/治愈系)（[致郁系](https://zh.moegirl.org.cn/致郁系)）[百合向](https://zh.moegirl.org.cn/百合向)游戏。
 
-<!-- more -->
+<!--more-->
 
 ## 故事
 

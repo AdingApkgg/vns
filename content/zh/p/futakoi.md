@@ -31,7 +31,7 @@ updated: 2025-03-22 01:08:30
 
 《**恋爱成双**》（日语：フタマタ恋愛）是[ASaProject](https://zh.wikipedia.org/wiki/HOOKSOFT)在2022年4月28日发售的[恋爱冒险](https://zh.wikipedia.org/wiki/戀愛冒險)类型[成人游戏](https://zh.wikipedia.org/wiki/日本成人遊戲)，同年发售[Fan disc](https://zh.wikipedia.org/wiki/Fan_disc)《恋爱成双 MiniAfterStory》（フタマタ恋愛 ミニアフターストーリー）共两集。未来预定由Kagura Games、NekoNyan发售简体中文版。
 
-<!-- more -->
+<!--more-->
 
 ![futakoi_p1](https://static.saop.cc/vns/img/futakoi_p1.webp)
 

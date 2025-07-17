@@ -27,7 +27,7 @@ updated: 2024-10-25 03:38:40
 就让她接受你的所有，你的孤独寂寞，还有……
 就在溺爱中成为没有用的大人吧。
 
-<!-- more -->
+<!--more-->
 
 ![lol_p1](https://static.saop.cc/vns/img/lol_p1.webp)
 

@@ -18,7 +18,7 @@ updated: 2024-08-17 01:34:40
 
 《**樱之刻 －在樱花之森下漫步-**》（日语：サクラノ刻 -櫻の森の下を歩む-）是日本游戏品牌[枕](https://zh.wikipedia.org/wiki/枕_(遊戲品牌))开发并于2023年2月24日所推出的[Windows](https://zh.wikipedia.org/wiki/Windows)平台[十八禁](https://zh.wikipedia.org/wiki/日本成人遊戲)[视觉小说](https://zh.wikipedia.org/wiki/视觉小说)游戏，[樱之诗](https://zh.wikipedia.org/wiki/櫻之詩)的续作。
 
-<!-- more -->
+<!--more-->
 
 ## 图片
 

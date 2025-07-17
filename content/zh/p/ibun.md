@@ -23,7 +23,7 @@ updated: 2024-09-20 11:03:30
 
 《**美少女万华镜异闻 雪女**》（日语：美少女万華鏡異聞 雪おんな）是[ωstar](https://zh.wikipedia.org/wiki/Ωstar)在2024年4月26日发售的[恋爱冒险](https://zh.wikipedia.org/wiki/戀愛冒險)类型[日本成人游戏](https://zh.wikipedia.org/wiki/日本成人遊戲)，当中由[八宝备仁](https://zh.wikipedia.org/wiki/八宝备仁)担当原画，吉祥寺ドロレス撰写剧本。
 
-<!-- more -->
+<!--more-->
 
 《美少女万华镜异闻 雪女》拥有多条剧情路线，当中拥有一系列预先设定的场景和人物互动。其主要聚焦于女主角白雪姬跟[玩家角色](https://zh.wikipedia.org/wiki/玩家角色)的互动，并重点刻画了角色之间的性行为。整个故事以主角莲佛雪之进的视角作切入点。他是个[武道家](https://zh.wikipedia.org/wiki/武道)，在山上修行期间与[雪女](https://zh.wikipedia.org/wiki/雪女)白雪姬相遇。
 

@@ -21,7 +21,7 @@ updated: 2024-03-30 02:52:00
 
 **《公主恋人》**（日语：**プリンセスラバー!**；英语：***Princess Lover!***）是由[Ricotta](https://zh.moegirl.org.cn/Ricotta)制作的R-18游戏，并有动画、漫画，小说等衍生作品。
 
-<!-- more -->
+<!--more-->
 
 ## 原作介绍
 

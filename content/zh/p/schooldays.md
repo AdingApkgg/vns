@@ -27,7 +27,7 @@ updated: 2024-08-12 19:20:00
 
 《**School Days**》（スクールデイズ）是2005年4月28日由[0verflow](https://zh.wikipedia.org/wiki/0verflow)发售的[十八禁游戏](https://zh.wikipedia.org/wiki/十八禁遊戲)。2010年10月8日发售重制版《**School Days HQ**》，新增加剧本、分辨率和背景改为3D呈现。后来的发售《[Summer Days](https://zh.wikipedia.org/wiki/Summer_Days)》、《[Cross Days](https://zh.wikipedia.org/wiki/Cross_Days)》、《[Island Days](https://zh.wikipedia.org/wiki/Island_Days)》为外传性质故事。电视动画版在日本于2007年7月3日开始放映。2008年1月17日由GungHo Works代理发售[PlayStation 2](https://zh.wikipedia.org/wiki/PlayStation_2)版《**School Days L×H**》（Love and Hate），初回限定版同捆OVA和RADIO出张版CD。2007年8月29日，桂言叶作为代表性人物，被收录于出版的《黑化角色大全》中。
 
-<!-- more -->
+<!--more-->
 
 ## 故事
 

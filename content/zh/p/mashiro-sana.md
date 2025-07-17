@@ -28,7 +28,7 @@ updated: 2024-05-11 02:31:30
 
 在2019年宣布制作《纯白交响曲 SANA EDITION》（日语：**ましろ色シンフォニー SANA EDITION**）后，于2023年6月23日同时发售Remake for FHD版和SANA EDITION。官方中文由[白舟](https://zh.moegirl.org.cn/Shiravune)代理，于2024年5月2日同时发布重置版和SANA EDITION。
 
-<!-- more -->
+<!--more-->
 
 ## 简介
 

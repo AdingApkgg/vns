@@ -26,7 +26,7 @@ updated: 2024-10-22 00:47:10
 
 《**夏娃年代记**》（日语：**イブニクル**）是[AliceSoft](https://zh.moegirl.org.cn/AliceSoft)在2015年4月24日所发售的恋爱冒险[RPG](https://zh.moegirl.org.cn/角色扮演类游戏)类型18禁游戏，获得2015年[萌系游戏大赏](https://zh.moegirl.org.cn/萌系游戏大赏)金赏。
 
-<!-- more -->
+<!--more-->
 
 讲述以大陆事记《夏娃年代记》为主轴，记载的圣母「夏娃」所创造的世界里，一位名为「[阿斯塔利斯克](https://zh.moegirl.org.cn/阿斯塔利斯克)」的少年成为骑士的冒险故事。
 

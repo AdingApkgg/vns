@@ -26,7 +26,7 @@ updated: 2024-04-13 22:40:00
 
 《**常轨脱离Creative**》（日语：**ハミダシクリエイティブ**），民间汉化译作灵感满溢的甜蜜创想，是由[Madosoft](https://mzh.moegirl.org.cn/Madosoft)制作的一款[Galgame](https://mzh.moegirl.org.cn/Galgame)。
 
-<!-- more -->
+<!--more-->
 
 ## 游戏介绍
 

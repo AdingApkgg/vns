@@ -31,7 +31,7 @@ updated: 2024-09-24 00:26:30
 
 《**我的青春恋爱物语果然有问题。**》（日语：**やはり俺の青春ラブコメはまちがっている。**；英文：***My Youth Romantic Comedy Is Wrong, As I Expected*** 或 ***My Teen Romantic Comedy SNAFU***）~~，又称[我的股市风云果然有问题](https://zh.moegirl.org.cn/Oo股)、[白色相簿4](https://zh.moegirl.org.cn/白色相簿2)、我的白色相簿续作果然有问题~~，简称春物/果青（日语：俺ガイル），是由[渡航](https://zh.moegirl.org.cn/渡航)创作的一部轻小说，并有动画、漫画、游戏等衍生作品。
 
-<!-- more -->
+<!--more-->
 
 ## 剧情
 

@@ -22,7 +22,7 @@ updated: 2024-11-27 02:45:15
 
 2016年8月发表制作[电视动画](https://zh.wikipedia.org/wiki/日本電視動畫)《CHAOS;CHILD 混沌之子》，2017年1月开始播放。
 
-<!-- more -->
+<!--more-->
 
 ![chaoschild_p1](https://static.saop.cc/vns/img/chaoschild_p1.webp)
 

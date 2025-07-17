@@ -25,7 +25,7 @@ updated: 2024-11-17 07:18:40
 
 《**千恋＊万花**》（日语：**千恋＊万花**）是由[YUZU SOFT](https://mzh.moegirl.org.cn/YUZU_SOFT)制作的一部[美少女游戏](https://mzh.moegirl.org.cn/美少女游戏)，并有[漫画](https://mzh.moegirl.org.cn/漫画)等衍生作品。本作曾获得2016年[美少女游戏大赏](https://mzh.moegirl.org.cn/美少女游戏大赏)综合部门第一名，2016年[萌系游戏大赏](https://mzh.moegirl.org.cn/萌系游戏大赏)准大赏。
 
-<!-- more -->
+<!--more-->
 
 春假时被母亲拜托到外公于温泉街“穗织”开的[旅馆](https://mzh.moegirl.org.cn/旅馆)帮忙的男主角有地将臣，在参加建实神社举办的拔出神刀“丛雨丸”的活动时无意中折断了刀，并被建实神社的神主朝武安晴要求和女儿[朝武芳乃](https://mzh.moegirl.org.cn/朝武芳乃)结婚。因为这场意外而就此于穗织居住的将臣，逐渐发现了穗织[诅咒](https://mzh.moegirl.org.cn/诅咒)的秘密。
 

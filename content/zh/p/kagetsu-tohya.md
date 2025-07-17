@@ -17,7 +17,7 @@ updated: 2024-07-31 01:19:20
 
 《**歌月十夜**》是[TYPE-MOON](https://ja.wikipedia.org/wiki/TYPE-MOON)发行的[同人游戏](https://ja.wikipedia.org/wiki/同人ゲーム)《[月姬](https://ja.wikipedia.org/wiki/月姫_(ゲーム))》的[同人光盘](https://ja.wikipedia.org/wiki/ファンディスク)。它于[2001 年](https://ja.wikipedia.org/wiki/2001年)[8 月 10 日](https://ja.wikipedia.org/wiki/8月10日)在[Comic Market](https://ja.wikipedia.org/wiki/コミックマーケット) 60 上发布。
 
-<!-- more -->
+<!--more-->
 
 ## 简介
 

@@ -32,7 +32,7 @@ updated: 2025-03-22 23:00:00
 
 2021年7月21日由Entergram代理发行PS4和NS的移植版本。
 
-<!-- more -->
+<!--more-->
 
 ![koikari_p1](https://static.saop.cc/vns/img/koikari_p1.webp)
 

@@ -21,7 +21,7 @@ updated: 2024-11-03 00:40:30
 前篇《**LOST:SMILE memories**》（**ロストスマイル　メモリーズ**）于2019年08月08日发售，讲述的是东云美铃、与那岭纯和一条巡的故事。
 后篇《**LOST:SMILE promises**》（**ロストスマイル　プロミセス**）于2020年03月27日发售，讲述的是真咲凑、美优以及结李的故事。
 
-<!-- more -->
+<!--more-->
 
 ![lostsmile_p1](https://static.saop.cc/vns/img/lostsmile_p1.webp)
 

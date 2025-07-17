@@ -24,7 +24,7 @@ updated: 2024-11-17 07:21:10
 
 《**魔女的夜宴**》（日语：**サノバウィッチ**）是由[柚子社](https://zh.moegirl.org.cn/YUZU_SOFT)制作发行的恋爱文字冒险游戏，于2015年2月27日面向Windows PC平台发售。英文版由NekoNyan代理，于2018年10月27日在Steam、NekoNyan的网上商城还有其他平台发售，并发行实体版。中文版由HIKARI FIELD代理，于2023年7月21日~~柚子厨特有的[0721](https://zh.moegirl.org.cn/0721)~~在Steam发售。
 
-<!-- more -->
+<!--more-->
 
 ## 剧情简介
 

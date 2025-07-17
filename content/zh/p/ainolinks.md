@@ -30,7 +30,7 @@ updated: 2025-03-22 03:08:45
 
 本作质量还是不错的，翻了 [Anio+Links](http://ainolinks.com/) 官网，22年末发了休业通知，可惜没有后续了，~~作品只有这一个~~。
 
-<!-- more -->
+<!--more-->
 
 ![ainolinks_p1](https://static.saop.cc/vns/img/ainolinks_p1.webp)
 

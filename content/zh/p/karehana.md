@@ -26,7 +26,7 @@ updated: 2025-03-22 02:00:00
 
 **《永不枯萎的世界与终结之花》**（日语：**枯れない世界と終わる花**；罗马字：*Karenai Sekai to Owaru Hana*）是日本游戏品牌[SWEET&TEA](https://zh.moegirl.org.cn/SWEET%26TEA)的[处女作](https://zh.moegirl.org.cn/处女作)。官网于7月25日上线，本体于2016年11月25日正式发售。
 
-<!-- more -->
+<!--more-->
 
 ![karehana_p1](https://static.saop.cc/vns/img/karehana_p1.webp)
 

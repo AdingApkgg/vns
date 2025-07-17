@@ -28,7 +28,7 @@ updated: 2025-04-01 05:00:00
 
 2012年至2013年陆续发行改编[漫画](https://zh.wikipedia.org/wiki/日本漫畫)、[小说](https://zh.wikipedia.org/wiki/小說)。
 
-<!-- more -->
+<!--more-->
 
 ![hatuyuki_p1](https://static.saop.cc/vns/img/hatuyuki_p1.webp)
 

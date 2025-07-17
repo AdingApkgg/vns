@@ -23,7 +23,7 @@ updated: 2024-11-17 07:20:20
 
 **星光咖啡馆与死神之蝶**（日语：**喫茶（カフェ）ステラと死神の蝶**、英语：***Café Stella and the Reapers' Butterflies***）是由[柚子社](https://zh.moegirl.org.cn/柚子社)制作的[Galgame](https://zh.moegirl.org.cn/Galgame)。
 
-<!-- more -->
+<!--more-->
 
 ## 原作介绍
 

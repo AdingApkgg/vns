@@ -27,7 +27,7 @@ updated: 2024-04-26 23:33:00
 
 《**女装山脉**》（日语：女装山脈）为[脑内彼女](https://zh.wikipedia.org/w/index.php?title=腦内彼女&action=edit&redlink=1)于2011年6月17日发售的[恋爱冒险](https://zh.wikipedia.org/wiki/戀愛冒險)类型[成人游戏](https://zh.wikipedia.org/wiki/日本成人遊戲)，2021年4月9由JAST USA发售英文版，并计划于同年11月11日发售简繁体中文版。
 
-<!-- more -->
+<!--more-->
 
 作品以[伪娘](https://zh.wikipedia.org/wiki/伪娘)为主题，其特征是作品中没有真正的女性登场。
 

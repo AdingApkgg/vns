@@ -24,7 +24,7 @@ author: searvee
 
 《**魔法使之夜**》（日语：魔法使いの夜／まほうつかいのよる *Mahōtsukai no Yoru*），是日本[TYPE-MOON](https://zh.wikipedia.org/wiki/TYPE-MOON)公司制作并发售的[视觉小说](https://zh.wikipedia.org/wiki/视觉小说)类型游戏。简称为“魔夜”（「まほよ」）。
 
-<!-- more -->
+<!--more-->
 
 ## 简介
 

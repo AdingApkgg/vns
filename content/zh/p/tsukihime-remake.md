@@ -18,7 +18,7 @@ updated: 2024-07-31 01:45:00
 
 《**月姬 -A piece of blue glass moon-**》是[TYPE-MOON](https://zh.moegirl.org.cn/TYPE-MOON)开发的一款视觉小说游戏。
 
-<!-- more -->
+<!--more-->
 
 ## 简介
 

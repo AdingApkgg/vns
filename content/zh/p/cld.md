@@ -28,7 +28,7 @@ updated: 2024-09-04 11:38:00
 
 《**Clover Day's**》是[ALcot](https://zh.wikipedia.org/wiki/ALcot)在2014年3月28日发售的[恋爱冒险](https://zh.wikipedia.org/wiki/戀愛冒險)类型[成人游戏](https://zh.wikipedia.org/wiki/日本成人遊戲)，2016年6月24日发售新增[E-mote](https://zh.wikipedia.org/wiki/E-mote)的加强版《Clover Day’s Plus》，2017年9月28日发售[PlayStation Vita](https://zh.wikipedia.org/wiki/PlayStation_Vita)版，2023年8月18日发售中英文[FHD](https://zh.wikipedia.org/wiki/FHD)版。
 
-<!-- more -->
+<!--more-->
 
 Clover Day's是ALcot公司的第14部作品，不仅是做为该公司于PC平台上的10周年纪念作，也是全新的原创作品。网路上亦有官方释出的本作各女性角色介绍影片，可见其对本作的重视。本作场景与世界观和《[Clover Heart's](https://zh.wikipedia.org/w/index.php?title=Clover_Heart's&action=edit&redlink=1)》相同，也同样是以“双子×双子×双子”为主题，还以《Clover Heart's》十年后的世界做为舞台。其全新重制的背景，也能明显的感受出为《Clover Heart's》之后的时间，不过《Clover Heart's》里面的人物仅飞鸟凛登场。
 

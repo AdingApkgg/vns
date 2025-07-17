@@ -26,7 +26,7 @@ updated: 2025-03-22 23:59:50
 
 《**为主人献上圣罗的甜蜜侍奉**》（日语：**ご主人様、セイラに夢みたいないちゃラブご奉仕させていただけますか**）是由[るび様崇める会](https://zh.moegirl.org.cn/index.php?title=るび様崇める会&action=edit&redlink=1)制作发行的一款[视觉小说](https://zh.moegirl.org.cn/视觉小说)，于2022年7月15日发售。2024年8月23日简体中文、繁体中文、英文版上架Steam。
 
-<!-- more -->
+<!--more-->
 
 ![seira_p1](https://static.saop.cc/vns/img/seira_p1.webp)
 

@@ -30,7 +30,7 @@ updated: 2024-10-25 03:44:30
 「真是没办法～」
 我离不开有她的生活，又深陷其中而不自知。
 
-<!-- more -->
+<!--more-->
 
 ![lol2_p1](https://static.saop.cc/vns/img/lol2_p1.webp)
 

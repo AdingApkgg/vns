@@ -36,7 +36,7 @@ updated: 2024-11-01 22:15:00
 
 《**Summer Pocket**》有两个版本，一个是《**Summer Pocket**》，一个是《**Summer Pocket：Reflection Blue**》，两个版本的区别在于《**Summer Pocket：Reflection Blue**》增加了三个可攻略角色，可以把《**Summer Pocket：Reflection Blue**》看做是《**Summer Pocket**》的扩充版增强版包含原版所有内容，所以还不如直接玩sprb（滑稽，**本篇文章以《Summer Pocket：Reflection Blue》为基准。**
 
-<!-- more -->
+<!--more-->
 
 ## 简介
 

@@ -25,7 +25,7 @@ updated: 2024-08-12 18:45:00
 
 《**Fate/stay night**》（日语：フェイト/ステイナイト，中文：命运／停驻之夜、命运守护夜、命运之夜）是由[TYPE-MOON](https://zh.wikipedia.org/wiki/TYPE-MOON)于2004年1月30日发售的[PC](https://zh.wikipedia.org/wiki/个人电脑)平台[十八禁](https://zh.wikipedia.org/wiki/十八禁遊戲)[文字冒险游戏](https://zh.wikipedia.org/wiki/文字冒險遊戲)，也是TYPE-MOON商业化后初次亮相的作品。
 
-<!-- more -->
+<!--more-->
 
 ## 序章
 

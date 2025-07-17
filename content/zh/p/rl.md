@@ -20,7 +20,7 @@ updated: 2024-11-27 01:56:42
 
 《**人狼村之谜**》（日语：レイジングループ，英语：*Raging Loop*）是[KEMCO](https://zh.wikipedia.org/w/index.php?title=KEMCO&action=edit&redlink=1)开发的一款悬疑解谜题材[冒险游戏](https://zh.wikipedia.org/wiki/冒險遊戲)。2015年12月3日于日本地区的[Android](https://zh.wikipedia.org/wiki/Android)和[iOS](https://zh.wikipedia.org/wiki/IOS)平台推出，之后陆续移植到[PlayStation Vita](https://zh.wikipedia.org/wiki/PlayStation_Vita)、[PlayStation 4](https://zh.wikipedia.org/wiki/PlayStation_4)、[任天堂Switch](https://zh.wikipedia.org/wiki/任天堂Switch)、[Windows](https://zh.wikipedia.org/wiki/Windows)等平台。
 
-<!-- more -->
+<!--more-->
 
 ![rl_p1](https://static.saop.cc/vns/img/rl_p1.webp)
 

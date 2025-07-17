@@ -22,7 +22,7 @@ updated: 2024-03-02 01:36:00
 
 《**生命的备件**》（日语：**生命のスペア**），另译**生命的备份**，是由[AKABEiSOFT3](https://zh.moegirl.org.cn/index.php?title=AKABEiSOFT3&action=edit&redlink=1)制作的一部[Galgame](https://zh.moegirl.org.cn/Galgame)。
 
-<!-- more -->
+<!--more-->
 
 ## 剧情简介
 

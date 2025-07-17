@@ -29,7 +29,7 @@ updated: 2024-06-08 03:32:00
 
 《**美少女万华镜 -被诅咒的传说少女-**》（日语：美少女万華鏡 -呪われし伝説の少女-），下称《**被诅咒的传说少女**》，是[ωstar](https://zh.wikipedia.org/wiki/Ωstar)在2011年12月29日发售的[恋爱冒险](https://zh.wikipedia.org/wiki/戀愛冒險)类型[日本成人游戏](https://zh.wikipedia.org/wiki/日本成人遊戲)，亦是《[美少女万华镜](https://zh.wikipedia.org/wiki/美少女万华镜)》系列的首部作品。Android版于2016年9月1日公开。
 
-<!-- more -->
+<!--more-->
 
 《被诅咒的传说少女》只有一条剧情路线，当中拥有一系列预先设定的场景和人物互动。其主要聚焦于女主角篝之雾枝跟[玩家角色](https://zh.wikipedia.org/wiki/玩家角色)的互动，并重点刻画了角色之间的性行为。整个故事以主角斧神滋比古的视角作切入点。他是个音乐老师，在校园里爱上了自己的学生兼[吸血鬼](https://zh.wikipedia.org/wiki/吸血鬼)篝之雾枝。
 

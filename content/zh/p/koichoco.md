@@ -33,7 +33,7 @@ updated: 2024-11-20 02:47:40
 
 《恋爱与选举与巧克力》的[原作故事](https://zh.wikipedia.org/wiki/原著)改编并发布于[其他媒体](https://zh.wikipedia.org/wiki/跨媒體製作)上。 本作改编的2部[漫画](https://zh.wikipedia.org/wiki/日本漫畫)各连载于《[电击G's magazine](https://zh.wikipedia.org/wiki/電擊G's_magazine)》和《[月刊Comic电击大王](https://zh.wikipedia.org/wiki/月刊Comic電擊大王)》上。最新一期的《电击G's magazine》上公布动画化，并于2012年7月至9月放送由[AIC Build](https://zh.wikipedia.org/wiki/動畫國際公司)制作和喜多幡彻担任导演的12集[电视动画](https://zh.wikipedia.org/wiki/日本電視動畫)。
 
-<!-- more -->
+<!--more-->
 
 ![koichoco_p1](https://static.saop.cc/vns/img/koichoco_p1.webp)
 

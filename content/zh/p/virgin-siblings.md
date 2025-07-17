@@ -30,7 +30,7 @@ updated: 2024-07-16 17:38:00
 
 《**无法忍耐的处男哥哥和不直率的叛逆妹妹**》（ガマンができない童貞兄キと、スナオになれない反抗妹，简称：童貞兄妹）是由[Sister Position](https://zh.moegirl.org.cn/index.php?title=Sister_Position&action=edit&redlink=1)制作的一部[Galgame](https://zh.moegirl.org.cn/Galgame)。游戏于2022年6月16日放出体验版（同时发售三部妹妹的ASMR），于2022年7月24日在DLsite发售。发行游戏的Whisp是Lose的子品牌。
 
-<!-- more -->
+<!--more-->
 
 ## 剧情简介
 
