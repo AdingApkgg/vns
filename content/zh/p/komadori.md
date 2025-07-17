@@ -59,16 +59,16 @@ updated: 2024-09-15 02:25:00
 
 ## 分流
 
-1. [TouchGAL](https://www.touchgal.io/) & `Windows`：[点击下载](https://pan.touchgal.net/s/8AXfg)，密码：`touchgal`
-2. [TouchGAL](https://www.touchgal.io/) & `ONS`：[点击下载](https://pan.touchgal.net/s/VnGUd)，密码：`touchgal`
+1. [TouchGAL](https://www.touchgal.us/) & `Windows`：[点击下载](https://pan.touchgal.net/s/8AXfg)，密码：`touchgal`
+2. [TouchGAL](https://www.touchgal.us/) & `ONS`：[点击下载](https://pan.touchgal.net/s/VnGUd)，密码：`touchgal`
 3. [NekoGAL](https://www.shinnku.com/) & `Windows`：[点击下载](https://pan.nekogal.top/s/rDgH0)
 4. [NekoGAL](https://www.shinnku.com/) & `ONS`：[点击下载](https://pan.nekogal.top/s/KmKHL)
-5. [Hikarinagi](https://www.hikarinagi.com/) & `Windows` + `ONS`：[点击下载](https://pan.himoe.uk/s/X88Cy)，密码：`hikarinagi.com`
-6. [Hikarinagi](https://www.hikarinagi.com/) & `Windows` + `ONS`：[点击下载](https://pan.himoe.uk/s/W9vug)，密码：`hikarinagi.com`
+5. [Hikarinagi](https://www.hikarinagi.net/) & `Windows` + `ONS`：[点击下载](https://pan.yurari.moe/s/X88Cy)，密码：`hikarinagi.com`
+6. [Hikarinagi](https://www.hikarinagi.net/) & `Windows` + `ONS`：[点击下载](https://pan.yurari.moe/s/W9vug)，密码：`hikarinagi.com`
 7. [鲲 Galgame 论坛](https://kungal.com/) & `Windows` + `ONS`：[点击下载](https://www.kungal.com/galgame/109)
 8. [绮梦](https://acgs.one/) & `Windows` + `KRKR` + `ONS` + `Android`：[点击下载](https://game.acgs.one/game/21.html)，密码：`绮梦`
-9. [失落小站](https://www.shinnku.com/) & `Windows`：[点击下载](https://www.shinnku.com/api/download/0/win/%E6%98%AF%E8%B0%81%E6%9D%80%E6%AD%BB%E4%BA%86%E7%9F%A5%E6%9B%B4%E9%B8%9F.7z)
-10. [失落小站](https://www.shinnku.com/) & `KRKR`：[点击下载](https://www.shinnku.com/api/download/0/krkr/%E6%98%AF%E8%B0%81%E6%9D%80%E4%BA%86%E7%9F%A5%E6%9B%B4%E9%B8%9F.7z)
+9. [真红小站](https://www.shinnku.com/) & `Windows`：[点击下载](https://www.shinnku.com/api/download/0/win/%E6%98%AF%E8%B0%81%E6%9D%80%E6%AD%BB%E4%BA%86%E7%9F%A5%E6%9B%B4%E9%B8%9F.7z)
+10. [真红小站](https://www.shinnku.com/) & `KRKR`：[点击下载](https://www.shinnku.com/api/download/0/krkr/%E6%98%AF%E8%B0%81%E6%9D%80%E4%BA%86%E7%9F%A5%E6%9B%B4%E9%B8%9F.7z)
 11. [姬路白雪](https://jlbx.xyz/) & `Windows` + `ONS`：[点击下载](https://pan.jlbx.xyz/?s=%E7%9F%A5%E6%9B%B4%E9%B8%9F)，密码：`终点`
 12. [梓澪の妙妙屋](https://zi0.cc/) & `Windows`：[点击下载](https://zi0.cc/d/%60%E3%80%90%E5%90%88%E9%9B%86%E7%B3%BB%E5%88%97%E3%80%91/%E3%80%90PC%2B%E9%83%A8%E5%88%86KR%20ONS%E3%80%9112%E7%A5%9E%E9%AD%94%E5%99%A8/12%E7%A5%9E%E5%99%A8/%E6%98%AF%E8%B0%81%E6%9D%80%E4%BA%86%E7%9F%A5%E6%9B%B4%E9%B8%9F.zip?sign=Ag93ZGN6KTG8JJWCD3mfJUqpbdputqDQZqraEOQEdPg=:0)
 13. [梓澪の妙妙屋](https://zi0.cc/) & `ONS`：[点击下载](https://zi0.cc/d/%60%E3%80%90%E5%BD%92%20%E6%A1%A3%E3%80%91/%E3%80%90ONS%E5%90%88%E9%9B%86%E3%80%91/%5BSMILE%5D%E6%98%AF%E8%B0%81%E6%9D%80%E4%BA%86%E7%9F%A5%E6%9B%B4%E9%B8%9F.7z?sign=JQrDMiGehtabz6bLxvNABIuvM4O7fILp3gAyL2JqTOU=:0)

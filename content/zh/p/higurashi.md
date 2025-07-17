@@ -105,10 +105,10 @@ updated: 2024-09-17 21:42:30
 
 ## 分流
 
-1. [TouchGAL](https://www.touchgal.io/) & `Windows`【出题】：[点击下载](https://pan.touchgal.net/s/q52OIb)，密码：`touchgal`
-2. [TouchGAL](https://www.touchgal.io/) & `Windows`【解题】：[点击下载](https://pan.touchgal.net/s/kgjQcg)，密码：`touchgal`
-3. [TouchGAL](https://www.touchgal.io/) & `Windows`【礼】：[点击下载](https://pan.touchgal.net/s/nGboiY)，密码：`touchgal`
-4. [TouchGAL](https://www.touchgal.io/) & `Windows`【虚崩编】：[点击下载](https://pan.touchgal.net/s/BJBNsw)，密码：`touchgal`
+1. [TouchGAL](https://www.touchgal.us/) & `Windows`【出题】：[点击下载](https://pan.touchgal.net/s/q52OIb)，密码：`touchgal`
+2. [TouchGAL](https://www.touchgal.us/) & `Windows`【解题】：[点击下载](https://pan.touchgal.net/s/kgjQcg)，密码：`touchgal`
+3. [TouchGAL](https://www.touchgal.us/) & `Windows`【礼】：[点击下载](https://pan.touchgal.net/s/nGboiY)，密码：`touchgal`
+4. [TouchGAL](https://www.touchgal.us/) & `Windows`【虚崩编】：[点击下载](https://pan.touchgal.net/s/BJBNsw)，密码：`touchgal`
 5. [绮梦](https://acgs.one/) & `Windows` + `ONS`【出题 解题（原版与萌化）+ 礼】：[点击下载](https://game.acgs.one/game/230.html)，密码：`绮梦`
 6. [量子ACG](https://lzacg.org/) & `Windows`【鬼隐篇 礼 绵流篇 祟杀篇 暇溃篇 罪灭篇 目明篇 皆杀篇】：[点击下载](https://lzacg.org/7104)，密码：`量子acg`、`lzacg.top`
 7. [NekoGAL](https://www.nekogal.com/) & `Windows`【出题】：[点击下载](https://pan.nekogal.top/s/72ncw)
@@ -116,27 +116,27 @@ updated: 2024-09-17 21:42:30
 9. [NekoGAL](https://www.nekogal.com/) & `Windows`【礼】：[点击下载](https://pan.nekogal.top/s/mp2Cn)
 10. [我的Galgame资源发布站](https://www.ttloli.com/) & `Windows`【出题 解题（原版与萌化）+ 礼 + 虚崩编】：[点击下载](https://www.ttloli.com/hanchanmingqizhishi.html)，密码：`忧郁的弟弟`、`忧郁的loli`
 11. [姬路白雪](https://jlbx.xyz/) & `Windows` + `ONS`【出题 解题（原版与萌化）+ 礼 + 虚崩编】：[点击下载](https://pan.jlbx.xyz/?s=%E5%AF%92%E8%9D%89%E9%B8%A3%E6%B3%A3%E4%B9%8B%E6%97%B6)，密码：`终点`
-12. [Hikarinagi](https://www.hikarinagi.com/) & `Windows`【出题】：[点击下载](https://pan.himoe.uk/s/mnGTK)，密码：`hikarinagi.com`
-13. [Hikarinagi](https://www.hikarinagi.com/) & `Windows`【出题】：[点击下载](https://pan.himoe.uk/s/n2ptq)，密码：`hikarinagi.com`
-14. [Hikarinagi](https://www.hikarinagi.com/) & `Windows`【解题】：[点击下载](https://pan.himoe.uk/s/no7tq)，密码：`hikarinagi.com`
-15. [Hikarinagi](https://www.hikarinagi.com/) & `Windows`【解题】：[点击下载](https://pan.himoe.uk/s/m13IK)，密码：`hikarinagi.com`
-16. [Hikarinagi](https://www.hikarinagi.com/) & `Windows`【礼】：[点击下载](https://pan.himoe.uk/s/o0XhL)，密码：`hikarinagi.com`
-17. [Hikarinagi](https://www.hikarinagi.com/) & `Windows`【礼】：[点击下载](https://pan.himoe.uk/s/lZ1U5)，密码：`hikarinagi.com`
-18. [失落小站](https://www.shinnku.com/) & `ONS`【出题】：[点击下载](https://www.shinnku.com/api/download/0/ons/%E5%AF%92%E8%9D%89%E9%B8%A3%E6%B3%A3%E4%B9%8B%E6%97%B6.zip)
-19. [失落小站](https://www.shinnku.com/) & `ONS`【礼】：[点击下载](https://www.shinnku.com/api/download/0/ons/%E5%AF%92%E8%9D%89%E9%B8%A3%E6%B3%A3%E4%B9%8B%E6%97%B6%E7%A4%BC.zip)
-20. [失落小站](https://www.shinnku.com/) & `Windows`【出题】：[点击下载](https://www.shinnku.com/api/download/0/win/%E5%AF%92%E8%9D%89%E9%B8%A3%E6%B3%A3%E4%B9%8B%E6%97%B6%20%E5%87%BA%E9%A2%98%E7%AF%87.7z)
-21. [失落小站](https://www.shinnku.com/) & `Windows`【礼】：[点击下载](https://www.shinnku.com/api/download/0/win/%E5%AF%92%E8%9D%89%E9%B8%A3%E6%B3%A3%E4%B9%8B%E6%97%B6%20%E7%A4%BC.7z)
-22. [失落小站](https://www.shinnku.com/) & `Windows`【解题】：[点击下载](https://www.shinnku.com/api/download/0/win/%E5%AF%92%E8%9D%89%E9%B8%A3%E6%B3%A3%E4%B9%8B%E6%97%B6%20%E8%A7%A3.7z)
-23. [失落小站](https://www.shinnku.com/) & `Windows`【出题】：[点击下载](https://www.shinnku.com/api/download/0/win/%E5%AF%92%E8%9D%89%E9%B8%A3%E6%B3%A3%E4%B9%8B%E6%97%B6.7z)
-24. [失落小站](https://www.shinnku.com/) & `Windows`【虚崩编出题】：[点击下载](https://www.shinnku.com/api/download/0/win/%E5%AF%92%E8%9D%89%E9%B8%A3%E6%B3%A3%E4%B9%8B%E6%97%B6%E8%99%9A%E5%B4%A9%E7%BC%96%E5%87%BA%E9%A2%98.7z)
-25. [失落小站](https://www.shinnku.com/) & `PSP`【携带版】：[点击下载](https://www.shinnku.com/api/download/psp/pspch/101-200/%E5%AF%92%E8%9D%89%E9%B8%A3%E6%B3%A3%E4%B9%8B%E6%97%B6%20%E6%90%BA%E5%B8%A6%E7%89%88%20[%E7%AE%80][CG%E6%B1%89%E5%8C%96%E7%BB%84]/1663%20-%20%E5%AF%92%E8%9D%89%E9%B8%A3%E6%B3%A3%E4%B9%8B%E6%97%B6%20%E6%90%BA%E5%B8%A6%E7%89%88%20[%E7%AE%80]%20[CG%E6%B1%89%E5%8C%96%E7%BB%84].iso)
-26. [失落小站](https://www.shinnku.com/) & `Windows`【出题篇原版】：[点击下载](https://www.shinnku.com/api/download/zd/0001-0500/[040813][07th%20Expansion]%20%E5%AF%92%E8%9D%89%E9%B8%A3%E6%B3%A3%E4%B9%8B%E6%97%B6%C2%B7%E5%87%BA%E9%A2%98%E7%AF%87%EF%BC%88%E5%8E%9F%E7%89%88%EF%BC%89.rar)
-27. [失落小站](https://www.shinnku.com/) & `Windows`【出题篇萌化】：[点击下载](https://www.shinnku.com/api/download/zd/0001-0500/[040813][07th%20Expansion]%20%E5%AF%92%E8%9D%89%E9%B8%A3%E6%B3%A3%E4%B9%8B%E6%97%B6%C2%B7%E5%87%BA%E9%A2%98%E7%AF%87%EF%BC%88%E8%90%8C%E5%8C%96%E7%89%88%EF%BC%89.rar)
-28. [失落小站](https://www.shinnku.com/) & `Windows`【虚崩编出题非官方】：[点击下载](https://www.shinnku.com/api/download/zd/0001-0500/[050914][07th%20Expansion]%20%E5%AF%92%E8%9D%89%E9%B8%A3%E6%B3%A3%E4%B9%8B%E6%97%B6%E8%99%9A%E5%B4%A9%E7%BC%96%E5%87%BA%E9%A2%98%EF%BC%88%E9%9D%9E%E5%AE%98%E6%96%B9%EF%BC%89.rar)
-29. [失落小站](https://www.shinnku.com/) & `Windows`【解题篇原版】：[点击下载](https://www.shinnku.com/api/download/zd/0001-0500/[060813][07th%20Expansion]%20%E5%AF%92%E8%9D%89%E9%B8%A3%E6%B3%A3%E4%B9%8B%E6%97%B6%C2%B7%E8%A7%A3%E9%A2%98%E7%AF%87%EF%BC%88%E5%8E%9F%E7%89%88%EF%BC%89.rar)
-30. [失落小站](https://www.shinnku.com/) & `Windows`【解题篇萌化】：[点击下载](https://www.shinnku.com/api/download/zd/0001-0500/[060813][07th%20Expansion]%20%E5%AF%92%E8%9D%89%E9%B8%A3%E6%B3%A3%E4%B9%8B%E6%97%B6%C2%B7%E8%A7%A3%E9%A2%98%E7%AF%87%EF%BC%88%E8%90%8C%E5%8C%96%E7%89%88%EF%BC%89.rar)
-31. [失落小站](https://www.shinnku.com/) & `Windows`【礼】：[点击下载](https://www.shinnku.com/api/download/zd/0001-0500/[061231][07th%20Expansion]%20%E5%AF%92%E8%9D%89%E9%B8%A3%E6%B3%A3%E4%B9%8B%E6%97%B6%C2%B7%E7%A4%BC.rar)
-32. [失落小站](https://www.shinnku.com/) & `Windows`【罪灭篇】：[点击下载](https://www.shinnku.com/api/download/zd/1001-1500/[180615][07th%20Expansion]%20%E5%AF%92%E8%9D%89%E9%B8%A3%E6%B3%A3%E4%B9%8B%E6%97%B6%E2%80%9B%EF%BC%9A%E7%BD%AA%E7%81%AD%E7%AF%87.rar)
+12. [Hikarinagi](https://www.hikarinagi.net/) & `Windows`【出题】：[点击下载](https://pan.yurari.moe/s/mnGTK)，密码：`hikarinagi.com`
+13. [Hikarinagi](https://www.hikarinagi.net/) & `Windows`【出题】：[点击下载](https://pan.yurari.moe/s/n2ptq)，密码：`hikarinagi.com`
+14. [Hikarinagi](https://www.hikarinagi.net/) & `Windows`【解题】：[点击下载](https://pan.yurari.moe/s/no7tq)，密码：`hikarinagi.com`
+15. [Hikarinagi](https://www.hikarinagi.net/) & `Windows`【解题】：[点击下载](https://pan.yurari.moe/s/m13IK)，密码：`hikarinagi.com`
+16. [Hikarinagi](https://www.hikarinagi.net/) & `Windows`【礼】：[点击下载](https://pan.yurari.moe/s/o0XhL)，密码：`hikarinagi.com`
+17. [Hikarinagi](https://www.hikarinagi.net/) & `Windows`【礼】：[点击下载](https://pan.yurari.moe/s/lZ1U5)，密码：`hikarinagi.com`
+18. [真红小站](https://www.shinnku.com/) & `ONS`【出题】：[点击下载](https://www.shinnku.com/api/download/0/ons/%E5%AF%92%E8%9D%89%E9%B8%A3%E6%B3%A3%E4%B9%8B%E6%97%B6.zip)
+19. [真红小站](https://www.shinnku.com/) & `ONS`【礼】：[点击下载](https://www.shinnku.com/api/download/0/ons/%E5%AF%92%E8%9D%89%E9%B8%A3%E6%B3%A3%E4%B9%8B%E6%97%B6%E7%A4%BC.zip)
+20. [真红小站](https://www.shinnku.com/) & `Windows`【出题】：[点击下载](https://www.shinnku.com/api/download/0/win/%E5%AF%92%E8%9D%89%E9%B8%A3%E6%B3%A3%E4%B9%8B%E6%97%B6%20%E5%87%BA%E9%A2%98%E7%AF%87.7z)
+21. [真红小站](https://www.shinnku.com/) & `Windows`【礼】：[点击下载](https://www.shinnku.com/api/download/0/win/%E5%AF%92%E8%9D%89%E9%B8%A3%E6%B3%A3%E4%B9%8B%E6%97%B6%20%E7%A4%BC.7z)
+22. [真红小站](https://www.shinnku.com/) & `Windows`【解题】：[点击下载](https://www.shinnku.com/api/download/0/win/%E5%AF%92%E8%9D%89%E9%B8%A3%E6%B3%A3%E4%B9%8B%E6%97%B6%20%E8%A7%A3.7z)
+23. [真红小站](https://www.shinnku.com/) & `Windows`【出题】：[点击下载](https://www.shinnku.com/api/download/0/win/%E5%AF%92%E8%9D%89%E9%B8%A3%E6%B3%A3%E4%B9%8B%E6%97%B6.7z)
+24. [真红小站](https://www.shinnku.com/) & `Windows`【虚崩编出题】：[点击下载](https://www.shinnku.com/api/download/0/win/%E5%AF%92%E8%9D%89%E9%B8%A3%E6%B3%A3%E4%B9%8B%E6%97%B6%E8%99%9A%E5%B4%A9%E7%BC%96%E5%87%BA%E9%A2%98.7z)
+25. [真红小站](https://www.shinnku.com/) & `PSP`【携带版】：[点击下载](https://www.shinnku.com/api/download/psp/pspch/101-200/%E5%AF%92%E8%9D%89%E9%B8%A3%E6%B3%A3%E4%B9%8B%E6%97%B6%20%E6%90%BA%E5%B8%A6%E7%89%88%20[%E7%AE%80][CG%E6%B1%89%E5%8C%96%E7%BB%84]/1663%20-%20%E5%AF%92%E8%9D%89%E9%B8%A3%E6%B3%A3%E4%B9%8B%E6%97%B6%20%E6%90%BA%E5%B8%A6%E7%89%88%20[%E7%AE%80]%20[CG%E6%B1%89%E5%8C%96%E7%BB%84].iso)
+26. [真红小站](https://www.shinnku.com/) & `Windows`【出题篇原版】：[点击下载](https://www.shinnku.com/api/download/zd/0001-0500/[040813][07th%20Expansion]%20%E5%AF%92%E8%9D%89%E9%B8%A3%E6%B3%A3%E4%B9%8B%E6%97%B6%C2%B7%E5%87%BA%E9%A2%98%E7%AF%87%EF%BC%88%E5%8E%9F%E7%89%88%EF%BC%89.rar)
+27. [真红小站](https://www.shinnku.com/) & `Windows`【出题篇萌化】：[点击下载](https://www.shinnku.com/api/download/zd/0001-0500/[040813][07th%20Expansion]%20%E5%AF%92%E8%9D%89%E9%B8%A3%E6%B3%A3%E4%B9%8B%E6%97%B6%C2%B7%E5%87%BA%E9%A2%98%E7%AF%87%EF%BC%88%E8%90%8C%E5%8C%96%E7%89%88%EF%BC%89.rar)
+28. [真红小站](https://www.shinnku.com/) & `Windows`【虚崩编出题非官方】：[点击下载](https://www.shinnku.com/api/download/zd/0001-0500/[050914][07th%20Expansion]%20%E5%AF%92%E8%9D%89%E9%B8%A3%E6%B3%A3%E4%B9%8B%E6%97%B6%E8%99%9A%E5%B4%A9%E7%BC%96%E5%87%BA%E9%A2%98%EF%BC%88%E9%9D%9E%E5%AE%98%E6%96%B9%EF%BC%89.rar)
+29. [真红小站](https://www.shinnku.com/) & `Windows`【解题篇原版】：[点击下载](https://www.shinnku.com/api/download/zd/0001-0500/[060813][07th%20Expansion]%20%E5%AF%92%E8%9D%89%E9%B8%A3%E6%B3%A3%E4%B9%8B%E6%97%B6%C2%B7%E8%A7%A3%E9%A2%98%E7%AF%87%EF%BC%88%E5%8E%9F%E7%89%88%EF%BC%89.rar)
+30. [真红小站](https://www.shinnku.com/) & `Windows`【解题篇萌化】：[点击下载](https://www.shinnku.com/api/download/zd/0001-0500/[060813][07th%20Expansion]%20%E5%AF%92%E8%9D%89%E9%B8%A3%E6%B3%A3%E4%B9%8B%E6%97%B6%C2%B7%E8%A7%A3%E9%A2%98%E7%AF%87%EF%BC%88%E8%90%8C%E5%8C%96%E7%89%88%EF%BC%89.rar)
+31. [真红小站](https://www.shinnku.com/) & `Windows`【礼】：[点击下载](https://www.shinnku.com/api/download/zd/0001-0500/[061231][07th%20Expansion]%20%E5%AF%92%E8%9D%89%E9%B8%A3%E6%B3%A3%E4%B9%8B%E6%97%B6%C2%B7%E7%A4%BC.rar)
+32. [真红小站](https://www.shinnku.com/) & `Windows`【罪灭篇】：[点击下载](https://www.shinnku.com/api/download/zd/1001-1500/[180615][07th%20Expansion]%20%E5%AF%92%E8%9D%89%E9%B8%A3%E6%B3%A3%E4%B9%8B%E6%97%B6%E2%80%9B%EF%BC%9A%E7%BD%AA%E7%81%AD%E7%AF%87.rar)
 33. [梓澪の妙妙屋](https://zi0.cc/) & `Windows`【出题 解题 礼 虚崩编出题 鬼隐篇 罪灭篇 官方 非官方 原版 萌化】：[点击下载](https://zi0.cc/%60%E3%80%90%E5%90%88%E9%9B%86%E7%B3%BB%E5%88%97%E3%80%91/%E6%B1%89%E5%8C%96galgame%E4%BC%9A%E7%A4%BE%E5%90%88%E9%9B%86/%E6%B1%89%E5%8C%96%E4%BC%9A%E7%A4%BE%E5%90%88%E9%9B%86%E9%83%A8%E5%88%86%20part1/07th%20Expansion/%E6%B1%89%E5%8C%96%E7%89%88)
 34. [梓澪の妙妙屋](https://zi0.cc/) & `Windows`【鬼隐篇 礼 罪灭篇】：[点击下载](https://zi0.cc/.%E3%80%90%E5%A4%8F%E9%A3%8E%E3%80%91/.%E3%80%90%E5%A4%8F%E9%A3%8E-1%E3%80%91/AVG%EF%BC%88%E8%A7%86%E8%A7%89%E5%B0%8F%E8%AF%B4%EF%BC%89/%E3%80%90PC%E3%80%91/%E3%80%90PC%E3%80%91%E5%AF%92%E8%9D%89%E9%B8%A3%E6%B3%A3%E4%B9%8B%E6%97%B6?from=search)
 35. [梓澪の妙妙屋](https://zi0.cc/) & `Windows`【原版出题解题】：[点击下载](https://zi0.cc/.%E3%80%90%E5%A4%8F%E9%A3%8E%E3%80%91/.%E3%80%90%E5%A4%8F%E9%A3%8E-1%E3%80%91/AVG%EF%BC%88%E8%A7%86%E8%A7%89%E5%B0%8F%E8%AF%B4%EF%BC%89/%E3%80%90PC%E3%80%91/%E3%80%90PC%E3%80%91%E3%80%90%E5%8E%9F%E7%89%88%E3%80%91%E5%AF%92%E8%9D%89%E9%B8%A3%E6%B3%A3%E4%B9%8B%E6%97%B6?from=search)

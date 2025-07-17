@@ -96,16 +96,16 @@ updated: 2024-07-22 02:05:00
 
 ## 分流
 
-1. [TouchGAL](https://www.touchgal.io/) & `Windows`：[点击下载](https://pan.touchgal.net/s/x1rSO)，密码：`touchgal`
-2. [TouchGAL](https://www.touchgal.io/) & `KRKR`：[点击下载](https://pan.touchgal.net/s/mlrUx)，密码：`touchgal`
+1. [TouchGAL](https://www.touchgal.us/) & `Windows`：[点击下载](https://pan.touchgal.net/s/x1rSO)，密码：`touchgal`
+2. [TouchGAL](https://www.touchgal.us/) & `KRKR`：[点击下载](https://pan.touchgal.net/s/mlrUx)，密码：`touchgal`
 3. [Koyso](https://koyso.com/) & `Windows`：[点击下载](https://koyso.com/game/879)
 4. [小鳥遊暁の会员制餐厅](https://t-satoru.top/) & `KRKR`：[点击下载](https://pan.t-satoru.top/d/ode5/Galgames/%E3%80%90%E8%87%AA%E5%B0%81%E5%8C%85%E3%80%91%E5%8E%9F%E5%88%9B%E4%BD%9C%E5%93%81/RJ/v3_KR_%E5%AE%98%E4%B8%AD%E5%BC%A5%E7%94%9F%E6%9C%88%E4%BB%A5%E5%8F%8A%E5%9F%BA%E6%9C%AC%E6%B2%A1%E6%B3%95%E7%9C%8B%E7%9A%84%E9%BB%98%E7%A4%BA_RIDDLE_JOKER_od.rar)，密码：`三司绫濑天下第一`
 5. [我的Galgame资源发布站](https://www.ttloli.com/) & `Windows`：[点击下载](https://www.ttloli.com/riddle-joker.html)，密码：`忧郁的弟弟`、`忧郁的loli`
 6. [烟郁Galgame](https://yanyugal.top/) & `Windows`：[点击下载](https://yanyugal.top/d/disk1/%5B%E4%BC%9A%E7%A4%BE%5D%5B%E5%90%88%E9%9B%86%5DGalgame/%E6%9F%9A%E5%AD%90%E7%A4%BE/riddlejoker.zip)，密码：`烟郁频道`、`lumouweinb`
 7. [烟郁Galgame](https://yanyugal.top/) & `KRKR`：[点击下载](https://yanyugal.top/d/disk1/%E5%B0%8F%E5%B0%8F%E7%9A%84%E5%88%86%E4%BA%AB%EF%BC%88PC%EF%BC%86%E5%AE%89%E5%8D%93%EF%BC%89/%E5%AE%89%E5%8D%93/krkr/%E6%9F%9A%E5%AD%90%E7%A4%BE/Riddle%20Joker.7z)，密码：`烟郁频道`、`lumouweinb`
-8. [失落小站](https://www.shinnku.com/) & `Windows`：[点击下载](https://www.shinnku.com/api/download/zd/1001-1500/[180330][%E3%82%86%E3%81%9A%E3%82%BD%E3%83%95%E3%83%88]%20RIDDLE%20JOKER.rar)
-9. [失落小站](https://www.shinnku.com/) & `Windows`：[点击下载](https://www.shinnku.com/api/download/0/win/RIDDLE%20JOKER.7z)
-10. [失落小站](https://www.shinnku.com/) & `KRKR`：[点击下载](https://www.shinnku.com/api/download/0/krkr/Riddle%20Joker.7z)
+8. [真红小站](https://www.shinnku.com/) & `Windows`：[点击下载](https://www.shinnku.com/api/download/zd/1001-1500/[180330][%E3%82%86%E3%81%9A%E3%82%BD%E3%83%95%E3%83%88]%20RIDDLE%20JOKER.rar)
+9. [真红小站](https://www.shinnku.com/) & `Windows`：[点击下载](https://www.shinnku.com/api/download/0/win/RIDDLE%20JOKER.7z)
+10. [真红小站](https://www.shinnku.com/) & `KRKR`：[点击下载](https://www.shinnku.com/api/download/0/krkr/Riddle%20Joker.7z)
 11. [梓澪の妙妙屋](https://zi0.cc/) & `Windows`【官中】：[点击下载](https://zi0.cc/d/%60%E3%80%90%E5%90%88%E9%9B%86%E7%B3%BB%E5%88%97%E3%80%91/%E3%80%90PC%2BKR%E3%80%91YUZUSOFT%20SOUR%20%E6%9F%9A%E5%AD%90%E7%A4%BE%E5%90%88%E9%9B%86/PC/%E3%80%90%E5%AE%98%E4%B8%AD%E3%80%91RIDDLE%20JOKER.rar?sign=6G9LnFJoJjOigx3WZ0IpkcmCeTA1AY_G4tOFCrwaSzk=:0)
 12. [梓澪の妙妙屋](https://zi0.cc/) & `Windows`【汉化组】：[点击下载](https://zi0.cc/d/%60%E3%80%90%E5%90%88%E9%9B%86%E7%B3%BB%E5%88%97%E3%80%91/%E3%80%90PC%2BKR%E3%80%91YUZUSOFT%20SOUR%20%E6%9F%9A%E5%AD%90%E7%A4%BE%E5%90%88%E9%9B%86/PC/%E3%80%90%E6%B1%89%E5%8C%96%E7%BB%84%E3%80%91RIDDLE%20JOKER.rar?sign=K50B4NZ8RgMu_gfnYsWnSLHgk9maZCEgE0gB0oSCai8=:0)
 13. [梓澪の妙妙屋](https://zi0.cc/) & `KRKR`：[点击下载](https://zi0.cc/d/%60%E3%80%90%E5%90%88%E9%9B%86%E7%B3%BB%E5%88%97%E3%80%91/%E3%80%90PC%2BKR%E3%80%91YUZUSOFT%20SOUR%20%E6%9F%9A%E5%AD%90%E7%A4%BE%E5%90%88%E9%9B%86/KRKR/RIDDLE%20JOKER.rar?sign=uWCYW85o_3JM0T6LzyOx78oEiT_odpIWHM3f15uSNKg=:0)
@@ -119,6 +119,6 @@ updated: 2024-07-22 02:05:00
 21. [量子ACG](https://lzacg.org/) & `Windows`：[点击下载](https://lzacg.org/938)，密码：`量子acg`、`lzacg.top`
 22. [量子ACG](https://lzacg.org/) & `KRKR`：[点击下载](https://lzacg.org/949)，密码：`量子acg`、`lzacg.top`
 23. [量子ACG](https://lzacg.org/) & `KRKR`：[点击下载](https://lzacg.org/2094)，密码：`量子acg`、`lzacg.top`
-24. [稻荷ACG](https://amoebi.com/) & `Windows`：[点击下载](https://sakustar.me/art/110)
-25. [稻荷ACG](https://amoebi.com/) & `KRKR`：[点击下载](https://sakustar.me/art/574)
+24. [稻荷GAL](https://inarigal.com/) & `Windows`：[点击下载](https://inarigal.com/detail/110)
+25. [稻荷GAL](https://inarigal.com/) & `KRKR`：[点击下载](https://inarigal.com/detail/574)
 26. [姬路白雪](https://pan.jlbx.xyz/) & `Windows` + `KRKR`：[点击下载](https://pan.jlbx.xyz/?s=riddle)，密码：`终点`

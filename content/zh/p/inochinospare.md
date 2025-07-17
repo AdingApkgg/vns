@@ -82,9 +82,9 @@ updated: 2024-03-02 01:36:00
 
 DMM入正地址：[dlsoft.dmm.co.jp/detail/akbs_0067](https://dlsoft.dmm.co.jp/detail/akbs_0067/)
 
-[稻荷ACG](https://amoebi.com/) & Windows下载分流1：[点击下载](https://sakustar.moe/download?post_id=429&index=0&i=0)
+[稻荷GAL](https://inarigal.com/) & Windows下载分流1：[点击下载](https://sakustar.moe/download?post_id=429&index=0&i=0)
 
-[稻荷ACG](https://amoebi.com/) & KRKR下载分流2：[点击下载](https://sakustar.moe/download?post_id=626&index=0&i=0)
+[稻荷GAL](https://inarigal.com/) & KRKR下载分流2：[点击下载](https://sakustar.moe/download?post_id=626&index=0&i=0)
 
 [梓澪の妙妙屋](https://zi0.cc/) & KRKR下载分流5：[点击下载](https://zi0.cc/d/%2C%E3%80%90ADV-%E5%86%92%E9%99%A9%E6%B8%B8%E6%88%8F%E3%80%91/%E3%80%90PC%2B%E5%AE%89%E5%8D%93%E3%80%91%E7%94%9F%E5%91%BD%E7%9A%84%E5%A4%87%E4%BB%B6/%E3%80%90KRKR%E3%80%91%E7%94%9F%E5%91%BD%E7%9A%84%E5%A4%87%E4%BB%B6.zip?sign=zlwb2zQmvvy4THrOTqyngZ4PEZmauk7XOpPQ1Ipa3Q4=:0)
 
@@ -96,6 +96,6 @@ DMM入正地址：[dlsoft.dmm.co.jp/detail/akbs_0067](https://dlsoft.dmm.co.jp/d
 
 [迷迭香的博客](https://rosmontis.com/) & Windows下载分流9【枫江汉化组】：[点击下载](https://drive.rosmontis.com/s/v8lI3)，密码：rosmontis，去掉 `.rosmontis` 后缀名再解压
 
-[TouchGAL](https://www.touchgal.io/) & Windows下载分流10：[点击下载](https://pan.touchgal.net/s/bnLS5)
+[TouchGAL](https://www.touchgal.us/) & Windows下载分流10：[点击下载](https://pan.touchgal.net/s/bnLS5)
 
-[TouchGAL](https://www.touchgal.io/) & KRKR下载分流11：[点击下载](https://pan.touchgal.net/s/6V0Cp)
+[TouchGAL](https://www.touchgal.us/) & KRKR下载分流11：[点击下载](https://pan.touchgal.net/s/6V0Cp)

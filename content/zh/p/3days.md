@@ -71,12 +71,12 @@ updated: 2024-05-25 02:35:00
 
 ## 分流
 
-1. [TouchGAL](https://www.touchgal.io/) & `Windows`：[点击下载](https://pan.touchgal.net/s/GXwUX)，密码：`touchgal`
-2. [TouchGAL](https://www.touchgal.io/) & `ONS`：[点击下载](https://pan.touchgal.net/s/OExFW)，密码：`touchgal`
+1. [TouchGAL](https://www.touchgal.us/) & `Windows`：[点击下载](https://pan.touchgal.net/s/GXwUX)，密码：`touchgal`
+2. [TouchGAL](https://www.touchgal.us/) & `ONS`：[点击下载](https://pan.touchgal.net/s/OExFW)，密码：`touchgal`
 3. [姬路白雪](https://pan.jlbx.xyz/) & `Windows` + `ONS`：[点击下载](https://pan.jlbx.xyz/?s=3days)，密码：`终点`
-4. [失落小站](https://www.shinnku.com/) & `Windows`：[点击下载](https://www.shinnku.com/api/download/0/win/3days~%E5%9C%A8%E9%80%9D%E5%8E%BB%E6%97%B6%E9%97%B4%E7%9A%84%E5%8F%A6%E4%B8%80%E7%AB%AF.7z)
-5. [失落小站](https://www.shinnku.com/) & `ONS`：[点击下载](https://www.shinnku.com/api/download/0/ons/3days.zip)
+4. [真红小站](https://www.shinnku.com/) & `Windows`：[点击下载](https://www.shinnku.com/api/download/0/win/3days~%E5%9C%A8%E9%80%9D%E5%8E%BB%E6%97%B6%E9%97%B4%E7%9A%84%E5%8F%A6%E4%B8%80%E7%AB%AF.7z)
+5. [真红小站](https://www.shinnku.com/) & `ONS`：[点击下载](https://www.shinnku.com/api/download/0/ons/3days.zip)
 6. [迷迭香的博客](https://rosmontis.com/) & `Windows`：[点击下载](https://drive.rosmontis.com/s/bKKU5)，密码：`rosmontis`，去掉 `.rosmontis` 后缀名再解压
-7. [稻荷ACG](https://amoebi.com/) & `Windows`：[点击下载](https://sakustar.top/art/530)
+7. [稻荷GAL](https://inarigal.com/) & `Windows`：[点击下载](https://inarigal.com/detail/530)
 8. [量子ACG](https://lzacg.org/) & `Windows`：[点击下载](https://lzacg.org/4940)，密码：`量子acg`、`lzacg.top`
 9. [我的Galgame资源发布站](https://www.ttloli.com/) & `Windows`：[点击下载](https://www.ttloli.com/3days.html)，密码：`忧郁的弟弟`、`忧郁的loli`

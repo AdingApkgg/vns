@@ -87,24 +87,24 @@ updated: 2024-08-12 18:45:00
 
 ### 通常版
 
-1. [TouchGAL](https://www.touchgal.io/) & `Windows`：[点击下载](https://pan.touchgal.net/s/nDpUY)，密码：`touchgal`
-2. [TouchGAL](https://www.touchgal.io/) & `KRKR`：[点击下载](https://pan.touchgal.net/s/YE6ta)，密码：`touchgal`
+1. [TouchGAL](https://www.touchgal.us/) & `Windows`：[点击下载](https://pan.touchgal.net/s/nDpUY)，密码：`touchgal`
+2. [TouchGAL](https://www.touchgal.us/) & `KRKR`：[点击下载](https://pan.touchgal.net/s/YE6ta)，密码：`touchgal`
 3. [绮梦](https://acgs.one/) & `Windows` + `KRKR`：[点击下载](https://game.acgs.one/game/293.html)，密码：`绮梦`
 4. [姬路白雪](https://pan.jlbx.xyz/) & `Windows` + `KRKR` + `ONS`：[点击下载](https://pan.jlbx.xyz/?s=fate%20stay)，密码：`终点`
-5. [稻荷ACG](https://amoebi.com/) & `Windows`：[点击下载](https://sakustar.com/art/356)
-6. [稻荷ACG](https://amoebi.com/) & `ONS`：[点击下载](https://sakustar.com/art/622)
+5. [稻荷GAL](https://inarigal.com/) & `Windows`：[点击下载](https://inarigal.com/detail/356)
+6. [稻荷GAL](https://inarigal.com/) & `ONS`：[点击下载](https://inarigal.com/detail/622)
 7. [梓澪の妙妙屋](https://zi0.cc/) & `ONS`：[点击下载](https://zi0.cc/d/%60%E3%80%90%E5%BD%92%20%E6%A1%A3%E3%80%91/%E3%80%90ONS%E5%90%88%E9%9B%86%E3%80%91/%5BTYPE-MOON%5DFate%20stay%20night.7z?sign=9NizBy5m_bbbVphYIsz7VQgY2DhtsTENNrdTUxeowVk=:0)
 8. [梓澪の妙妙屋](https://zi0.cc/) & `KRKR`：[点击下载](https://zi0.cc/%60%E3%80%90%E5%BD%92%20%E6%A1%A3%E3%80%91/%E3%80%90KRKR%E5%90%88%E9%9B%86%E3%80%91/1/Fate%20Stay%20Night.exe?from=search)
-9. [失落小站](https://www.shinnku.com/) & `Windows`：[点击下载](https://www.shinnku.com/api/download/0/win/Fate%20Stay%20Night.7z)
-10. [失落小站](https://www.shinnku.com/) & `KRKR`：[点击下载](https://www.shinnku.com/api/download/0/krkr/fate%20stay%20night.7z)
-11. [失落小站](https://www.shinnku.com/) & `ONS`：[点击下载](https://www.shinnku.com/api/download/0/ons/fate%20stay%20night.zip)
+9. [真红小站](https://www.shinnku.com/) & `Windows`：[点击下载](https://www.shinnku.com/api/download/0/win/Fate%20Stay%20Night.7z)
+10. [真红小站](https://www.shinnku.com/) & `KRKR`：[点击下载](https://www.shinnku.com/api/download/0/krkr/fate%20stay%20night.7z)
+11. [真红小站](https://www.shinnku.com/) & `ONS`：[点击下载](https://www.shinnku.com/api/download/0/ons/fate%20stay%20night.zip)
 12. [量子ACG](https://lzacg.org/) & `Windows`：[点击下载](https://lzacg.org/4601)，密码：`量子acg`、`lzacg.top`
 13. [量子ACG](https://lzacg.org/) & `KRKR`：[点击下载](https://lzacg.org/2206)，密码：`量子acg`、`lzacg.top`
 14. [我的Galgame资源发布站](https://www.ttloli.com/) & `Windows`：[点击下载](https://www.ttloli.com/fatestay-night.html)，密码：`忧郁的弟弟`、`忧郁的loli`
 
 ### 重制版
 
-1. [TouchGAL](https://www.touchgal.io/) & `Windows`：[点击下载](https://pan.touchgal.net/s/ZZ89Sa)，密码：`touchgal`
+1. [TouchGAL](https://www.touchgal.us/) & `Windows`：[点击下载](https://pan.touchgal.net/s/ZZ89Sa)，密码：`touchgal`
 2. [Koyso](https://koyso.com/) & `Windows`：[点击下载](https://koyso.com/game/992)
-3. [稻荷ACG](https://amoebi.com/) & `Windows`：[点击下载](https://sakustar.com/art/356)
+3. [稻荷GAL](https://inarigal.com/) & `Windows`：[点击下载](https://inarigal.com/detail/356)
 4. [量子ACG](https://lzacg.org/) & `Windows`：[点击下载](https://lzacg.org/7941)，密码：`量子acg`、`lzacg.top`

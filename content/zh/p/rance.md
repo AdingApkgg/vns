@@ -349,170 +349,170 @@ LP7年，兰斯一行在找圣女怪物的途中误入荷鲁斯的装置沉睡�
 
 ### 01 寻找小光
 
-1. [TouchGAL](https://www.touchgal.io/) & `Windows`：[点击下载](https://pan.touchgal.net/s/rnN9sy)，密码：`touchgal`
-2. [TouchGAL](https://www.touchgal.io/) & `Windows`【重制版】：[点击下载](https://pan.touchgal.net/s/oVvF2)，密码：`touchgal`
+1. [TouchGAL](https://www.touchgal.us/) & `Windows`：[点击下载](https://pan.touchgal.net/s/rnN9sy)，密码：`touchgal`
+2. [TouchGAL](https://www.touchgal.us/) & `Windows`【重制版】：[点击下载](https://pan.touchgal.net/s/oVvF2)，密码：`touchgal`
 3. [我的Galgame资源发布站](https://www.ttloli.com/) & `Windows`【重制版】：[点击下载](https://www.ttloli.com/lansi01-zhongzhiban.html)，密码：`忧郁的弟弟`、`忧郁的loli`
 4. [NekoGAL](https://www.nekogal.com/) & `Windows`【重制版】：[点击下载](https://pan.nekogal.top/s/AK4ul)
-5. [Hikarinagi](https://www.hikarinagi.com/) & `Windows`：[点击下载](https://pan.himoe.uk/s/pkrHN)，密码：`hikarinagi.com`
-6. [Hikarinagi](https://www.hikarinagi.com/) & `Windows`：[点击下载](https://pan.himoe.uk/s/v2mVIj)，密码：`hikarinagi.com`
-7. [失落小站](https://www.shinnku.com/) & `Windows`【重制版】：[点击下载](https://www.shinnku.com/api/download/0/win/%E5%85%B0%E6%96%AF01%20%E5%AF%BB%E6%89%BE%E5%B0%8F%E5%85%89%20%E9%87%8D%E5%88%B6%E7%89%88.7z)
-8. [失落小站](https://www.shinnku.com/) & `Windows`【摘要版】：[点击下载](https://www.shinnku.com/api/download/0/win/%E5%85%B0%E6%96%AF1%E6%91%98%E8%A6%81%E7%89%88.7z)
-9. [失落小站](https://www.shinnku.com/) & `Windows`【摘要版】：[点击下载](https://www.shinnku.com/api/download/zd/0001-0500/[040827][ALICESOFT]%20%E5%85%B0%E6%96%AF%EF%BC%91%E6%91%98%E8%A6%81%E7%89%88.rar)
-10. [失落小站](https://www.shinnku.com/) & `Windows`：[点击下载](https://www.shinnku.com/api/download/zd/0501-1000/[130927][ALICESOFT]%20%E5%85%B0%E6%96%AF01%20V1.0.rar)
+5. [Hikarinagi](https://www.hikarinagi.net/) & `Windows`：[点击下载](https://pan.yurari.moe/s/pkrHN)，密码：`hikarinagi.com`
+6. [Hikarinagi](https://www.hikarinagi.net/) & `Windows`：[点击下载](https://pan.yurari.moe/s/v2mVIj)，密码：`hikarinagi.com`
+7. [真红小站](https://www.shinnku.com/) & `Windows`【重制版】：[点击下载](https://www.shinnku.com/api/download/0/win/%E5%85%B0%E6%96%AF01%20%E5%AF%BB%E6%89%BE%E5%B0%8F%E5%85%89%20%E9%87%8D%E5%88%B6%E7%89%88.7z)
+8. [真红小站](https://www.shinnku.com/) & `Windows`【摘要版】：[点击下载](https://www.shinnku.com/api/download/0/win/%E5%85%B0%E6%96%AF1%E6%91%98%E8%A6%81%E7%89%88.7z)
+9. [真红小站](https://www.shinnku.com/) & `Windows`【摘要版】：[点击下载](https://www.shinnku.com/api/download/zd/0001-0500/[040827][ALICESOFT]%20%E5%85%B0%E6%96%AF%EF%BC%91%E6%91%98%E8%A6%81%E7%89%88.rar)
+10. [真红小站](https://www.shinnku.com/) & `Windows`：[点击下载](https://www.shinnku.com/api/download/zd/0501-1000/[130927][ALICESOFT]%20%E5%85%B0%E6%96%AF01%20V1.0.rar)
 11. [梓澪の妙妙屋](https://zi0.cc/) & `Windows`【摘要版】：[点击下载](https://zi0.cc/d/%60%E3%80%90%E5%90%88%E9%9B%86%E7%B3%BB%E5%88%97%E3%80%91/%E5%8D%97%2BGalGame%E6%B1%89%E5%8C%96%E5%8C%BA%E5%85%A8%E5%8C%BA%E8%B5%84%E6%BA%90%E5%A4%87%E4%BB%BD/1/03/%5BAliceSoft%5D%20Rance%201%20-%20Digest%20Edition%20%20%E5%85%B0%E6%96%AF%EF%BC%91%E6%91%98%E8%A6%81%E7%89%88%20%E6%B1%89%E5%8C%96%E7%A1%AC%E7%9B%98%E7%89%88%5B%E5%8D%A1%E6%8B%89%E4%BF%9D%E6%8A%A4%E5%8D%8F%E4%BC%9A%E6%B1%89%E5%8C%96%E7%BB%84%5D.zip?sign=6oyBHbsb1CYIp-P_FnxDLhlX1qumlnKXEowL2_pyQeM=:0)
-12. [稻荷ACG](https://amoebi.com/) & `Windows`【重制版】：[点击下载](https://download.zrflie1.pw/PC/%E5%85%B0%E6%96%AF/%E5%85%B0%E6%96%AF01+%E5%AF%BB%E6%89%BE%E5%B0%8F%E5%85%89+%E9%87%8D%E5%88%B6%E7%89%88.7z)
+12. [稻荷GAL](https://inarigal.com/) & `Windows`【重制版】：[点击下载](https://download.zrflie1.pw/PC/%E5%85%B0%E6%96%AF/%E5%85%B0%E6%96%AF01+%E5%AF%BB%E6%89%BE%E5%B0%8F%E5%85%89+%E9%87%8D%E5%88%B6%E7%89%88.7z)
 
 ### 02 反叛的少女们
 
-1. [TouchGAL](https://www.touchgal.io/) & `Windows`：[点击下载](https://pan.touchgal.net/s/QQyt6)，密码：`touchgal`
+1. [TouchGAL](https://www.touchgal.us/) & `Windows`：[点击下载](https://pan.touchgal.net/s/QQyt6)，密码：`touchgal`
 2. [NekoGAL](https://www.nekogal.com/) & `Windows`：[点击下载](https://pan.nekogal.top/s/PkxcB)
-3. [Hikarinagi](https://www.hikarinagi.com/) & `Windows`：[点击下载](https://pan.himoe.uk/s/ojNIL)，密码：`hikarinagi.com`
-4. [Hikarinagi](https://www.hikarinagi.com/) & `Windows`：[点击下载](https://pan.himoe.uk/s/wpnJiz)，密码：`hikarinagi.com`
-5. [失落小站](https://www.shinnku.com/) & `Windows`：[点击下载](https://www.shinnku.com/api/download/0/win/%E5%85%B0%E6%96%AF02%20%E5%8F%8D%E5%8F%9B%E7%9A%84%E5%B0%91%E5%A5%B3%E4%BB%AC.7z)
-6. [失落小站](https://www.shinnku.com/) & `Windows`：[点击下载](https://www.shinnku.com/api/download/zd/0501-1000/[091218][ALICESOFT]%20%E5%85%B0%E6%96%AF02%20V1.1.rar)
-7. [稻荷ACG](https://amoebi.com/) & `Windows`：[点击下载](https://download.zrflie1.pw/PC/%E5%85%B0%E6%96%AF/%E5%85%B0%E6%96%AF02+%E5%8F%8D%E5%8F%9B%E7%9A%84%E5%B0%91%E5%A5%B3%E4%BB%AC.7z)
+3. [Hikarinagi](https://www.hikarinagi.net/) & `Windows`：[点击下载](https://pan.yurari.moe/s/ojNIL)，密码：`hikarinagi.com`
+4. [Hikarinagi](https://www.hikarinagi.net/) & `Windows`：[点击下载](https://pan.yurari.moe/s/wpnJiz)，密码：`hikarinagi.com`
+5. [真红小站](https://www.shinnku.com/) & `Windows`：[点击下载](https://www.shinnku.com/api/download/0/win/%E5%85%B0%E6%96%AF02%20%E5%8F%8D%E5%8F%9B%E7%9A%84%E5%B0%91%E5%A5%B3%E4%BB%AC.7z)
+6. [真红小站](https://www.shinnku.com/) & `Windows`：[点击下载](https://www.shinnku.com/api/download/zd/0501-1000/[091218][ALICESOFT]%20%E5%85%B0%E6%96%AF02%20V1.1.rar)
+7. [稻荷GAL](https://inarigal.com/) & `Windows`：[点击下载](https://download.zrflie1.pw/PC/%E5%85%B0%E6%96%AF/%E5%85%B0%E6%96%AF02+%E5%8F%8D%E5%8F%9B%E7%9A%84%E5%B0%91%E5%A5%B3%E4%BB%AC.7z)
 8. [梓澪の妙妙屋](https://zi0.cc/) & `Windows`【集锦】：[点击下载](https://zi0.cc/d/%60%E3%80%90%E5%90%88%E9%9B%86%E7%B3%BB%E5%88%97%E3%80%91/%E6%B1%89%E5%8C%96galgame%E5%90%88%E9%9B%86/2024/04/%5B%E3%82%A2%E3%83%AA%E3%82%B9%E3%82%BD%E3%83%95%E3%83%88%20%26%20Alpharobo%20%26%20BabaJeanmel%5D%20%E3%83%A9%E3%83%B3%E3%82%B9II%20%E5%85%B0%E6%96%AF%EF%BC%92%E9%9B%86%E9%94%A6%20%5B%E5%8D%A1%E6%8B%89%E4%BF%9D%E6%8A%A4%E5%8D%8F%E4%BC%9A%5D.zip?sign=Zy9ATJiLJgBpBG0i8tqM4FZQjBQOdNu6NTPgbfQCvGk=:0)
 9. [我的Galgame资源发布站](https://www.ttloli.com/) & `Windows`：[点击下载](https://www.ttloli.com/lansi2-fanpandeshaonvmen.html)，密码：`忧郁的弟弟`、`忧郁的loli`
 
 ### 03 利萨斯陷落
 
-1. [TouchGAL](https://www.touchgal.io/) & `Windows`：[点击下载](https://pan.touchgal.net/s/eYXTx)，密码：`muko`、`touchgal`
+1. [TouchGAL](https://www.touchgal.us/) & `Windows`：[点击下载](https://pan.touchgal.net/s/eYXTx)，密码：`muko`、`touchgal`
 2. [NekoGAL](https://www.nekogal.com/) & `Windows`：[点击下载](https://pan.nekogal.top/s/XMzhJ)
-3. [Hikarinagi](https://www.hikarinagi.com/) & `Windows`：[点击下载](https://pan.himoe.uk/s/r9kI0)，密码：`hikarinagi.com`
-4. [Hikarinagi](https://www.hikarinagi.com/) & `Windows`：[点击下载](https://pan.himoe.uk/s/qxA3FP)，密码：`hikarinagi.com`
-5. [失落小站](https://www.shinnku.com/) & `Windows`：[点击下载](https://www.shinnku.com/api/download/0/win/%E5%85%B0%E6%96%AF03%20%E5%88%A9%E8%90%A8%E6%96%AF%E9%99%B7%E8%90%BD.7z)
-6. [失落小站](https://www.shinnku.com/) & `Windows`：[点击下载](https://www.shinnku.com/api/download/zd/1001-1500/[150828][ALICESOFT]%20%E5%85%B0%E6%96%AF03.rar)
-7. [稻荷ACG](https://amoebi.com/) & `Windows`：[点击下载](https://download.zrflie1.pw/PC/%E5%85%B0%E6%96%AF/%E5%85%B0%E6%96%AF03+%E5%88%A9%E8%90%A8%E6%96%AF%E9%99%B7%E8%90%BD.7z)
+3. [Hikarinagi](https://www.hikarinagi.net/) & `Windows`：[点击下载](https://pan.yurari.moe/s/r9kI0)，密码：`hikarinagi.com`
+4. [Hikarinagi](https://www.hikarinagi.net/) & `Windows`：[点击下载](https://pan.yurari.moe/s/qxA3FP)，密码：`hikarinagi.com`
+5. [真红小站](https://www.shinnku.com/) & `Windows`：[点击下载](https://www.shinnku.com/api/download/0/win/%E5%85%B0%E6%96%AF03%20%E5%88%A9%E8%90%A8%E6%96%AF%E9%99%B7%E8%90%BD.7z)
+6. [真红小站](https://www.shinnku.com/) & `Windows`：[点击下载](https://www.shinnku.com/api/download/zd/1001-1500/[150828][ALICESOFT]%20%E5%85%B0%E6%96%AF03.rar)
+7. [稻荷GAL](https://inarigal.com/) & `Windows`：[点击下载](https://download.zrflie1.pw/PC/%E5%85%B0%E6%96%AF/%E5%85%B0%E6%96%AF03+%E5%88%A9%E8%90%A8%E6%96%AF%E9%99%B7%E8%90%BD.7z)
 8. [我的Galgame资源发布站](https://www.ttloli.com/) & `Windows`【重制版】：[点击下载](https://www.ttloli.com/lansi03-zhongzhiban.html)，密码：`忧郁的弟弟`、`忧郁的loli`
 
 ### 04 教团的遗产
 
-1. [TouchGAL](https://www.touchgal.io/) & `Windows`：[点击下载](https://pan.touchgal.net/s/gygpfL)，密码：`touchgal`
+1. [TouchGAL](https://www.touchgal.us/) & `Windows`：[点击下载](https://pan.touchgal.net/s/gygpfL)，密码：`touchgal`
 2. [NekoGAL](https://www.nekogal.com/) & `Windows`：[点击下载](https://pan.nekogal.top/s/7ZQFw)
-3. [Hikarinagi](https://www.hikarinagi.com/) & `Windows`：[点击下载](https://pan.himoe.uk/s/qxokTP)，密码：`hikarinagi.com`
+3. [Hikarinagi](https://www.hikarinagi.net/) & `Windows`：[点击下载](https://pan.yurari.moe/s/qxokTP)，密码：`hikarinagi.com`
 4. [梓澪の妙妙屋](https://zi0.cc/) & `Windows`：[点击下载](https://zi0.cc/d/%60%E3%80%90%E5%90%88%E9%9B%86%E7%B3%BB%E5%88%97%E3%80%91/%E5%8D%97%2BGalGame%E6%B1%89%E5%8C%96%E5%8C%BA%E5%85%A8%E5%8C%BA%E8%B5%84%E6%BA%90%E5%A4%87%E4%BB%BD/1/03/%5BALICESOFT%5D%20RanceIV%EF%BC%8D%E6%95%99%E5%9B%A3%E3%81%AE%E9%81%BA%E7%94%A3%EF%BC%8D%20%E5%85%B0%E6%96%AF%EF%BC%A9%EF%BC%B6%EF%BC%8D%E6%95%99%E5%9B%A2%E7%9A%84%E9%81%97%E4%BA%A7%EF%BC%8D%20%E6%B1%89%E5%8C%96%E7%A1%AC%E7%9B%98%E7%89%88%5B%E5%8D%A1%E6%8B%89%E4%BF%9D%E6%8A%A4%E5%8D%8F%E4%BC%9A%E6%B1%89%E5%8C%96%5D.zip?sign=PvIc2f96tngT34PDw496cAFg1au6aMCn6za2zqMkZzA=:0)
 
 ### 4.1 拯救制药厂
 
-1. [TouchGAL](https://www.touchgal.io/) & `Windows`：[点击下载](https://pan.touchgal.net/s/kaLTg)，密码：`touchgal`
+1. [TouchGAL](https://www.touchgal.us/) & `Windows`：[点击下载](https://pan.touchgal.net/s/kaLTg)，密码：`touchgal`
 2. [NekoGAL](https://www.nekogal.com/) & `Windows`：[点击下载](https://pan.nekogal.top/s/Ql2cG)
-3. [Hikarinagi](https://www.hikarinagi.com/) & `Windows`：[点击下载](https://pan.himoe.uk/s/rkpWu0)，密码：`hikarinagi.com`
-4. [失落小站](https://www.shinnku.com/) & `Windows`：[点击下载](https://www.shinnku.com/api/download/0/win/%E5%85%B0%E6%96%AF%204.1%EF%BD%9E%E6%8B%AF%E6%95%91%E5%88%B6%E8%8D%AF%E5%8E%82v1.01.7z)
-5. [失落小站](https://www.shinnku.com/) & `Windows`：[点击下载](https://www.shinnku.com/api/download/zd/2001-2500/[951201][ALICESOFT]%20%E5%85%B0%E6%96%AF%204.1%EF%BD%9E%E6%8B%AF%E6%95%91%E5%88%B6%E8%8D%AF%E5%8E%82%EF%BC%81%EF%BD%9E.rar)
+3. [Hikarinagi](https://www.hikarinagi.net/) & `Windows`：[点击下载](https://pan.yurari.moe/s/rkpWu0)，密码：`hikarinagi.com`
+4. [真红小站](https://www.shinnku.com/) & `Windows`：[点击下载](https://www.shinnku.com/api/download/0/win/%E5%85%B0%E6%96%AF%204.1%EF%BD%9E%E6%8B%AF%E6%95%91%E5%88%B6%E8%8D%AF%E5%8E%82v1.01.7z)
+5. [真红小站](https://www.shinnku.com/) & `Windows`：[点击下载](https://www.shinnku.com/api/download/zd/2001-2500/[951201][ALICESOFT]%20%E5%85%B0%E6%96%AF%204.1%EF%BD%9E%E6%8B%AF%E6%95%91%E5%88%B6%E8%8D%AF%E5%8E%82%EF%BC%81%EF%BD%9E.rar)
 6. [梓澪の妙妙屋](https://zi0.cc/) & `Windows`：[点击下载](https://zi0.cc/d/%60%E3%80%90%E5%90%88%E9%9B%86%E7%B3%BB%E5%88%97%E3%80%91/%E5%8D%97%2BGalGame%E6%B1%89%E5%8C%96%E5%8C%BA%E5%85%A8%E5%8C%BA%E8%B5%84%E6%BA%90%E5%A4%87%E4%BB%BD/1/03/%5BAlice%20Soft%5D%20%E3%83%A9%E3%83%B3%E3%82%B94.1%20-%E3%81%8A%E8%96%AC%E5%B7%A5%E5%A0%B4%E3%82%92%E6%95%91%E3%81%88!%20%20%E5%85%B0%E6%96%AF%204.1%20%EF%BD%9E%E6%8B%AF%E6%95%91%E5%88%B6%E8%8D%AF%E5%8E%82%EF%BC%81%E6%B1%89%E5%8C%96%E7%A1%AC%E7%9B%98%E7%89%88%5B%E5%8D%A1%E6%8B%89%E4%BF%9D%E6%8A%A4%E5%8D%8F%E4%BC%9A%E6%B1%89%E5%8C%96%E7%BB%84%5D.zip?sign=cxQjV3mD1pzEP2dTMFhKieZSzZqH753SjKmcIJNYsEQ=:0)
-7. [稻荷ACG](https://amoebi.com/) & `Windows`：[点击下载](https://download.zrflie1.pw/PC/%E5%85%B0%E6%96%AF/%E5%85%B0%E6%96%AF+4.1%EF%BD%9E%E6%8B%AF%E6%95%91%E5%88%B6%E8%8D%AF%E5%8E%82%EF%BC%81.7z)
+7. [稻荷GAL](https://inarigal.com/) & `Windows`：[点击下载](https://download.zrflie1.pw/PC/%E5%85%B0%E6%96%AF/%E5%85%B0%E6%96%AF+4.1%EF%BD%9E%E6%8B%AF%E6%95%91%E5%88%B6%E8%8D%AF%E5%8E%82%EF%BC%81.7z)
 
 ### 4.2 天使组
 
-1. [TouchGAL](https://www.touchgal.io/) & `Windows`：[点击下载](https://pan.touchgal.net/s/nnJcY)，密码：`touchgal`
+1. [TouchGAL](https://www.touchgal.us/) & `Windows`：[点击下载](https://pan.touchgal.net/s/nnJcY)，密码：`touchgal`
 2. [NekoGAL](https://www.nekogal.com/) & `Windows`：[点击下载](https://pan.nekogal.top/s/mVzCn)
 3. [NekoGAL](https://www.nekogal.com/) & `Windows`：[点击下载](https://pan.nekogal.top/s/nLpu4)
-4. [Hikarinagi](https://www.hikarinagi.com/) & `Windows`：[点击下载](https://pan.himoe.uk/s/v2wMIj)，密码：`hikarinagi.com`
-5. [失落小站](https://www.shinnku.com/) & `Windows`：[点击下载](https://www.shinnku.com/api/download/0/win/%E5%85%B0%E6%96%AF%204.2%EF%BD%9E%E5%A4%A9%E4%BD%BF%E7%BB%84.7z)
-6. [失落小站](https://www.shinnku.com/) & `Windows`：[点击下载](https://www.shinnku.com/api/download/zd/2001-2500/[951208][ALICESOFT]%20%E5%85%B0%E6%96%AF%204.2%EF%BD%9E%E5%A4%A9%E4%BD%BF%E7%BB%84%EF%BD%9E.rar)
+4. [Hikarinagi](https://www.hikarinagi.net/) & `Windows`：[点击下载](https://pan.yurari.moe/s/v2wMIj)，密码：`hikarinagi.com`
+5. [真红小站](https://www.shinnku.com/) & `Windows`：[点击下载](https://www.shinnku.com/api/download/0/win/%E5%85%B0%E6%96%AF%204.2%EF%BD%9E%E5%A4%A9%E4%BD%BF%E7%BB%84.7z)
+6. [真红小站](https://www.shinnku.com/) & `Windows`：[点击下载](https://www.shinnku.com/api/download/zd/2001-2500/[951208][ALICESOFT]%20%E5%85%B0%E6%96%AF%204.2%EF%BD%9E%E5%A4%A9%E4%BD%BF%E7%BB%84%EF%BD%9E.rar)
 7. [梓澪の妙妙屋](https://zi0.cc/) & `Windows`：[点击下载](https://zi0.cc/d/%60%E3%80%90%E5%90%88%E9%9B%86%E7%B3%BB%E5%88%97%E3%80%91/%E5%8D%97%2BGalGame%E6%B1%89%E5%8C%96%E5%8C%BA%E5%85%A8%E5%8C%BA%E8%B5%84%E6%BA%90%E5%A4%87%E4%BB%BD/1/03/%5BAlice%20Soft%5D%20%E3%83%A9%E3%83%B3%E3%82%B94.2%20-%E3%82%A8%E3%83%B3%E3%82%B8%E3%82%A7%E3%83%AB%E7%B5%84-%20%20%E5%85%B0%E6%96%AF%204.2%EF%BD%9E%E5%A4%A9%E4%BD%BF%E7%BB%84%EF%BD%9E%E6%B1%89%E5%8C%96%E7%A1%AC%E7%9B%98%E7%89%88%5B%E5%8D%A1%E6%8B%89%E4%BF%9D%E6%8A%A4%E5%8D%8F%E4%BC%9A%E6%B1%89%E5%8C%96%E7%BB%84%5D.zip?sign=SXayTwZY-v_Yogs3n2WJ5B3d_BR9E1tbPqDZviTIh5M=:0)
-8. [稻荷ACG](https://amoebi.com/) & `Windows`：[点击下载](https://download.zrflie1.pw/PC/%E5%85%B0%E6%96%AF/%E5%85%B0%E6%96%AF+4.2%EF%BD%9E%E5%A4%A9%E4%BD%BF%E7%BB%84%EF%BD%9E.7z)
+8. [稻荷GAL](https://inarigal.com/) & `Windows`：[点击下载](https://download.zrflie1.pw/PC/%E5%85%B0%E6%96%AF/%E5%85%B0%E6%96%AF+4.2%EF%BD%9E%E5%A4%A9%E4%BD%BF%E7%BB%84%EF%BD%9E.7z)
 
 ### 鬼畜王兰斯
 
-1. [TouchGAL](https://www.touchgal.io/) & `Windows`：[点击下载](https://pan.touchgal.net/s/Nj5CO)，密码：`touchgal`
+1. [TouchGAL](https://www.touchgal.us/) & `Windows`：[点击下载](https://pan.touchgal.net/s/Nj5CO)，密码：`touchgal`
 2. [NekoGAL](https://www.nekogal.com/) & `Windows`：[点击下载](https://pan.nekogal.top/s/qJ2te)
-3. [Hikarinagi](https://www.hikarinagi.com/) & `Windows`：[点击下载](https://pan.himoe.uk/s/M861S0)，密码：`hikarinagi.com`
-4. [失落小站](https://www.shinnku.com/) & `Windows`：[点击下载](https://www.shinnku.com/api/download/0/win/%E9%AC%BC%E7%95%9C%E7%8E%8B%E5%85%B0%E6%96%AF.7z)
-5. [失落小站](https://www.shinnku.com/) & `Windows`【汉化测试版】：[点击下载](https://www.shinnku.com/api/download/zd/2001-2500/[961219][ALICESOFT]%20%E9%AC%BC%E7%95%9C%E5%85%B0%E6%96%AF%E6%B1%89%E5%8C%96%E6%B5%8B%E8%AF%95%E7%89%88.rar)
+3. [Hikarinagi](https://www.hikarinagi.net/) & `Windows`：[点击下载](https://pan.yurari.moe/s/M861S0)，密码：`hikarinagi.com`
+4. [真红小站](https://www.shinnku.com/) & `Windows`：[点击下载](https://www.shinnku.com/api/download/0/win/%E9%AC%BC%E7%95%9C%E7%8E%8B%E5%85%B0%E6%96%AF.7z)
+5. [真红小站](https://www.shinnku.com/) & `Windows`【汉化测试版】：[点击下载](https://www.shinnku.com/api/download/zd/2001-2500/[961219][ALICESOFT]%20%E9%AC%BC%E7%95%9C%E5%85%B0%E6%96%AF%E6%B1%89%E5%8C%96%E6%B5%8B%E8%AF%95%E7%89%88.rar)
 
 ### 5D 孤单的少女
 
-1. [TouchGAL](https://www.touchgal.io/) & `Windows`：[点击下载](https://pan.touchgal.net/s/JkkrSa)，密码：`touchgal`
+1. [TouchGAL](https://www.touchgal.us/) & `Windows`：[点击下载](https://pan.touchgal.net/s/JkkrSa)，密码：`touchgal`
 2. [NekoGAL](https://www.nekogal.com/) & `Windows`：[点击下载](https://pan.nekogal.top/s/DgPsN)
-3. [Hikarinagi](https://www.hikarinagi.com/) & `Windows`：[点击下载](https://pan.himoe.uk/s/wrmUz)，密码：`hikarinagi.com`
-4. [Hikarinagi](https://www.hikarinagi.com/) & `Windows`：[点击下载](https://pan.himoe.uk/s/o2AzuL)，密码：`hikarinagi.com`
-5. [失落小站](https://www.shinnku.com/) & `Windows`：[点击下载](https://www.shinnku.com/api/download/0/win/%E5%85%B0%E6%96%AF5D%20%E5%AD%A4%E5%8D%95%E7%9A%84%E5%A5%B3%E5%AD%A9%E5%AD%90.7z)
-6. [失落小站](https://www.shinnku.com/) & `Windows`：[点击下载](https://www.shinnku.com/api/download/zd/0001-0500/[021025][ALICESOFT]%20%E5%85%B0%E6%96%AF5D.rar)
-7. [稻荷ACG](https://amoebi.com/) & `Windows`：[点击下载](https://download.zrflie1.pw/PC/%E5%85%B0%E6%96%AF/%E5%85%B0%E6%96%AF5D+%E5%AD%A4%E5%8D%95%E7%9A%84%E5%A5%B3%E5%AD%A9%E5%AD%90.7z)
+3. [Hikarinagi](https://www.hikarinagi.net/) & `Windows`：[点击下载](https://pan.yurari.moe/s/wrmUz)，密码：`hikarinagi.com`
+4. [Hikarinagi](https://www.hikarinagi.net/) & `Windows`：[点击下载](https://pan.yurari.moe/s/o2AzuL)，密码：`hikarinagi.com`
+5. [真红小站](https://www.shinnku.com/) & `Windows`：[点击下载](https://www.shinnku.com/api/download/0/win/%E5%85%B0%E6%96%AF5D%20%E5%AD%A4%E5%8D%95%E7%9A%84%E5%A5%B3%E5%AD%A9%E5%AD%90.7z)
+6. [真红小站](https://www.shinnku.com/) & `Windows`：[点击下载](https://www.shinnku.com/api/download/zd/0001-0500/[021025][ALICESOFT]%20%E5%85%B0%E6%96%AF5D.rar)
+7. [稻荷GAL](https://inarigal.com/) & `Windows`：[点击下载](https://download.zrflie1.pw/PC/%E5%85%B0%E6%96%AF/%E5%85%B0%E6%96%AF5D+%E5%AD%A4%E5%8D%95%E7%9A%84%E5%A5%B3%E5%AD%A9%E5%AD%90.7z)
 8. [我的Galgame资源发布站](https://www.ttloli.com/) & `Windows`：[点击下载](https://www.ttloli.com/lansi5d.html)，密码：`忧郁的弟弟`、`忧郁的loli`
 
 ### 06 赛斯崩坏
 
-1. [TouchGAL](https://www.touchgal.io/) & `Windows`：[点击下载](https://pan.touchgal.net/s/yd0IY)，密码：`touchgal`
+1. [TouchGAL](https://www.touchgal.us/) & `Windows`：[点击下载](https://pan.touchgal.net/s/yd0IY)，密码：`touchgal`
 2. [NekoGAL](https://www.nekogal.com/) & `Windows`：[点击下载](https://pan.nekogal.top/s/GzYsx)
-3. [Hikarinagi](https://www.hikarinagi.com/) & `Windows`：[点击下载](https://pan.himoe.uk/s/mYAHK)，密码：`hikarinagi.com`
-4. [Hikarinagi](https://www.hikarinagi.com/) & `Windows`：[点击下载](https://pan.himoe.uk/s/yPpVUz)，密码：`hikarinagi.com`
-5. [失落小站](https://www.shinnku.com/) & `Windows`：[点击下载](https://www.shinnku.com/api/download/0/win/%E5%85%B0%E6%96%AF06%20%E8%B5%9B%E6%96%AF%E5%B4%A9%E5%9D%8F.7z)
-6. [失落小站](https://www.shinnku.com/) & `Windows`：[点击下载](https://www.shinnku.com/api/download/zd/0001-0500/[040827][ALICESOFT]%20%E5%85%B0%E6%96%AFRance6%20V1.10.rar)
-7. [稻荷ACG](https://amoebi.com/) & `Windows`：[点击下载](https://download.zrflie1.pw/PC/%E5%85%B0%E6%96%AF/%E5%85%B0%E6%96%AF06+%E8%B5%9B%E6%96%AF%E5%B4%A9%E5%9D%8F.7z)
+3. [Hikarinagi](https://www.hikarinagi.net/) & `Windows`：[点击下载](https://pan.yurari.moe/s/mYAHK)，密码：`hikarinagi.com`
+4. [Hikarinagi](https://www.hikarinagi.net/) & `Windows`：[点击下载](https://pan.yurari.moe/s/yPpVUz)，密码：`hikarinagi.com`
+5. [真红小站](https://www.shinnku.com/) & `Windows`：[点击下载](https://www.shinnku.com/api/download/0/win/%E5%85%B0%E6%96%AF06%20%E8%B5%9B%E6%96%AF%E5%B4%A9%E5%9D%8F.7z)
+6. [真红小站](https://www.shinnku.com/) & `Windows`：[点击下载](https://www.shinnku.com/api/download/zd/0001-0500/[040827][ALICESOFT]%20%E5%85%B0%E6%96%AFRance6%20V1.10.rar)
+7. [稻荷GAL](https://inarigal.com/) & `Windows`：[点击下载](https://download.zrflie1.pw/PC/%E5%85%B0%E6%96%AF/%E5%85%B0%E6%96%AF06+%E8%B5%9B%E6%96%AF%E5%B4%A9%E5%9D%8F.7z)
 8. [我的Galgame资源发布站](https://www.ttloli.com/) & `Windows`：[点击下载](https://www.ttloli.com/lansi6.html)，密码：`忧郁的弟弟`、`忧郁的loli`
 
 ### 06 后日谈
 
-1. [TouchGAL](https://www.touchgal.io/) & `Windows`：[点击下载](https://pan.touchgal.net/s/yd0IY)，密码：`touchgal`
-2. [TouchGAL](https://www.touchgal.io/) & `Windows`：[点击下载](https://pan.touchgal.net/s/JlBqHa)，密码：`touchgal`
-3. [Hikarinagi](https://www.hikarinagi.com/) & `Windows`：[点击下载](https://pan.himoe.uk/s/mYAHK)，密码：`hikarinagi.com`
-4. [Hikarinagi](https://www.hikarinagi.com/) & `Windows`：[点击下载](https://pan.himoe.uk/s/yPpVUz)，密码：`hikarinagi.com`
-5. [失落小站](https://www.shinnku.com/) & `Windows`：[点击下载](https://www.shinnku.com/api/download/0/win/%E5%85%B0%E6%96%AF06%20%E5%90%8E%E6%97%A5%E8%B0%88.7z)
-6. [失落小站](https://www.shinnku.com/) & `Windows`：[点击下载](https://www.shinnku.com/api/download/zd/0001-0500/[041217][ALICESOFT]%20%E5%85%B0%E6%96%AF06%20%E5%90%8E%E6%97%A5%E8%B0%88.rar)
+1. [TouchGAL](https://www.touchgal.us/) & `Windows`：[点击下载](https://pan.touchgal.net/s/yd0IY)，密码：`touchgal`
+2. [TouchGAL](https://www.touchgal.us/) & `Windows`：[点击下载](https://pan.touchgal.net/s/JlBqHa)，密码：`touchgal`
+3. [Hikarinagi](https://www.hikarinagi.net/) & `Windows`：[点击下载](https://pan.yurari.moe/s/mYAHK)，密码：`hikarinagi.com`
+4. [Hikarinagi](https://www.hikarinagi.net/) & `Windows`：[点击下载](https://pan.yurari.moe/s/yPpVUz)，密码：`hikarinagi.com`
+5. [真红小站](https://www.shinnku.com/) & `Windows`：[点击下载](https://www.shinnku.com/api/download/0/win/%E5%85%B0%E6%96%AF06%20%E5%90%8E%E6%97%A5%E8%B0%88.7z)
+6. [真红小站](https://www.shinnku.com/) & `Windows`：[点击下载](https://www.shinnku.com/api/download/zd/0001-0500/[041217][ALICESOFT]%20%E5%85%B0%E6%96%AF06%20%E5%90%8E%E6%97%A5%E8%B0%88.rar)
 7. [我的Galgame资源发布站](https://www.ttloli.com/) & `Windows`：[点击下载](https://www.ttloli.com/lansi6houritan.html)，密码：`忧郁的弟弟`、`忧郁的loli`
-8. [稻荷ACG](https://amoebi.com/) & `Windows`：[点击下载](https://download.zrflie1.pw/PC/%E5%85%B0%E6%96%AF/%E5%85%B0%E6%96%AF06+%E5%90%8E%E6%97%A5%E8%B0%88.7z)
+8. [稻荷GAL](https://inarigal.com/) & `Windows`：[点击下载](https://download.zrflie1.pw/PC/%E5%85%B0%E6%96%AF/%E5%85%B0%E6%96%AF06+%E5%90%8E%E6%97%A5%E8%B0%88.7z)
 
 ### 战国兰斯
 
-1. [TouchGAL](https://www.touchgal.io/) & `Windows`：[点击下载](https://pan.touchgal.net/s/yQDCY)，密码：`muko`、`touchgal`
+1. [TouchGAL](https://www.touchgal.us/) & `Windows`：[点击下载](https://pan.touchgal.net/s/yQDCY)，密码：`muko`、`touchgal`
 2. [NekoGAL](https://www.nekogal.com/) & `Windows`：[点击下载](https://pan.nekogal.top/s/ZNmT0)
-3. [Hikarinagi](https://www.hikarinagi.com/) & `Windows`：[点击下载](https://pan.himoe.uk/s/o2mkuL)，密码：`hikarinagi.com`
-4. [失落小站](https://www.shinnku.com/) & `Windows`：[点击下载](https://www.shinnku.com/api/download/zd/0001-0500/[061215][ALICESOFT]%20%E5%85%B0%E6%96%AF07%20%E6%88%98%E5%9B%BD%E5%85%B0%E6%96%AF.rar)
-5. [失落小站](https://www.shinnku.com/) & `Windows`：[点击下载](https://www.shinnku.com/api/download/zd/1501-2000/[210209][ALICESOFT]%20%E6%88%98%E5%9B%BD%E5%85%B0%E6%96%AF%20%E4%B8%AD%E6%96%87%E7%89%88(DLsite%E5%AE%98%E4%B8%AD).rar)
-6. [失落小站](https://www.shinnku.com/) & `Windows`：[点击下载](https://www.shinnku.com/api/download/raw1/2021%E5%B9%B42%E6%9C%88/[210209][ALICESOFT]%20%E6%88%98%E5%9B%BD%E5%85%B0%E6%96%AF%20%E4%B8%AD%E6%96%87%E7%89%88%20(DLsite%E5%AE%98%E4%B8%AD).rar)
+3. [Hikarinagi](https://www.hikarinagi.net/) & `Windows`：[点击下载](https://pan.yurari.moe/s/o2mkuL)，密码：`hikarinagi.com`
+4. [真红小站](https://www.shinnku.com/) & `Windows`：[点击下载](https://www.shinnku.com/api/download/zd/0001-0500/[061215][ALICESOFT]%20%E5%85%B0%E6%96%AF07%20%E6%88%98%E5%9B%BD%E5%85%B0%E6%96%AF.rar)
+5. [真红小站](https://www.shinnku.com/) & `Windows`：[点击下载](https://www.shinnku.com/api/download/zd/1501-2000/[210209][ALICESOFT]%20%E6%88%98%E5%9B%BD%E5%85%B0%E6%96%AF%20%E4%B8%AD%E6%96%87%E7%89%88(DLsite%E5%AE%98%E4%B8%AD).rar)
+6. [真红小站](https://www.shinnku.com/) & `Windows`：[点击下载](https://www.shinnku.com/api/download/raw1/2021%E5%B9%B42%E6%9C%88/[210209][ALICESOFT]%20%E6%88%98%E5%9B%BD%E5%85%B0%E6%96%AF%20%E4%B8%AD%E6%96%87%E7%89%88%20(DLsite%E5%AE%98%E4%B8%AD).rar)
 7. [梓澪の妙妙屋](https://zi0.cc/) & `Windows`：[点击下载](https://zi0.cc/d/%60%E3%80%90%E5%90%88%E9%9B%86%E7%B3%BB%E5%88%97%E3%80%91/%E6%B5%AE%E5%A3%AB%E5%BE%B7galgame%E6%B8%B8%E6%88%8F%E5%90%88%E9%9B%86/%E6%B5%AE%E5%A3%AB%E5%BE%B7galgame%E6%B8%B8%E6%88%8F%E5%90%88%E9%9B%86-1/2021%E5%B9%B42%E6%9C%88/%5B210209%5D%5BALICESOFT%5D%20%E6%88%98%E5%9B%BD%E5%85%B0%E6%96%AF%20%E4%B8%AD%E6%96%87%E7%89%88%20(DLsite%E5%AE%98%E4%B8%AD).rar?sign=GdymWzkY7fP3qBJ5kUGT0aV2PJOFjwR7x3zU8r5v2xk=:0)
 8. [梓澪の妙妙屋](https://zi0.cc/) & `Windows`：[点击下载](https://zi0.cc/d/%60%E3%80%90%E5%90%88%E9%9B%86%E7%B3%BB%E5%88%97%E3%80%91/%E5%8D%97%2BGalGame%E6%B1%89%E5%8C%96%E5%8C%BA%E5%85%A8%E5%8C%BA%E8%B5%84%E6%BA%90%E5%A4%87%E4%BB%BD/1/03/%5BAliceSoft%5D%20%E6%88%A6%E5%9B%BD%E3%83%A9%E3%83%B3%E3%82%B9%20%20%E6%88%98%E5%9B%BD%E5%85%B0%E6%96%AF%20%E6%B1%89%E5%8C%96%E7%A1%AC%E7%9B%98%E7%89%88%20%5B%E7%88%B1%E4%B8%BD%E4%B8%9D%E6%B1%89%E5%8C%96%E7%BB%84%5D.zip?sign=pd1wmV9ayYQeNzObOingnaXEe6-WwplssZpaeEKT1ug=:0)
 9. [我的Galgame资源发布站](https://www.ttloli.com/) & `Windows`：[点击下载](https://www.ttloli.com/zhanguolansi-lansi7.html)，密码：`忧郁的弟弟`、`忧郁的loli`
-10. [稻荷ACG](https://amoebi.com/) & `Windows`：[点击下载](https://download.zrflie1.pw/PC/%E6%88%98%E5%9B%BD%E5%85%B0%E6%96%AF.7z)
+10. [稻荷GAL](https://inarigal.com/) & `Windows`：[点击下载](https://download.zrflie1.pw/PC/%E6%88%98%E5%9B%BD%E5%85%B0%E6%96%AF.7z)
 
 ### 战国兰斯 三个乱斩乱刺乱烧的家伙
 
-1. [TouchGAL](https://www.touchgal.io/) & `Windows`：[点击下载](https://pan.touchgal.net/s/GDlaiX)，密码：`touchgal`
+1. [TouchGAL](https://www.touchgal.us/) & `Windows`：[点击下载](https://pan.touchgal.net/s/GDlaiX)，密码：`touchgal`
 2. [NekoGAL](https://www.nekogal.com/) & `Windows`：[点击下载](https://pan.nekogal.top/s/aJmsp)
-3. [Hikarinagi](https://www.hikarinagi.com/) & `Windows`：[点击下载](https://pan.himoe.uk/s/ngDfq)，密码：`hikarinagi.com`
-4. [Hikarinagi](https://www.hikarinagi.com/) & `Windows`：[点击下载](https://pan.himoe.uk/s/xkoJh4)，密码：`hikarinagi.com`
-5. [失落小站](https://www.shinnku.com/) & `Windows`：[点击下载](https://www.shinnku.com/api/download/0/win/%E6%88%98%E5%9B%BD%E5%85%B0%E6%96%AF%20-%20%E4%B8%89%E4%B8%AA%E4%B9%B1%E6%96%A9%E4%B9%B1%E5%88%BA%E4%B9%B1%E7%83%A7%E7%9A%84%E5%AE%B6%E4%BC%99.7z)
+3. [Hikarinagi](https://www.hikarinagi.net/) & `Windows`：[点击下载](https://pan.yurari.moe/s/ngDfq)，密码：`hikarinagi.com`
+4. [Hikarinagi](https://www.hikarinagi.net/) & `Windows`：[点击下载](https://pan.yurari.moe/s/xkoJh4)，密码：`hikarinagi.com`
+5. [真红小站](https://www.shinnku.com/) & `Windows`：[点击下载](https://www.shinnku.com/api/download/0/win/%E6%88%98%E5%9B%BD%E5%85%B0%E6%96%AF%20-%20%E4%B8%89%E4%B8%AA%E4%B9%B1%E6%96%A9%E4%B9%B1%E5%88%BA%E4%B9%B1%E7%83%A7%E7%9A%84%E5%AE%B6%E4%BC%99.7z)
 6. [梓澪の妙妙屋](https://zi0.cc/) & `Windows`：[点击下载](https://zi0.cc/d/%60%E3%80%90%E5%90%88%E9%9B%86%E7%B3%BB%E5%88%97%E3%80%91/%E5%8D%97%2BGalGame%E6%B1%89%E5%8C%96%E5%8C%BA%E5%85%A8%E5%8C%BA%E8%B5%84%E6%BA%90%E5%A4%87%E4%BB%BD/1/03/%5BAlicesoft%5D%20%E6%88%A6%E5%9B%BD%E3%83%A9%E3%83%B3%E3%82%B9%20-%E4%B8%89%E5%8C%B9%E3%81%8C%E6%96%AC%E3%81%A3%20%20%E6%88%98%E5%9B%BD%E5%85%B0%E6%96%AF%EF%BD%9E%E4%B8%89%E4%B8%AA%E4%B9%B1%E6%96%A9%E4%B9%B1%E5%88%BA%E4%B9%B1%E7%83%A7%E7%9A%84%E5%AE%B6%E4%BC%99%20%E6%B1%89%E5%8C%96%E7%A1%AC%E7%9B%98%E7%89%88%5B%E5%8D%A1%E6%8B%89%E4%BF%9D%E6%8A%A4%E5%8D%8F%E4%BC%9A%E6%B1%89%E5%8C%96%E7%BB%84%5D.zip?sign=XXUHwAgKT2g4xEmuLhk6Lq23x5HQqW4enDGR9RDkKIY=:0)
 
 ### 08 Quest 无尽的任务
 
-1. [TouchGAL](https://www.touchgal.io/) & `Windows`：[点击下载](https://pan.touchgal.net/s/aojuJ)，密码：`muko`、`touchgal`
-2. [Hikarinagi](https://www.hikarinagi.com/) & `Windows`：[点击下载](https://pan.himoe.uk/s/vZgTj)，密码：`hikarinagi.com`
-3. [Hikarinagi](https://www.hikarinagi.com/) & `Windows`：[点击下载](https://pan.himoe.uk/s/pY91sN)，密码：`hikarinagi.com`
-4. [失落小站](https://www.shinnku.com/) & `Windows`：[点击下载](https://www.shinnku.com/api/download/0/win/%E5%85%B0%E6%96%AF08%20%E6%97%A0%E5%B0%BD%E7%9A%84%E4%BB%BB%E5%8A%A1.7z)
-5. [失落小站](https://www.shinnku.com/) & `Windows`：[点击下载](https://www.shinnku.com/api/download/zd/0501-1000/[110826][ALICESOFT]%20%E5%85%B0%E6%96%AF08.rar)
+1. [TouchGAL](https://www.touchgal.us/) & `Windows`：[点击下载](https://pan.touchgal.net/s/aojuJ)，密码：`muko`、`touchgal`
+2. [Hikarinagi](https://www.hikarinagi.net/) & `Windows`：[点击下载](https://pan.yurari.moe/s/vZgTj)，密码：`hikarinagi.com`
+3. [Hikarinagi](https://www.hikarinagi.net/) & `Windows`：[点击下载](https://pan.yurari.moe/s/pY91sN)，密码：`hikarinagi.com`
+4. [真红小站](https://www.shinnku.com/) & `Windows`：[点击下载](https://www.shinnku.com/api/download/0/win/%E5%85%B0%E6%96%AF08%20%E6%97%A0%E5%B0%BD%E7%9A%84%E4%BB%BB%E5%8A%A1.7z)
+5. [真红小站](https://www.shinnku.com/) & `Windows`：[点击下载](https://www.shinnku.com/api/download/zd/0501-1000/[110826][ALICESOFT]%20%E5%85%B0%E6%96%AF08.rar)
 6. [梓澪の妙妙屋](https://zi0.cc/) & `Windows`：[点击下载](https://zi0.cc/d/%60%E3%80%90%E5%90%88%E9%9B%86%E7%B3%BB%E5%88%97%E3%80%91/%E5%8D%97%2BGalGame%E6%B1%89%E5%8C%96%E5%8C%BA%E5%85%A8%E5%8C%BA%E8%B5%84%E6%BA%90%E5%A4%87%E4%BB%BD/1/03/%5BAliceSoft%5D%20%E3%83%A9%E3%83%B3%E3%82%B9%20%E3%82%AF%E3%82%A8%E3%82%B9%E3%83%88%20%20%E5%85%B0%E6%96%AF8%20%20RanceQuest%20%E6%B1%89%E5%8C%96%E7%A1%AC%E7%9B%98%E7%89%88%20%5B%E5%93%88%E5%B0%BC%E5%96%B5%E6%B1%89%E5%8C%96%E7%BB%84%5D.zip?sign=qVqBRv1JfhD5vxyabiB2B8zGQ-qvHOlBXSXlZJG8Lsk=:0)
-7. [稻荷ACG](https://amoebi.com/) & `Windows`：[点击下载](https://download.zrflie1.pw/PC/%E5%85%B0%E6%96%AF/%E5%85%B0%E6%96%AF08+%E6%97%A0%E5%B0%BD%E7%9A%84%E4%BB%BB%E5%8A%A1.7z)
+7. [稻荷GAL](https://inarigal.com/) & `Windows`：[点击下载](https://download.zrflie1.pw/PC/%E5%85%B0%E6%96%AF/%E5%85%B0%E6%96%AF08+%E6%97%A0%E5%B0%BD%E7%9A%84%E4%BB%BB%E5%8A%A1.7z)
 8. [我的Galgame资源发布站](https://www.ttloli.com/) & `Windows`：[点击下载](https://www.ttloli.com/lansi8.html)，密码：`忧郁的弟弟`、`忧郁的loli`
 
 ### 09 赫尔曼革命
 
-1. [TouchGAL](https://www.touchgal.io/) & `Windows`：[点击下载](https://pan.touchgal.net/s/YNlCa)，密码：`touchgal`
+1. [TouchGAL](https://www.touchgal.us/) & `Windows`：[点击下载](https://pan.touchgal.net/s/YNlCa)，密码：`touchgal`
 2. [NekoGAL](https://www.nekogal.com/) & `Windows`：[点击下载](https://pan.nekogal.top/s/RzOty)
-3. [Hikarinagi](https://www.hikarinagi.com/) & `Windows`：[点击下载](https://pan.himoe.uk/s/qZRIP)，密码：`hikarinagi.com`
-4. [Hikarinagi](https://www.hikarinagi.com/) & `Windows`：[点击下载](https://pan.himoe.uk/s/rkgwU0)，密码：`hikarinagi.com`
-5. [失落小站](https://www.shinnku.com/) & `Windows`：[点击下载](https://www.shinnku.com/api/download/0/win/%E5%85%B0%E6%96%AF09%20%E8%B5%AB%E5%B0%94%E6%9B%BC%E9%9D%A9%E5%91%BD.7z)
-6. [失落小站](https://www.shinnku.com/) & `Windows`：[点击下载](https://www.shinnku.com/api/download/zd/0501-1000/[140425][ALICESOFT]%20%E5%85%B0%E6%96%AF09.rar)
+3. [Hikarinagi](https://www.hikarinagi.net/) & `Windows`：[点击下载](https://pan.yurari.moe/s/qZRIP)，密码：`hikarinagi.com`
+4. [Hikarinagi](https://www.hikarinagi.net/) & `Windows`：[点击下载](https://pan.yurari.moe/s/rkgwU0)，密码：`hikarinagi.com`
+5. [真红小站](https://www.shinnku.com/) & `Windows`：[点击下载](https://www.shinnku.com/api/download/0/win/%E5%85%B0%E6%96%AF09%20%E8%B5%AB%E5%B0%94%E6%9B%BC%E9%9D%A9%E5%91%BD.7z)
+6. [真红小站](https://www.shinnku.com/) & `Windows`：[点击下载](https://www.shinnku.com/api/download/zd/0501-1000/[140425][ALICESOFT]%20%E5%85%B0%E6%96%AF09.rar)
 7. [我的Galgame资源发布站](https://www.ttloli.com/) & `Windows`：[点击下载](https://www.ttloli.com/lansi9-heermangeming.html)，密码：`忧郁的弟弟`、`忧郁的loli`
-8. [稻荷ACG](https://amoebi.com/) & `Windows`：[点击下载](https://download.zrflie1.pw/PC/%E5%85%B0%E6%96%AF/%E5%85%B0%E6%96%AF09+%E8%B5%AB%E5%B0%94%E6%9B%BC%E9%9D%A9%E5%91%BD.7z)
+8. [稻荷GAL](https://inarigal.com/) & `Windows`：[点击下载](https://download.zrflie1.pw/PC/%E5%85%B0%E6%96%AF/%E5%85%B0%E6%96%AF09+%E8%B5%AB%E5%B0%94%E6%9B%BC%E9%9D%A9%E5%91%BD.7z)
 
 ### 10 决战
 
-1. [TouchGAL](https://www.touchgal.io/) & `Windows`：[点击下载](https://pan.touchgal.net/s/RqRs7)，密码：`touchgal`
+1. [TouchGAL](https://www.touchgal.us/) & `Windows`：[点击下载](https://pan.touchgal.net/s/RqRs7)，密码：`touchgal`
 2. [NekoGAL](https://www.nekogal.com/) & `Windows`：[点击下载](https://pan.nekogal.top/s/EQ1he)
-3. [Hikarinagi](https://www.hikarinagi.com/) & `Windows`：[点击下载](https://pan.himoe.uk/s/pZ1fN)，密码：`hikarinagi.com`
-4. [Hikarinagi](https://www.hikarinagi.com/) & `Windows`：[点击下载](https://pan.himoe.uk/s/NkpLCr)，密码：`hikarinagi.com`
-5. [失落小站](https://www.shinnku.com/) & `Windows`：[点击下载](https://www.shinnku.com/api/download/zd/1001-1500/[180223][ALICESOFT]%20%E5%85%B0%E6%96%AF10.rar)
-6. [失落小站](https://www.shinnku.com/) & `Windows`：[点击下载](https://www.shinnku.com/api/download/raw1/2020%E5%B9%B46%E6%9C%88/[200625][ALICESOFT]%20%E5%85%B0%E6%96%AF10%20%E5%86%B3%E6%88%98%20Rance10%20%E5%AE%98%E6%96%B9%E4%B8%AD%E6%96%87%E7%89%88%20(files).rar)
-7. [稻荷ACG](https://amoebi.com/) & `Windows`：[点击下载](https://download.zrflie1.pw/PC/%E5%85%B0%E6%96%AF/%E5%85%B0%E6%96%AF10+%E5%86%B3%E6%88%98.7z)
+3. [Hikarinagi](https://www.hikarinagi.net/) & `Windows`：[点击下载](https://pan.yurari.moe/s/pZ1fN)，密码：`hikarinagi.com`
+4. [Hikarinagi](https://www.hikarinagi.net/) & `Windows`：[点击下载](https://pan.yurari.moe/s/NkpLCr)，密码：`hikarinagi.com`
+5. [真红小站](https://www.shinnku.com/) & `Windows`：[点击下载](https://www.shinnku.com/api/download/zd/1001-1500/[180223][ALICESOFT]%20%E5%85%B0%E6%96%AF10.rar)
+6. [真红小站](https://www.shinnku.com/) & `Windows`：[点击下载](https://www.shinnku.com/api/download/raw1/2020%E5%B9%B46%E6%9C%88/[200625][ALICESOFT]%20%E5%85%B0%E6%96%AF10%20%E5%86%B3%E6%88%98%20Rance10%20%E5%AE%98%E6%96%B9%E4%B8%AD%E6%96%87%E7%89%88%20(files).rar)
+7. [稻荷GAL](https://inarigal.com/) & `Windows`：[点击下载](https://download.zrflie1.pw/PC/%E5%85%B0%E6%96%AF/%E5%85%B0%E6%96%AF10+%E5%86%B3%E6%88%98.7z)
 8. [梓澪の妙妙屋](https://zi0.cc/) & `Windows`：[点击下载](https://zi0.cc/d/%60%E3%80%90%E5%90%88%E9%9B%86%E7%B3%BB%E5%88%97%E3%80%91/%E6%B5%AE%E5%A3%AB%E5%BE%B7galgame%E6%B8%B8%E6%88%8F%E5%90%88%E9%9B%86/%E6%B5%AE%E5%A3%AB%E5%BE%B7galgame%E6%B8%B8%E6%88%8F%E5%90%88%E9%9B%86-1/2020%E5%B9%B46%E6%9C%88/%5B200625%5D%5BALICESOFT%5D%20%E5%85%B0%E6%96%AF10%20%E5%86%B3%E6%88%98%20Rance10%20%E5%AE%98%E6%96%B9%E4%B8%AD%E6%96%87%E7%89%88%20(files).rar?sign=nTXtQCRhhDu6JHNsDQKGi3-gQVmeanXbcytsYK3q-cs=:0)
 9. [梓澪の妙妙屋](https://zi0.cc/) & `Windows`：[点击下载](https://zi0.cc/d/%60%E3%80%90%E5%90%88%E9%9B%86%E7%B3%BB%E5%88%97%E3%80%91/%E5%8D%97%2BGalGame%E6%B1%89%E5%8C%96%E5%8C%BA%E5%85%A8%E5%8C%BA%E8%B5%84%E6%BA%90%E5%A4%87%E4%BB%BD/1/03/%5BALICESOFT%5D%20%E3%83%A9%E3%83%B3%E3%82%B910%20%20%E5%85%B0%E6%96%AF10%20%E5%86%B3%E6%88%98%20V1.04%E5%AE%98%E6%96%B9%E4%BF%AE%E6%AD%A3%E6%B1%89%E5%8C%96%E7%A1%AC%E7%9B%98%E7%89%88%5B%E5%AE%98%E6%96%B9%E4%B8%AD%E6%96%87%5D.zip?sign=8RtqIyJaE-PzQ6xsubOhrxgPctagXvUGLzlKz6MGkss=:0)
 
 ### 合集
 
-1. [TouchGAL](https://www.touchgal.io/) & `Windows`：[点击下载](https://pan.touchgal.net/search?keywords=%E5%85%B0%E6%96%AF)，密码：`touchgal`
+1. [TouchGAL](https://www.touchgal.us/) & `Windows`：[点击下载](https://pan.touchgal.net/search?keywords=%E5%85%B0%E6%96%AF)，密码：`touchgal`
 2. [NekoGAL](https://www.nekogal.com/) & `Windows`：[点击下载](https://pan.nekogal.top/search?keywords=%E5%85%B0%E6%96%AF)
 3. [绮梦](https://acgs.one/) & `Windows`：[点击下载](https://game.acgs.one/game/147.html)，密码：`acgs`、`绮梦`
 4. [姬路白雪](https://pan.jlbx.xyz/) & `Windows`：[点击下载](https://pan.jlbx.xyz/?s=%E5%85%B0%E6%96%AF)，密码：`终点`

@@ -57,6 +57,6 @@ updated: 2024-11-03 00:40:30
 
 ## 分流
 
-1. [TouchGAL](https://www.touchgal.io/) & `Windows`：[点击下载](https://pan.touchgal.net/s/8Z0qug)，密码：`touchgal`
+1. [TouchGAL](https://www.touchgal.us/) & `Windows`：[点击下载](https://pan.touchgal.net/s/8Z0qug)，密码：`touchgal`
 2. [梓澪の妙妙屋](https://zi0.cc/) & `Windows`：[点击下载](https://zi0.cc/d/%60%E3%80%90%E5%90%88%E9%9B%86%E7%B3%BB%E5%88%97%E3%80%91/%E6%B5%AE%E5%A3%AB%E5%BE%B7galgame%E6%B8%B8%E6%88%8F%E5%90%88%E9%9B%86/%E6%B5%AE%E5%A3%AB%E5%BE%B7galgame%E6%B8%B8%E6%88%8F%E5%90%88%E9%9B%86-1/2020%E5%B9%B43%E6%9C%88/%5B200327%5D%5BLIFE%20ZERO%20LLC%5D%20LOST%EF%BC%9ASMILE%20memories%20%2B%20promises%20Ver.1.09%20(files).rar?sign=Js6ZUxPMNr-FHeSi-qwiKvHU17DyJAttLzNWyLD32LU=:0)
-3. [失落小站](https://www.shinnku.com/) & `Windows`：[点击下载](https://www.shinnku.com/api/download/raw1/2020%E5%B9%B43%E6%9C%88/[200327][LIFE%20ZERO%20LLC]%20LOST%E2%80%9B%EF%BC%9ASMILE%20memories%20+%20promises%20Ver.1.09%20(files).rar)
+3. [真红小站](https://www.shinnku.com/) & `Windows`：[点击下载](https://www.shinnku.com/api/download/raw1/2020%E5%B9%B43%E6%9C%88/[200327][LIFE%20ZERO%20LLC]%20LOST%E2%80%9B%EF%BC%9ASMILE%20memories%20+%20promises%20Ver.1.09%20(files).rar)

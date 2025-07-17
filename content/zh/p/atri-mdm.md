@@ -66,10 +66,10 @@ updated: 2024-09-13 05:03:00
 
 ## 分流
 
-1. [TouchGAL](https://www.touchgal.io/) & `Windows`：[点击下载](https://pan.touchgal.net/s/Vosd)，密码：`touchgal`
-2. [TouchGAL](https://www.touchgal.io/) & `Tyranor`：[点击下载](https://pan.touchgal.net/s/YaRUa)，密码：`touchgal`
-3. [失落小站](https://www.shinnku.com/) & `Windows`：[点击下载](https://www.shinnku.com/api/download/0/win/ATRI%20-My%20Dear%20Moments-%20v1.3.7z)
-4. [失落小站](https://www.shinnku.com/) & `KRKR`：[点击下载](https://www.shinnku.com/api/download/0/krkr/ATRI%20-My%20Dear%20Moments-.7z)
+1. [TouchGAL](https://www.touchgal.us/) & `Windows`：[点击下载](https://pan.touchgal.net/s/Vosd)，密码：`touchgal`
+2. [TouchGAL](https://www.touchgal.us/) & `Tyranor`：[点击下载](https://pan.touchgal.net/s/YaRUa)，密码：`touchgal`
+3. [真红小站](https://www.shinnku.com/) & `Windows`：[点击下载](https://www.shinnku.com/api/download/0/win/ATRI%20-My%20Dear%20Moments-%20v1.3.7z)
+4. [真红小站](https://www.shinnku.com/) & `KRKR`：[点击下载](https://www.shinnku.com/api/download/0/krkr/ATRI%20-My%20Dear%20Moments-.7z)
 5. [绮梦](https://acgs.one/) & `Windows` + `Tyranor` + `KRKR` + `Android`：[点击下载](https://game.acgs.one/game/26.html)，密码：`acgs`、`绮梦`
 6. [Koyso](https://wavse.com/) & `Windows` + `KRKR`：[点击下载](https://koyso.com/game/350)
 7. [小鳥遊暁の会员制餐厅](https://t-satoru.top/) & `Tyranor`：[点击下载](https://pan.t-satoru.top/d/ode5/Galgames/%E3%80%90%E8%87%AA%E5%B0%81%E5%8C%85%E3%80%91%E5%8E%9F%E5%88%9B%E4%BD%9C%E5%93%81/ATRI/Ar_%E5%AE%98%E4%B8%AD_ATRI_od.rar)，密码：`三司绫濑天下第一`
@@ -79,7 +79,7 @@ updated: 2024-09-13 05:03:00
 11. [梓澪の妙妙屋](https://zi0.cc/) & `Tyranor`：[点击下载](https://zi0.cc/d/%60%E3%80%90%E5%BD%92%20%E6%A1%A3%E3%80%91/%E3%80%90Tyranor%E5%90%88%E9%9B%86%E3%80%91/ATRI%E3%80%90%E5%AE%98%E4%B8%AD%E3%80%91.rar?sign=LsghhlcP0bx2jPmyJcCj69VqwIyUrVdtEYQSHIm8Av0=:0)
 12. [量子ACG](https://lzacg.org/) & `Windows`：[点击下载](https://lzacg.org/360)，密码：`量子acg`、`lzacg.top`
 13. [量子ACG](https://lzacg.org/) & `KRKR`：[点击下载](https://lzacg.org/2186)，密码：`量子acg`、`lzacg.top`
-14. [稻荷ACG](https://amoebi.com/) & `Windows`：[点击下载](https://sakustar.com/art/125)
-15. [稻荷ACG](https://amoebi.com/) & `KRKR`：[点击下载](https://sakustar.club/art/3659)
-16. [稻荷ACG](https://amoebi.com/) & `Android`：[点击下载](https://sakustar.club/art/5203)
+14. [稻荷GAL](https://inarigal.com/) & `Windows`：[点击下载](https://inarigal.com/detail/125)
+15. [稻荷GAL](https://inarigal.com/) & `KRKR`：[点击下载](https://sakustar.club/art/3659)
+16. [稻荷GAL](https://inarigal.com/) & `Android`：[点击下载](https://sakustar.club/art/5203)
 17. [烟郁Galgame](https://yanyugal.top/) & `KRKR`：[点击下载](https://yanyugal.top/d/disk1/%E5%B0%8F%E5%B0%8F%E7%9A%84%E5%88%86%E4%BA%AB%EF%BC%88PC%EF%BC%86%E5%AE%89%E5%8D%93%EF%BC%89/%E5%AE%89%E5%8D%93/krkr/ATRI%20-My%20Dear%20Moments-.7z)，密码：`lumouweinb`、`烟郁频道`

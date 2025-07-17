@@ -24,7 +24,7 @@ updated: 2024-11-17 07:21:10
 
 《**魔女的夜宴**》（日语：**サノバウィッチ**）是由[柚子社](https://zh.moegirl.org.cn/YUZU_SOFT)制作发行的恋爱文字冒险游戏，于2015年2月27日面向Windows PC平台发售。英文版由NekoNyan代理，于2018年10月27日在Steam、NekoNyan的网上商城还有其他平台发售，并发行实体版。中文版由HIKARI FIELD代理，于2023年7月21日~~柚子厨特有的[0721](https://zh.moegirl.org.cn/0721)~~在Steam发售。
 
-<!--more-->
+<!-- more -->
 
 ## 剧情简介
 
@@ -83,7 +83,7 @@ updated: 2024-11-17 07:21:10
 一般手机的数据流量就支持 `IPv6`，如家宽无法下载请切换至数据流量！
 或者进入你的宽带光猫路由器后台打开 `IPv6` 的设置，具体设置方法可自行搜索
 
-1. [AsunaDrive](https://drive.saop.cc/) & `Windows` + `KRKR`：[点击下载](https://drive.saop.cc/VNS/%E9%AD%94%E5%A5%B3%E7%9A%84%E5%A4%9C%E5%AE%B4)
+[AsunaDrive](https://drive.saop.cc/) & `Windows` + `KRKR`：[点击下载](https://drive.saop.cc/VNS/%E9%AD%94%E5%A5%B3%E7%9A%84%E5%A4%9C%E5%AE%B4)
 
 ## 分流
 
@@ -98,12 +98,12 @@ updated: 2024-11-17 07:21:10
 9. [姬路白雪](https://pan.jlbx.xyz/) & `Windows` + `KRKR`：[点击下载](https://pan.jlbx.xyz/?s=%E9%AD%94%E5%A5%B3%E7%9A%84%E5%A4%9C%E5%AE%B4)，密码：`终点`
 10. [烟郁Galgame](https://yanyugal.top/) & `Windows`：[点击下载](https://yanyugal.top/d/disk1/%5B%E4%BC%9A%E7%A4%BE%5D%5B%E5%90%88%E9%9B%86%5DGalgame/%E6%9F%9A%E5%AD%90%E7%A4%BE/%E9%AD%94%E5%A5%B3%E7%9A%84%E5%A4%9C%E5%AE%B4.zip)，密码：`烟郁频道`、`lumouweinb`
 11. [烟郁Galgame](https://yanyugal.top/) & `KRKR`：[点击下载](https://yanyugal.top/d/disk1/%E5%B0%8F%E5%B0%8F%E7%9A%84%E5%88%86%E4%BA%AB%EF%BC%88PC%EF%BC%86%E5%AE%89%E5%8D%93%EF%BC%89/%E5%AE%89%E5%8D%93/krkr/%E6%9F%9A%E5%AD%90%E7%A4%BE/%E9%AD%94%E5%A5%B3%E7%9A%84%E5%A4%9C%E5%AE%B4.7z)，密码：`烟郁频道`、`lumouweinb`
-12. [失落小站](https://www.shinnku.com/) & `Windows`：[点击下载](https://www.shinnku.com/api/download/0/win/%E9%AD%94%E5%A5%B3%E7%9A%84%E5%A4%9C%E5%AE%B4.7z)
-13. [失落小站](https://www.shinnku.com/) & `KRKR`：[点击下载](https://www.shinnku.com/api/download/0/krkr/%E9%AD%94%E5%A5%B3%E7%9A%84%E5%A4%9C%E5%AE%B4.7z)
-14. [失落小站](https://www.shinnku.com/) & `Android`：[点击下载](https://www.shinnku.com/api/download/0/apk/%E5%86%B7%E7%8B%90/1001-1500/1156-%E9%AD%94%E5%A5%B3%E7%9A%84%E5%A4%9C%E5%AE%B4.apk)
-15. [绮梦](https://acgs.one/) & `Windows` + `KRKR` + `Android`：[点击下载](https://acgs.one/game/482.html)，密码：`绮梦`
+12. [真红小站](https://www.shinnku.com/) & `Windows`：[点击下载](https://www.shinnku.com/api/download/0/win/%E9%AD%94%E5%A5%B3%E7%9A%84%E5%A4%9C%E5%AE%B4.7z)
+13. [真红小站](https://www.shinnku.com/) & `KRKR`：[点击下载](https://www.shinnku.com/api/download/0/krkr/%E9%AD%94%E5%A5%B3%E7%9A%84%E5%A4%9C%E5%AE%B4.7z)
+14. [真红小站](https://www.shinnku.com/) & `Android`：[点击下载](https://www.shinnku.com/api/download/0/apk/%E5%86%B7%E7%8B%90/1001-1500/1156-%E9%AD%94%E5%A5%B3%E7%9A%84%E5%A4%9C%E5%AE%B4.apk)
+15. [绮梦](https://acgs.one/) & `Windows` + `KRKR` + `Android`：[点击下载](https://game.acgs.one/game/482.html)，密码：`绮梦`
 16. [我的Galgame资源发布站](https://www.ttloli.com/) & `Windows`：[点击下载](https://www.ttloli.com/monvdeyeyan.html)，密码：`忧郁的弟弟`、`忧郁的loli`
-17. [稻荷ACG](https://amoebi.com/) & `Windows`：[点击下载](https://sakustar.club/art/116)
-18. [稻荷ACG](https://amoebi.com/) & `KRKR`：[点击下载](https://sakustar.club/art/577)
+17. [稻荷GAL](https://inarigal.com/) & `Windows`：[点击下载](https://sakustar.club/art/116)
+18. [稻荷GAL](https://inarigal.com/) & `KRKR`：[点击下载](https://sakustar.club/art/577)
 19. [量子ACG](https://lzacg.org/) & `Windows`：[点击下载](https://lzacg.org/928)，密码：`量子acg`、`lzacg.top`
 20. [量子ACG](https://lzacg.org/) & `KRKR`：[点击下载](https://lzacg.org/944)，密码：`量子acg`、`lzacg.top`

@@ -63,13 +63,13 @@ updated: 2024-07-31 01:19:20
 
 ## 分流
 
-1. [TouchGAL](https://www.touchgal.io/) & `Windows`：[点击下载](https://pan.touchgal.net/s/7qL9cX)，密码：`touchgal`
-2. [失落小站](https://www.shinnku.com/) & `Windows`：[点击下载](https://www.shinnku.com/api/download/0/win/%E6%9C%88%E5%A7%AC%20%E6%AD%8C%E6%9C%88%E5%8D%81%E5%A4%9C.7z)
-3. [失落小站](https://www.shinnku.com/) & `ONS`：[点击下载](https://www.shinnku.com/api/download/0/ons/%E6%AD%8C%E6%9C%88%E5%8D%81%E5%A4%9C.zip)
+1. [TouchGAL](https://www.touchgal.us/) & `Windows`：[点击下载](https://pan.touchgal.net/s/7qL9cX)，密码：`touchgal`
+2. [真红小站](https://www.shinnku.com/) & `Windows`：[点击下载](https://www.shinnku.com/api/download/0/win/%E6%9C%88%E5%A7%AC%20%E6%AD%8C%E6%9C%88%E5%8D%81%E5%A4%9C.7z)
+3. [真红小站](https://www.shinnku.com/) & `ONS`：[点击下载](https://www.shinnku.com/api/download/0/ons/%E6%AD%8C%E6%9C%88%E5%8D%81%E5%A4%9C.zip)
 4. [梓澪の妙妙屋](https://zi0.cc/) & `Windows`：[点击下载](https://zi0.cc/d/%60%E3%80%90%E5%90%88%E9%9B%86%E7%B3%BB%E5%88%97%E3%80%91/%E6%B1%89%E5%8C%96galgame%E4%BC%9A%E7%A4%BE%E5%90%88%E9%9B%86/%E6%B1%89%E5%8C%96%E4%BC%9A%E7%A4%BE%E5%90%88%E9%9B%86%E9%83%A8%E5%88%86%20part22/TYPE-MOON/%E6%B1%89%E5%8C%96/%5B010908%5D%5BTYPE-MOON%5D%20%E6%9C%88%E5%A7%AB%20-%E6%AD%8C%E6%9C%88%E5%8D%81%E5%A4%9C-.rar?sign=W7ISEH6P1CwG1oIUhPnXTHiECSq96ArsKzy13DcjpSI=:0)
 5. [梓澪の妙妙屋](https://zi0.cc/) & `ONS`：[点击下载](https://zi0.cc/d/%60%E3%80%90%E5%BD%92%20%E6%A1%A3%E3%80%91/%E3%80%90ONS%E5%90%88%E9%9B%86%E3%80%91/%5BTYPE-MOON%5D%E6%AD%8C%E6%9C%88%E5%8D%81%E5%A4%9C.7z?sign=KC3xRzVOA_5bhMdP3riZ9vEm8FIynwBr8K6iz42GE4U=:0)
 6. [姬路白雪](https://pan.jlbx.xyz/) & `Windows` + `ONS`：[点击下载](https://pan.jlbx.xyz/?s=%E6%AD%8C%E6%9C%88%E5%8D%81%E5%A4%9C)，密码：`终点`
 7. [我的Galgame资源发布站](https://www.ttloli.com/) & `Windows`：[点击下载](https://www.ttloli.com/geyueshiye.html)，密码：`忧郁的弟弟`、`忧郁的loli`
 8. [量子ACG](https://lzacg.org/) & `Windows`：[点击下载](https://lzacg.org/6594)，密码：`量子acg`、`lzacg.top`
 9. [绮梦](https://acgs.one/) & `Windows` + `ONS`：[点击下载](https://game.acgs.one/game/400.html)，密码：`绮梦`
-10. [稻荷ACG](https://amoebi.com/) & `Windows`：[点击下载](https://sakustar.me/art/364)
+10. [稻荷GAL](https://inarigal.com/) & `Windows`：[点击下载](https://inarigal.com/detail/364)

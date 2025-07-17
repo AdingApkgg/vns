@@ -71,18 +71,18 @@ updated: 2024-09-14 21:56:00
 
 ### 携带版
 
-1. [失落小站](https://www.shinnku.com/) & `PSP`：[点击下载](https://www.shinnku.com/api/download/psp/pspch/401-500/%E6%88%91%E7%9A%84%E5%A6%B9%E5%A6%B9%E4%B8%8D%E5%8F%AF%E8%83%BD%E9%82%A3%E4%B9%88%E5%8F%AF%E7%88%B1%20%E6%90%BA%E5%B8%A6%E7%89%88%20V1.1%20[%E7%AE%80][%E6%B8%B8%E6%88%8F%E5%97%AF%E8%9B%8B&PSP%E5%90%A7%E6%B1%89%E5%8C%96%E7%BB%84&%E4%BF%BA%E5%A6%B9%E5%90%A7]/2500%20-%20%E6%88%91%E7%9A%84%E5%A6%B9%E5%A6%B9%E4%B8%8D%E5%8F%AF%E8%83%BD%E9%82%A3%E4%B9%88%E5%8F%AF%E7%88%B1%20%E6%90%BA%E5%B8%A6%E7%89%88%20V1.1%20[%E7%AE%80]%20[%E6%B8%B8%E6%88%8F%E5%97%AF%E8%9B%8B&PSP%E5%90%A7%E6%B1%89%E5%8C%96%E7%BB%84&%E4%BF%BA%E5%A6%B9%E5%90%A7].iso)
-2. [Hikarinagi](https://www.hikarinagi.com/) & `PSP`：[点击下载](https://pan.himoe.uk/s/20PfJ)
-3. [Hikarinagi](https://www.hikarinagi.com/) & `PSP`：[点击下载](https://pan.himoe.uk/s/3AnuJ)
+1. [真红小站](https://www.shinnku.com/) & `PSP`：[点击下载](https://www.shinnku.com/api/download/psp/pspch/401-500/%E6%88%91%E7%9A%84%E5%A6%B9%E5%A6%B9%E4%B8%8D%E5%8F%AF%E8%83%BD%E9%82%A3%E4%B9%88%E5%8F%AF%E7%88%B1%20%E6%90%BA%E5%B8%A6%E7%89%88%20V1.1%20[%E7%AE%80][%E6%B8%B8%E6%88%8F%E5%97%AF%E8%9B%8B&PSP%E5%90%A7%E6%B1%89%E5%8C%96%E7%BB%84&%E4%BF%BA%E5%A6%B9%E5%90%A7]/2500%20-%20%E6%88%91%E7%9A%84%E5%A6%B9%E5%A6%B9%E4%B8%8D%E5%8F%AF%E8%83%BD%E9%82%A3%E4%B9%88%E5%8F%AF%E7%88%B1%20%E6%90%BA%E5%B8%A6%E7%89%88%20V1.1%20[%E7%AE%80]%20[%E6%B8%B8%E6%88%8F%E5%97%AF%E8%9B%8B&PSP%E5%90%A7%E6%B1%89%E5%8C%96%E7%BB%84&%E4%BF%BA%E5%A6%B9%E5%90%A7].iso)
+2. [Hikarinagi](https://www.hikarinagi.net/) & `PSP`：[点击下载](https://pan.yurari.moe/s/20PfJ)
+3. [Hikarinagi](https://www.hikarinagi.net/) & `PSP`：[点击下载](https://pan.yurari.moe/s/3AnuJ)
 
 ### Disc 1
 
-1. [失落小站](https://www.shinnku.com/) & `PSP`：[点击下载](https://www.shinnku.com/api/download/psp/pspch/401-500/%E6%88%91%E7%9A%84%E5%A6%B9%E5%A6%B9%E4%B8%8D%E5%8F%AF%E8%83%BD%E9%82%A3%E4%B9%88%E5%8F%AF%E7%88%B1%20%E4%B8%8D%E5%8F%AF%E8%83%BD%E6%9C%89%E7%BB%AD%E4%BD%9C(UMD%20Disc%201)%20[%E7%AE%80][PSP%E5%90%A7%E6%B1%89%E5%8C%96%E7%BB%84]/2895%20-%20%E6%88%91%E7%9A%84%E5%A6%B9%E5%A6%B9%E4%B8%8D%E5%8F%AF%E8%83%BD%E9%82%A3%E4%B9%88%E5%8F%AF%E7%88%B1%20%E4%B8%8D%E5%8F%AF%E8%83%BD%E6%9C%89%E7%BB%AD%E4%BD%9C(UMD%20Disc%201)%20[%E7%AE%80]%20[PSP%E5%90%A7%E6%B1%89%E5%8C%96%E7%BB%84].iso)
-2. [Hikarinagi](https://www.hikarinagi.com/) & `PSP`：[点击下载](https://pan.himoe.uk/s/0xGiD)
-3. [Hikarinagi](https://www.hikarinagi.com/) & `PSP`：[点击下载](https://pan.himoe.uk/s/g3lhx)
+1. [真红小站](https://www.shinnku.com/) & `PSP`：[点击下载](https://www.shinnku.com/api/download/psp/pspch/401-500/%E6%88%91%E7%9A%84%E5%A6%B9%E5%A6%B9%E4%B8%8D%E5%8F%AF%E8%83%BD%E9%82%A3%E4%B9%88%E5%8F%AF%E7%88%B1%20%E4%B8%8D%E5%8F%AF%E8%83%BD%E6%9C%89%E7%BB%AD%E4%BD%9C(UMD%20Disc%201)%20[%E7%AE%80][PSP%E5%90%A7%E6%B1%89%E5%8C%96%E7%BB%84]/2895%20-%20%E6%88%91%E7%9A%84%E5%A6%B9%E5%A6%B9%E4%B8%8D%E5%8F%AF%E8%83%BD%E9%82%A3%E4%B9%88%E5%8F%AF%E7%88%B1%20%E4%B8%8D%E5%8F%AF%E8%83%BD%E6%9C%89%E7%BB%AD%E4%BD%9C(UMD%20Disc%201)%20[%E7%AE%80]%20[PSP%E5%90%A7%E6%B1%89%E5%8C%96%E7%BB%84].iso)
+2. [Hikarinagi](https://www.hikarinagi.net/) & `PSP`：[点击下载](https://pan.yurari.moe/s/0xGiD)
+3. [Hikarinagi](https://www.hikarinagi.net/) & `PSP`：[点击下载](https://pan.yurari.moe/s/g3lhx)
 
 ### Disc 2
 
-1. [失落小站](https://www.shinnku.com/) & `PSP`：[点击下载](https://www.shinnku.com/api/download/psp/pspch/401-500/%E6%88%91%E7%9A%84%E5%A6%B9%E5%A6%B9%E4%B8%8D%E5%8F%AF%E8%83%BD%E9%82%A3%E4%B9%88%E5%8F%AF%E7%88%B1%20%E4%B8%8D%E5%8F%AF%E8%83%BD%E6%9C%89%E7%BB%AD%E4%BD%9C(UMD%20Disc%202)%20[%E7%AE%80][PSP%E5%90%A7%E6%B1%89%E5%8C%96%E7%BB%84&%E8%8B%8F%E5%B8%95%E5%B0%94%E8%8E%8E%E6%B1%89%E5%8C%96%E7%BB%84]/2896%20-%20%E6%88%91%E7%9A%84%E5%A6%B9%E5%A6%B9%E4%B8%8D%E5%8F%AF%E8%83%BD%E9%82%A3%E4%B9%88%E5%8F%AF%E7%88%B1%20%E4%B8%8D%E5%8F%AF%E8%83%BD%E6%9C%89%E7%BB%AD%E4%BD%9C(UMD%20Disc%202)%20[%E7%AE%80]%20[PSP%E5%90%A7%E6%B1%89%E5%8C%96%E7%BB%84&%E8%8B%8F%E5%B8%95%E5%B0%94%E8%8E%8E%E6%B1%89%E5%8C%96%E7%BB%84].iso)
-2. [Hikarinagi](https://www.hikarinagi.com/) & `PSP`：[点击下载](https://pan.himoe.uk/s/p3rHN)
-3. [Hikarinagi](https://www.hikarinagi.com/) & `PSP`：[点击下载](https://pan.himoe.uk/s/qvRFP)
+1. [真红小站](https://www.shinnku.com/) & `PSP`：[点击下载](https://www.shinnku.com/api/download/psp/pspch/401-500/%E6%88%91%E7%9A%84%E5%A6%B9%E5%A6%B9%E4%B8%8D%E5%8F%AF%E8%83%BD%E9%82%A3%E4%B9%88%E5%8F%AF%E7%88%B1%20%E4%B8%8D%E5%8F%AF%E8%83%BD%E6%9C%89%E7%BB%AD%E4%BD%9C(UMD%20Disc%202)%20[%E7%AE%80][PSP%E5%90%A7%E6%B1%89%E5%8C%96%E7%BB%84&%E8%8B%8F%E5%B8%95%E5%B0%94%E8%8E%8E%E6%B1%89%E5%8C%96%E7%BB%84]/2896%20-%20%E6%88%91%E7%9A%84%E5%A6%B9%E5%A6%B9%E4%B8%8D%E5%8F%AF%E8%83%BD%E9%82%A3%E4%B9%88%E5%8F%AF%E7%88%B1%20%E4%B8%8D%E5%8F%AF%E8%83%BD%E6%9C%89%E7%BB%AD%E4%BD%9C(UMD%20Disc%202)%20[%E7%AE%80]%20[PSP%E5%90%A7%E6%B1%89%E5%8C%96%E7%BB%84&%E8%8B%8F%E5%B8%95%E5%B0%94%E8%8E%8E%E6%B1%89%E5%8C%96%E7%BB%84].iso)
+2. [Hikarinagi](https://www.hikarinagi.net/) & `PSP`：[点击下载](https://pan.yurari.moe/s/p3rHN)
+3. [Hikarinagi](https://www.hikarinagi.net/) & `PSP`：[点击下载](https://pan.yurari.moe/s/qvRFP)

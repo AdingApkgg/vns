@@ -61,4 +61,4 @@ updated: 2024-09-09 18:45:00
 
 ## 分流
 
-1. [TouchGAL](https://www.touchgal.io/) & `Windows`：[点击下载](https://pan.touchgal.net/s/6Eg8Tp)，密码：`touchgal`，补丁来源 2DFan：[无聊荒芜](https://2dfan.com/users/345416)
+1. [TouchGAL](https://www.touchgal.us/) & `Windows`：[点击下载](https://pan.touchgal.net/s/6Eg8Tp)，密码：`touchgal`，补丁来源 2DFan：[无聊荒芜](https://2dfan.com/users/345416)

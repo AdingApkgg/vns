@@ -70,24 +70,24 @@ updated: 2024-11-05 22:19:00
 
 ### 本篇
 
-1. [TouchGAL](https://www.touchgal.io/) & `Windows`：[点击下载](https://pan.touchgal.net/s/rrLsy)，密码：`touchgal`
+1. [TouchGAL](https://www.touchgal.us/) & `Windows`：[点击下载](https://pan.touchgal.net/s/rrLsy)，密码：`touchgal`
 2. [NekoGAL](https://www.nekogal.com/) & `Windows`：[点击下载](https://pan.nekogal.top/s/LGeTk)
-3. [Hikarinagi](https://www.hikarinagi.com/) & `Windows`：[点击下载](https://pan.himoe.uk/s/YM9TJ)，密码：`hikarinagi.com`
-4. [Hikarinagi](https://www.hikarinagi.com/) & `Windows`：[点击下载](https://pan.himoe.uk/s/lY07C5)，密码：`hikarinagi.com`
-5. [失落小站](https://www.shinnku.com/) & `Windows`：[点击下载](https://www.shinnku.com/api/download/0/win/%E5%AA%9A%E8%82%89%E4%B9%8B%E9%A6%99v1.2.7z)
-6. [失落小站](https://www.shinnku.com/) & `Windows`：[点击下载](https://www.shinnku.com/api/download/zd/0001-0500/[080328][%E3%82%A8%E3%83%AB%E3%83%95]%20%E5%AA%9A%E8%82%89%E3%81%AE%E9%A6%99%E3%82%8A%EF%BD%9E%E3%83%8D%E3%83%88%E3%83%AA%E3%83%8D%E3%83%88%E3%83%A9%E3%83%AC%E3%83%A4%E3%83%AA%E3%83%A4%E3%83%A9%E3%83%AC%EF%BD%9E.rar)
+3. [Hikarinagi](https://www.hikarinagi.net/) & `Windows`：[点击下载](https://pan.yurari.moe/s/YM9TJ)，密码：`hikarinagi.com`
+4. [Hikarinagi](https://www.hikarinagi.net/) & `Windows`：[点击下载](https://pan.yurari.moe/s/lY07C5)，密码：`hikarinagi.com`
+5. [真红小站](https://www.shinnku.com/) & `Windows`：[点击下载](https://www.shinnku.com/api/download/0/win/%E5%AA%9A%E8%82%89%E4%B9%8B%E9%A6%99v1.2.7z)
+6. [真红小站](https://www.shinnku.com/) & `Windows`：[点击下载](https://www.shinnku.com/api/download/zd/0001-0500/[080328][%E3%82%A8%E3%83%AB%E3%83%95]%20%E5%AA%9A%E8%82%89%E3%81%AE%E9%A6%99%E3%82%8A%EF%BD%9E%E3%83%8D%E3%83%88%E3%83%AA%E3%83%8D%E3%83%88%E3%83%A9%E3%83%AC%E3%83%A4%E3%83%AA%E3%83%A4%E3%83%A9%E3%83%AC%EF%BD%9E.rar)
 7. [绮梦](https://acgs.one/) & `Windows`：[点击下载](https://game.acgs.one/game/17.html)，密码：`acgs`
-8. [稻荷ACG](https://amoebi.com/) & `Windows`：[点击下载](https://xpa.zrflie.pw/PC/%E5%AA%9A%E8%82%89%E4%B9%8B%E9%A6%99.zip)
+8. [稻荷GAL](https://inarigal.com/) & `Windows`：[点击下载](https://xpa.zrflie.pw/PC/%E5%AA%9A%E8%82%89%E4%B9%8B%E9%A6%99.zip)
 9. [烟郁Galgame](https://yanyugal.top/) & `Windows`：[点击下载](https://yanyugal.top/d/disk1/%E5%B0%8F%E5%B0%8F%E7%9A%84%E5%88%86%E4%BA%AB%EF%BC%88PC%EF%BC%86%E5%AE%89%E5%8D%93%EF%BC%89/PC/galgame/%5B%E6%B1%89%E5%8C%96%5D%E5%AA%9A%E8%82%89%E4%B9%8B%E9%A6%99.7z)，密码：`lumouweinb`、`烟郁频道`
 10. [烟郁Galgame](https://yanyugal.top/) & `Windows`：[点击下载](https://yanyugal.top/d/disk1/PC/%E5%8D%81%E4%BA%8C%E7%A5%9E%E5%99%A8/10.%E5%AF%9D%E5%8F%96%E8%88%9E%E4%BC%9A%E2%80%94%E5%AA%9A%E8%82%89%E4%B9%8B%E9%A6%99.rar)，密码：`烟郁频道`
 
 ### 番外
 
-1. [TouchGAL](https://www.touchgal.io/) & `Windows`：[点击下载](https://pan.touchgal.net/s/1bd2UX)，密码：`touchgal`
-2. [Hikarinagi](https://www.hikarinagi.com/) & `Windows`：[点击下载](https://pan.himoe.uk/s/ZWEfV)，密码：`hikarinagi.com`
-3. [Hikarinagi](https://www.hikarinagi.com/) & `Windows`：[点击下载](https://pan.himoe.uk/s/kRgrI6)，密码：`hikarinagi.com`
-4. [失落小站](https://www.shinnku.com/) & `Windows`：[点击下载](https://www.shinnku.com/api/download/0/win/%E5%AA%9A%E8%82%89%E4%B9%8B%E9%A6%99%E5%A4%96%E4%BC%A0.7z)
-5. [失落小站](https://www.shinnku.com/) & `Windows`：[点击下载](https://www.shinnku.com/api/download/zd/0001-0500/[080627][%E3%82%A8%E3%83%AB%E3%83%95]%20%E5%AA%9A%E8%82%89%E3%81%AE%E9%A6%99%E3%82%8A%20%E7%95%AA%E5%A4%96%E7%B7%A8%E3%80%8C%E5%BE%8B%E5%AD%90%E3%81%AE%E6%BA%9C%E6%81%AF%20%E7%94%B1%E7%B4%80%E3%81%AE%E9%A6%99%E3%82%8A%E3%80%8D.rar)
+1. [TouchGAL](https://www.touchgal.us/) & `Windows`：[点击下载](https://pan.touchgal.net/s/1bd2UX)，密码：`touchgal`
+2. [Hikarinagi](https://www.hikarinagi.net/) & `Windows`：[点击下载](https://pan.yurari.moe/s/ZWEfV)，密码：`hikarinagi.com`
+3. [Hikarinagi](https://www.hikarinagi.net/) & `Windows`：[点击下载](https://pan.yurari.moe/s/kRgrI6)，密码：`hikarinagi.com`
+4. [真红小站](https://www.shinnku.com/) & `Windows`：[点击下载](https://www.shinnku.com/api/download/0/win/%E5%AA%9A%E8%82%89%E4%B9%8B%E9%A6%99%E5%A4%96%E4%BC%A0.7z)
+5. [真红小站](https://www.shinnku.com/) & `Windows`：[点击下载](https://www.shinnku.com/api/download/zd/0001-0500/[080627][%E3%82%A8%E3%83%AB%E3%83%95]%20%E5%AA%9A%E8%82%89%E3%81%AE%E9%A6%99%E3%82%8A%20%E7%95%AA%E5%A4%96%E7%B7%A8%E3%80%8C%E5%BE%8B%E5%AD%90%E3%81%AE%E6%BA%9C%E6%81%AF%20%E7%94%B1%E7%B4%80%E3%81%AE%E9%A6%99%E3%82%8A%E3%80%8D.rar)
 6. [梓澪の妙妙屋](https://zi0.cc/) & `Windows`：[点击下载](https://zi0.cc/d/%60%E3%80%90%E5%90%88%E9%9B%86%E7%B3%BB%E5%88%97%E3%80%91/%E3%80%90PC%2B%E9%83%A8%E5%88%86KR%20ONS%E3%80%9112%E7%A5%9E%E9%AD%94%E5%99%A8/12%E7%A5%9E%E5%99%A8/%E5%AA%9A%E8%82%89%E4%B9%8B%E9%A6%99%20%E7%95%AA%E5%A4%96%E7%AF%87.zip?sign=RoT0tCR9X3_1lyY2n3TgyNn-XNt7l2-GAGsnpnyz_To=:0)
 7. [烟郁Galgame](https://yanyugal.top/) & `Windows`：[点击下载](https://yanyugal.top/d/disk1/%E5%B0%8F%E5%B0%8F%E7%9A%84%E5%88%86%E4%BA%AB%EF%BC%88PC%EF%BC%86%E5%AE%89%E5%8D%93%EF%BC%89/PC/galgame/%5B%E6%B1%89%E5%8C%96%5D%E5%AA%9A%E8%82%89%E4%B9%8B%E9%A6%99%E7%95%AA%E5%A4%96.7z)，密码：`lumouweinb`、`烟郁频道`
 

@@ -81,21 +81,21 @@ updated: 2025-04-01 05:00:00
 
 ## 分流
 
-1. [TouchGAL](https://www.touchgal.io/) & `Windows`：[点击下载](https://pan.touchgal.net/s/PXEjTR)，密码：`touchgal`
-2. [TouchGAL](https://www.touchgal.io/) & `Tyranor`：[点击下载](https://pan.touchgal.net/s/jVq2c9)，密码：`touchgal`
-3. [Hikarinagi](https://www.hikarinagi.com/) & `Windows`：[点击下载](https://pan.himoe.uk/s/WBocg)，密码：`hikarinagi.com`
-4. [Hikarinagi](https://www.hikarinagi.com/) & `Windows`：[点击下载](https://pan.himoe.uk/s/0l5HD)，密码：`hikarinagi.com`
+1. [TouchGAL](https://www.touchgal.us/) & `Windows`：[点击下载](https://pan.touchgal.net/s/PXEjTR)，密码：`touchgal`
+2. [TouchGAL](https://www.touchgal.us/) & `Tyranor`：[点击下载](https://pan.touchgal.net/s/jVq2c9)，密码：`touchgal`
+3. [Hikarinagi](https://www.hikarinagi.net/) & `Windows`：[点击下载](https://pan.yurari.moe/s/WBocg)，密码：`hikarinagi.com`
+4. [Hikarinagi](https://www.hikarinagi.net/) & `Windows`：[点击下载](https://pan.yurari.moe/s/0l5HD)，密码：`hikarinagi.com`
 5. [梓澪の妙妙屋](https://zi0.cc/) & `Windows`【FHD Edition 无码 官中日英】：[点击下载](https://zi0.cc/d/%E5%90%88%E9%9B%86%E7%B3%BB%E5%88%97/%E6%B1%89%E5%8C%96galgame%E5%90%88%E9%9B%86/2024/12/%5BSAGA%20PLANETS%5D%20%E3%81%AF%E3%81%A4%E3%82%86%E3%81%8D%E3%81%95%E3%81%8F%E3%82%89%20FHD%20Edition%20%E5%88%9D%E9%9B%AA%E6%A8%B1%20%5B%E6%97%A0%E7%A0%81%5D%20%5B%E5%AE%98%E6%96%B9%E4%B8%AD%E6%97%A5%E8%8B%B1%E6%96%87%5D.zip?sign=k0sMZtJq5BJ-WFDcTUEr8H8YqBJc-86QUqsBsrvVvrg=:0)
-6. [稻荷ACG](https://amoebi.com/) & `Windows`【民汉】：[点击下载](https://tele.zrflie.top/PC/SAGA%20PLANETS/%E5%88%9D%E9%9B%AA%E6%A8%B1(%E6%B0%91%E6%B1%89).zip)
-7. [稻荷ACG](https://amoebi.com/) & `Windows`【官中】：[点击下载](https://tele.zrflie.top/PC/SAGA%20PLANETS/%E5%88%9D%E9%9B%AA%E6%A8%B1(%E5%AE%98%E4%B8%AD).rar)
-8. [稻荷ACG](https://amoebi.com/) & `Tyranor`：[点击下载](https://tele.zrflie.top/Artroid/%E5%88%9D%E9%9B%AA%E6%A8%B1.rar)
-9. [失落小站](https://www.shinnku.com/) & `Windows`：[点击下载](https://dl.oo0o.ooo/file/shinnku/0/win/%E5%88%9D%E9%9B%AA%E6%A8%B1.7z)
+6. [稻荷GAL](https://inarigal.com/) & `Windows`【民汉】：[点击下载](https://tele.zrflie.top/PC/SAGA%20PLANETS/%E5%88%9D%E9%9B%AA%E6%A8%B1(%E6%B0%91%E6%B1%89).zip)
+7. [稻荷GAL](https://inarigal.com/) & `Windows`【官中】：[点击下载](https://tele.zrflie.top/PC/SAGA%20PLANETS/%E5%88%9D%E9%9B%AA%E6%A8%B1(%E5%AE%98%E4%B8%AD).rar)
+8. [稻荷GAL](https://inarigal.com/) & `Tyranor`：[点击下载](https://tele.zrflie.top/Artroid/%E5%88%9D%E9%9B%AA%E6%A8%B1.rar)
+9. [真红小站](https://www.shinnku.com/) & `Windows`：[点击下载](https://dl.oo0o.ooo/file/shinnku/0/win/%E5%88%9D%E9%9B%AA%E6%A8%B1.7z)
 10. [小鳥遊暁の会员制餐厅](https://t-satoru.top/) & `Tyranor`【官中】：[点击下载](https://pan.t-satoru.top/s3b/TP/%e5%88%9d%e9%9b%aa%e6%a8%b1)，密码：`三司绫濑天下第一`
 11. [绮梦](https://acgs.one/) & `Windows`：[点击下载](https://game.acgs.one/game/245.html)，密码：`绮梦`
 12. [量子ACG](https://lzacg.org/) & `Windows`：[点击下载](https://lzacg.org/3815)，密码：`量子acg`、`lzacg.top`
 13. [量子ACG](https://lzacg.org/) & `Tyranor`：[点击下载](https://lzacg.org/8394)，密码：`量子acg`、`lzacg.top`
 14. [我的Galgame资源发布站](https://www.ttloli.com/) & `Windows`：[点击下载](https://www.ttloli.com/chuxueying.html)，密码：`忧郁的弟弟`、`忧郁的loli`
-15. [猫猫网盘](https://pan.sakiko.de/) & `Windows`【FHD Edition 无码 官中日英】：[点击下载](https://pan.sakiko.de/d/GalGame/SP%E5%90%8E%E7%AB%AF1%5BGalGame%E5%88%86%E5%8C%BA%5D/%E6%B1%89%E5%8C%96%E6%B8%B8%E6%88%8F%E6%9C%88%E4%BB%BD%E5%90%88%E9%9B%86-%E7%A6%BB%E6%95%A3/2024%E5%B9%B4%E6%B1%89%E5%8C%96%E5%90%88%E9%9B%86/12/%E6%96%B0%E6%B1%89%E5%8C%96%E4%BD%9C%E5%93%81/%5BSAGA%20PLANETS%5D%20%E3%81%AF%E3%81%A4%E3%82%86%E3%81%8D%E3%81%95%E3%81%8F%E3%82%89%20FHD%20Edition%20%E5%88%9D%E9%9B%AA%E6%A8%B1%20%5B%E6%97%A0%E7%A0%81%5D%20%5B%E5%AE%98%E6%96%B9%E4%B8%AD%E6%97%A5%E8%8B%B1%E6%96%87%5D.rar)，密码：`south-plus.`、`H07JsecTTvkU3vigdnBC.`
-16. [猫猫网盘](https://pan.sakiko.de/) & `Windows`：[点击下载](https://pan.sakiko.de/d/GalGame/SP%E5%90%8E%E7%AB%AF1%5BGalGame%E5%88%86%E5%8C%BA%5D/%E7%BB%88%E7%82%B9%E6%B1%89%E5%8C%96%E9%87%8D%E6%95%B4v2%E7%89%88-%E7%A6%BB%E6%95%A3/%E6%9C%AC%E4%BD%93-Part1/%5BSAGA%20PLANETS%5D%20%E3%81%AF%E3%81%A4%E3%82%86%E3%81%8D%E3%81%95%E3%81%8F%E3%82%89%20%E5%88%9D%E9%9B%AA%E6%A8%B1.rar)，密码：`south-plus.`、`H07JsecTTvkU3vigdnBC.`
+15. [猫猫网盘](https://sakiko.de/) & `Windows`【FHD Edition 无码 官中日英】：[点击下载](https://sakiko.de/d/GalGame/SP%E5%90%8E%E7%AB%AF1%5BGalGame%E5%88%86%E5%8C%BA%5D/%E6%B1%89%E5%8C%96%E6%B8%B8%E6%88%8F%E6%9C%88%E4%BB%BD%E5%90%88%E9%9B%86-%E7%A6%BB%E6%95%A3/2024%E5%B9%B4%E6%B1%89%E5%8C%96%E5%90%88%E9%9B%86/12/%E6%96%B0%E6%B1%89%E5%8C%96%E4%BD%9C%E5%93%81/%5BSAGA%20PLANETS%5D%20%E3%81%AF%E3%81%A4%E3%82%86%E3%81%8D%E3%81%95%E3%81%8F%E3%82%89%20FHD%20Edition%20%E5%88%9D%E9%9B%AA%E6%A8%B1%20%5B%E6%97%A0%E7%A0%81%5D%20%5B%E5%AE%98%E6%96%B9%E4%B8%AD%E6%97%A5%E8%8B%B1%E6%96%87%5D.rar)，密码：`south-plus`
+16. [猫猫网盘](https://sakiko.de/) & `Windows`：[点击下载](https://sakiko.de/d/GalGame/SP%E5%90%8E%E7%AB%AF1%5BGalGame%E5%88%86%E5%8C%BA%5D/%E7%BB%88%E7%82%B9%E6%B1%89%E5%8C%96%E9%87%8D%E6%95%B4v2%E7%89%88-%E7%A6%BB%E6%95%A3/%E6%9C%AC%E4%BD%93-Part1/%5BSAGA%20PLANETS%5D%20%E3%81%AF%E3%81%A4%E3%82%86%E3%81%8D%E3%81%95%E3%81%8F%E3%82%89%20%E5%88%9D%E9%9B%AA%E6%A8%B1.rar)，密码：`south-plus`
 17. [喵源领域](https://www.nekotaku.me/) & `Windows`：[点击下载](https://cloud.moelinks.net/s/z8YIp)，密码：`2ki0vf`、`otaku123`
 18. [鲲 Galgame 论坛](https://kungal.com/) & `Windows` + `Tyranor`：[点击下载](https://www.kungal.com/galgame/124)

@@ -111,14 +111,14 @@ updated: 2024-07-17 07:19:30
 
 ## 分流
 
-1. [TouchGAL](https://www.touchgal.io/) & `Windows`：[点击下载](https://pan.touchgal.net/s/Wp3FZ)，密码：`touchgal`
-2. [TouchGAL](https://www.touchgal.io/) & `KRKR`：[点击下载](https://pan.touchgal.net/s/BXZiw)，密码：`touchgal`
-3. [失落小站](https://www.shinnku.com/) & `Windows`：[点击下载](https://www.shinnku.com/api/download/zd/2023/[230428][%E3%82%86%E3%81%9A%E3%82%BD%E3%83%95%E3%83%88]%20%E5%A4%A9%E4%BD%BF%E2%98%86%E9%A8%92%E3%80%85%20RE-BOOT%EF%BC%81.rar)
+1. [TouchGAL](https://www.touchgal.us/) & `Windows`：[点击下载](https://pan.touchgal.net/s/Wp3FZ)，密码：`touchgal`
+2. [TouchGAL](https://www.touchgal.us/) & `KRKR`：[点击下载](https://pan.touchgal.net/s/BXZiw)，密码：`touchgal`
+3. [真红小站](https://www.shinnku.com/) & `Windows`：[点击下载](https://www.shinnku.com/api/download/zd/2023/[230428][%E3%82%86%E3%81%9A%E3%82%BD%E3%83%95%E3%83%88]%20%E5%A4%A9%E4%BD%BF%E2%98%86%E9%A8%92%E3%80%85%20RE-BOOT%EF%BC%81.rar)
 4. [小鳥遊暁の会员制餐厅](https://t-satoru.top/) & `KRKR`：[点击下载](https://pan.t-satoru.top/d/ode5/Galgames/%E3%80%90%E8%87%AA%E5%B0%81%E5%8C%85%E3%80%91%E5%8E%9F%E5%88%9B%E4%BD%9C%E5%93%81/%E5%A4%A9%E4%BD%BF%E9%AA%9A%E9%AA%9A/KR_GPT-REBOOT_%E5%A4%A9%E4%BD%BF%E9%AA%9A%E9%AA%9A_008383d_od.rar)，密码：`三司绫濑天下第一`
 5. [烟郁Galgame](https://yanyugal.top/) & `KRKR`：[点击下载](https://yanyugal.top/d/disk1/%E5%B0%8F%E5%B0%8F%E7%9A%84%E5%88%86%E4%BA%AB%EF%BC%88PC%EF%BC%86%E5%AE%89%E5%8D%93%EF%BC%89/%E5%AE%89%E5%8D%93/krkr/%E6%9F%9A%E5%AD%90%E7%A4%BE/%E2%80%8B%E5%A4%A9%E4%BD%BF%E2%98%86%E7%BA%B7%E6%89%B0%20RE-BOOT%E2%80%8B!.7z)，密码：`lumouweinb`、`烟郁频道`
 6. [梓澪の妙妙屋](https://zi0.cc/) & `Windows`：[点击下载](https://zi0.cc/d/%60%E3%80%90%E5%90%88%E9%9B%86%E7%B3%BB%E5%88%97%E3%80%91/%E3%80%90PC%2BKR%E3%80%91YUZUSOFT%20SOUR%20%E6%9F%9A%E5%AD%90%E7%A4%BE%E5%90%88%E9%9B%86/PC/%E5%A4%A9%E4%BD%BF%E2%98%86%E7%BA%B7%E6%89%B0%20RE-BOOT!%E3%80%90%E8%8B%B1%E4%BF%8A%E4%B8%AA%E4%BA%BA%E6%B1%89%E5%8C%96%E3%80%91.rar?sign=r_XXaW-DT3C5jCPmCITZ9X28453GpqOM0L9IMZi8Y2A=:0)
 7. [梓澪の妙妙屋](https://zi0.cc/) & `Windows`：[点击下载](https://zi0.cc/d/%60%E3%80%90%E5%90%88%E9%9B%86%E7%B3%BB%E5%88%97%E3%80%91/%E5%8D%97%2BGalGame%E6%B1%89%E5%8C%96%E5%8C%BA%E5%85%A8%E5%8C%BA%E8%B5%84%E6%BA%90%E5%A4%87%E4%BB%BD/1/24/%5BYuzu-soft%5D%20%E5%A4%A9%E4%BD%BF%E2%98%86%E9%A8%92%E3%80%85%20RE-BOOT!%20%20%E5%A4%A9%E4%BD%BF%E7%BA%B7%E6%89%B0%20V1.3%E6%B1%89%E5%8C%96%E7%A1%AC%E7%9B%98%E7%89%88%5B%E6%9C%80%E8%8B%B1%E4%BF%8A%E7%9A%84%E6%B8%A3%E7%94%B7%E8%81%94%E5%90%88%E6%B1%89%E5%8C%96%5D.zip?sign=WZBWTXuwKn3O2IT3RU3xq6A2zVnmKxSyW0H5Ly7YSWs=:0)
-8. [稻荷ACG](https://amoebi.com/) & `Windows`：[点击下载](https://sakustar.me/art/10271)
-9. [稻荷ACG](https://amoebi.com/) & `KRKR`：[点击下载](https://sakustar.me/art/10844)
+8. [稻荷GAL](https://inarigal.com/) & `Windows`：[点击下载](https://inarigal.com/detail/10271)
+9. [稻荷GAL](https://inarigal.com/) & `KRKR`：[点击下载](https://inarigal.com/detail/10844)
 10. [量子ACG](https://lzacg.org/) & `Windows`：[点击下载](https://lzacg.org/6027)，密码：`量子acg`、`lzacg.top`
 11. [量子ACG](https://lzacg.org/) & `KRKR`：[点击下载](https://lzacg.org/6147)，密码：`量子acg`、`lzacg.top`

@@ -77,8 +77,8 @@ updated: 2024-03-04 03:15:00
 
 ## 分流
 
-[稻荷ACG](https://amoebi.com/) & Windows下载分流1：[点击下载](https://sakustar.moe/download?post_id=3276&index=0&i=0)
+[稻荷GAL](https://inarigal.com/) & Windows下载分流1：[点击下载](https://sakustar.moe/download?post_id=3276&index=0&i=0)
 
 [姬路白雪](https://jlbx.xyz) & Windows下载分流2：[点击下载](https://pan.jlbx.xyz/?s=%E5%90%91%E6%97%A5%E8%91%B5%E7%9A%84%E6%95%99%E4%BC%9A)，密码：终点
 
-[TouchGAL](https://www.touchgal.io/) & Windows下载分流3：[点击下载](https://pan.touchgal.net/s/keBUg)，密码：touchgal
+[TouchGAL](https://www.touchgal.us/) & Windows下载分流3：[点击下载](https://pan.touchgal.net/s/keBUg)，密码：touchgal

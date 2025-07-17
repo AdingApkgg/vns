@@ -89,10 +89,10 @@ author: WTY
 
 ## 分流
 
-1. [TouchGAL](https://www.touchgal.io/) & `Windows`：[点击下载](https://pan.touchgal.net/s/ZrIa)，密码：`touchgal`
-2. [Hikarinagi](https://www.hikarinagi.com/) & `Windows`：[点击下载](https://pan.himoe.uk/s/KkxHv)，密码：`hikarinagi.com`
-3. [Hikarinagi](https://www.hikarinagi.com/) & `Windows`：[点击下载](https://pan.himoe.uk/s/KP8Uv)，密码：`hikarinagi.com`
-4. [失落小站](https://www.shinnku.com/) & `Windows`：[点击下载](https://www.shinnku.com/api/download/0/win/%E5%9B%9E%E5%AE%B6%E4%B9%8B%E5%89%8D%E7%9A%84%E6%A3%89%E8%8A%B1%E7%B3%96.7z)
+1. [TouchGAL](https://www.touchgal.us/) & `Windows`：[点击下载](https://pan.touchgal.net/s/ZrIa)，密码：`touchgal`
+2. [Hikarinagi](https://www.hikarinagi.net/) & `Windows`：[点击下载](https://pan.yurari.moe/s/KkxHv)，密码：`hikarinagi.com`
+3. [Hikarinagi](https://www.hikarinagi.net/) & `Windows`：[点击下载](https://pan.yurari.moe/s/KP8Uv)，密码：`hikarinagi.com`
+4. [真红小站](https://www.shinnku.com/) & `Windows`：[点击下载](https://www.shinnku.com/api/download/0/win/%E5%9B%9E%E5%AE%B6%E4%B9%8B%E5%89%8D%E7%9A%84%E6%A3%89%E8%8A%B1%E7%B3%96.7z)
 5. [绮梦](https://acgs.one/) & `Windows`：[点击下载](https://game.acgs.one/game/123.html)，密码：`acgs`、`绮梦`
 6. [姬路白雪](https://jlbx.xyz/) & `Windows`：[点击下载](https://pan.jlbx.xyz/?s=%E5%9B%9E%E5%AE%B6%E4%B9%8B%E5%89%8D%E7%9A%84%E6%A3%89%E8%8A%B1%E7%B3%96)，密码：`终点`
 7. [梓澪の妙妙屋](https://zi0.cc/) & `Windows`：[点击下载](https://zi0.cc/d/%60%E3%80%90%E5%90%88%E9%9B%86%E7%B3%BB%E5%88%97%E3%80%91/%E5%8D%97%2BGalGame%E6%B1%89%E5%8C%96%E5%8C%BA%E5%85%A8%E5%8C%BA%E8%B5%84%E6%BA%90%E5%A4%87%E4%BB%BD/2/27/%5B%E3%81%BE%EF%BD%9E%E3%81%BE%E3%82%8C%E3%81%87%E3%81%A9%5D%20%E3%81%8A%E5%AE%B6%E3%81%AB%E5%B8%B0%E3%82%8B%E3%81%BE%E3%81%A7%E3%81%8C%E3%81%BE%E3%81%97%E3%81%BE%E3%82%8D%E3%81%A7%E3%81%99%E5%9B%9E%E5%AE%B6%E4%B9%8B%E5%89%8D%E7%9A%84%E6%A3%89%E8%8A%B1%E7%B3%96%20%E6%B1%89%E5%8C%96%E7%A1%AC%E7%9B%98%E7%89%88%5B%E7%BB%BF%E8%8C%B6%E6%B1%89%E5%8C%96%E7%BB%84%5D.zip?sign=NQ1Fj3eYyZKIaRdSuJ4mAgyskeO2gb61LlpF0F6GgwU=:0)
@@ -100,4 +100,4 @@ author: WTY
 9. [梓澪の妙妙屋](https://zi0.cc/) & `Windows`：[点击下载](https://zi0.cc/d/%60%E3%80%90%E5%90%88%E9%9B%86%E7%B3%BB%E5%88%97%E3%80%91/%E5%8D%97%2BGalGame%E6%B1%89%E5%8C%96%E5%8C%BA%E5%85%A8%E5%8C%BA%E8%B5%84%E6%BA%90%E5%A4%87%E4%BB%BD/2/27/%5B%E3%81%BE%EF%BD%9E%E3%81%BE%E3%82%8C%E3%81%87%E3%81%A9%5D%20%E3%81%8A%E5%AE%B6%E3%81%AB%E5%B8%B0%E3%82%8B%E3%81%BE%E3%81%A7%E3%81%8C%E3%81%BE%E3%81%97%E3%81%BE%E3%82%8D%E3%81%A7%E3%81%99%20%20%E5%9B%9E%E5%AE%B6%E5%89%8D%E9%83%BD%E7%AE%97%E6%98%AF%E6%A3%89%E8%8A%B1%E7%B3%96%20%E6%B1%89%E5%8C%96%E7%A1%AC%E7%9B%98%E7%89%88%5B%E5%AE%98%E6%96%B9%E4%B8%AD%E6%97%A5%E8%8B%B1%E6%96%87%5D.zip?sign=QRWvFWVtQwMVKDcEddl5wmX4rycBfbXWx4mcFCZfeNc=:0)
 10. [梓澪の妙妙屋](https://zi0.cc/) & `Windows`：[点击下载](https://zi0.cc/d/%60%E3%80%90%E5%90%88%E9%9B%86%E7%B3%BB%E5%88%97%E3%80%91/%E5%8D%97%2BGalGame%E6%B1%89%E5%8C%96%E5%8C%BA%E5%85%A8%E5%8C%BA%E8%B5%84%E6%BA%90%E5%A4%87%E4%BB%BD/1/07/%5BDWARFSOFT%5D%E3%81%BE%E3%81%97%E3%82%85%E3%81%BE%E3%82%8D%E2%98%86%E3%81%84%E3%82%82%E3%81%86%E3%81%A8%E2%98%86%E3%81%95%E3%81%A3%E3%81%8D%E3%82%85%E3%81%B0%E3%81%99%E2%98%86%20%E6%A3%89%E8%8A%B1%E7%B3%96%E2%98%86%E5%A6%B9%E5%A6%B9%E2%98%86%E9%AD%85%E9%AD%94%20%E6%97%A0%E7%A0%81%E6%B1%89%E5%8C%96%E7%A1%AC%E7%9B%98%E7%89%88%5B%E5%AE%98%E6%96%B9%E4%B8%AD%E6%96%87%5D.zip?sign=a7opFSJ4SFMeOTfhOGZTAVHwX-kHguYQk9CJd55QR7M=:0)
 11. [量子ACG](https://lzacg.org/) & `Windows`：[点击下载](https://lzacg.org/690)，密码：`量子acg`、`lzacg.top`
-12. [稻荷ACG](https://amoebi.com/) & `Windows`：[点击下载](https://sakustar.com/art/840)
+12. [稻荷GAL](https://inarigal.com/) & `Windows`：[点击下载](https://inarigal.com/detail/840)

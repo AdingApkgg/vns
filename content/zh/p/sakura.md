@@ -114,8 +114,8 @@ updated: 2024-04-20 12:29:00
 
 ## 分流
 
-1. [稻荷ACG](https://amoebi.com/) & `Windows`：[点击下载](https://alpha.galpan.xyz/Windows/FAVORITE/%E6%A8%B1%E8%8A%B1,%E8%90%8C%E6%94%BE.zip)
-2. [TouchGAL](https://www.touchgal.io/) & `Windows`：[点击下载](https://pan.touchgal.net/s/XVOtx)，密码：`touchgal`
+1. [稻荷GAL](https://inarigal.com/) & `Windows`：[点击下载](https://alpha.galpan.xyz/Windows/FAVORITE/%E6%A8%B1%E8%8A%B1,%E8%90%8C%E6%94%BE.zip)
+2. [TouchGAL](https://www.touchgal.us/) & `Windows`：[点击下载](https://pan.touchgal.net/s/XVOtx)，密码：`touchgal`
 3. [迷迭香写代码](https://rosmontis.com/) & `Windows`：[点击下载](https://drive.rosmontis.com/s/KEaTk)，密码：`rosmontis`，去掉 `.rosmontis` 后缀名再解压
 4. [姬路白雪](https://pan.jlbx.xyz/) & `Windows`：[点击下载](https://pan.jlbx.xyz/?s=%E6%A8%B1%E8%8A%B1%EF%BC%8C%E8%90%8C%E6%94%BE)，密码：`终点`
 5. [梓澪の妙妙屋](https://zi0.cc/) & `Windows`：[点击下载](https://zi0.cc/.%E3%80%90%E5%A4%8F%E9%A3%8E%E3%80%91/.%E3%80%90%E5%A4%8F%E9%A3%8E-1%E3%80%91/AVG%EF%BC%88%E8%A7%86%E8%A7%89%E5%B0%8F%E8%AF%B4%EF%BC%89/%E3%80%90PC%E3%80%91/%E3%80%90PC%E3%80%91%E6%A8%B1%E8%8A%B1%EF%BC%8C%E8%90%8C%E6%94%BE?from=search)

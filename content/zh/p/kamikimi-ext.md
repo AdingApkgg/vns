@@ -77,12 +77,12 @@ updated: 2024-09-23 01:25:00
 
 ## 分流
 
-1. [TouchGAL](https://www.touchgal.io/) & `Windows`：[点击下载](https://pan.touchgal.net/s/96Gsb)，密码：`touchgal`
-2. [TouchGAL](https://www.touchgal.io/) & `KRKR`：[点击下载](https://pan.touchgal.net/s/dBPHb)，密码：`touchgal`
+1. [TouchGAL](https://www.touchgal.us/) & `Windows`：[点击下载](https://pan.touchgal.net/s/96Gsb)，密码：`touchgal`
+2. [TouchGAL](https://www.touchgal.us/) & `KRKR`：[点击下载](https://pan.touchgal.net/s/dBPHb)，密码：`touchgal`
 3. [NekoGAL](https://www.nekogal.com/) & `Windows`：[点击下载](https://pan.nekogal.top/s/VW7uy)
-4. [Hikarinagi](https://www.hikarinagi.com/) & `Windows` + `KRKR`：[点击下载](https://pan.himoe.uk/s/2KCJ)，密码：`hikarinagi.com`
-5. [Hikarinagi](https://www.hikarinagi.com/) & `Windows` + `KRKR`：[点击下载](https://pan.himoe.uk/s/W67QFg)，密码：`hikarinagi.com`
-6. [失落小站](https://www.shinnku.com/) & `Windows`：[点击下载](https://www.shinnku.com/api/download/0/win/%E7%8C%AE%E7%BB%99%E7%A5%9E%E6%98%8E%E8%88%AC%E7%9A%84%E4%BD%A0%20Extended%20Edition%20v1.1.7z)
+4. [Hikarinagi](https://www.hikarinagi.net/) & `Windows` + `KRKR`：[点击下载](https://pan.yurari.moe/s/2KCJ)，密码：`hikarinagi.com`
+5. [Hikarinagi](https://www.hikarinagi.net/) & `Windows` + `KRKR`：[点击下载](https://pan.yurari.moe/s/W67QFg)，密码：`hikarinagi.com`
+6. [真红小站](https://www.shinnku.com/) & `Windows`：[点击下载](https://www.shinnku.com/api/download/0/win/%E7%8C%AE%E7%BB%99%E7%A5%9E%E6%98%8E%E8%88%AC%E7%9A%84%E4%BD%A0%20Extended%20Edition%20v1.1.7z)
 7. [小鳥遊暁の会员制餐厅](https://t-satoru.top/) & `KRKR`：[点击下载](https://pan.t-satoru.top/ode5/Galgames/%E3%80%90%E8%87%AA%E5%B0%81%E5%8C%85%E3%80%91%E5%8E%9F%E5%88%9B%E4%BD%9C%E5%93%81/%E7%8C%AE%E7%BB%99%E7%A5%9E%E6%98%8E%E8%88%AC%E7%9A%84%E4%BD%A0)，密码：`三司绫濑天下第一`
 8. [绮梦](https://acgs.one/) & `Windows`：[点击下载](https://game.acgs.one/game/37.html)，密码：`acgs`、`绮梦`
 9. [姬路白雪](https://jlbx.xyz/) & `Windows` + `KRKR`：[点击下载](https://pan.jlbx.xyz/?s=%E7%8C%AE%E7%BB%99%E7%A5%9E%E6%98%8E%E8%88%AC%E7%9A%84%E4%BD%A0)，密码：`终点`
@@ -92,5 +92,5 @@ updated: 2024-09-23 01:25:00
 13. [梓澪の妙妙屋](https://zi0.cc/) & `KRKR`：[点击下载](https://zi0.cc/d/%2C%E3%80%90ADV-%E5%86%92%E9%99%A9%E6%B8%B8%E6%88%8F%E3%80%91/%E3%80%90PC%2B%E5%AE%89%E5%8D%93%E3%80%91%E7%8C%AE%E7%BB%99%E7%A5%9E%E6%98%8E%E8%88%AC%E7%9A%84%E4%BD%A0%20Extended%20Edition/%E3%80%90KRKR%E3%80%91%E3%80%90%E9%AB%98%E5%8E%8B%E6%B1%89%E5%8C%96%E3%80%91%E7%8C%AE%E7%BB%99%E7%A5%9E%E6%98%8E%E8%88%AC%E7%9A%84%E4%BD%A0%20Extended%20Edition.zip?sign=zfkyiAJmetiWiQPwhufYpEkYB-K_NC8ro8ZFR16Z_PU=:0)
 14. [量子ACG](https://lzacg.org/) & `Windows`：[点击下载](https://lzacg.org/5665)，密码：`量子acg`、`lzacg.top`
 15. [量子ACG](https://lzacg.org/) & `KRKR`：[点击下载](https://lzacg.org/5864)，密码：`量子acg`、`lzacg.top`
-16. [稻荷ACG](https://amoebi.com/) & `Windows`：[点击下载](https://sakustar.com/art/8463)
-17. [稻荷ACG](https://amoebi.com/) & `KRKR`：[点击下载](https://sakustar.com/art/8469)
+16. [稻荷GAL](https://inarigal.com/) & `Windows`：[点击下载](https://inarigal.com/detail/8463)
+17. [稻荷GAL](https://inarigal.com/) & `KRKR`：[点击下载](https://inarigal.com/detail/8469)

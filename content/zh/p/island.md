@@ -67,11 +67,11 @@ updated: 2024-05-25 03:14:00
 
 ## 分流
 
-1. [TouchGAL](https://www.touchgal.io/) & `Windows`：[点击下载](https://pan.touchgal.net/s/wmHv)，密码：`touchgal`
+1. [TouchGAL](https://www.touchgal.us/) & `Windows`：[点击下载](https://pan.touchgal.net/s/wmHv)，密码：`touchgal`
 2. [迷迭香的博客](https://rosmontis.com/) & `Windows`：[点击下载](https://drive.rosmontis.com/s/X9KSe)，密码：`rosmontis`，去掉 `.rosmontis` 后缀名再解压
 3. [姬路白雪](https://pan.jlbx.xyz/) & `Windows`：[点击下载](https://pan.jlbx.xyz/GalGame/PC/Island)，密码：`终点`
 4. [姬路白雪](https://pan.jlbx.xyz/) & `Windows`：[点击下载](https://pan.jlbx.xyz/GalGame/gal%E7%BB%88%E7%82%B9%E8%B5%84%E6%BA%90%EF%BC%88%E5%AF%86%E7%A0%81%20%E7%BB%88%E7%82%B9%EF%BC%89/HI/ISLAND/%E5%A4%9C%E9%B8%AE%E7%9A%84%E6%A0%91%E6%B4%9E%E7%89%88%E6%9C%AC)，密码：`终点`
-5. [失落小站](https://www.shinnku.com/) & `Windows`：[点击下载](https://www.shinnku.com/api/download/0/win/ISLAND.7z)
-6. [稻荷ACG](https://amoebi.com/) & `Windows`：[点击下载](https://sakustar.me/art/4440)
+5. [真红小站](https://www.shinnku.com/) & `Windows`：[点击下载](https://www.shinnku.com/api/download/0/win/ISLAND.7z)
+6. [稻荷GAL](https://inarigal.com/) & `Windows`：[点击下载](https://inarigal.com/detail/4440)
 7. [量子ACG](https://lzacg.org/) & `Windows`：[点击下载](https://lzacg.org/434)，密码：`量子acg`、`lzacg.top`
 8. [我的Galgame资源发布站](https://www.ttloli.com/) & `Windows`：[点击下载](https://www.ttloli.com/island.html)，密码：`忧郁的弟弟`、`忧郁的loli`
