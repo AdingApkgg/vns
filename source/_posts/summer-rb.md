@@ -80,7 +80,7 @@ updated: 2024-11-01 22:15:00
 
 > 基本帮助请参阅公告：[点我跳转](/p/announcement/)
 
-- [失落小站](https://www.shinnku.com/) > [README.md](https://www.shinnku.com/api/download/0/win/Summer%20Pockets/README.md)
+- [真红小站](https://www.shinnku.com/) > [README.md](https://www.shinnku.com/api/download/0/win/Summer%20Pockets/README.md)
   - Summer Pockets REFLECTION BLUE 为 Summer Pockets 的加强版，加强的有点多，看了下攻略，吓到我了。内置全 CG 存档和攻略
   - Summer Pockets 两个版本的区别：据汉化组说稍有不同，部分文本进行了增减，汉化组重新润色校对
   - Summer Pockets REFLECTION BLUE 文件校验码
@@ -101,21 +101,21 @@ updated: 2024-11-01 22:15:00
 
 ## 分流
 
-1. [TouchGAL](https://www.touchgal.io/) & `Windows`：[点击下载](https://pan.touchgal.net/s/P8hR)，密码：`touchgal`
-2. [TouchGAL](https://www.touchgal.io/) & `Android`：[点击下载](https://pan.touchgal.net/s/md9Ux)，密码：`touchgal`
+1. [TouchGAL](https://www.touchgal.us/) & `Windows`：[点击下载](https://pan.touchgal.net/s/P8hR)，密码：`touchgal`
+2. [TouchGAL](https://www.touchgal.us/) & `Android`：[点击下载](https://pan.touchgal.net/s/md9Ux)，密码：`touchgal`
 3. [NekoGAL](https://www.nekogal.com/) & `Windows`：[点击下载](https://pan.nekogal.top/s/91fL)
 4. [NekoGAL](https://www.nekogal.com/) & `Android`：[点击下载](https://pan.nekogal.top/s/e2RTG)
-5. [Hikarinagi](https://www.hikarinagi.com/) & `Windows` + `Android`：[点击下载](https://pan.himoe.uk/s/y2RCz)，密码：`hikarinagi.com`
-6. [Hikarinagi](https://www.hikarinagi.com/) & `Windows` + `Android`：[点击下载](https://pan.himoe.uk/s/wp2mtz)，密码：`hikarinagi.com`
+5. [Hikarinagi](https://www.hikarinagi.net/) & `Windows` + `Android`：[点击下载](https://pan.yurari.moe/s/y2RCz)，密码：`hikarinagi.com`
+6. [Hikarinagi](https://www.hikarinagi.net/) & `Windows` + `Android`：[点击下载](https://pan.yurari.moe/s/wp2mtz)，密码：`hikarinagi.com`
 7. [梓澪の妙妙屋](https://zi0.cc/) & `Windows`【枫笛&夏日纯臻 双版本最终版】：[点击下载](https://zi0.cc/d/%60%E3%80%90%E5%90%88%E9%9B%86%E7%B3%BB%E5%88%97%E3%80%91/%E5%8D%97%2BGalGame%E6%B1%89%E5%8C%96%E5%8C%BA%E5%85%A8%E5%8C%BA%E8%B5%84%E6%BA%90%E5%A4%87%E4%BB%BD/1/12/%5BKey%5D%20Summer%20Pockets%20Reflection%20Blue%20%E5%8F%8C%E7%89%88%E6%9C%AC%E6%9C%80%E7%BB%88%E7%89%88%E6%B1%89%E5%8C%96%E7%A1%AC%E7%9B%98%E7%89%88%5B%E6%9E%AB%E7%AC%9B%26%E5%A4%8F%E6%97%A5%E7%BA%AF%E8%87%BB%5D.zip?sign=zyJxNH2y6gl8vzDSFi8llfS-35naGrws9PtUNB-KAjc=:0)
 8. [梓澪の妙妙屋](https://zi0.cc/) & `Windows`【夏日纯臻汉化组 V2.0 最终版】：[点击下载](https://zi0.cc/d/%60%E3%80%90%E5%90%88%E9%9B%86%E7%B3%BB%E5%88%97%E3%80%91/%E5%8D%97%2BGalGame%E6%B1%89%E5%8C%96%E5%8C%BA%E5%85%A8%E5%8C%BA%E8%B5%84%E6%BA%90%E5%A4%87%E4%BB%BD/1/13/%5BKey%5D%20Summer%20Pockets%20Reflection%20Blue%20V2.0%E6%9C%80%E7%BB%88%E7%89%88%E6%B1%89%E5%8C%96%E7%A1%AC%E7%9B%98%E7%89%88%5B%E5%A4%8F%E6%97%A5%E7%BA%AF%E8%87%BB%E6%B1%89%E5%8C%96%E7%BB%84%5D.zip?sign=yEnCcAIawL9a2dhQjXWcbgtfmVjSbVLPGvUpwOThoCk=:0)
 9. [梓澪の妙妙屋](https://zi0.cc/) & `Windows`【V1.04 枫笛汉化组】：[点击下载](https://zi0.cc/d/%60%E3%80%90%E5%90%88%E9%9B%86%E7%B3%BB%E5%88%97%E3%80%91/%E5%8D%97%2BGalGame%E6%B1%89%E5%8C%96%E5%8C%BA%E5%85%A8%E5%8C%BA%E8%B5%84%E6%BA%90%E5%A4%87%E4%BB%BD/1/12/%5BKEY%5D%20Summer%20Pockets%20Reflection%20Blue%20V1.04%E6%B1%89%E5%8C%96%E7%A1%AC%E7%9B%98%E7%89%88%5B%E6%9E%AB%E7%AC%9B%E6%B1%89%E5%8C%96%E7%BB%84%5D.zip?sign=FckHwX3VblnaOmQY1UzLet7VvTLGX_ri1ZhDAAPiHgw=:0)
 10. [梓澪の妙妙屋](https://zi0.cc/) & `Windows`：[点击下载](https://zi0.cc/d/%60%E3%80%90%E5%90%88%E9%9B%86%E7%B3%BB%E5%88%97%E3%80%91/%E6%B1%89%E5%8C%96galgame%E4%BC%9A%E7%A4%BE%E5%90%88%E9%9B%86/%E6%B1%89%E5%8C%96%E4%BC%9A%E7%A4%BE%E5%90%88%E9%9B%86%E9%83%A8%E5%88%86%20part24/KEY/%E6%B1%89%E5%8C%96%E7%89%88/%5B200626%5D%5BKey%5D%20Summer%20Pockets%20REFLECTION%20BLUE.rar?sign=7GTw16-VL_DsiRdHudmcatwtryjIMbc0fmByNDcxF_w=:0)
 11. [梓澪の妙妙屋](https://zi0.cc/) & `Windows`：[点击下载](https://zi0.cc/d/%60%E3%80%90%E5%90%88%E9%9B%86%E7%B3%BB%E5%88%97%E3%80%91/%E3%80%90PC%E3%80%91key%E7%A4%BE%E7%B3%BB%E5%88%97%E4%BD%9C%E5%93%81/Summer%20Pockets%20REFLECTION%20BLUE.zip?sign=sLJwMKc5SVori7wmhI2_b7obtTMF6rSJZ6ye9uCMPc4=:0)
-12. [稻荷ACG](https://amoebi.com/) & `Windows`：[点击下载](https://download.zrflie1.pw/PC/Summer+Pockets+REFLECTION+BLU.zip)
-13. [稻荷ACG](https://amoebi.com/) & `Android`：[点击下载](https://download.zrflie1.pw/APK/%E5%A4%8F%E6%97%A5%E5%8F%A3%E8%A2%8Breflection+blue.zip)
-14. [失落小站](https://www.shinnku.com/) & `Windows`【双汉化版】：[点击下载](https://www.shinnku.com/api/download/0/win/Summer%20Pockets/Summer%20Pockets%20REFLECTION%20BLUE(%E5%8F%8C%E6%B1%89%E5%8C%96%E7%89%88).7z)
-15. [失落小站](https://www.shinnku.com/) & `Windows`：[点击下载](https://www.shinnku.com/api/download/zd/1501-2000/[200626][Key]%20Summer%20Pockets%20REFLECTION%20BLUE.rar)
+12. [稻荷GAL](https://inarigal.com/) & `Windows`：[点击下载](https://download.zrflie1.pw/PC/Summer+Pockets+REFLECTION+BLU.zip)
+13. [稻荷GAL](https://inarigal.com/) & `Android`：[点击下载](https://download.zrflie1.pw/APK/%E5%A4%8F%E6%97%A5%E5%8F%A3%E8%A2%8Breflection+blue.zip)
+14. [真红小站](https://www.shinnku.com/) & `Windows`【双汉化版】：[点击下载](https://www.shinnku.com/api/download/0/win/Summer%20Pockets/Summer%20Pockets%20REFLECTION%20BLUE(%E5%8F%8C%E6%B1%89%E5%8C%96%E7%89%88).7z)
+15. [真红小站](https://www.shinnku.com/) & `Windows`：[点击下载](https://www.shinnku.com/api/download/zd/1501-2000/[200626][Key]%20Summer%20Pockets%20REFLECTION%20BLUE.rar)
 16. [姬路白雪](https://pan.jlbx.xyz/) & `Windows`：[点击下载](https://pan.jlbx.xyz/?s=Summer%20Pockets%20REFLECTION%20BLUE)，密码：`终点`
 17. [姬路白雪](https://pan.jlbx.xyz/) & `Android`：[点击下载](https://pan.jlbx.xyz/?s=%E5%A4%8F%E6%97%A5%E5%8F%A3%E8%A2%8B%20%E8%94%9A%E8%93%9D%E5%9B%9E%E5%BF%86)，密码：`终点`
 18. [烟郁Galgame](https://yanyugal.top/) & `Windows`：[点击下载](https://yanyugal.top/d/disk1/PC/key/Summer%20Pockets%20REFLECTION%20BLUE.rar)，密码：`烟郁频道`

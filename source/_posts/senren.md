@@ -178,12 +178,12 @@ updated: 2024-11-17 07:18:40
 
 ## 分流
 
-1. [TouchGAL](https://www.touchgal.io/) & `Windows`：[点击下载](https://pan.touchgal.net/s/6X8Hp)，密码：`touchgal`
-2. [TouchGAL](https://www.touchgal.io/) & `KRKR`：[点击下载](https://pan.touchgal.net/s/wpwtv)，密码：`touchgal`
+1. [TouchGAL](https://www.touchgal.us/) & `Windows`：[点击下载](https://pan.touchgal.net/s/6X8Hp)，密码：`touchgal`
+2. [TouchGAL](https://www.touchgal.us/) & `KRKR`：[点击下载](https://pan.touchgal.net/s/wpwtv)，密码：`touchgal`
 3. [NekoGAL](https://www.nekogal.com/) & `Windows`：[点击下载](https://pan.nekogal.top/s/nxs4)
 4. [NekoGAL](https://www.nekogal.com/) & `KRKR`：[点击下载](https://pan.nekogal.top/s/0KyUV)
-5. [Hikarinagi](https://www.hikarinagi.com/) & `Windows` + `KRKR`：[点击下载](https://pan.himoe.uk/s/KGGUv)，密码：`hikarinagi.com`
-6. [Hikarinagi](https://www.hikarinagi.com/) & `Windows` + `KRKR`：[点击下载](https://pan.himoe.uk/s/wOXtz)，密码：`hikarinagi.com`
+5. [Hikarinagi](https://www.hikarinagi.net/) & `Windows` + `KRKR`：[点击下载](https://pan.yurari.moe/s/KGGUv)，密码：`hikarinagi.com`
+6. [Hikarinagi](https://www.hikarinagi.net/) & `Windows` + `KRKR`：[点击下载](https://pan.yurari.moe/s/wOXtz)，密码：`hikarinagi.com`
 7. [小鳥遊暁の会员制餐厅](https://t-satoru.top/) & `KRKR`：[点击下载](https://pan.t-satoru.top/d/ode5/Galgames/%E3%80%90%E8%87%AA%E5%B0%81%E5%8C%85%E3%80%91%E5%8E%9F%E5%88%9B%E4%BD%9C%E5%93%81/%E5%8D%83%E6%81%8B%E4%B8%87%E8%8A%B1/v3_%E5%9F%8E%E5%BD%A9%E5%AD%A6%E5%9B%AD_%E5%AE%98%E4%B8%AD_%E5%8D%83%E6%81%8B%E4%B8%87%E8%8A%B1_od.rar)，密码：`三司绫濑天下第一`
 8. [姬路白雪](https://jlbx.xyz/) & `Windows` + `KRKR`：[点击下载](https://pan.jlbx.xyz/?s=%E5%8D%83%E6%81%8B%E4%B8%87%E8%8A%B1)，密码：`终点`
 9. [烟郁Galgame](https://yanyugal.top/) & `KRKR`：[点击下载](https://yanyugal.top/d/disk1/%E5%B0%8F%E5%B0%8F%E7%9A%84%E5%88%86%E4%BA%AB%EF%BC%88PC%EF%BC%86%E5%AE%89%E5%8D%93%EF%BC%89/%E5%AE%89%E5%8D%93/krkr/%E6%9F%9A%E5%AD%90%E7%A4%BE/%E5%8D%83%E6%81%8B%EF%BC%8A%E4%B8%87%E8%8A%B1.7z)，密码：`烟郁频道`
@@ -195,13 +195,13 @@ updated: 2024-11-17 07:18:40
 15. [梓澪の妙妙屋](https://zi0.cc/) & `KRKR`：[点击下载](https://zi0.cc/d/%60%E3%80%90%E5%90%88%E9%9B%86%E7%B3%BB%E5%88%97%E3%80%91/%E3%80%90PC%2BKR%E3%80%91YUZUSOFT%20SOUR%20%E6%9F%9A%E5%AD%90%E7%A4%BE%E5%90%88%E9%9B%86/KRKR/%E5%8D%83%E6%81%8B%EF%BC%8A%E4%B8%87%E8%8A%B1.rar?sign=FtYfktsa9_LQzYrpL4YLRrKxfWGcS-kmhIN4sds-qrs=:0)
 16. [梓澪の妙妙屋](https://zi0.cc/) & `Android`：[点击下载](https://zi0.cc/d/.%E3%80%90%E5%A4%8F%E9%A3%8E%E3%80%91/.%E3%80%90%E5%A4%8F%E9%A3%8E-1%E3%80%91/%E5%AE%89%E5%8D%93/APK/%E5%8D%83%E6%81%8B%E4%B8%87%E8%8A%B1.apk?sign=VKImkmFwAG7z9o10OJn3RYeqfuPBebTbtrZckQjmhSE=:0)
 17. [绮梦](https://acgs.one/) & `Windows` + `KRKR`：[点击下载](https://game.acgs.one/game/19.html)，密码：`acgs`
-18. [失落小站](https://www.shinnku.com/) & `Windows`【官中】：[点击下载](https://www.shinnku.com/api/download/0/win/%E5%8D%83%E6%81%8B%E4%B8%87%E8%8A%B1/%E5%8D%83%E6%81%8B%E4%B8%87%E8%8A%B1(%E5%AE%98%E4%B8%AD).7z)
-19. [失落小站](https://www.shinnku.com/) & `Windows`【心愿屋】：[点击下载](https://www.shinnku.com/api/download/0/win/%E5%8D%83%E6%81%8B%E4%B8%87%E8%8A%B1/%E5%8D%83%E6%81%8B%E4%B8%87%E8%8A%B1(%E5%BF%83%E6%84%BF%E5%B1%8B).7z)
-20. [失落小站](https://www.shinnku.com/) & `Windows`【城彩修正】：[点击下载](https://www.shinnku.com/api/download/0/win/%E5%8D%83%E6%81%8B%E4%B8%87%E8%8A%B1/%E5%8D%83%E6%81%8B%E4%B8%87%E8%8A%B1(%E5%9F%8E%E5%BD%A9%E4%BF%AE%E6%AD%A3).7z)
-21. [失落小站](https://www.shinnku.com/) & `KRKR`：[点击下载](https://www.shinnku.com/api/download/0/krkr/%E3%80%90krkr%E3%80%91%E5%8D%83%E6%81%8B%E4%B8%87%E8%8A%B1.7z)
-22. [失落小站](https://www.shinnku.com/) & `Android`：[点击下载](https://www.shinnku.com/api/download/0/apk/%E5%86%B7%E7%8B%90/1001-1500/1322-%E5%8D%83%E6%81%8B%E4%B8%87%E8%8A%B1.apk)
-23. [稻荷ACG](https://amoebi.com/) & `Windows`：[点击下载](https://sakustar.com/art/112)
-24. [稻荷ACG](https://amoebi.com/) & `KRKR`：[点击下载](https://sakustar.com/art/575)
+18. [真红小站](https://www.shinnku.com/) & `Windows`【官中】：[点击下载](https://www.shinnku.com/api/download/0/win/%E5%8D%83%E6%81%8B%E4%B8%87%E8%8A%B1/%E5%8D%83%E6%81%8B%E4%B8%87%E8%8A%B1(%E5%AE%98%E4%B8%AD).7z)
+19. [真红小站](https://www.shinnku.com/) & `Windows`【心愿屋】：[点击下载](https://www.shinnku.com/api/download/0/win/%E5%8D%83%E6%81%8B%E4%B8%87%E8%8A%B1/%E5%8D%83%E6%81%8B%E4%B8%87%E8%8A%B1(%E5%BF%83%E6%84%BF%E5%B1%8B).7z)
+20. [真红小站](https://www.shinnku.com/) & `Windows`【城彩修正】：[点击下载](https://www.shinnku.com/api/download/0/win/%E5%8D%83%E6%81%8B%E4%B8%87%E8%8A%B1/%E5%8D%83%E6%81%8B%E4%B8%87%E8%8A%B1(%E5%9F%8E%E5%BD%A9%E4%BF%AE%E6%AD%A3).7z)
+21. [真红小站](https://www.shinnku.com/) & `KRKR`：[点击下载](https://www.shinnku.com/api/download/0/krkr/%E3%80%90krkr%E3%80%91%E5%8D%83%E6%81%8B%E4%B8%87%E8%8A%B1.7z)
+22. [真红小站](https://www.shinnku.com/) & `Android`：[点击下载](https://www.shinnku.com/api/download/0/apk/%E5%86%B7%E7%8B%90/1001-1500/1322-%E5%8D%83%E6%81%8B%E4%B8%87%E8%8A%B1.apk)
+23. [稻荷GAL](https://inarigal.com/) & `Windows`：[点击下载](https://inarigal.com/detail/112)
+24. [稻荷GAL](https://inarigal.com/) & `KRKR`：[点击下载](https://inarigal.com/detail/575)
 25. [量子ACG](https://lzacg.org/) & `Windows`：[点击下载](https://lzacg.org/929)，密码：`量子acg`、`lzacg.top`
 26. [量子ACG](https://lzacg.org/) & `KRKR`：[点击下载](https://lzacg.org/956)，密码：`量子acg`、`lzacg.top`
 27. [量子ACG](https://lzacg.org/) & `KRKR`：[点击下载](https://lzacg.org/2423)，密码：`量子acg`、`lzacg.top`

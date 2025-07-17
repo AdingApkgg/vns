@@ -66,15 +66,15 @@ updated: 2024-02-25 02:32:00
 
 ### eden* PLUS+MOSAIC（18禁）
 
-[稻荷ACG](https://amoebi.com/) & Windows下载分流1：[点击下载](https://sakustar.moe/download?post_id=290&index=0&i=1)
+[稻荷GAL](https://inarigal.com/) & Windows下载分流1：[点击下载](https://sakustar.moe/download?post_id=290&index=0&i=1)
 
 [梓澪の妙妙屋](https://zi0.cc/) & Windows下载分流2：[点击下载](https://zi0.cc/d/%60%E3%80%90%E5%90%88%E9%9B%86%E7%B3%BB%E5%88%97%E3%80%91/%E6%B1%89%E5%8C%96galgame%E4%BC%9A%E7%A4%BE%E5%90%88%E9%9B%86/%E6%B1%89%E5%8C%96%E4%BC%9A%E7%A4%BE%E5%90%88%E9%9B%86%E9%83%A8%E5%88%86%20part15/minori/%E6%B1%89%E5%8C%96%E7%89%88/%5B221013%5D%5Bminori%5D%20eden%EF%BC%8A%2BPLUS%20MOSAIC.rar?sign=UomO_J-Skps0UC00FYhrPXSU6PezZ1-mCbn3Xjdss0o=:0)
 
-[TouchGAL](https://www.touchgal.io/) & Windows下载分流3：[点击下载](https://pan.touchgal.net/s/6PpHp)
+[TouchGAL](https://www.touchgal.us/) & Windows下载分流3：[点击下载](https://pan.touchgal.net/s/6PpHp)
 
 ### eden*（全年龄）
 
-[稻荷ACG](https://amoebi.com/) & ONS下载分流4：[点击下载](https://sakustar.moe/download?post_id=605&index=0&i=0)
+[稻荷GAL](https://inarigal.com/) & ONS下载分流4：[点击下载](https://sakustar.moe/download?post_id=605&index=0&i=0)
 
 [烟郁Galgame](https://yanyugal.top/) & ONS下载分流6：[点击下载](https://yanyugal.top/d/disk1/%E5%B0%8F%E5%B0%8F%E7%9A%84%E5%88%86%E4%BA%AB%EF%BC%88PC%EF%BC%86%E5%AE%89%E5%8D%93%EF%BC%89/%E5%AE%89%E5%8D%93/ons/eden%EF%BC%8A.7z)，密码：烟郁频道
 

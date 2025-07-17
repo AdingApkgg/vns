@@ -123,86 +123,86 @@ NEKOPARA特点为引进[E-mote](https://zh.wikipedia.org/wiki/E-mote)系统，�
 
 1. [NekoGAL](https://www.nekogal.com/) & `Windows`：[点击下载](https://pan.nekogal.top/s/WJnfO)
 2. [NekoGAL](https://www.nekogal.com/) & `KRKR`：[点击下载](https://pan.nekogal.top/s/KJwIL)
-3. [Hikarinagi](https://www.hikarinagi.com/) & `Windows` + `KRKR`：[点击下载](https://pan.himoe.uk/s/pqpiN)，密码：`hikarinagi.com`
-4. [Hikarinagi](https://www.hikarinagi.com/) & `Windows` + `KRKR`：[点击下载](https://pan.himoe.uk/s/kYKs6)，密码：`hikarinagi.com`
-5. [失落小站](https://www.shinnku.com/) & `Android`：[点击下载](https://www.shinnku.com/api/download/0/apk/%E5%86%B7%E7%8B%90/1001-1500/1332-%E5%B7%A7%E5%85%8B%E5%8A%9B%E4%B8%8E%E9%A6%99%E5%AD%90%E5%85%B01.apk)
-6. [失落小站](https://www.shinnku.com/) & `KRKR`：[点击下载](https://www.shinnku.com/api/download/0/krkr/Nekopara%20vol.1.7z)
+3. [Hikarinagi](https://www.hikarinagi.net/) & `Windows` + `KRKR`：[点击下载](https://pan.yurari.moe/s/pqpiN)，密码：`hikarinagi.com`
+4. [Hikarinagi](https://www.hikarinagi.net/) & `Windows` + `KRKR`：[点击下载](https://pan.yurari.moe/s/kYKs6)，密码：`hikarinagi.com`
+5. [真红小站](https://www.shinnku.com/) & `Android`：[点击下载](https://www.shinnku.com/api/download/0/apk/%E5%86%B7%E7%8B%90/1001-1500/1332-%E5%B7%A7%E5%85%8B%E5%8A%9B%E4%B8%8E%E9%A6%99%E5%AD%90%E5%85%B01.apk)
+6. [真红小站](https://www.shinnku.com/) & `KRKR`：[点击下载](https://www.shinnku.com/api/download/0/krkr/Nekopara%20vol.1.7z)
 7. [烟郁Galgame](https://yanyugal.top/) & `Android`：[点击下载](https://yanyugal.top/d/disk1/%E5%B0%8F%E5%B0%8F%E7%9A%84%E5%88%86%E4%BA%AB%EF%BC%88PC%EF%BC%86%E5%AE%89%E5%8D%93%EF%BC%89/%E5%AE%89%E5%8D%93/%E7%9B%B4%E8%A3%85%E5%AE%89%E8%A3%85%E5%8C%85/%E5%B7%A7%E5%85%8B%E5%8A%9B%E4%B8%8E%E9%A6%99%E5%AD%90%E5%85%B01.7z)，密码：`lumouweinb`、`烟郁频道`
 8. [我的Galgame资源发布站](https://www.ttloli.com/) & `Windows`：[点击下载](https://www.ttloli.com/nekopara-cats-paradise-vol-1.html)，密码：`忧郁的弟弟`、`忧郁的loli`
 9. [梓澪の妙妙屋](https://zi0.cc/) & `KRKR`：[点击下载](https://zi0.cc/.%E3%80%90%E5%A4%8F%E9%A3%8E%E3%80%91/.%E3%80%90%E5%A4%8F%E9%A3%8E-1%E3%80%91/%E5%AE%89%E5%8D%93/KRKR/%E3%80%90KRKR%E3%80%91%E3%80%901%E3%80%91%E5%B7%A7%E5%85%8B%E5%8A%9B%E4%B8%8E%E5%85%B0%E9%A6%99%E5%AD%90.7z?from=search)
 10. [梓澪の妙妙屋](https://zi0.cc/) & `Android`：[点击下载](https://zi0.cc/d/%60%E3%80%90%E5%BD%92%20%E6%A1%A3%E3%80%91/%E3%80%90%E5%AE%89%E5%8D%93%E5%90%88%E9%9B%86%E3%80%91/018/%E5%B7%A7%E5%85%8B%E5%8A%9B%E4%B8%8E%E9%A6%99%E5%AD%90%E5%85%B01.apk?sign=ufdQPip5gtaHC8G0tWSr3cuFfRziSMf4Y_Brf2Pic1E=:0)
 11. [量子ACG](https://lzacg.org/) & `KRKR`：[点击下载](https://lzacg.org/2159)，密码：`量子acg`、`lzacg.top`
-12. [稻荷ACG](https://amoebi.com/) & `Windows`：[点击下载](https://sakustar.com/art/230)
-13. [稻荷ACG](https://amoebi.com/) & `KRKR`：[点击下载](https://sakustar.com/art/594)
+12. [稻荷GAL](https://inarigal.com/) & `Windows`：[点击下载](https://inarigal.com/detail/230)
+13. [稻荷GAL](https://inarigal.com/) & `KRKR`：[点击下载](https://inarigal.com/detail/594)
 
 ### Vol.0 水无月猫娘们的日常 水無月ネコたちの日常！
 
-1. [TouchGAL](https://www.touchgal.io/) & `Windows`：[点击下载](https://pan.touchgal.net/s/6xbFp)，密码：`touchgal`
-2. [TouchGAL](https://www.touchgal.io/) & `KRKR`：[点击下载](https://pan.touchgal.net/s/yRaqsY)，密码：`touchgal`
+1. [TouchGAL](https://www.touchgal.us/) & `Windows`：[点击下载](https://pan.touchgal.net/s/6xbFp)，密码：`touchgal`
+2. [TouchGAL](https://www.touchgal.us/) & `KRKR`：[点击下载](https://pan.touchgal.net/s/yRaqsY)，密码：`touchgal`
 3. [NekoGAL](https://www.nekogal.com/) & `Windows`：[点击下载](https://pan.nekogal.top/s/1JPcn)
-4. [Hikarinagi](https://www.hikarinagi.com/) & `Windows`：[点击下载](https://pan.himoe.uk/s/o0BcL)，密码：`hikarinagi.com`
-5. [Hikarinagi](https://www.hikarinagi.com/) & `Windows`：[点击下载](https://pan.himoe.uk/s/lZVf5)，密码：`hikarinagi.com`
-6. [失落小站](https://www.shinnku.com/) & `Android`：[点击下载](https://www.shinnku.com/api/download/0/apk/%E5%86%B7%E7%8B%90/1001-1500/1331-%E5%B7%A7%E5%85%8B%E5%8A%9B%E4%B8%8E%E9%A6%99%E5%AD%90%E5%85%B00.apk)
+4. [Hikarinagi](https://www.hikarinagi.net/) & `Windows`：[点击下载](https://pan.yurari.moe/s/o0BcL)，密码：`hikarinagi.com`
+5. [Hikarinagi](https://www.hikarinagi.net/) & `Windows`：[点击下载](https://pan.yurari.moe/s/lZVf5)，密码：`hikarinagi.com`
+6. [真红小站](https://www.shinnku.com/) & `Android`：[点击下载](https://www.shinnku.com/api/download/0/apk/%E5%86%B7%E7%8B%90/1001-1500/1331-%E5%B7%A7%E5%85%8B%E5%8A%9B%E4%B8%8E%E9%A6%99%E5%AD%90%E5%85%B00.apk)
 7. [梓澪の妙妙屋](https://zi0.cc/) & `KRKR`：[点击下载](https://zi0.cc/.%E3%80%90%E5%A4%8F%E9%A3%8E%E3%80%91/.%E3%80%90%E5%A4%8F%E9%A3%8E-1%E3%80%91/%E5%AE%89%E5%8D%93/KRKR/%E3%80%90KRKR%E3%80%91%E3%80%900%E3%80%91%E5%B7%A7%E5%85%8B%E5%8A%9B%E4%B8%8E%E5%85%B0%E9%A6%99%E5%AD%90.7z?from=search)
 8. [梓澪の妙妙屋](https://zi0.cc/) & `Android`：[点击下载](https://zi0.cc/d/%60%E3%80%90%E5%BD%92%20%E6%A1%A3%E3%80%91/%E3%80%90%E5%AE%89%E5%8D%93%E5%90%88%E9%9B%86%E3%80%91/018/%E5%B7%A7%E5%85%8B%E5%8A%9B%E4%B8%8E%E9%A6%99%E5%AD%90%E5%85%B00.apk?sign=371Ej3S9U6w4lkH0DUxK6txo0ewjo38o33-fHbl48Fk=:0)
 9. [烟郁Galgame](https://yanyugal.top/) & `Android`：[点击下载](https://yanyugal.top/d/disk1/%E5%B0%8F%E5%B0%8F%E7%9A%84%E5%88%86%E4%BA%AB%EF%BC%88PC%EF%BC%86%E5%AE%89%E5%8D%93%EF%BC%89/%E5%AE%89%E5%8D%93/%E7%9B%B4%E8%A3%85%E5%AE%89%E8%A3%85%E5%8C%85/%E5%B7%A7%E5%85%8B%E5%8A%9B%E4%B8%8E%E9%A6%99%E5%AD%90%E5%85%B00.7z)，密码：`lumouweinb`、`烟郁频道`
 10. [我的Galgame资源发布站](https://www.ttloli.com/) & `Windows`：[点击下载](https://www.ttloli.com/nekopara-vol-0-vol-0.html)，密码：`忧郁的弟弟`、`忧郁的loli`
-11. [稻荷ACG](https://amoebi.com/) & `Windows`：[点击下载](https://sakustar.com/art/228)
-12. [稻荷ACG](https://amoebi.com/) & `KRKR`：[点击下载](https://sakustar.com/art/593)
+11. [稻荷GAL](https://inarigal.com/) & `Windows`：[点击下载](https://inarigal.com/detail/228)
+12. [稻荷GAL](https://inarigal.com/) & `KRKR`：[点击下载](https://inarigal.com/detail/593)
 
 ### Vol.2 姐妹猫的砂糖 姉妹ネコのシュクレ
 
 1. [NekoGAL](https://www.nekogal.com/) & `Windows`：[点击下载](https://pan.nekogal.top/s/mNwsn)
-2. [Hikarinagi](https://www.hikarinagi.com/) & `Windows` + `KRKR`：[点击下载](https://pan.himoe.uk/s/qr0TP)，密码：`hikarinagi.com`
-3. [Hikarinagi](https://www.hikarinagi.com/) & `Windows` + `KRKR`：[点击下载](https://pan.himoe.uk/s/jXBiM)，密码：`hikarinagi.com`
-4. [失落小站](https://www.shinnku.com/) & `Android`：[点击下载](https://www.shinnku.com/api/download/0/apk/%E5%86%B7%E7%8B%90/1001-1500/1333-%E5%B7%A7%E5%85%8B%E5%8A%9B%E4%B8%8E%E9%A6%99%E5%AD%90%E5%85%B02.apk)
-5. [失落小站](https://www.shinnku.com/) & `KRKR`：[点击下载](https://www.shinnku.com/api/download/0/krkr/Nekopara%20vol.2.7z)
+2. [Hikarinagi](https://www.hikarinagi.net/) & `Windows` + `KRKR`：[点击下载](https://pan.yurari.moe/s/qr0TP)，密码：`hikarinagi.com`
+3. [Hikarinagi](https://www.hikarinagi.net/) & `Windows` + `KRKR`：[点击下载](https://pan.yurari.moe/s/jXBiM)，密码：`hikarinagi.com`
+4. [真红小站](https://www.shinnku.com/) & `Android`：[点击下载](https://www.shinnku.com/api/download/0/apk/%E5%86%B7%E7%8B%90/1001-1500/1333-%E5%B7%A7%E5%85%8B%E5%8A%9B%E4%B8%8E%E9%A6%99%E5%AD%90%E5%85%B02.apk)
+5. [真红小站](https://www.shinnku.com/) & `KRKR`：[点击下载](https://www.shinnku.com/api/download/0/krkr/Nekopara%20vol.2.7z)
 6. [梓澪の妙妙屋](https://zi0.cc/) & `KRKR`：[点击下载](https://zi0.cc/.%E3%80%90%E5%A4%8F%E9%A3%8E%E3%80%91/.%E3%80%90%E5%A4%8F%E9%A3%8E-1%E3%80%91/%E5%AE%89%E5%8D%93/KRKR/%E3%80%90KRKR%E3%80%91%E3%80%902%E3%80%91%E5%B7%A7%E5%85%8B%E5%8A%9B%E4%B8%8E%E5%85%B0%E9%A6%99%E5%AD%90.7z?from=search)
 7. [梓澪の妙妙屋](https://zi0.cc/) & `Android`：[点击下载](https://zi0.cc/d/%60%E3%80%90%E5%BD%92%20%E6%A1%A3%E3%80%91/%E3%80%90%E5%AE%89%E5%8D%93%E5%90%88%E9%9B%86%E3%80%91/018/%E5%B7%A7%E5%85%8B%E5%8A%9B%E4%B8%8E%E9%A6%99%E5%AD%90%E5%85%B02.apk?sign=MBq3J51ocNcxsi9vvcfaNg2ej98hQ39Km8ZN1AJz5OA=:0)
 8. [烟郁Galgame](https://yanyugal.top/) & `Android`：[点击下载](https://yanyugal.top/d/disk1/%E5%B0%8F%E5%B0%8F%E7%9A%84%E5%88%86%E4%BA%AB%EF%BC%88PC%EF%BC%86%E5%AE%89%E5%8D%93%EF%BC%89/%E5%AE%89%E5%8D%93/%E7%9B%B4%E8%A3%85%E5%AE%89%E8%A3%85%E5%8C%85/%E5%B7%A7%E5%85%8B%E5%8A%9B%E4%B8%8E%E9%A6%99%E5%AD%90%E5%85%B02.7z)，密码：`lumouweinb`、`烟郁频道`
 9. [我的Galgame资源发布站](https://www.ttloli.com/) & `Windows`：[点击下载](https://www.ttloli.com/nekopara-vol-2-vol-2.html)，密码：`忧郁的弟弟`、`忧郁的loli`
 10. [量子ACG](https://lzacg.org/) & `KRKR`：[点击下载](https://lzacg.org/2160)，密码：`量子acg`、`lzacg.top`
-11. [稻荷ACG](https://amoebi.com/) & `Windows`：[点击下载](https://sakustar.com/art/232)
-12. [稻荷ACG](https://amoebi.com/) & `KRKR`：[点击下载](https://sakustar.com/art/595)
+11. [稻荷GAL](https://inarigal.com/) & `Windows`：[点击下载](https://inarigal.com/detail/232)
+12. [稻荷GAL](https://inarigal.com/) & `KRKR`：[点击下载](https://inarigal.com/detail/595)
 
 ### Vol.3 绽香猫娘姊妹 ネコたちのアロマティゼ
 
 1. [Koyso](https://koyso.com/) & `Windows` + `KRKR`：[点击下载](https://koyso.com/game/798)
 2. [NekoGAL](https://www.nekogal.com/) & `Windows`：[点击下载](https://pan.nekogal.top/s/MPGsl)
-3. [Hikarinagi](https://www.hikarinagi.com/) & `Windows`：[点击下载](https://pan.himoe.uk/s/rv4U0)，密码：`hikarinagi.com`
-4. [Hikarinagi](https://www.hikarinagi.com/) & `Windows`：[点击下载](https://pan.himoe.uk/s/gRDux)，密码：`hikarinagi.com`
+3. [Hikarinagi](https://www.hikarinagi.net/) & `Windows`：[点击下载](https://pan.yurari.moe/s/rv4U0)，密码：`hikarinagi.com`
+4. [Hikarinagi](https://www.hikarinagi.net/) & `Windows`：[点击下载](https://pan.yurari.moe/s/gRDux)，密码：`hikarinagi.com`
 5. [我的Galgame资源发布站](https://www.ttloli.com/) & `Windows`：[点击下载](https://www.ttloli.com/nekopara-vol-3.html)，密码：`忧郁的弟弟`、`忧郁的loli`
-6. [稻荷ACG](https://amoebi.com/) & `Windows`：[点击下载](https://sakustar.com/art/234)
+6. [稻荷GAL](https://inarigal.com/) & `Windows`：[点击下载](https://inarigal.com/detail/234)
 
 ### Extra 小猫之日的约定 仔ネコの日の約束 前传 番外
 
 1. [NekoGAL](https://www.nekogal.com/) & `Windows`：[点击下载](https://pan.nekogal.top/s/nGxu4)
 2. [NekoGAL](https://www.nekogal.com/) & `KRKR`：[点击下载](https://pan.nekogal.top/s/DQBtN)
-3. [Hikarinagi](https://www.hikarinagi.com/) & `Windows` + `KRKR`：[点击下载](https://pan.himoe.uk/s/wA1fz)，密码：`hikarinagi.com`
-4. [Hikarinagi](https://www.hikarinagi.com/) & `Windows` + `KRKR`：[点击下载](https://pan.himoe.uk/s/9JYhg)，密码：`hikarinagi.com`
-5. [失落小站](https://www.shinnku.com/) & `Android`：[点击下载](https://www.shinnku.com/api/download/0/apk/%E5%86%B7%E7%8B%90/1001-1500/1334-%E5%B7%A7%E5%85%8B%E5%8A%9B%E4%B8%8E%E9%A6%99%E5%AD%90%E5%85%B0%E7%95%AA%E5%A4%96.apk)
-6. [失落小站](https://www.shinnku.com/) & `Windows`：[点击下载](https://www.shinnku.com/api/download/0/win/NEKOPARA%20Extra.7z)
-7. [失落小站](https://www.shinnku.com/) & `KRKR`：[点击下载](https://www.shinnku.com/api/download/0/krkr/NEKOPARA%20Extra.7z)
+3. [Hikarinagi](https://www.hikarinagi.net/) & `Windows` + `KRKR`：[点击下载](https://pan.yurari.moe/s/wA1fz)，密码：`hikarinagi.com`
+4. [Hikarinagi](https://www.hikarinagi.net/) & `Windows` + `KRKR`：[点击下载](https://pan.yurari.moe/s/9JYhg)，密码：`hikarinagi.com`
+5. [真红小站](https://www.shinnku.com/) & `Android`：[点击下载](https://www.shinnku.com/api/download/0/apk/%E5%86%B7%E7%8B%90/1001-1500/1334-%E5%B7%A7%E5%85%8B%E5%8A%9B%E4%B8%8E%E9%A6%99%E5%AD%90%E5%85%B0%E7%95%AA%E5%A4%96.apk)
+6. [真红小站](https://www.shinnku.com/) & `Windows`：[点击下载](https://www.shinnku.com/api/download/0/win/NEKOPARA%20Extra.7z)
+7. [真红小站](https://www.shinnku.com/) & `KRKR`：[点击下载](https://www.shinnku.com/api/download/0/krkr/NEKOPARA%20Extra.7z)
 8. [梓澪の妙妙屋](https://zi0.cc/) & `Windows`：[点击下载](https://zi0.cc/.%E3%80%90%E5%A4%8F%E9%A3%8E%E3%80%91/.%E3%80%90%E5%A4%8F%E9%A3%8E-1%E3%80%91/AVG%EF%BC%88%E8%A7%86%E8%A7%89%E5%B0%8F%E8%AF%B4%EF%BC%89/.%E5%85%B6%E4%BB%96/%E3%80%90PC%E3%80%91%E5%B7%A7%E5%85%8B%E5%8A%9B%E4%B8%8E%E5%85%B0%E9%A6%99%E5%AD%90%E5%89%8D%E4%BC%A0.7z?from=search)，密码：`半夏`
 9. [梓澪の妙妙屋](https://zi0.cc/) & `KRKR`：[点击下载](https://zi0.cc/.%E3%80%90%E5%A4%8F%E9%A3%8E%E3%80%91/.%E3%80%90%E5%A4%8F%E9%A3%8E-1%E3%80%91/%E5%AE%89%E5%8D%93/KRKR/%E3%80%90krkr%E3%80%91%E5%B7%A7%E5%85%8B%E5%8A%9B%E4%B8%8E%E9%A6%99%E5%AD%90%E5%85%B0%20Extra%20(1).7z?from=search)
 10. [梓澪の妙妙屋](https://zi0.cc/) & `Android`：[点击下载](https://zi0.cc/d/%60%E3%80%90%E5%BD%92%20%E6%A1%A3%E3%80%91/%E3%80%90%E5%AE%89%E5%8D%93%E5%90%88%E9%9B%86%E3%80%91/018/%E5%B7%A7%E5%85%8B%E5%8A%9B%E4%B8%8E%E9%A6%99%E5%AD%90%E5%85%B0%E7%95%AA%E5%A4%96.apk?sign=MGZ_AXLhrQ0jOYUoCs8IToBDxb6HXJkIS50GOGHpnew=:0)
 11. [烟郁Galgame](https://yanyugal.top/) & `Android`：[点击下载](https://yanyugal.top/d/disk1/%E5%B0%8F%E5%B0%8F%E7%9A%84%E5%88%86%E4%BA%AB%EF%BC%88PC%EF%BC%86%E5%AE%89%E5%8D%93%EF%BC%89/%E5%AE%89%E5%8D%93/%E7%9B%B4%E8%A3%85%E5%AE%89%E8%A3%85%E5%8C%85/%E5%B7%A7%E5%85%8B%E5%8A%9B%E4%B8%8E%E9%A6%99%E5%AD%90%E5%85%B0%E7%95%AA%E5%A4%96.7z)，密码：`lumouweinb`、`烟郁频道`
 12. [我的Galgame资源发布站](https://www.ttloli.com/) & `Windows`：[点击下载](https://www.ttloli.com/nekopara-extra.html)，密码：`忧郁的弟弟`、`忧郁的loli`
 13. [量子ACG](https://lzacg.org/) & `KRKR`：[点击下载](https://lzacg.org/2129)，密码：`量子acg`、`lzacg.top`
-14. [稻荷ACG](https://amoebi.com/) & `Windows`：[点击下载](https://sakustar.com/art/241)
-15. [稻荷ACG](https://amoebi.com/) & `KRKR`：[点击下载](https://sakustar.com/art/599)
+14. [稻荷GAL](https://inarigal.com/) & `Windows`：[点击下载](https://inarigal.com/detail/241)
+15. [稻荷GAL](https://inarigal.com/) & `KRKR`：[点击下载](https://inarigal.com/detail/599)
 
 ### Vol.4 猫与西点师的圣诞节 ～ネコとパティシエのノエル～
 
 1. [Koyso](https://koyso.com/) & `Windows` + `KRKR`：[点击下载](https://koyso.com/game/797)
 2. [NekoGAL](https://www.nekogal.com/) & `Windows`：[点击下载](https://pan.nekogal.top/s/2gJSJ)
 3. [NekoGAL](https://www.nekogal.com/) & `KRKR`：[点击下载](https://pan.nekogal.top/s/gPDuP)
-4. [Hikarinagi](https://www.hikarinagi.com/) & `Windows` + `KRKR`：[点击下载](https://pan.himoe.uk/s/vz0cj)，密码：`hikarinagi.com`
-5. [Hikarinagi](https://www.hikarinagi.com/) & `Windows` + `KRKR`：[点击下载](https://pan.himoe.uk/s/0w3CD)，密码：`hikarinagi.com`
-6. [失落小站](https://www.shinnku.com/) & `KRKR`：[点击下载](https://www.shinnku.com/api/download/0/krkr/NEKOPARA%20Vol.%204.7z)
+4. [Hikarinagi](https://www.hikarinagi.net/) & `Windows` + `KRKR`：[点击下载](https://pan.yurari.moe/s/vz0cj)，密码：`hikarinagi.com`
+5. [Hikarinagi](https://www.hikarinagi.net/) & `Windows` + `KRKR`：[点击下载](https://pan.yurari.moe/s/0w3CD)，密码：`hikarinagi.com`
+6. [真红小站](https://www.shinnku.com/) & `KRKR`：[点击下载](https://www.shinnku.com/api/download/0/krkr/NEKOPARA%20Vol.%204.7z)
 7. [梓澪の妙妙屋](https://zi0.cc/) & `KRKR`：[点击下载](https://zi0.cc/.%E3%80%90%E5%A4%8F%E9%A3%8E%E3%80%91/.%E3%80%90%E5%A4%8F%E9%A3%8E-1%E3%80%91/%E5%AE%89%E5%8D%93/KRKR/%E3%80%90krkr%E3%80%91%E5%B7%A7%E5%85%8B%E5%8A%9B%E4%B8%8E%E9%A6%99%E5%AD%90%E5%85%B0%204.7z?from=search)
-8. [稻荷ACG](https://amoebi.com/) & `Windows`：[点击下载](https://sakustar.com/art/239)
-9. [稻荷ACG](https://amoebi.com/) & `KRKR`：[点击下载](https://sakustar.com/art/598)
+8. [稻荷GAL](https://inarigal.com/) & `Windows`：[点击下载](https://inarigal.com/detail/239)
+9. [稻荷GAL](https://inarigal.com/) & `KRKR`：[点击下载](https://inarigal.com/detail/598)
 
 ### 合集
 

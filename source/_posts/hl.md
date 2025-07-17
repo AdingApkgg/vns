@@ -96,18 +96,18 @@ SUNNY-An Angelic Conte of"IMOUTO"
 
 ### △
 
-1. [TouchGAL](https://www.touchgal.io/) & `Windows`：[点击下载](https://pan.touchgal.net/s/130TX)，密码：`touchgal`
-2. [TouchGAL](https://www.touchgal.io/) & `KRKR`：[点击下载](https://pan.touchgal.net/s/AYYtP)，密码：`touchgal`
+1. [TouchGAL](https://www.touchgal.us/) & `Windows`：[点击下载](https://pan.touchgal.net/s/130TX)，密码：`touchgal`
+2. [TouchGAL](https://www.touchgal.us/) & `KRKR`：[点击下载](https://pan.touchgal.net/s/AYYtP)，密码：`touchgal`
 3. [NekoGAL](https://www.nekogal.com/) & `Windows`：[点击下载](https://pan.nekogal.top/s/gDsP)
 4. [NekoGAL](https://www.nekogal.com/) & `KRKR`：[点击下载](https://pan.nekogal.top/s/lnuM)
-5. [Hikarinagi](https://www.hikarinagi.com/) & `Windows`：[点击下载](https://pan.himoe.uk/s/1wqGsD)，密码：`hikarinagi.com`
-6. [失落小站](https://www.shinnku.com/) & `KRKR`：[点击下载](https://www.shinnku.com/api/download/0/krkr/%E4%B8%89%E8%89%B2%E7%BB%98%E6%81%8B(%E5%9B%BD%E4%BA%A7).7z)
+5. [Hikarinagi](https://www.hikarinagi.net/) & `Windows`：[点击下载](https://pan.yurari.moe/s/1wqGsD)，密码：`hikarinagi.com`
+6. [真红小站](https://www.shinnku.com/) & `KRKR`：[点击下载](https://www.shinnku.com/api/download/0/krkr/%E4%B8%89%E8%89%B2%E7%BB%98%E6%81%8B(%E5%9B%BD%E4%BA%A7).7z)
 7. [小鳥遊暁の会员制餐厅](https://t-satoru.top/) & `KRKR`：[点击下载](https://pan.t-satoru.top/ode5/Galgames/%E3%80%90%E8%87%AA%E5%B0%81%E5%8C%85%E3%80%91%E5%8E%9F%E5%88%9B%E4%BD%9C%E5%93%81/%E4%B8%89%E8%89%B2%E7%BB%98%E6%81%8B)，密码：`三司绫濑天下第一`
 8. [姬路白雪](https://pan.jlbx.xyz/) & `Windows` + `KRKR`：[点击下载](https://pan.jlbx.xyz/?s=%E4%B8%89%E8%89%B2%E7%BB%98%E6%81%8B)，密码：`终点`
 
 ### S
 
-1. [TouchGAL](https://www.touchgal.io/) & `Windows`：[点击下载](https://pan.touchgal.net/s/PYmIR)，密码：`touchgal`
+1. [TouchGAL](https://www.touchgal.us/) & `Windows`：[点击下载](https://pan.touchgal.net/s/PYmIR)，密码：`touchgal`
 
 ### 合集
 

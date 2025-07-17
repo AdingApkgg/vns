@@ -92,13 +92,13 @@ updated: 2024-03-30 02:52:00
 
 ## 分流
 
-1. [TouchGAL](https://www.touchgal.io/) & `Windows`：[点击下载](https://pan.touchgal.net/s/RxLvC7)，密码：`touchgal`
-2. [TouchGAL](https://www.touchgal.io/) & `ONS`：[点击下载](https://pan.touchgal.net/s/2VWtg)，密码：`touchgal`
-3. [稻荷ACG](https://amoebi.com/) & `Windows`：[点击下载](https://sakustar.top/download?post_id=4584&index=0&i=0)
-4. [稻荷ACG](https://amoebi.com/) & `ONS`：[点击下载](https://sakustar.top/download?post_id=4624&index=0&i=0)
+1. [TouchGAL](https://www.touchgal.us/) & `Windows`：[点击下载](https://pan.touchgal.net/s/RxLvC7)，密码：`touchgal`
+2. [TouchGAL](https://www.touchgal.us/) & `ONS`：[点击下载](https://pan.touchgal.net/s/2VWtg)，密码：`touchgal`
+3. [稻荷GAL](https://inarigal.com/) & `Windows`：[点击下载](https://sakustar.top/download?post_id=4584&index=0&i=0)
+4. [稻荷GAL](https://inarigal.com/) & `ONS`：[点击下载](https://sakustar.top/download?post_id=4624&index=0&i=0)
 5. [姬路白雪](https://pan.jlbx.xyz/) & `Windows` + `ONS`：[点击下载](https://pan.jlbx.xyz/?s=%E5%85%AC%E4%B8%BB%E6%81%8B%E4%BA%BA)，密码：终点
 6. [迷迭香写代码](https://rosmontis.com/) & `Windows`：[点击下载](https://azure-drive.rosmontis.com/s/lkPU9)，提取码：0c2r76，解压码：rosmontis
 7. [梓澪の妙妙屋](https://zi0.cc/) & `ONS`：[点击下载](https://zi0.cc/d/%60%E3%80%90%E5%BD%92%20%E6%A1%A3%E3%80%91/%E3%80%90ONS%E5%90%88%E9%9B%86%E3%80%91/%5BRicotta%5D%E5%85%AC%E4%B8%BB%E6%81%8B%E4%BA%BA.7z?sign=uvzIlI3Ok8kFrmXE44YkIXuW-YBTxQroRGxyF-s3_2c=:0)
 8. [绮梦](https://acgs.eu.org/) & `Windows` + `ONS` + `Android`：[点击下载](https://acgs.eu.org/down_html/?url=game/%E5%85%AC%E4%B8%BB%E6%81%8B%E4%BA%BA&name=%E5%85%AC%E4%B8%BB%E6%81%8B%E4%BA%BA)，密码：绮梦
-9. [失落小站](https://www.shinnku.com/) & `Windows`：[点击下载](https://www.shinnku.com/api/download/0/win/%E5%85%AC%E4%B8%BB%E6%81%8B%E4%BA%BA.7z)
-10. [失落小站](https://www.shinnku.com/) & `ONS`：[点击下载](https://www.shinnku.com/api/download/0/ons/%E5%85%AC%E4%B8%BB%E6%81%8B%E4%BA%BA.zip)
+9. [真红小站](https://www.shinnku.com/) & `Windows`：[点击下载](https://www.shinnku.com/api/download/0/win/%E5%85%AC%E4%B8%BB%E6%81%8B%E4%BA%BA.7z)
+10. [真红小站](https://www.shinnku.com/) & `ONS`：[点击下载](https://www.shinnku.com/api/download/0/ons/%E5%85%AC%E4%B8%BB%E6%81%8B%E4%BA%BA.zip)

@@ -78,16 +78,16 @@ updated: 2024-11-18 20:51:40
 
 ## 分流
 
-1. [TouchGAL](https://www.touchgal.io/) & `Windows`：[点击下载](https://pan.touchgal.net/s/WwxrhZ)，密码：`touchgal`
-2. [TouchGAL](https://www.touchgal.io/) & `KRKR`：[点击下载](https://pan.touchgal.net/s/aBjRcJ)，密码：`touchgal`
-3. [Hikarinagi](https://www.hikarinagi.com/) & `Windows`：[点击下载](https://pan.himoe.uk/s/mwOFK)，密码：`hikarinagi.com`
-4. [Hikarinagi](https://www.hikarinagi.com/) & `Windows`：[点击下载](https://pan.himoe.uk/s/DkkyCK)，密码：`hikarinagi.com`
+1. [TouchGAL](https://www.touchgal.us/) & `Windows`：[点击下载](https://pan.touchgal.net/s/WwxrhZ)，密码：`touchgal`
+2. [TouchGAL](https://www.touchgal.us/) & `KRKR`：[点击下载](https://pan.touchgal.net/s/aBjRcJ)，密码：`touchgal`
+3. [Hikarinagi](https://www.hikarinagi.net/) & `Windows`：[点击下载](https://pan.yurari.moe/s/mwOFK)，密码：`hikarinagi.com`
+4. [Hikarinagi](https://www.hikarinagi.net/) & `Windows`：[点击下载](https://pan.yurari.moe/s/DkkyCK)，密码：`hikarinagi.com`
 5. [梓澪の妙妙屋](https://zi0.cc/) & `Windows`：[点击下载](https://zi0.cc/d/%60%E3%80%90%E5%90%88%E9%9B%86%E7%B3%BB%E5%88%97%E3%80%91/%E6%B1%89%E5%8C%96galgame%E5%90%88%E9%9B%86/2024/10/%5B%E3%82%BD%E3%83%8E%E3%83%A9%5D%20%E3%82%A6%E3%83%81%E3%81%AF%E3%82%82%E3%81%86%E3%80%81%E5%BB%B6%E6%9C%9F%E3%81%A7%E3%81%8D%E3%81%AA%E3%81%84%E3%80%82%20%E6%88%91%E4%BB%AC%E5%AE%B6%E3%80%81%E5%B7%B2%E7%BB%8F%E4%B8%8D%E8%83%BD%E5%BB%B6%E6%9C%9F%E4%BA%86%20%5B%E6%9C%80%E8%8B%B1%E4%BF%8A%E7%9A%84%E8%80%81%E6%9D%BF%E4%B8%AA%E4%BA%BA%E6%B1%89%E5%8C%96%5D.zip?sign=kp3QVclLcuGo2ZuaHo7z2UzO8cNRj1BxCKEHvF_rUdY=:0)
-6. [稻荷ACG](https://amoebi.com/) & `Windows`：[点击下载](https://xpa.zrflie.pw/PC/%E6%88%91%E4%BB%AC%E6%98%AF%E4%B8%8D%E8%83%BD%E5%BB%B6%E6%9C%9F%E4%BA%86.rar)
-7. [稻荷ACG](https://amoebi.com/) & `KRKR`：[点击下载](https://xpa.zrflie.pw/KRKR/%E6%88%91%E4%BB%AC%E6%98%AF%E4%B8%8D%E8%83%BD%E5%BB%B6%E6%9C%9F%E4%BA%86.rar)
+6. [稻荷GAL](https://inarigal.com/) & `Windows`：[点击下载](https://xpa.zrflie.pw/PC/%E6%88%91%E4%BB%AC%E6%98%AF%E4%B8%8D%E8%83%BD%E5%BB%B6%E6%9C%9F%E4%BA%86.rar)
+7. [稻荷GAL](https://inarigal.com/) & `KRKR`：[点击下载](https://xpa.zrflie.pw/KRKR/%E6%88%91%E4%BB%AC%E6%98%AF%E4%B8%8D%E8%83%BD%E5%BB%B6%E6%9C%9F%E4%BA%86.rar)
 8. [烟郁Galgame](https://yanyugal.top/) & `Windows`：[点击下载](https://yanyugal.top/d/disk1/PC/%E3%82%A6%E3%83%81%E3%81%AF%E3%82%82%E3%81%86%E3%80%81%E5%BB%B6%E6%9C%9F%E3%81%A7%E3%81%8D%E3%81%AA%E3%81%84%EF%BC%88%E6%9C%BA%E7%BF%BB%EF%BC%89.rar)，密码：`烟郁频道`
 9. [小鳥遊暁の会员制餐厅](https://t-satoru.top/) & `KRKR`：[点击下载](https://pan.t-satoru.top/d/ode5/Galgames/%E3%80%90%E8%87%AA%E5%B0%81%E5%8C%85%E3%80%91%E5%8E%9F%E5%88%9B%E4%BD%9C%E5%93%81/%E5%BB%B6%E6%9C%9F/KR_%E8%8B%B1%E4%BF%8A_%E6%88%91%E4%BB%AC%E6%98%AF%E4%B8%8D%E8%83%BD%E5%BB%B6%E6%9C%9F%E4%BA%86_od.rar)，密码：`三司绫濑天下第一`
 10. [绮梦](https://acgs.one/) & `Windows` + `KRKR`：[点击下载](https://game.acgs.one/game/700.html)，密码：`绮梦`
 11. [量子ACG](https://lzacg.org/) & `Windows`：[点击下载](https://lzacg.org/8194)，密码：`量子acg`、`lzacg.top`
 12. [量子ACG](https://lzacg.org/) & `KRKR`：[点击下载](https://lzacg.org/8213)，密码：`量子acg`、`lzacg.top`
-13. [猫猫网盘](https://pan.sakiko.de/) & `Windows`：[点击下载](https://pan.sakiko.de/d/GalGame/SP%E5%90%8E%E7%AB%AF1%5BGalGame%E5%88%86%E5%8C%BA%5D/%E6%B1%89%E5%8C%96%E6%B8%B8%E6%88%8F%E6%9C%88%E4%BB%BD%E5%90%88%E9%9B%86-%E7%A6%BB%E6%95%A3/2024%E5%B9%B4%E6%B1%89%E5%8C%96%E5%90%88%E9%9B%86/10/%E6%96%B0%E6%B1%89%E5%8C%96%E4%BD%9C%E5%93%81/%5B%E3%82%BD%E3%83%8E%E3%83%A9%5D%20%E3%82%A6%E3%83%81%E3%81%AF%E3%82%82%E3%81%86%E3%80%81%E5%BB%B6%E6%9C%9F%E3%81%A7%E3%81%8D%E3%81%AA%E3%81%84%E3%80%82%20%E6%88%91%E4%BB%AC%E5%AE%B6%E3%80%81%E5%B7%B2%E7%BB%8F%E4%B8%8D%E8%83%BD%E5%BB%B6%E6%9C%9F%E4%BA%86%20%5B%E6%9C%80%E8%8B%B1%E4%BF%8A%E7%9A%84%E8%80%81%E6%9D%BF%E4%B8%AA%E4%BA%BA%E6%B1%89%E5%8C%96%5D.rar)，密码：`south-plus.`、`H07JsecTTvkU3vigdnBC.`
+13. [猫猫网盘](https://sakiko.de/) & `Windows`：[点击下载](https://sakiko.de/d/GalGame/SP%E5%90%8E%E7%AB%AF1%5BGalGame%E5%88%86%E5%8C%BA%5D/%E6%B1%89%E5%8C%96%E6%B8%B8%E6%88%8F%E6%9C%88%E4%BB%BD%E5%90%88%E9%9B%86-%E7%A6%BB%E6%95%A3/2024%E5%B9%B4%E6%B1%89%E5%8C%96%E5%90%88%E9%9B%86/10/%E6%96%B0%E6%B1%89%E5%8C%96%E4%BD%9C%E5%93%81/%5B%E3%82%BD%E3%83%8E%E3%83%A9%5D%20%E3%82%A6%E3%83%81%E3%81%AF%E3%82%82%E3%81%86%E3%80%81%E5%BB%B6%E6%9C%9F%E3%81%A7%E3%81%8D%E3%81%AA%E3%81%84%E3%80%82%20%E6%88%91%E4%BB%AC%E5%AE%B6%E3%80%81%E5%B7%B2%E7%BB%8F%E4%B8%8D%E8%83%BD%E5%BB%B6%E6%9C%9F%E4%BA%86%20%5B%E6%9C%80%E8%8B%B1%E4%BF%8A%E7%9A%84%E8%80%81%E6%9D%BF%E4%B8%AA%E4%BA%BA%E6%B1%89%E5%8C%96%5D.rar)，密码：`south-plus`

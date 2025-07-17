@@ -96,16 +96,16 @@ PSV版於2014年11月27日發售，追加OP、語音、新小遊戲，全年齡�
 
 ## 分流
 
-1. [稻荷ACG](https://amoebi.com/) & `Windows`：[点击下载](https://sakustar.top/art/361)
-2. [稻荷ACG](https://amoebi.com/) & `KRKR`：[点击下载](https://sakustar.top/art/623)
-3. [TouchGAL](https://www.touchgal.io/) & `Windows`：[点击下载](https://pan.touchgal.net/s/9xg7ub)，密码：`touchgal`
-4. [TouchGAL](https://www.touchgal.io/) & `KRKR`：[点击下载](https://pan.touchgal.net/s/QlaI6)，密码：`touchgal`
+1. [稻荷GAL](https://inarigal.com/) & `Windows`：[点击下载](https://inarigal.com/detail/361)
+2. [稻荷GAL](https://inarigal.com/) & `KRKR`：[点击下载](https://inarigal.com/detail/623)
+3. [TouchGAL](https://www.touchgal.us/) & `Windows`：[点击下载](https://pan.touchgal.net/s/9xg7ub)，密码：`touchgal`
+4. [TouchGAL](https://www.touchgal.us/) & `KRKR`：[点击下载](https://pan.touchgal.net/s/QlaI6)，密码：`touchgal`
 5. [姬路白雪](https://pan.jlbx.xyz/) & `Windows` + `KRKR`：[点击下载](https://pan.jlbx.xyz/?s=hollow)，密码：`终点`
 6. [梓澪の妙妙屋](https://zi0.cc/) & `Windows`：[点击下载](https://zi0.cc/%60%E3%80%90%E5%90%88%E9%9B%86%E7%B3%BB%E5%88%97%E3%80%91/%E6%B1%89%E5%8C%96galgame%E4%BC%9A%E7%A4%BE%E5%90%88%E9%9B%86/%E6%B1%89%E5%8C%96%E4%BC%9A%E7%A4%BE%E5%90%88%E9%9B%86%E9%83%A8%E5%88%86%20part22/TYPE-MOON/%E6%B1%89%E5%8C%96/[051229][TYPE-MOON]%20Fate%EF%BC%8FHollow%20Ataraxia%20%E8%AF%AD%E9%9F%B3%E7%89%88.rar?from=search)
 7. [梓澪の妙妙屋](https://zi0.cc/) & `KRKR`：[点击下载](https://zi0.cc/%60%E3%80%90%E5%BD%92%20%E6%A1%A3%E3%80%91/%E3%80%90KRKR%E5%90%88%E9%9B%86%E3%80%91/1/Fate%20hollow%20ataraxia.exe?from=search)
 8. [绮梦](https://acgs.one/) & `Windows` + `KRKR`：[点击下载](https://acgs.one/down_html/?url=game/FateHollowAtaraxia&name=FateHollowAtaraxia)，密码：`绮梦`
-9. [失落小站](https://www.shinnku.com/) & `Windows`：[点击下载](https://www.shinnku.com/api/download/0/win/Fate%20Hollow%20Ataraxia.7z)
-10. [失落小站](https://www.shinnku.com/) & `KRKR`：[点击下载](https://www.shinnku.com/api/download/0/krkr/Fate%20hollow%20ataraxia.7z)
+9. [真红小站](https://www.shinnku.com/) & `Windows`：[点击下载](https://www.shinnku.com/api/download/0/win/Fate%20Hollow%20Ataraxia.7z)
+10. [真红小站](https://www.shinnku.com/) & `KRKR`：[点击下载](https://www.shinnku.com/api/download/0/krkr/Fate%20hollow%20ataraxia.7z)
 11. [量子ACG](https://lzacg.org/) & `Windows`：[点击下载](https://lzacg.org/4601)，密码：`量子acg`、`lzacg.top`
 12. [量子ACG](https://lzacg.org/) & `KRKR`：[点击下载](https://lzacg.org/2205)，密码：`量子acg`、`lzacg.top`
 13. [我的Galgame资源发布站](https://www.ttloli.com/) & `Windows`：[点击下载](https://www.ttloli.com/fatehollow-ataraxia.html)，密码：`忧郁的弟弟`、`忧郁的loli`

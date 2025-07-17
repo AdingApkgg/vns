@@ -89,14 +89,14 @@ author: WTY
 
 ## 分流
 
-1. [TouchGAL](https://www.touchgal.io/) & `Windows`：[点击下载](https://pan.touchgal.net/s/Zl9Sa)，密码：`touchgal`
-2. [TouchGAL](https://www.touchgal.io/) & `Windows`：[点击下载](https://pan.touchgal.net/s/5wjIE)，密码：`touchgal`
-3. [TouchGAL](https://www.touchgal.io/) & `KRKR`：[点击下载](https://pan.touchgal.net/s/NP5TO)，密码：`touchgal`
-4. [Hikarinagi](https://www.hikarinagi.com/) & `Windows` + `KRKR`：[点击下载](https://pan.himoe.uk/s/36ruJ)，密码：`hikarinagi.com`
-5. [Hikarinagi](https://www.hikarinagi.com/) & `Windows` + `KRKR`：[点击下载](https://pan.himoe.uk/s/6827tA)，密码：`hikarinagi.com`
-6. [失落小站](https://www.shinnku.com/) & `Windows`：[点击下载](https://www.shinnku.com/api/download/zd/1001-1500/[170224][Recette]%20%E3%81%97%E3%82%85%E3%81%8C%E3%81%A6%E3%82%93%EF%BC%81-sugarfull%20tempering-%20[%E7%B3%96%E8%B0%83!].rar)
-7. [失落小站](https://www.shinnku.com/) & `KRKR`：[点击下载](https://www.shinnku.com/api/download/0/krkr/%E7%B3%96%E8%B0%83.7z)
-8. [失落小站](https://www.shinnku.com/) & `Android`：[点击下载](https://www.shinnku.com/api/download/0/apk/%E5%86%B7%E7%8B%90/1500-2000/1555-%E7%B3%96%E8%B0%83.apk)
+1. [TouchGAL](https://www.touchgal.us/) & `Windows`：[点击下载](https://pan.touchgal.net/s/Zl9Sa)，密码：`touchgal`
+2. [TouchGAL](https://www.touchgal.us/) & `Windows`：[点击下载](https://pan.touchgal.net/s/5wjIE)，密码：`touchgal`
+3. [TouchGAL](https://www.touchgal.us/) & `KRKR`：[点击下载](https://pan.touchgal.net/s/NP5TO)，密码：`touchgal`
+4. [Hikarinagi](https://www.hikarinagi.net/) & `Windows` + `KRKR`：[点击下载](https://pan.yurari.moe/s/36ruJ)，密码：`hikarinagi.com`
+5. [Hikarinagi](https://www.hikarinagi.net/) & `Windows` + `KRKR`：[点击下载](https://pan.yurari.moe/s/6827tA)，密码：`hikarinagi.com`
+6. [真红小站](https://www.shinnku.com/) & `Windows`：[点击下载](https://www.shinnku.com/api/download/zd/1001-1500/[170224][Recette]%20%E3%81%97%E3%82%85%E3%81%8C%E3%81%A6%E3%82%93%EF%BC%81-sugarfull%20tempering-%20[%E7%B3%96%E8%B0%83!].rar)
+7. [真红小站](https://www.shinnku.com/) & `KRKR`：[点击下载](https://www.shinnku.com/api/download/0/krkr/%E7%B3%96%E8%B0%83.7z)
+8. [真红小站](https://www.shinnku.com/) & `Android`：[点击下载](https://www.shinnku.com/api/download/0/apk/%E5%86%B7%E7%8B%90/1500-2000/1555-%E7%B3%96%E8%B0%83.apk)
 9. [小鳥遊暁の会员制餐厅](https://t-satoru.top/) & `KRKR`：[点击下载](https://pan.t-satoru.top/d/ode5/Galgames/%E3%80%90%E8%87%AA%E5%B0%81%E5%8C%85%E3%80%91%E5%8E%9F%E5%88%9B%E4%BD%9C%E5%93%81/%E7%B3%96%E8%B0%83/KR_%E5%B8%8C%E6%9C%88%E5%AD%A6%E9%99%A2_%E7%B3%96%E8%B0%83_od.rar)，密码：`三司绫濑天下第一`
 10. [绮梦](https://acgs.one/) & `Windows` + `KRKR`：[点击下载](https://game.acgs.one/game/415.html)，密码：`绮梦`
 11. [姬路白雪](https://jlbx.xyz/) & `Windows` + `KRKR`：[点击下载](https://pan.jlbx.xyz/?s=%E7%B3%96%E8%B0%83)，密码：`终点`、`书想工作室`
@@ -107,5 +107,5 @@ author: WTY
 16. [梓澪の妙妙屋](https://zi0.cc/) & `Android`：[点击下载](https://zi0.cc/d/%60%E3%80%90%E5%BD%92%20%E6%A1%A3%E3%80%91/%E3%80%90%E5%AE%89%E5%8D%93%E5%90%88%E9%9B%86%E3%80%91/025/%E7%B3%96%E8%B0%83.apk?sign=O3o6KNTcSjlSVpKy67rV1WBqPiySUJ2xQJw2Uj5NMek=:0)
 17. [量子ACG](https://lzacg.org/) & `Windows`：[点击下载](https://lzacg.org/529)，密码：`量子acg`、`lzacg.top`
 18. [量子ACG](https://lzacg.org/) & `KRKR`：[点击下载](https://lzacg.org/3439)，密码：`量子acg`、`lzacg.top`
-19. [稻荷ACG](https://amoebi.com/) & `Windows`：[点击下载](https://sakustar.com/art/944)
-20. [稻荷ACG](https://amoebi.com/) & `KRKR`：[点击下载](https://sakustar.com/art/11086)
+19. [稻荷GAL](https://inarigal.com/) & `Windows`：[点击下载](https://inarigal.com/detail/944)
+20. [稻荷GAL](https://inarigal.com/) & `KRKR`：[点击下载](https://inarigal.com/detail/11086)

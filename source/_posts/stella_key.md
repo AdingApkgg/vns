@@ -69,16 +69,16 @@ updated: 2024-10-21 20:55:00
 
 ### 星之终途
 
-1. [TouchGAL](https://www.touchgal.io/) & `Windows`：[点击下载](https://pan.touchgal.net/s/AYhP)，密码：`touchgal`
-2. [TouchGAL](https://www.touchgal.io/) & `Tyranor`：[点击下载](https://pan.touchgal.net/s/5PAcE)，密码：`touchgal`
+1. [TouchGAL](https://www.touchgal.us/) & `Windows`：[点击下载](https://pan.touchgal.net/s/AYhP)，密码：`touchgal`
+2. [TouchGAL](https://www.touchgal.us/) & `Tyranor`：[点击下载](https://pan.touchgal.net/s/5PAcE)，密码：`touchgal`
 3. [NekoGAL](https://www.nekogal.com/) & `Windows`：[点击下载](https://pan.nekogal.top/s/eKKHG)
 4. [NekoGAL](https://www.nekogal.com/) & `Tyranor`：[点击下载](https://pan.nekogal.top/s/kvaHa)
-5. [Hikarinagi](https://www.hikarinagi.com/) & `Windows` + `Tyranor`：[点击下载](https://pan.himoe.uk/s/qDkFP)，密码：`hikarinagi.com`
-6. [Hikarinagi](https://www.hikarinagi.com/) & `Windows` + `Tyranor`：[点击下载](https://pan.himoe.uk/s/0R8KUD)，密码：`hikarinagi.com`
-7. [稻荷ACG](https://amoebi.com/) & `Windows`【绿茶汉化组】：[点击下载](https://download.zrflie1.pw/PC/Key/%E6%98%9F%E4%B9%8B%E7%BB%88%E9%80%94.rar)
-8. [稻荷ACG](https://amoebi.com/) & `Windows`【官方中文】：[点击下载](https://download.zrflie1.pw/PC/Key/%E6%98%9F%E4%B9%8B%E7%BB%88%E9%80%94%28%E5%AE%98%E4%B8%AD%29.rar)
-9. [稻荷ACG](https://amoebi.com/) & `Tyranor`：[点击下载](https://download.zrflie1.pw/Artroid/%E6%98%9F%E4%B9%8B%E7%BB%88%E9%80%94.rar)
-10. [失落小站](https://www.shinnku.com/) & `Windows`：[点击下载](https://www.shinnku.com/api/download/0/win/%E6%98%9F%E4%B9%8B%E7%BB%88%E9%80%94.7z)
+5. [Hikarinagi](https://www.hikarinagi.net/) & `Windows` + `Tyranor`：[点击下载](https://pan.yurari.moe/s/qDkFP)，密码：`hikarinagi.com`
+6. [Hikarinagi](https://www.hikarinagi.net/) & `Windows` + `Tyranor`：[点击下载](https://pan.yurari.moe/s/0R8KUD)，密码：`hikarinagi.com`
+7. [稻荷GAL](https://inarigal.com/) & `Windows`【绿茶汉化组】：[点击下载](https://download.zrflie1.pw/PC/Key/%E6%98%9F%E4%B9%8B%E7%BB%88%E9%80%94.rar)
+8. [稻荷GAL](https://inarigal.com/) & `Windows`【官方中文】：[点击下载](https://download.zrflie1.pw/PC/Key/%E6%98%9F%E4%B9%8B%E7%BB%88%E9%80%94%28%E5%AE%98%E4%B8%AD%29.rar)
+9. [稻荷GAL](https://inarigal.com/) & `Tyranor`：[点击下载](https://download.zrflie1.pw/Artroid/%E6%98%9F%E4%B9%8B%E7%BB%88%E9%80%94.rar)
+10. [真红小站](https://www.shinnku.com/) & `Windows`：[点击下载](https://www.shinnku.com/api/download/0/win/%E6%98%9F%E4%B9%8B%E7%BB%88%E9%80%94.7z)
 11. [烟郁Galgame](https://yanyugal.top/) & `Tyranor`：[点击下载](https://yanyugal.top/d/disk1/%E5%B0%8F%E5%B0%8F%E7%9A%84%E5%88%86%E4%BA%AB%EF%BC%88PC%EF%BC%86%E5%AE%89%E5%8D%93%EF%BC%89/%E5%AE%89%E5%8D%93/ty/%E6%98%9F%E4%B9%8B%E7%BB%88%E9%80%94.rar)，密码：`lumouweinb`、`烟郁频道`
 12. [小鳥遊暁の会员制餐厅](https://t-satoru.top/) & `Tyranor`【官方中文 & 绿茶汉化组】：[点击下载](https://pan.t-satoru.top/d/ode5/Galgames/%E3%80%90%E8%87%AA%E5%B0%81%E5%8C%85%E3%80%91%E5%8E%9F%E5%88%9B%E4%BD%9C%E5%93%81/%E6%98%9F%E4%B9%8B%E7%BB%88%E9%80%94/v2_%E5%AE%98%E4%B8%AD%26%E7%BB%BF%E8%8C%B6_%E6%98%9F%E4%B9%8B%E7%BB%88%E9%80%94_od.rar)，密码：`三司绫濑天下第一`
 13. [绮梦](https://acgs.one/) & `Windows` + `Android`：[点击下载](https://game.acgs.one/game/7.html)，密码：`绮梦`

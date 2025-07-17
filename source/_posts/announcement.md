@@ -6,7 +6,7 @@ categories:
 sticky: 10
 comments: false
 date: 2024-04-04 19:40:00
-updated: 2025-05-27 08:00:00
+updated: 2025-07-18 08:00:00
 ---
 
 ![Random Image](https://www.loliapi.com/acg/)
@@ -48,7 +48,7 @@ updated: 2025-05-27 08:00:00
 
 - **写手**
   要求：掌握高阶魔法的使用，会寻找资源写 `Markdown` 或 `Word` 文档等，写作格式参考本站已有文章的大概格式..
-  已招：`Asuna`、`Sinon`、`WTY`、`searvee`、`Kirishima`、`molin`、`WWS`、`Phoebe`
+  已招：`Asuna`、`Sinon`、`WTY`、`searvee`、`Kirishima`、`molin`、`WWS`、`Phoebe`、`Dimly`
 - **测试**
   要求：下载资源运行，检查是生肉或熟肉，汉化组名，版本，以及有无 `BUG` 出现等..
   已招：`Asuna`、`NEO`

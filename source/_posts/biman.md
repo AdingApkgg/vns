@@ -94,8 +94,8 @@ updated: 2024-06-08 03:32:00
 
 ## 分流
 
-1. [TouchGAL](https://www.touchgal.io/) & `Windows`：[点击下载](https://pan.touchgal.net/s/JD3Ca)，密码：`touchgal`
-2. [TouchGAL](https://www.touchgal.io/) & `ONS`：[点击下载](https://pan.touchgal.net/s/5aOHE)，密码：`touchgal`
+1. [TouchGAL](https://www.touchgal.us/) & `Windows`：[点击下载](https://pan.touchgal.net/s/JD3Ca)，密码：`touchgal`
+2. [TouchGAL](https://www.touchgal.us/) & `ONS`：[点击下载](https://pan.touchgal.net/s/5aOHE)，密码：`touchgal`
 3. [梓澪の妙妙屋](https://zi0.cc/) & `Windows`：[点击下载](https://zi0.cc/d/%2C%E3%80%90ADV-%E5%86%92%E9%99%A9%E6%B8%B8%E6%88%8F%E3%80%91/%E3%80%90PC%2B%E5%AE%89%E5%8D%93%E3%80%91%E7%BE%8E%E5%B0%91%E5%A5%B3%E4%B8%87%E5%8D%8E%E9%95%9C%E7%B3%BB%E5%88%971-5/PC/1-%E7%BE%8E%E5%B0%91%E5%A5%B3%E4%B8%87%E5%8D%8E%E9%95%9C%20-%E8%A2%AB%E8%AF%85%E5%92%92%E4%B9%8B%E4%BC%A0%E8%AF%B4%E5%B0%91%E5%A5%B3-.zip?sign=7D7AidIsF-4ybkkwTFYp8X8rnEy7SWczRknlPW4woEk=:0)
 4. [梓澪の妙妙屋](https://zi0.cc/) & `Windows`：[点击下载](https://zi0.cc/.%E3%80%90%E5%A4%8F%E9%A3%8E%E3%80%91/.%E3%80%90%E5%A4%8F%E9%A3%8E-2%E3%80%91/.%E5%85%B6%E4%BB%96/%E3%80%90_PC%E7%A1%AC%E7%9B%98%E3%80%91%E7%BE%8E%E5%B0%91%E5%A5%B3%E4%B8%87%E5%8D%8E%E9%95%9C1%E2%80%94%E2%80%94%E8%A2%AB%E8%AF%85%E5%92%92%E4%B9%8B%E4%BC%A0%E8%AF%B4%E5%B0%91%E5%A5%B3_tar_zst.rar?from=search)
 5. [梓澪の妙妙屋](https://zi0.cc/) & `Android`：[点击下载](https://zi0.cc/d/%60%E3%80%90%E5%BD%92%20%E6%A1%A3%E3%80%91/%E3%80%90%E5%AE%89%E5%8D%93%E5%90%88%E9%9B%86%E3%80%91/005/%E7%BE%8E%E5%B0%91%E5%A5%B3%E4%B8%87%E5%8D%8E%E9%95%9C1.apk?sign=RhhGEUGZPUc76THBEllSXTcmVCDZXA8FZnFr7SExlk8=:0)
@@ -104,10 +104,10 @@ updated: 2024-06-08 03:32:00
 8. [烟郁Galgame](https://yanyugal.top/) & `ONS`：[点击下载](https://yanyugal.top/d/disk1/%E5%B0%8F%E5%B0%8F%E7%9A%84%E5%88%86%E4%BA%AB%EF%BC%88PC%EF%BC%86%E5%AE%89%E5%8D%93%EF%BC%89/%E5%AE%89%E5%8D%93/ons/%E4%B8%87%E5%8D%8E%E9%95%9C%E5%90%88%E9%9B%86/%E7%BE%8E%E5%B0%91%E5%A5%B3%E4%B8%87%E5%8D%8E%E9%95%9C1.7z)，密码：`烟郁频道`、`lumouweinb`
 9. [烟郁Galgame](https://yanyugal.top/) & `Android`：[点击下载](https://yanyugal.top/d/disk1/%E5%B0%8F%E5%B0%8F%E7%9A%84%E5%88%86%E4%BA%AB%EF%BC%88PC%EF%BC%86%E5%AE%89%E5%8D%93%EF%BC%89/%E5%AE%89%E5%8D%93/%E7%9B%B4%E8%A3%85%E5%AE%89%E8%A3%85%E5%8C%85/%E7%BE%8E%E5%B0%91%E5%A5%B3%E4%B8%87%E5%8D%8E%E9%95%9C/%E7%BE%8E%E5%B0%91%E5%A5%B3%E4%B8%87%E5%8D%8E%E9%95%9C1.7z)，密码：`烟郁频道`、`lumouweinb`
 10. [姬路白雪](https://pan.jlbx.xyz/) & `Windows`：[点击下载](https://pan.jlbx.xyz/?s=%E8%A2%AB%E8%AF%85%E5%92%92%E4%B9%8B%E4%BC%A0%E8%AF%B4%E5%B0%91%E5%A5%B3)，密码：`终点`
-11. [失落小站](https://www.shinnku.com/) & `Windows`：[点击下载](https://www.shinnku.com/api/download/0/win/%E7%BE%8E%E5%B0%91%E5%A5%B3%E4%B8%87%E5%8D%8E%E9%95%9C1-%E8%A2%AB%E8%AF%85%E5%92%92%E4%B9%8B%E4%BC%A0%E8%AF%B4%E5%B0%91%E5%A5%B3.7z)
+11. [真红小站](https://www.shinnku.com/) & `Windows`：[点击下载](https://www.shinnku.com/api/download/0/win/%E7%BE%8E%E5%B0%91%E5%A5%B3%E4%B8%87%E5%8D%8E%E9%95%9C1-%E8%A2%AB%E8%AF%85%E5%92%92%E4%B9%8B%E4%BC%A0%E8%AF%B4%E5%B0%91%E5%A5%B3.7z)
 12. [我的Galgame资源发布站](https://www.ttloli.com/) & `Windows`：[点击下载](https://www.ttloli.com/meishaonvwanhuajing-beizuzhouzhichuanshuoshaonv.html)，密码：`忧郁的弟弟`、`忧郁的loli`
 13. [迷迭香的博客](https://rosmontis.com/) & `Windows`：[点击下载](https://drive.rosmontis.com/s/Ax8U0)，密码：`rosmontis`，去掉 `.rosmontis` 后缀名再解压
-14. [稻荷ACG](https://amoebi.com/) & `Windows`：[点击下载](https://sakustar.me/art/215)
-15. [稻荷ACG](https://amoebi.com/) & `ONS`：[点击下载](https://sakustar.me/art/586)
+14. [稻荷GAL](https://inarigal.com/) & `Windows`：[点击下载](https://inarigal.com/detail/215)
+15. [稻荷GAL](https://inarigal.com/) & `ONS`：[点击下载](https://inarigal.com/detail/586)
 16. [绮梦](https://acgs.one/) & `Windows` + `Android`：[点击下载](https://game.acgs.one/game/53.html)，密码：`acgs`、`绮梦`
 17. [量子ACG](https://lzacg.org/) & `Windows`：[点击下载](https://lzacg.org/6054)，密码：`量子acg`、`lzacg.top`

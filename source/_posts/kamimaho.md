@@ -96,14 +96,14 @@ updated: 2024-04-06 18:17:00
 
 ## 分流
 
-1. [TouchGAL](https://www.touchgal.io/) & `Windows`：[点击下载](https://pan.touchgal.net/s/v90fW)，密码：`touchgal`
-2. [TouchGAL](https://www.touchgal.io/) & `KRKR`：[点击下载](https://pan.touchgal.net/s/ejXFx)，密码：`touchgal`
-3. [稻荷ACG](https://amoebi.com/) & `Windows`：[点击下载](https://alpha.galpan.xyz/PC/%E7%BA%B8%E4%B8%8A%E7%9A%84%E9%AD%94%E6%B3%95%E4%BD%BF.zip)
+1. [TouchGAL](https://www.touchgal.us/) & `Windows`：[点击下载](https://pan.touchgal.net/s/v90fW)，密码：`touchgal`
+2. [TouchGAL](https://www.touchgal.us/) & `KRKR`：[点击下载](https://pan.touchgal.net/s/ejXFx)，密码：`touchgal`
+3. [稻荷GAL](https://inarigal.com/) & `Windows`：[点击下载](https://alpha.galpan.xyz/PC/%E7%BA%B8%E4%B8%8A%E7%9A%84%E9%AD%94%E6%B3%95%E4%BD%BF.zip)
 4. [迷迭香写代码](https://rosmontis.com/) & `Windows`：[点击下载](https://drive.rosmontis.com/s/kL2Ul)，密码：rosmontis，去掉 `.rosmontis` 后缀名再解压
 5. [烟郁Galgame](https://yanyugal.top/) & `KRKR`：[点击下载](https://yanyugal.top/d/disk1/%E5%B0%8F%E5%B0%8F%E7%9A%84%E5%88%86%E4%BA%AB%EF%BC%88PC%EF%BC%86%E5%AE%89%E5%8D%93%EF%BC%89/%E5%AE%89%E5%8D%93/krkr/%E7%BA%B8%E4%B8%8A%E7%9A%84%E9%AD%94%E6%B3%95%E4%BD%BF.7z)，密码：烟郁频道
 6. [姬路白雪](https://pan.jlbx.xyz/) & `KRKR`：[点击下载](https://pan.jlbx.xyz/?s=%E7%BA%B8%E4%B8%8A%E7%9A%84%E9%AD%94%E6%B3%95%E4%BD%BF)，密码：终点
 7. [梓澪の妙妙屋](https://zi0.cc/) & `Windows`：[点击下载](https://zi0.cc/d/%2C%E3%80%90ADV-%E5%86%92%E9%99%A9%E6%B8%B8%E6%88%8F%E3%80%91/%E3%80%90PC%2B%E5%AE%89%E5%8D%93%E3%80%91%E7%BA%B8%E4%B8%8A%E9%AD%94%E6%B3%95%E4%BD%BF/%E7%BA%B8%E4%B8%8A%E9%AD%94%E6%B3%95%E4%BD%BF%20%E7%A1%AC%E7%9B%98%E6%B1%89%E5%8C%96.zip?sign=AoR-ivWtfo9Y3Lnb87I_8wTKb2A-SJieX7-26ektA9U=:0)
 8. [梓澪の妙妙屋](https://zi0.cc/) & `KRKR`：[点击下载](https://zi0.cc/d/%2C%E3%80%90ADV-%E5%86%92%E9%99%A9%E6%B8%B8%E6%88%8F%E3%80%91/%E3%80%90PC%2B%E5%AE%89%E5%8D%93%E3%80%91%E7%BA%B8%E4%B8%8A%E9%AD%94%E6%B3%95%E4%BD%BF/%E7%BA%B8%E4%B8%8A%E9%AD%94%E6%B3%95%E4%BD%BFKRKR.zip?sign=l6cUiMcrVhoXoCpxqotNn0pmqqLiBgy_EY0NC2rlX78=:0)
 9. [绮梦](https://acgs.eu.org/) & `Windows` + `KRKR`：[点击下载](https://acgs.eu.org/down_html/?url=game/%E7%BA%B8%E4%B8%8A%E9%AD%94%E6%B3%95%E4%BD%BF&name=%E7%BA%B8%E4%B8%8A%E7%9A%84%E9%AD%94%E6%B3%95%E4%BD%BF)，密码：acgs、绮梦
-10. [失落小站](https://www.shinnku.com/) & `Windows`：[点击下载](https://www.shinnku.com/api/download/0/win/%E7%BA%B8%E4%B8%8A%E9%AD%94%E6%B3%95%E4%BD%BF.7z)
-11. [失落小站](https://www.shinnku.com/) & `KRKR`：[点击下载](https://www.shinnku.com/api/download/0/krkr/%E7%BA%B8%E4%B8%8A%E7%9A%84%E9%AD%94%E6%B3%95%E4%BD%BF.7z)
+10. [真红小站](https://www.shinnku.com/) & `Windows`：[点击下载](https://www.shinnku.com/api/download/0/win/%E7%BA%B8%E4%B8%8A%E9%AD%94%E6%B3%95%E4%BD%BF.7z)
+11. [真红小站](https://www.shinnku.com/) & `KRKR`：[点击下载](https://www.shinnku.com/api/download/0/krkr/%E7%BA%B8%E4%B8%8A%E7%9A%84%E9%AD%94%E6%B3%95%E4%BD%BF.7z)
