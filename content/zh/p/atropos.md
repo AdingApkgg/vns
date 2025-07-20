@@ -1,14 +1,19 @@
 ---
 title: >-
-  5分钟的邂逅！时间停止与不可避免的命运 / 相见5分属于我！ 时间停止和不可避的命运 / 出会って5分は俺のもの！ 時間停止と不可避な運命 / アトロポス / The inevitable destiny opened by an Atropos watch
-slug: 62919
+  5分钟的邂逅！时间停止与不可避免的命运／相见5分属于我！ 时间停止和不可避的命运／出会って5分は俺のもの！
+  時間停止と不可避な運命／アトロポス／orefukahi／俺不可避／The inevitable destiny opened by an Atropos
+  watch／Atropos
+slug: 28776
 tags:
-  - Hulotte / 时停社 / ユロット
+  - Hulotte／时停社／ユロット
   - 纯爱
-  - 实妹
+  - 妹
+  - 拔
   - 废萌
-  - 拔作
+  - 社保
+  - 实妹
   - 萝莉
+  - 萌
   - 校园
   - 白毛
   - 2018
@@ -18,24 +23,24 @@ categories:
   - Android
 author: Dimly
 date: 2025-07-18T20:12:30+08:00
-updated: 2025-07-18T20:12:30+08:00
+updated: 2025-07-21T03:19:40+08:00
 ---
 
-![orefukahi](https://t.vndb.org/cv/93/89193.jpg)
+![atropos](https://static.saop.cc/vns/img/atropos.webp)
 
 《**5分钟的邂逅！时间停止与不可避免的命运**》（日语：**出会って5分は俺のもの！時間停止と不可避な運命**）是由[HULOTTE](https://zh.moegirl.org.cn/HULOTTE)制作的一部Galgame。
 
 <!--more-->
 
-![orefukahi_p1](https://t.vndb.org/sf/71/118271.jpg)
+![atropos_p1](https://static.saop.cc/vns/img/atropos_p1.webp)
 
-![orefukahi_p2](https://t.vndb.org/sf/72/118272.jpg)
+![atropos_p2](https://static.saop.cc/vns/img/atropos_p2.webp)
 
-![orefukahi_p3](https://t.vndb.org/sf/73/118273.jpg)
+![atropos_p3](https://static.saop.cc/vns/img/atropos_p3.webp)
 
-![orefukahi_p4](https://t.vndb.org/sf/74/118274.jpg)
+![atropos_p4](https://static.saop.cc/vns/img/atropos_p4.webp)
 
-![orefukahi_p5](https://t.vndb.org/sf/79/118279.jpg)
+![atropos_p5](https://static.saop.cc/vns/img/atropos_p5.webp)
 
 ## 故事
 
@@ -103,7 +108,7 @@ updated: 2025-07-18T20:12:30+08:00
 2.  [TouchGAL](https://www.touchgal.us/) & `KRKR`：[点击下载](https://pan.touchgal.net/s/yQQ0SY)，密码：`touchgal`
 3.  [Hikarinagi](https://www.hikarinagi.net/) & `Windows` + `KRKR`：[点击下载](https://pan.yurari.moe/s/rgBU0)，密码：`hikarinagi.com`
 4.  [Hikarinagi](https://www.hikarinagi.net/) & `Windows` + `KRKR`：[点击下载](https://pan.yurari.moe/s/W6qJug)，密码：`hikarinagi.com`
-5.  [梓澪の妙妙屋](https://zi0.cc/) & `Windows`【红发 + 默示】：[点击下载](https://zi0.cc/d/%E5%90%88%E9%9B%86%E7%B3%BB%E5%88%97/%E5%8D%97%2BGalGame%E6%B1%89%E5%8C%96%E5%8C%BA%E5%85%A8%E5%8C%BA%E8%B5%84%E6%BA%90%E5%A4%87%E4%BB%BD/02/%5BHULOTTE%5D%E5%87%BA%E4%BC%9A%E3%81%A3%E3%81%A65%E5%88%86%E3%81%AF%E4%BF%BA%E3%81%AE%E3%82%82%E3%81%AE%EF%BC%81%E6%99%82%E9%96%93%E5%81%9C%E6%AD%A2%E3%81%A8%E4%B8%8D%E5%8F%AF%E9%81%BF%E3%81%AA%E9%81%8B%E5%91%BD%E4%BA%94%E5%88%86%E9%90%98%E7%9A%84%E9%82%82%E9%80%85!%E6%99%82%E9%96%93%E5%81%9C%E6%AD%A2%E8%88%87%E4%B8%8D%E5%8F%AF%E9%81%BF%E5%85%8D%E7%9A%84%E5%91%BD%E9%81%8B%20%E5%8F%8C%E7%89%88%E6%9C%AC%E6%B1%89%E5%8C%96%E7%A1%AC%E7%9B%98%E7%89%88%5B%E7%BA%A2%E5%8F%91%26%E9%BB%98%E7%A4%BA%E6%B1%89%E5%8C%96%E7%BB%84%5D.zip?sign=36fqCQtBgNM55swIU34uzz9P_sXuItEdRBmL8yE77Y8=:0)
+5.  [梓澪の妙妙屋](https://zi0.cc/) & `Windows`【红发 默示】：[点击下载](https://zi0.cc/d/%E5%90%88%E9%9B%86%E7%B3%BB%E5%88%97/%E5%8D%97%2BGalGame%E6%B1%89%E5%8C%96%E5%8C%BA%E5%85%A8%E5%8C%BA%E8%B5%84%E6%BA%90%E5%A4%87%E4%BB%BD/02/%5BHULOTTE%5D%E5%87%BA%E4%BC%9A%E3%81%A3%E3%81%A65%E5%88%86%E3%81%AF%E4%BF%BA%E3%81%AE%E3%82%82%E3%81%AE%EF%BC%81%E6%99%82%E9%96%93%E5%81%9C%E6%AD%A2%E3%81%A8%E4%B8%8D%E5%8F%AF%E9%81%BF%E3%81%AA%E9%81%8B%E5%91%BD%E4%BA%94%E5%88%86%E9%90%98%E7%9A%84%E9%82%82%E9%80%85!%E6%99%82%E9%96%93%E5%81%9C%E6%AD%A2%E8%88%87%E4%B8%8D%E5%8F%AF%E9%81%BF%E5%85%8D%E7%9A%84%E5%91%BD%E9%81%8B%20%E5%8F%8C%E7%89%88%E6%9C%AC%E6%B1%89%E5%8C%96%E7%A1%AC%E7%9B%98%E7%89%88%5B%E7%BA%A2%E5%8F%91%26%E9%BB%98%E7%A4%BA%E6%B1%89%E5%8C%96%E7%BB%84%5D.zip?sign=36fqCQtBgNM55swIU34uzz9P_sXuItEdRBmL8yE77Y8=:0)
 6.  [梓澪の妙妙屋](https://zi0.cc/) & `Windows`【红发】：[点击下载](https://zi0.cc/d/%E5%90%88%E9%9B%86%E7%B3%BB%E5%88%97/%E6%B1%89%E5%8C%96galgame%E4%BC%9A%E7%A4%BE%E5%90%88%E9%9B%86/%E6%B1%89%E5%8C%96%E4%BC%9A%E7%A4%BE%E5%90%88%E9%9B%86%E9%83%A8%E5%88%86%20part7/CUFFS/HULOTTE/%5B181026%5D%5BHULOTTE%5D%20%E5%87%BA%E4%BC%9A%E3%81%A3%E3%81%A65%E5%88%86%E3%81%AF%E4%BF%BA%E3%81%AE%E3%82%82%E3%81%AE%EF%BC%81%E6%99%82%E9%96%93%E5%81%9C%E6%AD%A2%E3%81%A8%E4%B8%8D%E5%8F%AF%E9%81%BF%E3%81%AA%E9%81%8B%E5%91%BD.rar?sign=RBtzKgGkqtzoN3KleZvdLtvwMfzMB68ZyLu5OM3PO7U=:0)
 7.  [梓澪の妙妙屋](https://zi0.cc/) & `Windows`【特别限定版 生肉】：[点击下载](https://zi0.cc/d/%E5%90%88%E9%9B%86%E7%B3%BB%E5%88%97/%E6%B5%AE%E5%A3%AB%E5%BE%B7galgame%E6%B8%B8%E6%88%8F%E5%90%88%E9%9B%86/5/2018%E5%B9%B410%E6%9C%88/%5B181026%5D%5BHULOTTE%5D%20%E5%87%BA%E4%BC%9A%E3%81%A3%E3%81%A65%E5%88%86%E3%81%AF%E4%BF%BA%E3%81%AE%E3%82%82%E3%81%AE%EF%BC%81%E6%99%82%E9%96%93%E5%81%9C%E6%AD%A2%E3%81%A8%E4%B8%8D%E5%8F%AF%E9%81%BF%E3%81%AA%E9%81%8B%E5%91%BD%20%20%E7%89%B9%E5%88%A5%E9%99%90%E5%AE%9A%E7%89%88%20(iso%2Bmds%2B%E3%83%9E%E3%83%8B%E3%83%A5%E3%82%A2%E3%83%AB%2Brr3).rar?sign=WGyfR6DaVmNESl0Cfcc48SgytvBTpaQdEv2qUmwQeXQ=:0)
 8.  [梓澪の妙妙屋](https://zi0.cc/) & `KRKR`：[点击下载](https://zi0.cc/d/%60%E3%80%90%E5%BD%92%20%E6%A1%A3%E3%80%91/%E3%80%90KRKR%E5%90%88%E9%9B%86%E3%80%91/2/%E7%9B%B8%E8%A7%815%E5%88%86%E5%B1%9E%E4%BA%8E%E6%88%91%EF%BC%81%20%E6%97%B6%E9%97%B4%E5%81%9C%E6%AD%A2%E5%92%8C%E4%B8%8D%E5%8F%AF%E9%81%BF%E7%9A%84%E5%91%BD%E8%BF%90.exe?sign=wi_CBgabv_7c4k-JW2VwM_GS5wQFUX2uUrOOxwgRtmU=:0)
@@ -113,11 +118,12 @@ updated: 2025-07-18T20:12:30+08:00
 12.  [真红小站](https://www.shinnku.com/) & `Windows`【默示】：[点击下载](https://download.shinnku.com/file/shinnku/0/win/%E7%9B%B8%E8%A7%815%E5%88%86%E5%B1%9E%E4%BA%8E%E6%88%91%EF%BC%81%E6%97%B6%E9%97%B4%E5%81%9C%E6%AD%A2%E5%92%8C%E4%B8%8D%E5%8F%AF%E9%81%BF%E7%9A%84%E5%91%BD%E8%BF%90/%E7%9B%B8%E8%A7%815%E5%88%86%E5%B1%9E%E4%BA%8E%E6%88%91%EF%BC%81%E6%97%B6%E9%97%B4%E5%81%9C%E6%AD%A2%E5%92%8C%E4%B8%8D%E5%8F%AF%E9%81%BF%E7%9A%84%E5%91%BD%E8%BF%90(%E9%BB%98%E7%A4%BA).7z)
 13.  [真红小站](https://www.shinnku.com/) & `KRKR`：[点击下载](https://download.shinnku.com/file/shinnku/0/krkr/%E7%9B%B8%E8%A7%815%E5%88%86%E5%B1%9E%E4%BA%8E%E6%88%91%EF%BC%81%20%E6%97%B6%E9%97%B4%E5%81%9C%E6%AD%A2%E5%92%8C%E4%B8%8D%E5%8F%AF%E9%81%BF%E7%9A%84%E5%91%BD.7z)
 14.  [真红小站](https://www.shinnku.com/) & `Android`：[点击下载](https://download.shinnku.com/file/shinnku/0/apk/%E5%86%B7%E7%8B%90/1001-1500/1491-%E6%97%B6%E9%97%B4%E5%81%9C%E6%AD%A2%E5%92%8C%E4%B8%8D%E5%8F%AF%E9%81%BF%E7%9A%84%E5%91%BD%E8%BF%90.apk)
-15.  [绮梦](https://acgs.one/) & `Windows` + `KRKR`：[点击下载](https://game.acgs.one/game/582.html)，密码：`acgs`、`绮梦`
-16.  [量子ACG](https://lzacg.org/) & `Windows`：[点击下载](https://lzacg.org/521)，密码：`量子acg`、`lzacg.top`
-17.  [量子ACG](https://lzacg.org/) & `KRKR`：[点击下载](https://lzacg.org/2888)，密码：`量子acg`、`lzacg.top`
-18.  [猫猫网盘](https://sakiko.de/) & `Windows`【红发 + 默示】：[点击下载](https://sakiko.de/d/GalGame/SP%E5%90%8E%E7%AB%AF1%5BGalGame%E5%88%86%E5%8C%BA%5D/%E7%BB%88%E7%82%B9%E6%B1%89%E5%8C%96%E9%87%8D%E6%95%B4v2%E7%89%88-%E7%A6%BB%E6%95%A3/%E6%9C%AC%E4%BD%93-Part2/%5BHulotte%5D%20%E5%87%BA%E4%BC%9A%E3%81%A3%E3%81%A65%E5%88%86%E3%81%AF%E4%BF%BA%E3%81%AE%E3%82%82%E3%81%AE%EF%BC%81%20%E6%99%82%E9%96%93%E5%81%9C%E6%AD%A2%E3%81%A8%E4%B8%8D%E5%8F%AF%E9%81%BF%E3%81%AA%E9%81%8B%E5%91%BD%20%E7%9B%B8%E8%A7%815%E5%88%86%E5%B1%9E%E4%BA%8E%E6%88%91%205%E5%88%86%E9%92%9F%E7%9A%84%E9%82%82%E9%80%85%20%5B%E7%BA%A2%E5%8F%91%2B%E9%BB%98%E7%A4%BA%5D.rar)，密码：`south-plus`
-19.  [猫猫网盘](https://sakiko.de/) & `Windows`【红发】：[点击下载](https://sakiko.de/d/GalGame/SP%E5%90%8E%E7%AB%AF1%5BGalGame%E5%88%86%E5%8C%BA%5D/%E6%B1%89%E5%8C%96%E8%A1%A5%E4%B8%81%E5%BD%92%E6%A1%A3/%E6%B1%89%E5%8C%96%E8%A1%A5%E4%B8%81%E5%BD%92%E6%A1%A3%E5%A2%9E%E9%87%8F%E6%9B%B4%E6%96%B03%5B20250616%5D/%5BHulotte%5D%5B20180803%5D%E5%87%BA%E4%BC%9A%E3%81%A3%E3%81%A65%E5%88%86%E3%81%AF%E4%BF%BA%E3%81%AE%E3%82%82%E3%81%AE%EF%BC%81%20%E6%99%82%E9%96%93%E5%81%9C%E6%AD%A2%E3%81%A8%E4%B8%8D%E5%8F%AF%E9%81%BF%E3%81%AA%E9%81%8B%E5%91%BD%5Bv23388%5D%5BWindows%5D%5B%E7%BA%A2%E5%8F%91%E5%B0%8F%E5%A5%B3%E5%AD%A9%E6%B1%89%E5%8C%96%E7%BB%84%5D%5B20190411%5D%5BCHS%5D.rar)，密码：`south-plus`
-20.  [猫猫网盘](https://sakiko.de/) & `Windows`【默示】：[点击下载](https://sakiko.de/d/GalGame/SP%E5%90%8E%E7%AB%AF1%5BGalGame%E5%88%86%E5%8C%BA%5D/%E6%B1%89%E5%8C%96%E8%A1%A5%E4%B8%81%E5%BD%92%E6%A1%A3/%E6%B1%89%E5%8C%96%E8%A1%A5%E4%B8%81%E5%BD%92%E6%A1%A3%5B20250118%5D/%5BHulotte%5D%5B20180803%5D%E5%87%BA%E4%BC%9A%E3%81%A3%E3%81%A65%E5%88%86%E3%81%AF%E4%BF%BA%E3%81%AE%E3%82%82%E3%81%AE%EF%BC%81%20%E6%99%82%E9%96%93%E5%81%9C%E6%AD%A2%E3%81%A8%E4%B8%8D%E5%8F%AF%E9%81%BF%E3%81%AA%E9%81%8B%E5%91%BD%5Bv23388%5D%5BWindows%5D%5B%E9%BB%99%E7%A4%BA%E6%B8%B8%E6%88%8F%E4%B8%AD%E6%96%87%E5%8C%96%E5%85%B4%E8%B6%A3%E5%B0%8F%E7%BB%84%5D%5B20190228%5D%5BCHS%5D.rar)，密码：`south-plus`
-21.  [喵源领域](https://www.nyantaku.com/) & `Windows`【默示】：[点击下载](https://www.nullcloud.top/d/Game/HULOTTE/%5BWindows%5D%E7%9B%B8%E8%A7%815%E5%88%86%E5%B1%9E%E4%BA%8E%E6%88%91%EF%BC%81%20%E6%97%B6%E9%97%B4%E5%81%9C%E6%AD%A2%E5%92%8C%E4%B8%8D%E5%8F%AF%E9%81%BF%E7%9A%84%E5%91%BD%E8%BF%90.7z?sign=9gzRjD9r98AmNV4lpx3d45haP_swnDTfkAkn3fhY1Ts=:0)，密码：`otaku123`
-22.  [鲲 Galgame 论坛](https://kungal.com) & `Windows` + `KRKR`：[点击下载](https://www.kungal.com/galgame/265)
+15.  [小鳥遊暁の会员制餐厅](https://t-satoru.top/) & `KRKR`【红发】：[点击下载](https://pan.t-satoru.top/d/s3b/TP/%E6%97%B6%E5%81%9C5%E5%88%86/Kr_%E7%BA%A2%E5%8F%91%E5%B0%8F%E5%A5%B3%E5%AD%A9_5%E5%88%86%E9%92%9F%E7%9A%84%E9%82%82%E9%80%85%EF%BC%81%E6%97%B6%E9%97%B4%E5%81%9C%E6%AD%A2%E4%B8%8E%E4%B8%8D%E5%8F%AF%E9%81%BF%E5%85%8D%E7%9A%84%E5%91%BD%E8%BF%90_od.rar?sign=w4YptEWIgFwTvsOs9GxDOdcV-C2hfBhHUNiDbbUj4Gw=:0)，密码：`三司绫濑天下第一`
+16.  [绮梦](https://acgs.one/) & `Windows` + `KRKR`：[点击下载](https://game.acgs.one/game/582.html)，密码：`acgs`、`绮梦`
+17.  [量子ACG](https://lzacg.org/) & `Windows`：[点击下载](https://lzacg.org/521)，密码：`量子acg`、`lzacg.top`
+18.  [量子ACG](https://lzacg.org/) & `KRKR`：[点击下载](https://lzacg.org/2888)，密码：`量子acg`、`lzacg.top`
+19.  [猫猫网盘](https://catcat.cloud/) & `Windows`【红发 默示】：[点击下载](https://catcat.cloud/d/GalGame/SP%E5%90%8E%E7%AB%AF1%5BGalGame%E5%88%86%E5%8C%BA%5D/%E7%BB%88%E7%82%B9%E6%B1%89%E5%8C%96%E9%87%8D%E6%95%B4v2%E7%89%88-%E7%A6%BB%E6%95%A3/%E6%9C%AC%E4%BD%93-Part2/%5BHulotte%5D%20%E5%87%BA%E4%BC%9A%E3%81%A3%E3%81%A65%E5%88%86%E3%81%AF%E4%BF%BA%E3%81%AE%E3%82%82%E3%81%AE%EF%BC%81%20%E6%99%82%E9%96%93%E5%81%9C%E6%AD%A2%E3%81%A8%E4%B8%8D%E5%8F%AF%E9%81%BF%E3%81%AA%E9%81%8B%E5%91%BD%20%E7%9B%B8%E8%A7%815%E5%88%86%E5%B1%9E%E4%BA%8E%E6%88%91%205%E5%88%86%E9%92%9F%E7%9A%84%E9%82%82%E9%80%85%20%5B%E7%BA%A2%E5%8F%91%2B%E9%BB%98%E7%A4%BA%5D.rar)，密码：`south-plus`
+20.  [猫猫网盘](https://catcat.cloud/) & `Windows`【红发】：[点击下载](https://catcat.cloud/d/GalGame/SP%E5%90%8E%E7%AB%AF1%5BGalGame%E5%88%86%E5%8C%BA%5D/%E6%B1%89%E5%8C%96%E8%A1%A5%E4%B8%81%E5%BD%92%E6%A1%A3/%E6%B1%89%E5%8C%96%E8%A1%A5%E4%B8%81%E5%BD%92%E6%A1%A3%E5%A2%9E%E9%87%8F%E6%9B%B4%E6%96%B03%5B20250616%5D/%5BHulotte%5D%5B20180803%5D%E5%87%BA%E4%BC%9A%E3%81%A3%E3%81%A65%E5%88%86%E3%81%AF%E4%BF%BA%E3%81%AE%E3%82%82%E3%81%AE%EF%BC%81%20%E6%99%82%E9%96%93%E5%81%9C%E6%AD%A2%E3%81%A8%E4%B8%8D%E5%8F%AF%E9%81%BF%E3%81%AA%E9%81%8B%E5%91%BD%5Bv23388%5D%5BWindows%5D%5B%E7%BA%A2%E5%8F%91%E5%B0%8F%E5%A5%B3%E5%AD%A9%E6%B1%89%E5%8C%96%E7%BB%84%5D%5B20190411%5D%5BCHS%5D.rar)，密码：`south-plus`
+21.  [猫猫网盘](https://catcat.cloud/) & `Windows`【默示】：[点击下载](https://catcat.cloud/d/GalGame/SP%E5%90%8E%E7%AB%AF1%5BGalGame%E5%88%86%E5%8C%BA%5D/%E6%B1%89%E5%8C%96%E8%A1%A5%E4%B8%81%E5%BD%92%E6%A1%A3/%E6%B1%89%E5%8C%96%E8%A1%A5%E4%B8%81%E5%BD%92%E6%A1%A3%5B20250118%5D/%5BHulotte%5D%5B20180803%5D%E5%87%BA%E4%BC%9A%E3%81%A3%E3%81%A65%E5%88%86%E3%81%AF%E4%BF%BA%E3%81%AE%E3%82%82%E3%81%AE%EF%BC%81%20%E6%99%82%E9%96%93%E5%81%9C%E6%AD%A2%E3%81%A8%E4%B8%8D%E5%8F%AF%E9%81%BF%E3%81%AA%E9%81%8B%E5%91%BD%5Bv23388%5D%5BWindows%5D%5B%E9%BB%99%E7%A4%BA%E6%B8%B8%E6%88%8F%E4%B8%AD%E6%96%87%E5%8C%96%E5%85%B4%E8%B6%A3%E5%B0%8F%E7%BB%84%5D%5B20190228%5D%5BCHS%5D.rar)，密码：`south-plus`
+22.  [喵源领域](https://www.nyantaku.com/) & `Windows`【默示】：[点击下载](https://www.nullcloud.top/d/Game/HULOTTE/%5BWindows%5D%E7%9B%B8%E8%A7%815%E5%88%86%E5%B1%9E%E4%BA%8E%E6%88%91%EF%BC%81%20%E6%97%B6%E9%97%B4%E5%81%9C%E6%AD%A2%E5%92%8C%E4%B8%8D%E5%8F%AF%E9%81%BF%E7%9A%84%E5%91%BD%E8%BF%90.7z?sign=9gzRjD9r98AmNV4lpx3d45haP_swnDTfkAkn3fhY1Ts=:0)，密码：`otaku123`
+23.  [鲲 Galgame 论坛](https://kungal.com) & `Windows` + `KRKR`：[点击下载](https://www.kungal.com/galgame/265)

@@ -4,7 +4,7 @@ title: >-
   Love with Seira
 slug: 39164
 tags:
-  - 拔作
+  - 拔
   - 纯爱
   - 女仆
   - 废萌

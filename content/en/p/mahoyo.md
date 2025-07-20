@@ -112,7 +112,7 @@ The girl lived hidden as if she’s asleep”
 
 ## 提示
 
-> 基本帮助请参阅公告：[点我跳转](/)
+> 基本帮助请参阅公告：[点我跳转](/en/)
 
 ## 下载
 

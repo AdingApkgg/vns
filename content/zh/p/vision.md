@@ -1,36 +1,41 @@
 ---
-title: 我的眼睛能看光光！不可知的未来与透视的命运 / 俺の瞳で丸裸！不可知な未来と視透かす運命
-slug: 62513
+title: 我的眼睛看光光！不可知的未来与透视的命运／俺の瞳で丸裸！不可知な未来と視透かす運命／俺不可知／Orefukachi
+slug: 43636
 tags:
-  - Hulotte / 时停社 / ユロット
-  - 纯爱
+  - Hulotte／时停社／ユロット
   - 废萌
-  - 拔作
+  - 萌
+  - 幼驯染
+  - 拔
+  - 纯爱
+  - 巫女
   - 萝莉
+  - 欢乐
   - 校园
-  - 白毛
   - 2023
 categories:
   - Windows
   - KRKR
 author: Dimly
 date: 2025-07-18T23:45:30+08:00
-updated: 2025-07-18T23:45:30+08:00
+updated: 2025-07-21T03:20:20+08:00
 ---
 
-![orefukachi](https://t.vndb.org/cv/65/113265.jpg)
+![vision](https://static.saop.cc/vns/img/vision.webp)
 
 《**我的眼睛能看光光！不可知的未来与透视的命运**》（日文：**俺の瞳で丸裸！不可知な未来と視透かす運命**）是由[HULOTTE](https://zh.moegirl.org.cn/HULOTTE)制作的一款GALGAME，于2023年7月28日发售。
 
 <!--more-->
 
-![orefukachi_p1](https://t.vndb.org/sf/99/190799.jpg)
+![vision_p1](https://static.saop.cc/vns/img/vision_p1.webp)
 
-![orefukachi_p2](https://t.vndb.org/sf/01/190801.jpg)
+![vision_p2](https://static.saop.cc/vns/img/vision_p2.webp)
 
-![orefukachi_p3](https://t.vndb.org/sf/02/190802.jpg)
+![vision_p3](https://static.saop.cc/vns/img/vision_p3.webp)
 
-![orefukachi_p4](https://t.vndb.org/sf/03/190803.jpg)
+![vision_p4](https://static.saop.cc/vns/img/vision_p4.webp)
+
+![vision_p5](https://static.saop.cc/vns/img/vision_p5.webp)
 
 ## 故事
 
@@ -66,7 +71,7 @@ updated: 2025-07-18T23:45:30+08:00
 
 ## 链接
 
-- [官方网站](https://hulotte.jp/product/vision)
+- [官方网站](https://hulotte.jp/product/vision/)
 - [萌娘百科](https://zh.moegirl.org.cn/%E6%88%91%E7%9A%84%E7%9C%BC%E7%9D%9B%E8%83%BD%E7%9C%8B%E5%85%89%E5%85%89%EF%BC%81%E4%B8%8D%E5%8F%AF%E7%9F%A5%E7%9A%84%E6%9C%AA%E6%9D%A5%E4%B8%8E%E9%80%8F%E8%A7%86%E7%9A%84%E5%91%BD%E8%BF%90)
 - [vndb](https://vndb.org/v44098)
 - [Bangumi 番组计划](https://bgm.tv/subject/431209)
@@ -85,9 +90,10 @@ updated: 2025-07-18T23:45:30+08:00
 6.  [稻荷GAL](https://inarigal.com/) & `Windows`：[点击下载](https://enir.atrimoe.com/PC-2/HULOTTE/%E6%88%91%E7%9A%84%E7%9C%BC%E7%9D%9B%E8%83%BD%E7%9C%8B%E5%85%89%E5%85%89%EF%BC%81%E4%B8%8D%E5%8F%AF%E7%9F%A5%E7%9A%84%E6%9C%AA%E6%9D%A5%E4%B8%8E%E9%80%8F%E8%A7%86%E7%9A%84%E5%91%BD%E8%BF%90.zip)
 7.  [稻荷GAL](https://inarigal.com/) & `KRKR`：[点击下载](https://enir.atrimoe.com/KRKR/%E6%88%91%E7%9A%84%E7%9C%BC%E7%9D%9B%E8%83%BD%E7%9C%8B%E5%85%89%E5%85%89%EF%BC%81%E4%B8%8D%E5%8F%AF%E7%9F%A5%E7%9A%84%E6%9C%AA%E6%9D%A5%E4%B8%8E%E9%80%8F%E8%A7%86%E7%9A%84%E5%91%BD%E8%BF%90.zip) 
 8.  [真红小站](https://www.shinnku.com/) & `Windows`：[点击下载](https://download.shinnku.com/file/shinnku/zd/2023/%5B230728%5D%5BHULOTTE%5D%20%E4%BF%BA%E3%81%AE%E7%9E%B3%E3%81%A7%E4%B8%B8%E8%A3%B8%EF%BC%81%20%E4%B8%8D%E5%8F%AF%E7%9F%A5%E3%81%AA%E6%9C%AA%E6%9D%A5%E3%81%A8%E8%A6%96%E9%80%8F%E3%81%8B%E3%81%99%E9%81%8B%E5%91%BD.rar)
-9.  [绮梦](https://acgs.one/) & `Windows` + `KRKR`：[点击下载](https://game.acgs.one/game/296.html)，密码：`acgs`、`绮梦`
-10.  [量子ACG](https://lzacg.org/) & `Windows`：[点击下载](https://lzacg.org/6170)，密码：`量子acg`、`lzacg.top`
-11.  [量子ACG](https://lzacg.org/) & `KRKR`：[点击下载](https://lzacg.org/9244)，密码：`量子acg`、`lzacg.top`
-12.  [猫猫网盘](https://sakiko.de/) & `Windows`：[点击下载](https://sakiko.de/d/GalGame/SP%E5%90%8E%E7%AB%AF1%5BGalGame%E5%88%86%E5%8C%BA%5D/GalGame%E5%90%88%E9%9B%86-05%E5%8F%B7%E6%9C%BA/Part21/%5BHulotte%5D%20%E6%88%91%E7%9A%84%E7%9C%BC%E7%9D%9B%E8%83%BD%E7%9C%8B%E5%85%89%E5%85%89%EF%BC%8C%E4%B8%8D%E5%8F%AF%E7%9F%A5%E7%9A%84%E6%9C%AA%E6%9D%A5%E4%B8%8E%E9%80%8F%E8%A7%86%E7%9A%84%E5%91%BD%E8%BF%90!%EF%BC%8F%E4%BF%BA%E3%81%AE%E7%9E%B3%E3%81%A7%E4%B8%B8%E8%A3%B8%EF%BC%81%E4%B8%8D%E5%8F%AF%E7%9F%A5%E3%81%AA%E6%9C%AA%E6%9D%A5%E3%81%A8%E8%A6%96%E9%80%8F%E3%81%8B%E3%81%99%E9%81%8B%E5%91%BD%E3%80%90%E6%9C%80%E8%8B%B1%E4%BF%8A%E7%9A%84%E6%B8%A3%E7%94%B7%E3%80%91%5BV1.01%5D.rar)，密码：`south-plus`
-13.  [喵源领域](https://www.nyantaku.com/) & `KRKR`：[点击下载](https://www.nullcloud.top/d/Game/HULOTTE/%5BKirikiroid2%5D%E6%88%91%E7%9A%84%E7%9C%BC%E7%9D%9B%E8%83%BD%E7%9C%8B%E5%85%89%E5%85%89%EF%BC%8C%E4%B8%8D%E5%8F%AF%E7%9F%A5%E7%9A%84%E6%9C%AA%E6%9D%A5%E4%B8%8E%E9%80%8F%E8%A7%86%E7%9A%84%E5%91%BD%E8%BF%90!.7z?sign=zWiTBWd_1SKrHTZO-8r4NlDJrcriR87PP2Fr4geqAzM=:0)，密码：`otaku123`
-14.  [鲲 Galgame 论坛](https://kungal.com) & `Windows` + `KRKR`：[点击下载](https://www.kungal.com/galgame/268)
+9.  [小鳥遊暁の会员制餐厅](https://t-satoru.top/) & `KRKR`：[点击下载](https://pan.t-satoru.top/s3b/TP/%E9%80%8F%E8%A7%86%E7%9C%BC)，密码：`三司绫濑天下第一`
+10. [绮梦](https://acgs.one/) & `Windows` + `KRKR`：[点击下载](https://game.acgs.one/game/296.html)，密码：`acgs`、`绮梦`
+11.  [量子ACG](https://lzacg.org/) & `Windows`：[点击下载](https://lzacg.org/6170)，密码：`量子acg`、`lzacg.top`
+12.  [量子ACG](https://lzacg.org/) & `KRKR`：[点击下载](https://lzacg.org/9244)，密码：`量子acg`、`lzacg.top`
+13.  [猫猫网盘](https://catcat.cloud/) & `Windows`：[点击下载](https://catcat.cloud/d/GalGame/SP%E5%90%8E%E7%AB%AF1%5BGalGame%E5%88%86%E5%8C%BA%5D/GalGame%E5%90%88%E9%9B%86-05%E5%8F%B7%E6%9C%BA/Part21/%5BHulotte%5D%20%E6%88%91%E7%9A%84%E7%9C%BC%E7%9D%9B%E8%83%BD%E7%9C%8B%E5%85%89%E5%85%89%EF%BC%8C%E4%B8%8D%E5%8F%AF%E7%9F%A5%E7%9A%84%E6%9C%AA%E6%9D%A5%E4%B8%8E%E9%80%8F%E8%A7%86%E7%9A%84%E5%91%BD%E8%BF%90!%EF%BC%8F%E4%BF%BA%E3%81%AE%E7%9E%B3%E3%81%A7%E4%B8%B8%E8%A3%B8%EF%BC%81%E4%B8%8D%E5%8F%AF%E7%9F%A5%E3%81%AA%E6%9C%AA%E6%9D%A5%E3%81%A8%E8%A6%96%E9%80%8F%E3%81%8B%E3%81%99%E9%81%8B%E5%91%BD%E3%80%90%E6%9C%80%E8%8B%B1%E4%BF%8A%E7%9A%84%E6%B8%A3%E7%94%B7%E3%80%91%5BV1.01%5D.rar)，密码：`south-plus`
+14.  [喵源领域](https://www.nyantaku.com/) & `KRKR`：[点击下载](https://www.nullcloud.top/d/Game/HULOTTE/%5BKirikiroid2%5D%E6%88%91%E7%9A%84%E7%9C%BC%E7%9D%9B%E8%83%BD%E7%9C%8B%E5%85%89%E5%85%89%EF%BC%8C%E4%B8%8D%E5%8F%AF%E7%9F%A5%E7%9A%84%E6%9C%AA%E6%9D%A5%E4%B8%8E%E9%80%8F%E8%A7%86%E7%9A%84%E5%91%BD%E8%BF%90!.7z?sign=zWiTBWd_1SKrHTZO-8r4NlDJrcriR87PP2Fr4geqAzM=:0)，密码：`otaku123`
+15.  [鲲 Galgame 论坛](https://kungal.com) & `Windows` + `KRKR`：[点击下载](https://www.kungal.com/galgame/268)

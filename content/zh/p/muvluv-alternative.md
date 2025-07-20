@@ -8,7 +8,7 @@ tags:
   - 泣
   - 致郁
   - 科幻
-  - 青梅竹马
+  - 幼驯染
   - 2006
 categories:
   - Windows

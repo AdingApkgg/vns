@@ -11,6 +11,6 @@ date: 2025-03-23T18:06:30+08:00
 
 <!--more-->
 
-<audio src="/audio/1742721919.mp3" controls></audio>
+<audio src="/media/1753034275.webm" controls></audio>
 
-<video src="/video/1742721919.webm" controls></video>
+<video src="/media/1742721919.webm" controls></video>

@@ -8,7 +8,7 @@ tags:
   - 女仆
   - 纯爱
   - 治愈
-  - 拔作
+  - 拔
   - 2015
 categories:
   - Windows

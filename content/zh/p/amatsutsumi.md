@@ -4,7 +4,7 @@ slug: 24262
 tags:
   - Purple-software／紫社
   - 奇幻
-  - 拔作
+  - 拔
   - 妹
   - 纯爱
   - 剧情

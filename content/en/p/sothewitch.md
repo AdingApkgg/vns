@@ -62,7 +62,7 @@ Shuuji’s once normal life is thrown into chaos, and with that, a certain faint
 
 ## 提示
 
-> 基本帮助请参阅公告：[点我跳转](/)
+> 基本帮助请参阅公告：[点我跳转](/en/)
 
 ## 下载
 
