@@ -10,7 +10,7 @@ tags:
   - 校园
   - 纯爱
   - 恋爱
-  - 青梅竹马
+  - 幼驯染
   - 2003
 categories:
   - Windows

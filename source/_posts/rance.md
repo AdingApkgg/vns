@@ -7,7 +7,7 @@ abbrlink: 33961
 tags:
   - AliceSoft
   - 后宫
-  - 拔作
+  - 拔
   - 燃
   - 战斗
   - 奇幻

@@ -6,7 +6,7 @@ title: >-
 abbrlink: 33562
 tags:
   - NEKO-WORKs
-  - 拔作
+  - 拔
   - 艹猫
   - 动态CG
   - 废萌

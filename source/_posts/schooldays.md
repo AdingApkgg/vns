@@ -4,7 +4,7 @@ abbrlink: 12162
 tags:
   - Overflow／0verflow／オーバーフロー
   - 黑暗系
-  - 拔作
+  - 拔
   - 校园
   - 三角恋
   - 动态CG

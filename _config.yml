@@ -436,6 +436,7 @@ valine:
       "贴吧新表情-image_emoticon99": "Tieba-New/image_emoticon99.png",
     }
   enableQQ: true
+  libUrl: https://registry.npmmirror.com/valine/latest/files/dist/Valine.min.js
 
 fireworks:
   enable: true

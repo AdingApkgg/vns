@@ -4,7 +4,7 @@ abbrlink: 769
 tags:
   - FrontWing／前翼社
   - 治愈
-  - 青梅竹马
+  - 幼驯染
   - 奇幻
   - 悬疑
   - 民俗

@@ -6,7 +6,7 @@ tags:
   - 实妹
   - 纯爱
   - 妹
-  - 青梅竹马
+  - 幼驯染
   - 妹控
   - 幼女
   - 废萌
@@ -104,6 +104,7 @@ updated: 2025-07-18 04:20:00
 10. [绮梦](https://acgs.one/) & `Windows` + `KRKR` + `Android`：[点击下载](https://game.acgs.one/game/101.html)，密码：`acgs`、`绮梦`
 11. [量子ACG](https://lzacg.org/) & `Windows`：[点击下载](https://lzacg.org/595)，密码：`量子acg`、`lzacg.top`
 12. [我的Galgame资源发布站](https://www.ttloli.com/) & `Windows`：[点击下载](https://www.ttloli.com/lianhuazhanfangyingfeishi.html)，密码：`忧郁的弟弟`、`忧郁的loli`
-13. [猫猫网盘](https://sakiko.de/) & `Windows`：[点击下载](https://sakiko.de/d/GalGame/SP%E5%90%8E%E7%AB%AF1%5BGalGame%E5%88%86%E5%8C%BA%5D/GalGame%E5%90%88%E9%9B%86-05%E5%8F%B7%E6%9C%BA/Part07/%5BPALETTE%5D%20%E6%81%8B%E8%8A%B1%E7%BB%BD%E6%94%BE%E6%A8%B1%E9%A3%9E%E6%97%B6%EF%BC%8F%E6%81%8B%E3%81%8C%E3%81%95%E3%81%8F%E3%81%93%E3%82%8D%E6%A1%9C%E3%81%A9%E3%81%8D%E3%80%90%E6%98%9F%E5%86%88%E6%A8%B1%E5%8D%97%E9%95%87%E5%AE%88%E5%BA%9C%E3%80%91.rar)，密码：`south-plus`
+13. [猫猫网盘](https://catcat.cloud/) & `Windows`：[点击下载](https://catcat.cloud/d/GalGame/SP%E5%90%8E%E7%AB%AF1%5BGalGame%E5%88%86%E5%8C%BA%5D/GalGame%E5%90%88%E9%9B%86-05%E5%8F%B7%E6%9C%BA/Part07/%5BPALETTE%5D%20%E6%81%8B%E8%8A%B1%E7%BB%BD%E6%94%BE%E6%A8%B1%E9%A3%9E%E6%97%B6%EF%BC%8F%E6%81%8B%E3%81%8C%E3%81%95%E3%81%8F%E3%81%93%E3%82%8D%E6%A1%9C%E3%81%A9%E3%81%8D%E3%80%90%E6%98%9F%E5%86%88%E6%A8%B1%E5%8D%97%E9%95%87%E5%AE%88%E5%BA%9C%E3%80%91.rar)，密码：`south-plus`
 14. [喵源领域](https://www.nyantaku.com/) & `Windows`：[点击下载](https://www.nullcloud.top/Game/Palette/[Windows]%E6%81%8B%E8%8A%B1%E7%BB%BD%E6%94%BE%E6%A8%B1%E9%A3%9E%E6%97%B6.7z)，密码：`otaku123`
 15. [莉斯坦ACG](https://www.limulu.moe/) & `Windows` + `KRKR`：[点击下载](https://www.limulu.moe/posts/9d325c34)
+16. [鲲 Galgame 论坛](https://kungal.com) & `Windows` + `KRKR` + `Android`：[点击下载](https://www.kungal.com/galgame/188)

@@ -18,7 +18,7 @@ Hikarinagi | https://www.hikarinagi.net/ | 一个ACGN文化社区，免费获取
 绮梦 | https://acgs.one/ | 专注分享次元世界 | https://acgs.one/favicon.ico
 量子ACG | https://lzacg.org/ | 以游戏为主，进而推动日语学习的网站
 我的Galgame资源发布站 | https://www.ttloli.com/ | 汉化galgame分享站 | https://www.ttloli.com/favicon.ico
-猫猫网盘 | https://sakiko.de/ | catcat.blog | https://image.catcat.blog/catcat/2023/10/15/favicon.webp
+猫猫网盘 | https://catcat.cloud/ | catcat.blog | https://image.catcat.blog/catcat/2023/10/15/favicon.webp
 萤ノ光 | https://yinghu.netlify.app/ | 恋花绽放，樱飞之时 | https://yinghu.netlify.app/img/avatar.png
 Koyso | https://koyso.com/ | 单机游戏下载网站，提供最新，热门的单机游戏下载
 天遊二次元 | https://www.tiangal.com/ | 最新最全二次元游戏galgame资讯介绍及资源。
