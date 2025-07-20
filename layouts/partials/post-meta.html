@@ -1,8 +1,10 @@
 {{ if .Site.Params.postmeta.enabled }}
 <div class="post-meta">
   <span
-    >{{ T "author" }}: {{ .Params.author | default .Site.Params.defaultAuthor
-    }}</span
+    >{{ T "author" }}: {{ if .Params.author }} {{ if reflect.IsSlice
+    .Params.author }} {{ delimit .Params.author ", " }} {{ else }} {{
+    .Params.author }} {{ end }} {{ else }} {{ .Site.Params.defaultAuthor }} {{
+    end }}</span
   >
   {{ with .Date }}
   <span>
