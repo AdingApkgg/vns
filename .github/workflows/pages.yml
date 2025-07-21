@@ -1,0 +1,39 @@
+name: Push to gal-site
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build-and-push:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          submodules: recursive
+      - name: Use Node.js 24.4.1
+        uses: actions/setup-node@v4
+        with:
+          node-version: "24.4.1"
+      - name: Cache NPM dependencies
+        uses: actions/cache@v4
+        with:
+          path: node_modules
+          key: ${{ runner.OS }}-npm-cache
+          restore-keys: |
+            ${{ runner.OS }}-npm-cache
+      - name: Install Dependencies
+        run: npm install
+      - name: Build
+        run: npm run build
+      - name: Push to gal-site
+        run: |
+          cd public
+          git init
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add .
+          git commit -m "Deploy public folder to gal-site"
+          git push --force https://x-access-token:${{ secrets.GAL_SITE_TOKEN }}@github.com/AdingApkgg/gal-site.git main
