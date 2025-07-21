@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>VNS</title><link>/</link><description/><atom:link href="/docs/" rel="self" type="application/rss+xml"/><item><title>用户指南</title><link>/docs/%E7%94%A8%E6%88%B7%E6%8C%87%E5%8D%97/</link><pubDate>Tue, 25 Mar 2025 20:52:45 +0800</pubDate><guid>/docs/%E7%94%A8%E6%88%B7%E6%8C%87%E5%8D%97/</guid><description>&lt;blockquote>
+&lt;p>首次进入的小伙伴可能一头雾水，我知道你很急，但是先别急。&lt;/p>
+&lt;p>本指南包含网站使用教程、常用工具、基本术语说明。&lt;/p>&lt;/blockquote>
+&lt;h2 id="引言">引言&lt;/h2>
+&lt;p>本指南的目标读者是 ACG 萌新小白/网站新用户，用途旨在引导读者理解 Galgame 相关概念，快速掌握网站的使用方式以及基本工具的用法。&lt;/p>
+&lt;p>本站定位是一个 Galgame 视觉小说数据库，核心功能如下：&lt;/p>
+&lt;ul>
+&lt;li>提供游戏资源检索，支持多结构（标签、社团、平台、译名等）多语言（中日英）&lt;/li>
+&lt;li>资源下载：整合 Galgame 社区资源链接，用户无需二次检索。&lt;/li>
+&lt;/ul>
+&lt;h2 id="章节介绍">章节介绍&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="" >其他版本&lt;/a>&lt;/li>
+&lt;li>&lt;a href="" >介绍&lt;/a>&lt;/li>
+&lt;li>&lt;a href="/docs/term_explanation/" >Galgame术语说明&lt;/a>&lt;/li>
+&lt;li>&lt;a href="/docs/net_usage/" >网站用法&lt;/a>&lt;/li>
+&lt;li>&lt;a href="/docs/build_env_windows/" >Galgame入坑指南&lt;/a>&lt;/li>
+&lt;li>&lt;a href="/docs/build_env_android/" >Android篇&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>Galgame 入坑指南</title><link>/docs/build_env_windows/</link><pubDate>Tue, 01 Apr 2025 19:39:32 +0800</pubDate><guid>/docs/build_env_windows/</guid><description>&lt;p>⚙ 本节介绍如何在 Windows 平台上手 Galgame，包括&lt;strong>资源下载-&amp;gt;游戏运行&lt;/strong>等环节。&lt;/p></description></item><item><title>Galgame 术语说明</title><link>/docs/term_explanation/</link><pubDate>Mon, 31 Mar 2025 21:44:11 +0800</pubDate><guid>/docs/term_explanation/</guid><description>&lt;p>本节面向初入 Galgame 领域的小白，解释常见词汇，欢迎补充或更正。&lt;/p></description></item><item><title>网站使用方法</title><link>/docs/net_usage/</link><pubDate>Mon, 31 Mar 2025 21:10:32 +0800</pubDate><guid>/docs/net_usage/</guid><description>&lt;p>工欲善其事，必先利其器。&lt;/p>
+&lt;p>本节介绍如何使用本站获取资源，流程分为：&lt;strong>检索 -&amp;gt; 识别 -&amp;gt; 下载&lt;/strong>。&lt;/p></description></item><item><title>互联网资源简易寻找指南教程</title><link>/docs/%E4%BA%92%E8%81%94%E7%BD%91%E8%B5%84%E6%BA%90%E5%AF%BB%E6%89%BE%E7%AE%80%E6%98%93%E6%8C%87%E5%8D%97/</link><pubDate>Fri, 28 Mar 2025 16:16:00 +0800</pubDate><guid>/docs/%E4%BA%92%E8%81%94%E7%BD%91%E8%B5%84%E6%BA%90%E5%AF%BB%E6%89%BE%E7%AE%80%E6%98%93%E6%8C%87%E5%8D%97/</guid><description>&lt;p>互联网资源寻找指南&lt;/p></description></item><item><title>贡献指南</title><link>/docs/%E8%B4%A1%E7%8C%AE%E6%8C%87%E5%8D%97/</link><pubDate>Fri, 28 Mar 2025 02:12:20 +0800</pubDate><guid>/docs/%E8%B4%A1%E7%8C%AE%E6%8C%87%E5%8D%97/</guid><description>&lt;p>介绍如何为本项目贡献代码&lt;/p></description></item><item><title>各种模拟器使用介绍</title><link>/docs/%E5%90%84%E7%A7%8D%E6%A8%A1%E6%8B%9F%E5%99%A8%E4%BB%8B%E7%BB%8D/</link><pubDate>Wed, 26 Mar 2025 21:03:00 +0800</pubDate><guid>/docs/%E5%90%84%E7%A7%8D%E6%A8%A1%E6%8B%9F%E5%99%A8%E4%BB%8B%E7%BB%8D/</guid><description>&lt;p>本文介绍 iOS，安卓，Windows 端的各种模拟器&lt;/p></description></item><item><title>各种链接形式介绍，下载</title><link>/docs/%E5%90%84%E7%A7%8D%E9%93%BE%E6%8E%A5%E5%BD%A2%E5%BC%8F%E4%BB%8B%E7%BB%8D/</link><pubDate>Mon, 24 Mar 2025 19:34:00 +0800</pubDate><guid>/docs/%E5%90%84%E7%A7%8D%E9%93%BE%E6%8E%A5%E5%BD%A2%E5%BC%8F%E4%BB%8B%E7%BB%8D/</guid><description>&lt;p>本文介绍一些链接格式/原理/介绍与使用方法&lt;/p></description></item><item><title>什么是“魔法”</title><link>/docs/%E4%BB%80%E4%B9%88%E6%98%AF%E9%AD%94%E6%B3%95/</link><pubDate>Mon, 24 Mar 2025 19:34:00 +0800</pubDate><guid>/docs/%E4%BB%80%E4%B9%88%E6%98%AF%E9%AD%94%E6%B3%95/</guid><description>&lt;p>魔法，也就是虚拟专用网&lt;/p></description></item><item><title>什么是生肉和熟肉</title><link>/docs/%E4%BB%80%E4%B9%88%E6%98%AF%E7%94%9F%E8%82%89%E5%92%8C%E7%86%9F%E8%82%89/</link><pubDate>Mon, 24 Mar 2025 19:34:00 +0800</pubDate><guid>/docs/%E4%BB%80%E4%B9%88%E6%98%AF%E7%94%9F%E8%82%89%E5%92%8C%E7%86%9F%E8%82%89/</guid><description>&lt;p>“生肉”指未经翻译的外语作品
+“熟肉”指经过翻译的外语作品&lt;/p></description></item><item><title>双端解压缩工具软件快速入门</title><link>/docs/%E8%A7%A3%E5%8E%8B%E8%BD%AF%E4%BB%B6%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8/</link><pubDate>Mon, 24 Mar 2025 19:34:00 +0800</pubDate><guid>/docs/%E8%A7%A3%E5%8E%8B%E8%BD%AF%E4%BB%B6%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8/</guid><description>&lt;p>部分游戏资源会以压缩文件的形式提供，您需要使用解压工具来提取文件。&lt;/p></description></item><item><title>测试</title><link>/docs/test/</link><pubDate>Sun, 23 Mar 2025 18:06:30 +0800</pubDate><guid>/docs/test/</guid><description>&lt;p>&lt;img class="zoomable" loading="lazy" src="/img/1742721344.avif" title="Arch Linux KDE 桌面环境"
+alt="Arch Linux KDE 桌面环境" />&lt;/p>
+&lt;h2 id="h2-测试">H2 测试&lt;/h2>
+&lt;p>这是一段测试内容..&lt;/p></description></item></channel></rss>
