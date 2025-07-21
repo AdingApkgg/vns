@@ -31,7 +31,7 @@ jobs:
       - name: Push to gal-site
         run: |
           cd public
-          git init
+          git init -b main
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
           git add .
