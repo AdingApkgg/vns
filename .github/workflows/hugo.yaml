@@ -87,6 +87,11 @@ jobs:
           path: |
             ${{ runner.temp }}/hugo_cache
           key: ${{ steps.cache-restore.outputs.cache-primary-key }}
+      # 添加 Pagefind 安装和执行步骤
+      - name: Install Pagefind and build search index
+        run: |
+          npm install -g pagefind # 安装 Pagefind CLI
+          pagefind --site public # 在 public 目录上运行 Pagefind
       # 添加此步骤以将构建的站点内容作为 artifact 上传
       - name: Upload public directory as artifact
         uses: actions/upload-artifact@v4
