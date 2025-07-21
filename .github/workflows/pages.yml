@@ -1,5 +1,6 @@
-name: Push to gal-site
+name: Build and Deploy with Hexo
 env:
+  GAL_SITE_TOKEN: ${{ secrets.GAL_SITE_TOKEN }}
   BAIDU_TOKEN: ${{ secrets.BAIDU_TOKEN }}
   BING_TOKEN: ${{ secrets.BING_TOKEN }}
 
@@ -9,7 +10,7 @@ on:
       - main
 
 jobs:
-  build-and-push:
+  build-and-deploy:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -29,17 +30,11 @@ jobs:
             ${{ runner.OS }}-npm-cache
       - name: Install Dependencies
         run: npm install
-      - name: Build
+      - name: Install Hexo CLI
+        run: npm install -g hexo-cli
+      - name: Run Hexo Commands
         run: |
-          hexo clean
-          hexo generate
+          hexo cl
+          hexo g
           hexo swpp
-      - name: Push to gal-site
-        run: |
-          cd public
-          git init -b main
-          git config user.name "GitHub Actions"
-          git config user.email "actions@github.com"
-          git add .
-          git commit -m "Deploy public folder to gal-site"
-          git push --force https://x-access-token:${{ secrets.GAL_SITE_TOKEN }}@github.com/AdingApkgg/gal-site.git main
+          hexo d
