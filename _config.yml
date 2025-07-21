@@ -123,9 +123,8 @@ theme: next
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   - type: git
-    repository: https://github.com/AdingApkgg/gal-site.git
+    repository: https://x-access-token:${GAL_SITE_TOKEN}@github.com/AdingApkgg/gal-site.git
     branch: main
-    token: $GAL_SITE_TOKEN
   - type: cjh_google_url_submitter
   - type: cjh_bing_url_submitter
   - type: cjh_baidu_url_submitter
