@@ -87,11 +87,12 @@ jobs:
           path: |
             ${{ runner.temp }}/hugo_cache
           key: ${{ steps.cache-restore.outputs.cache-primary-key }}
-      # 移除 Upload artifact 步骤，因为我们将直接推送到分支
-      # - name: Upload artifact
-      #   uses: actions/upload-pages-artifact@v3
-      #   with:
-      #     path: ./public
+      # 添加此步骤以将构建的站点内容作为 artifact 上传
+      - name: Upload public directory as artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: hugo-site-public # artifact 的名称
+          path: ./public # 要上传的目录
 
   # Deployment job
   deploy:
@@ -106,6 +107,13 @@ jobs:
         with:
           submodules: recursive
           fetch-depth: 0 # 确保获取完整的历史记录以便推送
+
+      # 添加此步骤以下载构建的站点内容 artifact
+      - name: Download public directory artifact
+        uses: actions/download-artifact@v4
+        with:
+          name: hugo-site-public # 与上传时使用的 artifact 名称一致
+          path: ./public # 下载到当前工作目录的 ./public 路径
 
       - name: Configure Git
         run: |
