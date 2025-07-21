@@ -78,8 +78,8 @@ jobs:
           hugo \
             --gc \
             --minify \
-            --baseURL "/" \ # 根据您的实际情况修改此项
-            --cacheDir "${{ runner.temp }}/hugo_cache"
+            --baseURL "/" \
+            --cacheDir "${{ runner.temp }}/hugo_cache" # 根据您的实际情况修改此项
       - name: Cache Save
         id: cache-save
         uses: actions/cache/save@v4
