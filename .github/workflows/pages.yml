@@ -1,4 +1,7 @@
 name: Push to gal-site
+env:
+  BAIDU_TOKEN: ${{ secrets.BAIDU_TOKEN }}
+  BING_TOKEN: ${{ secrets.BING_TOKEN }}
 
 on:
   push:
@@ -27,7 +30,9 @@ jobs:
       - name: Install Dependencies
         run: npm install
       - name: Build
-        run: npm run build
+        run: |
+          npm run build
+          hexo swpp
       - name: Push to gal-site
         run: |
           cd public
