@@ -25,21 +25,22 @@ jobs:
         uses: actions/cache@v4
         with:
           path: node_modules
-          key: ${{ runner.OS }}-npm-cache
+          key: ${{ runner.os }}-npm-cache
           restore-keys: |
-            ${{ runner.OS }}-npm-cache
+            ${{ runner.os }}-npm-cache
       - name: Install Dependencies
         run: |
           npm install
           npm install hexo@latest --save
           npm install hexo-deployer-git@latest --save
-          npm install highlight.js@latest --save
+          npm install highlight.js@^11.10.0 --save
       - name: Install Hexo CLI
         run: npm install -g hexo-cli@latest
       - name: Configure Git
         run: |
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
+          git config --global init.defaultBranch main
       - name: Run Hexo Commands
         run: |
           hexo cl
