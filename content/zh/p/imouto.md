@@ -16,7 +16,7 @@ date: 2024-05-26 03:12:00
 updated: 2024-05-26 03:12:00
 ---
 
-![imouto](https://r2.30hb.cn/vndb-img/imouto.webp)
+![imouto](https://static.30hb.cn/vndb/img/imouto.webp)
 
 《**妹之形**》（イモウトノカタチ，妹の形）是[CUFFS](https://zh.wikipedia.org/wiki/CUFFS)社的姐妹品牌[Sphere](https://zh.wikipedia.org/wiki/Sphere)于2012年8月31日发售的[18禁](https://zh.wikipedia.org/wiki/日本成人遊戲)[恋爱冒险游戏](https://zh.wikipedia.org/wiki/戀愛冒險遊戲)，原定发行时间为7月27日，后来延后发行日期至8月31日。是Sphere的第三部作品。
 
@@ -32,13 +32,13 @@ updated: 2024-05-26 03:12:00
 
 ## 图片
 
-![imouto_p1](https://r2.30hb.cn/vndb-img/imouto_p1.webp)
+![imouto_p1](https://static.30hb.cn/vndb/img/imouto_p1.webp)
 
-![imouto_p2](https://r2.30hb.cn/vndb-img/imouto_p2.webp)
+![imouto_p2](https://static.30hb.cn/vndb/img/imouto_p2.webp)
 
-![imouto_p3](https://r2.30hb.cn/vndb-img/imouto_p3.webp)
+![imouto_p3](https://static.30hb.cn/vndb/img/imouto_p3.webp)
 
-![imouto_p4](https://r2.30hb.cn/vndb-img/imouto_p4.webp)
+![imouto_p4](https://static.30hb.cn/vndb/img/imouto_p4.webp)
 
 ## 影响
 

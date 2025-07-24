@@ -19,7 +19,7 @@ date: 2024-09-13 03:14:00
 updated: 2024-09-14 21:56:00
 ---
 
-![oreimo](https://r2.30hb.cn/vndb-img/oreimo.webp)
+![oreimo](https://static.30hb.cn/vndb/img/oreimo.webp)
 
 《**我的妹妹哪有这么可爱！**》（日语：**俺の妹がこんなに可愛いわけがない**，简称“**俺妹（おれいも）**”、“**俺（おれ）の妹（いもうと）**”），是[伏见司](https://zh.moegirl.org.cn/伏见司)所作的轻小说作品，以及以此为原作而改编的动画、漫画、广播剧CD、卡片游戏、电子游戏等作品。小说插画由[神崎广](https://zh.moegirl.org.cn/神崎广)负责。
 
@@ -31,25 +31,25 @@ updated: 2024-09-14 21:56:00
 
 ## 图片
 
-![oreimo_p1](https://r2.30hb.cn/vndb-img/oreimo_p1.webp)
+![oreimo_p1](https://static.30hb.cn/vndb/img/oreimo_p1.webp)
 
-![oreimo_p2](https://r2.30hb.cn/vndb-img/oreimo_p2.webp)
+![oreimo_p2](https://static.30hb.cn/vndb/img/oreimo_p2.webp)
 
-![oreimo_p3](https://r2.30hb.cn/vndb-img/oreimo_p3.webp)
+![oreimo_p3](https://static.30hb.cn/vndb/img/oreimo_p3.webp)
 
-![oreimo_p4](https://r2.30hb.cn/vndb-img/oreimo_p4.webp)
+![oreimo_p4](https://static.30hb.cn/vndb/img/oreimo_p4.webp)
 
-![oreimo_p5](https://r2.30hb.cn/vndb-img/oreimo_p5.webp)
+![oreimo_p5](https://static.30hb.cn/vndb/img/oreimo_p5.webp)
 
-![oreimo_p6](https://r2.30hb.cn/vndb-img/oreimo_p6.webp)
+![oreimo_p6](https://static.30hb.cn/vndb/img/oreimo_p6.webp)
 
-![oreimo_p7](https://r2.30hb.cn/vndb-img/oreimo_p7.webp)
+![oreimo_p7](https://static.30hb.cn/vndb/img/oreimo_p7.webp)
 
-![oreimo_p8](https://r2.30hb.cn/vndb-img/oreimo_p8.webp)
+![oreimo_p8](https://static.30hb.cn/vndb/img/oreimo_p8.webp)
 
-![oreimo_p9](https://r2.30hb.cn/vndb-img/oreimo_p9.webp)
+![oreimo_p9](https://static.30hb.cn/vndb/img/oreimo_p9.webp)
 
-![oreimo_p10](https://r2.30hb.cn/vndb-img/oreimo_p10.webp)
+![oreimo_p10](https://static.30hb.cn/vndb/img/oreimo_p10.webp)
 
 ## 链接
 

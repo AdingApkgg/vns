@@ -18,7 +18,7 @@ date: 2024-09-24 02:41:30
 updated: 2024-09-24 02:41:30
 ---
 
-![lucy](https://r2.30hb.cn/vndb-img/lucy.webp)
+![lucy](https://static.30hb.cn/vndb/img/lucy.webp)
 
 **《露西 -她所期望的一切-》**（韩文：루시 -그녀가 바라던 것-，英文：Lucy -The Eternity She Wished For-）是韩国游戏公司[Modern Visual Arts Laboratory](https://zh.moegirl.org.cn/index.php?title=Modern_Visual_Arts_Laboratory&action=edit&redlink=1)制作，2016年2月26日发布的[视觉小说](https://zh.moegirl.org.cn/视觉小说)，国服由心动网络代理发行。作品原型是S.R在2010年免费发布一个小作品，2011年11月28日在博客上宣布启动「Project PIM-001R」[重制](https://zh.moegirl.org.cn/重制)游戏。2015年在众筹网站kickstarter对项目进行众筹，同年通过[Steam](https://zh.moegirl.org.cn/Steam)Greenlight，于2016年2月26日发布，其后作品亦移植到[Android](https://zh.moegirl.org.cn/Android娘)和[iOS](https://zh.moegirl.org.cn/IOS)平台上。作品的背景图画和音乐都是源于日本网上免费素材，背景中出现的日文和汉字已经进行适当处理。
 
@@ -30,17 +30,17 @@ updated: 2024-09-24 02:41:30
 
 ## 图片
 
-![lucy_p1](https://r2.30hb.cn/vndb-img/lucy_p1.webp)
+![lucy_p1](https://static.30hb.cn/vndb/img/lucy_p1.webp)
 
-![lucy_p2](https://r2.30hb.cn/vndb-img/lucy_p2.webp)
+![lucy_p2](https://static.30hb.cn/vndb/img/lucy_p2.webp)
 
-![lucy_p3](https://r2.30hb.cn/vndb-img/lucy_p3.webp)
+![lucy_p3](https://static.30hb.cn/vndb/img/lucy_p3.webp)
 
-![lucy_p4](https://r2.30hb.cn/vndb-img/lucy_p4.webp)
+![lucy_p4](https://static.30hb.cn/vndb/img/lucy_p4.webp)
 
-![lucy_p5](https://r2.30hb.cn/vndb-img/lucy_p5.webp)
+![lucy_p5](https://static.30hb.cn/vndb/img/lucy_p5.webp)
 
-![lucy_p6](https://r2.30hb.cn/vndb-img/lucy_p6.webp)
+![lucy_p6](https://static.30hb.cn/vndb/img/lucy_p6.webp)
 
 ## 系统
 

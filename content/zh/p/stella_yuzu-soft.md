@@ -19,7 +19,7 @@ date: 2024-02-10 23:42:00
 updated: 2024-11-17 07:20:20
 ---
 
-![stella_yuzu-soft](https://r2.30hb.cn/vndb-img/stella_yuzu-soft.webp)
+![stella_yuzu-soft](https://static.30hb.cn/vndb/img/stella_yuzu-soft.webp)
 
 **星光咖啡馆与死神之蝶**（日语：**喫茶（カフェ）ステラと死神の蝶**、英语：***Café Stella and the Reapers' Butterflies***）是由[柚子社](https://zh.moegirl.org.cn/柚子社)制作的[Galgame](https://zh.moegirl.org.cn/Galgame)。
 
@@ -56,17 +56,17 @@ updated: 2024-11-17 07:20:20
 
 ## 图片
 
-![stella_yuzu-soft_p1](https://r2.30hb.cn/vndb-img/stella_yuzu-soft_p1.webp)
+![stella_yuzu-soft_p1](https://static.30hb.cn/vndb/img/stella_yuzu-soft_p1.webp)
 
-![stella_yuzu-soft_p2](https://r2.30hb.cn/vndb-img/stella_yuzu-soft_p2.webp)
+![stella_yuzu-soft_p2](https://static.30hb.cn/vndb/img/stella_yuzu-soft_p2.webp)
 
-![stella_yuzu-soft_p3](https://r2.30hb.cn/vndb-img/stella_yuzu-soft_p3.webp)
+![stella_yuzu-soft_p3](https://static.30hb.cn/vndb/img/stella_yuzu-soft_p3.webp)
 
-![stella_yuzu-soft_p4](https://r2.30hb.cn/vndb-img/stella_yuzu-soft_p4.webp)
+![stella_yuzu-soft_p4](https://static.30hb.cn/vndb/img/stella_yuzu-soft_p4.webp)
 
-![stella_yuzu-soft_p5](https://r2.30hb.cn/vndb-img/stella_yuzu-soft_p5.webp)
+![stella_yuzu-soft_p5](https://static.30hb.cn/vndb/img/stella_yuzu-soft_p5.webp)
 
-![stella_yuzu-soft_p6](https://r2.30hb.cn/vndb-img/stella_yuzu-soft_p6.webp)
+![stella_yuzu-soft_p6](https://static.30hb.cn/vndb/img/stella_yuzu-soft_p6.webp)
 
 ## 创作相关
 

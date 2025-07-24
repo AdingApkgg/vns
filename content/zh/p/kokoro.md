@@ -20,7 +20,7 @@ date: 2024-09-15 21:20:00
 updated: 2024-09-15 21:20:00
 ---
 
-![kokoro](https://r2.30hb.cn/vndb-img/kokoro.webp)
+![kokoro](https://static.30hb.cn/vndb/img/kokoro.webp)
 
 《和怪物谈恋爱吧》（クリーチャーと恋しよっ！），由同人游戏社团 nostalgia 所开发的面向纯爱系玩家游戏。
 
@@ -42,13 +42,13 @@ updated: 2024-09-15 21:20:00
 
 ## 图片
 
-![kokoro_p1](https://r2.30hb.cn/vndb-img/kokoro_p1.webp)
+![kokoro_p1](https://static.30hb.cn/vndb/img/kokoro_p1.webp)
 
-![kokoro_p2](https://r2.30hb.cn/vndb-img/kokoro_p2.webp)
+![kokoro_p2](https://static.30hb.cn/vndb/img/kokoro_p2.webp)
 
-![kokoro_p3](https://r2.30hb.cn/vndb-img/kokoro_p3.webp)
+![kokoro_p3](https://static.30hb.cn/vndb/img/kokoro_p3.webp)
 
-![kokoro_p4](https://r2.30hb.cn/vndb-img/kokoro_p4.webp)
+![kokoro_p4](https://static.30hb.cn/vndb/img/kokoro_p4.webp)
 
 ## 链接
 

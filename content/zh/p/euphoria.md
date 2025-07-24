@@ -19,7 +19,7 @@ date: 2024-08-27 07:20:00
 updated: 2024-08-27 07:20:00
 ---
 
-![euphoria](https://r2.30hb.cn/vndb-img/euphoria.webp)
+![euphoria](https://static.30hb.cn/vndb/img/euphoria.webp)
 
 《**euphoria**》是[CLOCKUP](https://zh.wikipedia.org/w/index.php?title=CLOCKUP&action=edit&redlink=1)公司于2011年6月24日发表的[18禁](https://zh.wikipedia.org/wiki/18禁)[恋爱冒险游戏](https://zh.wikipedia.org/wiki/戀愛冒險遊戲)，2014年4月25日发售HD版，2012年8月30日由AICHERRY发售[DVDPG](https://zh.wikipedia.org/wiki/DVDPG)版、[BDPG](https://zh.wikipedia.org/wiki/BDPG)版，后来改编成[OVA](https://zh.wikipedia.org/wiki/原創動畫錄影帶)和小说发售。
 
@@ -33,13 +33,13 @@ updated: 2024-08-27 07:20:00
 
 ## 图片
 
-![euphoria_p1](https://r2.30hb.cn/vndb-img/euphoria_p1.webp)
+![euphoria_p1](https://static.30hb.cn/vndb/img/euphoria_p1.webp)
 
-![euphoria_p2](https://r2.30hb.cn/vndb-img/euphoria_p2.webp)
+![euphoria_p2](https://static.30hb.cn/vndb/img/euphoria_p2.webp)
 
-![euphoria_p3](https://r2.30hb.cn/vndb-img/euphoria_p3.webp)
+![euphoria_p3](https://static.30hb.cn/vndb/img/euphoria_p3.webp)
 
-![euphoria_p4](https://r2.30hb.cn/vndb-img/euphoria_p4.webp)
+![euphoria_p4](https://static.30hb.cn/vndb/img/euphoria_p4.webp)
 
 ## 游戏系统
 

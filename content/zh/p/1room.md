@@ -16,7 +16,7 @@ date: 2024-12-21 03:45:40
 updated: 2024-12-21 03:45:40
 ---
 
-![1room](https://r2.30hb.cn/vndb-img/1room.webp)
+![1room](https://static.30hb.cn/vndb/img/1room.webp)
 
 工作忙得精疲力竭的你
 在深夜的站台上有一位少女向你搭话了。

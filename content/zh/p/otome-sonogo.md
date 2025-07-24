@@ -20,7 +20,7 @@ date: 2024-05-05 02:37:30
 updated: 2024-05-05 02:37:30
 ---
 
-![otome-sonogo](https://r2.30hb.cn/vndb-img/otome-sonogo.webp)
+![otome-sonogo](https://static.30hb.cn/vndb/img/otome-sonogo.webp)
 
 2016年5月27日，《少女理论及其周边》的续篇FD《少女理论及其后的周边 -Belle Epoque-》（日语：**乙女理論とその後の周辺 -Belle Epoque-**）发售，剧情为发生在《少女理论及其后的周边》之后部分的故事，收录了大藏里想奈、梅丽尔·琳琪和布琉艾特·妮科莱特·普朗凯特的后日谈。
 
@@ -30,11 +30,11 @@ updated: 2024-05-05 02:37:30
 
 ## 图片
 
-![otome-sonogo_p1](https://r2.30hb.cn/vndb-img/otome-sonogo_p1.webp)
+![otome-sonogo_p1](https://static.30hb.cn/vndb/img/otome-sonogo_p1.webp)
 
-![otome-sonogo_p2](https://r2.30hb.cn/vndb-img/otome-sonogo_p2.webp)
+![otome-sonogo_p2](https://static.30hb.cn/vndb/img/otome-sonogo_p2.webp)
 
-![otome-sonogo_p3](https://r2.30hb.cn/vndb-img/otome-sonogo_p3.webp)
+![otome-sonogo_p3](https://static.30hb.cn/vndb/img/otome-sonogo_p3.webp)
 
 ## 链接
 

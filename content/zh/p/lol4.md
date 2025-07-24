@@ -22,7 +22,7 @@ date: 2024-10-25 03:50:00
 updated: 2024-10-25 03:50:00
 ---
 
-![lol4](https://r2.30hb.cn/vndb-img/lol4.webp)
+![lol4](https://static.30hb.cn/vndb/img/lol4.webp)
 
 三个人也可以搭建一个小世界。
 和洛丽塔双子一起断绝跟外界的联系。
@@ -31,13 +31,13 @@ updated: 2024-10-25 03:50:00
 
 <!--more-->
 
-![lol4_p1](https://r2.30hb.cn/vndb-img/lol4_p1.webp)
+![lol4_p1](https://static.30hb.cn/vndb/img/lol4_p1.webp)
 
-![lol4_p2](https://r2.30hb.cn/vndb-img/lol4_p2.webp)
+![lol4_p2](https://static.30hb.cn/vndb/img/lol4_p2.webp)
 
-![lol4_p3](https://r2.30hb.cn/vndb-img/lol4_p3.webp)
+![lol4_p3](https://static.30hb.cn/vndb/img/lol4_p3.webp)
 
-![lol4_p4](https://r2.30hb.cn/vndb-img/lol4_p4.webp)
+![lol4_p4](https://static.30hb.cn/vndb/img/lol4_p4.webp)
 
 ## 链接
 

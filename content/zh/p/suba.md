@@ -18,7 +18,7 @@ date: 2024-04-05 00:00:00
 updated: 2024-04-22 21:02:00
 ---
 
-![suba](https://r2.30hb.cn/vndb-img/suba.webp)
+![suba](https://static.30hb.cn/vndb/img/suba.webp)
 
 **美好~~（鬼畜）~~的每一天～不连续的存在～**（日文：**素晴らしき日々～不連続存在～**，英文：Wonderful Everyday Down the Rabbit-Hole）是由[枕社](https://zh.moegirl.org.cn/枕)的姐妹游戏公司[ケロQ](https://zh.moegirl.org.cn/ケロQ)推出的一款电波、狂气类冒险游戏，于2010年3月26日发售。
 
@@ -40,25 +40,25 @@ updated: 2024-04-22 21:02:00
 
 ## 图片
 
-![suba_p1](https://r2.30hb.cn/vndb-img/suba_p1.webp)
+![suba_p1](https://static.30hb.cn/vndb/img/suba_p1.webp)
 
-![suba_p2](https://r2.30hb.cn/vndb-img/suba_p2.webp)
+![suba_p2](https://static.30hb.cn/vndb/img/suba_p2.webp)
 
-![suba_p3](https://r2.30hb.cn/vndb-img/suba_p3.webp)
+![suba_p3](https://static.30hb.cn/vndb/img/suba_p3.webp)
 
-![suba_p4](https://r2.30hb.cn/vndb-img/suba_p4.webp)
+![suba_p4](https://static.30hb.cn/vndb/img/suba_p4.webp)
 
-![suba_p5](https://r2.30hb.cn/vndb-img/suba_p5.webp)
+![suba_p5](https://static.30hb.cn/vndb/img/suba_p5.webp)
 
-![suba_p6](https://r2.30hb.cn/vndb-img/suba_p6.webp)
+![suba_p6](https://static.30hb.cn/vndb/img/suba_p6.webp)
 
-![suba_p7](https://r2.30hb.cn/vndb-img/suba_p7.webp)
+![suba_p7](https://static.30hb.cn/vndb/img/suba_p7.webp)
 
-![suba_p8](https://r2.30hb.cn/vndb-img/suba_p8.webp)
+![suba_p8](https://static.30hb.cn/vndb/img/suba_p8.webp)
 
-![suba_p9](https://r2.30hb.cn/vndb-img/suba_p9.webp)
+![suba_p9](https://static.30hb.cn/vndb/img/suba_p9.webp)
 
-![suba_p10](https://r2.30hb.cn/vndb-img/suba_p10.webp)
+![suba_p10](https://static.30hb.cn/vndb/img/suba_p10.webp)
 
 ## 链接
 

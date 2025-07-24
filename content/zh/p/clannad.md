@@ -23,7 +23,7 @@ date: 2024-02-26 02:20:00
 updated: 2024-04-01 12:26:40
 ---
 
-![clannad](https://r2.30hb.cn/vndb-img/clannad.webp)
+![clannad](https://static.30hb.cn/vndb/img/clannad.webp)
 
 《**CLANNAD**》（**クラナド**（**Ku ra na do**）），简称**CL**，是由日本游戏品牌[Key](https://zh.moegirl.org.cn/Key)（“Key社”）所发行的第三款恋爱冒险游戏，并有动画、漫画、小说、网络广播等衍生作品。
 
@@ -35,11 +35,11 @@ updated: 2024-04-01 12:26:40
 
 ## 图片
 
-![clannad_p1](https://r2.30hb.cn/vndb-img/clannad_p1.webp)
+![clannad_p1](https://static.30hb.cn/vndb/img/clannad_p1.webp)
 
-![clannad_p2](https://r2.30hb.cn/vndb-img/clannad_p2.webp)
+![clannad_p2](https://static.30hb.cn/vndb/img/clannad_p2.webp)
 
-![clannad_p3](https://r2.30hb.cn/vndb-img/clannad_p3.webp)
+![clannad_p3](https://static.30hb.cn/vndb/img/clannad_p3.webp)
 
 ## 链接
 

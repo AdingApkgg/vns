@@ -21,7 +21,7 @@ updated: 2024-03-31 01:23:00
 author: WTY
 ---
 
-![onigyuh](https://r2.30hb.cn/vndb-img/onigyuh.webp)
+![onigyuh](https://static.30hb.cn/vndb/img/onigyuh.webp)
 
 《**お兄ちゃん、朝までずっとギュッてして！ 夜までもっとエッチして！**》
 
@@ -49,11 +49,11 @@ author: WTY
 
 ## 图片
 
-![onigyuh_p1](https://r2.30hb.cn/vndb-img/onigyuh_p1.webp)
+![onigyuh_p1](https://static.30hb.cn/vndb/img/onigyuh_p1.webp)
 
-![onigyuh_p2](https://r2.30hb.cn/vndb-img/onigyuh_p2.webp)
+![onigyuh_p2](https://static.30hb.cn/vndb/img/onigyuh_p2.webp)
 
-![onigyuh_p3](https://r2.30hb.cn/vndb-img/onigyuh_p3.webp)
+![onigyuh_p3](https://static.30hb.cn/vndb/img/onigyuh_p3.webp)
 
 ## 特典代码
 

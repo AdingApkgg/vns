@@ -26,7 +26,7 @@ date: 2024-04-16 00:43:00
 updated: 2024-04-16 00:43:00
 ---
 
-![tsukiniyorisou](https://r2.30hb.cn/vndb-img/tsukiniyorisou.webp)
+![tsukiniyorisou](https://static.30hb.cn/vndb/img/tsukiniyorisou.webp)
 
 **《近月少女的礼仪》**（日语：**月に寄りそう乙女の作法**）是由[Navel](https://zh.moegirl.org.cn/Navel)制作的一部Galgame，并有[近月少女的礼仪2](https://zh.moegirl.org.cn/近月少女的礼仪2)、[少女理论及其周边](https://zh.moegirl.org.cn/少女理论及其周边)、[少女理论及其之后的周边](https://zh.moegirl.org.cn/少女理论及其之后的周边)等衍生作品。[近朱者赤，近墨者黑，近月者弯](https://zh.moegirl.org.cn/近朱者赤，近墨者黑，近月者弯)
 
@@ -38,11 +38,11 @@ updated: 2024-04-16 00:43:00
 
 ## 图片
 
-![tsukiniyorisou_p1](https://r2.30hb.cn/vndb-img/tsukiniyorisou_p1.webp)
+![tsukiniyorisou_p1](https://static.30hb.cn/vndb/img/tsukiniyorisou_p1.webp)
 
-![tsukiniyorisou_p2](https://r2.30hb.cn/vndb-img/tsukiniyorisou_p2.webp)
+![tsukiniyorisou_p2](https://static.30hb.cn/vndb/img/tsukiniyorisou_p2.webp)
 
-![tsukiniyorisou_p3](https://r2.30hb.cn/vndb-img/tsukiniyorisou_p3.webp)
+![tsukiniyorisou_p3](https://static.30hb.cn/vndb/img/tsukiniyorisou_p3.webp)
 
 ## 大藏家族
 

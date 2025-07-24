@@ -16,7 +16,7 @@ date: 2024-03-02 21:40:00
 updated: 2024-04-01 12:26:00
 ---
 
-![clannad-side-stories](https://r2.30hb.cn/vndb-img/clannad-side-stories.webp)
+![clannad-side-stories](https://static.30hb.cn/vndb/img/clannad-side-stories.webp)
 
 本作是KEY的知名恋爱冒险游戏《克兰娜德》的外传作品，全16话的DRAMA CD将经过改编成为上下两卷的电子小说类游戏发售。故事的每个章节都会更换主角，玩家将会更充分地体会到原作角色的魅力。本作的插画是由GOTO P担当。
 
@@ -26,13 +26,13 @@ updated: 2024-04-01 12:26:00
 
 ## 图片
 
-![clannad-side-stories_p1](https://r2.30hb.cn/vndb-img/clannad-side-stories_p1.webp)
+![clannad-side-stories_p1](https://static.30hb.cn/vndb/img/clannad-side-stories_p1.webp)
 
-![clannad-side-stories_p2](https://r2.30hb.cn/vndb-img/clannad-side-stories_p2.webp)
+![clannad-side-stories_p2](https://static.30hb.cn/vndb/img/clannad-side-stories_p2.webp)
 
-![clannad-side-stories_p3](https://r2.30hb.cn/vndb-img/clannad-side-stories_p3.webp)
+![clannad-side-stories_p3](https://static.30hb.cn/vndb/img/clannad-side-stories_p3.webp)
 
-![clannad-side-stories_p4](https://r2.30hb.cn/vndb-img/clannad-side-stories_p4.webp)
+![clannad-side-stories_p4](https://static.30hb.cn/vndb/img/clannad-side-stories_p4.webp)
 
 ## 链接
 

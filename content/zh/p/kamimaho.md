@@ -19,7 +19,7 @@ date: 2024-04-06 18:17:00
 updated: 2024-04-06 18:17:00
 ---
 
-![kamimaho](https://r2.30hb.cn/vndb-img/kamimaho.webp)
+![kamimaho](https://static.30hb.cn/vndb/img/kamimaho.webp)
 
 **《纸上的魔法使》**（日语：**紙の上の魔法使い**）是由[ウグイスカグラ](https://zh.moegirl.org.cn/ウグイスカグラ)开发，并于2014年12月19日发售的一部[GalGame](https://zh.moegirl.org.cn/Galgame)，也是该社的处女作。该作由[ルクル](https://zh.moegirl.org.cn/index.php?title=ルクル&action=edit&redlink=1)负责剧本，[桐葉](https://zh.moegirl.org.cn/桐叶(画师))负责原画，讲述了一个略带奇幻色彩的恋爱故事。
 
@@ -76,15 +76,15 @@ updated: 2024-04-06 18:17:00
 
 ## 图片
 
-![kamimaho_p1](https://r2.30hb.cn/vndb-img/kamimaho_p1.webp)
+![kamimaho_p1](https://static.30hb.cn/vndb/img/kamimaho_p1.webp)
 
-![kamimaho_p2](https://r2.30hb.cn/vndb-img/kamimaho_p2.webp)
+![kamimaho_p2](https://static.30hb.cn/vndb/img/kamimaho_p2.webp)
 
-![kamimaho_p3](https://r2.30hb.cn/vndb-img/kamimaho_p3.webp)
+![kamimaho_p3](https://static.30hb.cn/vndb/img/kamimaho_p3.webp)
 
-![kamimaho_p4](https://r2.30hb.cn/vndb-img/kamimaho_p4.webp)
+![kamimaho_p4](https://static.30hb.cn/vndb/img/kamimaho_p4.webp)
 
-![kamimaho_p5](https://r2.30hb.cn/vndb-img/kamimaho_p5.webp)
+![kamimaho_p5](https://static.30hb.cn/vndb/img/kamimaho_p5.webp)
 
 ## 链接
 

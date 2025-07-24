@@ -27,7 +27,7 @@ date: 2024-10-27 03:13:40
 updated: 2024-10-27 03:13:40
 ---
 
-![aokana](https://r2.30hb.cn/vndb-img/aokana.webp)
+![aokana](https://static.30hb.cn/vndb/img/aokana.webp)
 
 《**苍之彼方的四重奏**》（日语：蒼の彼方のフォーリズム）是由[sprite](https://zh.wikipedia.org/wiki/Sprite_(遊戲品牌))于2014年11月28日发售的一款[成人向](https://zh.wikipedia.org/wiki/日本成人遊戲)[美少女游戏](https://zh.wikipedia.org/wiki/美少女遊戲)。此作品为sprite的第2部作品，日文简称“あおかな”（aokana），并在游戏发行前两周宣布预定[电视动画](https://zh.wikipedia.org/wiki/日本電視動畫)化。[PlayStation Vita](https://zh.wikipedia.org/wiki/PlayStation_Vita)版于2016年2月25日推出。[手机游戏](https://zh.wikipedia.org/wiki/手機遊戲)《苍之彼方的四重奏-永恒的天空-（苍の彼方のフォーリズム-ETERNAL SKY-）》于2016年10月7日开始运营。于2018年3月29日发售运作于[Nintendo Switch](https://zh.wikipedia.org/wiki/Nintendo_Switch)《苍之彼方的四重奏 for Nintendo Switch》。
 
@@ -35,23 +35,23 @@ updated: 2024-10-27 03:13:40
 
 2015年8月27日宣布电视动画由[GONZO](https://zh.wikipedia.org/wiki/GONZO)制作，并于2016年1月开始播出。而在2015年9月26日发售的《[月刊Comp Ace](https://zh.wikipedia.org/wiki/月刊Comp_Ace)》2015年11月号宣布[漫画](https://zh.wikipedia.org/wiki/日本漫畫)化，并于2015年10月26日发售的《月刊Comp Ace》2015年12月号开始连载，漫画作者为唐辛子ひでゆ。
 
-![aokana_p1](https://r2.30hb.cn/vndb-img/aokana_p1.webp)
+![aokana_p1](https://static.30hb.cn/vndb/img/aokana_p1.webp)
 
-![aokana_p2](https://r2.30hb.cn/vndb-img/aokana_p2.webp)
+![aokana_p2](https://static.30hb.cn/vndb/img/aokana_p2.webp)
 
-![aokana_p3](https://r2.30hb.cn/vndb-img/aokana_p3.webp)
+![aokana_p3](https://static.30hb.cn/vndb/img/aokana_p3.webp)
 
-![aokana_p4](https://r2.30hb.cn/vndb-img/aokana_p4.webp)
+![aokana_p4](https://static.30hb.cn/vndb/img/aokana_p4.webp)
 
-![aokana_p5](https://r2.30hb.cn/vndb-img/aokana_p5.webp)
+![aokana_p5](https://static.30hb.cn/vndb/img/aokana_p5.webp)
 
-![aokana_p6](https://r2.30hb.cn/vndb-img/aokana_p6.webp)
+![aokana_p6](https://static.30hb.cn/vndb/img/aokana_p6.webp)
 
-![aokana_p7](https://r2.30hb.cn/vndb-img/aokana_p7.webp)
+![aokana_p7](https://static.30hb.cn/vndb/img/aokana_p7.webp)
 
-![aokana_p8](https://r2.30hb.cn/vndb-img/aokana_p8.webp)
+![aokana_p8](https://static.30hb.cn/vndb/img/aokana_p8.webp)
 
-![aokana_p9](https://r2.30hb.cn/vndb-img/aokana_p9.webp)
+![aokana_p9](https://static.30hb.cn/vndb/img/aokana_p9.webp)
 
 ## 剧情
 

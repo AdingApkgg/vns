@@ -18,7 +18,7 @@ date: 2024-05-02 18:05:00
 updated: 2024-05-02 18:05:00
 ---
 
-![muvluv](https://r2.30hb.cn/vndb-img/muvluv.webp)
+![muvluv](https://static.30hb.cn/vndb/img/muvluv.webp)
 
 **《Muv-Luv（マブラヴ）》**是由âge开发的一部[美少女游戏](https://zh.moegirl.org.cn/美少女游戏)，是[Muv-Luv系列](https://zh.moegirl.org.cn/Muv-Luv系列)的第一部作品。并有漫画、轻小说衍生作品。
 
@@ -61,11 +61,11 @@ Unlimited篇共有11个结局，对应御剑冥夜、榊千鹤、彩峰慧、珠
 
 ## 图片
 
-![muvluv_p1](https://r2.30hb.cn/vndb-img/muvluv_p1.webp)
+![muvluv_p1](https://static.30hb.cn/vndb/img/muvluv_p1.webp)
 
-![muvluv_p2](https://r2.30hb.cn/vndb-img/muvluv_p2.webp)
+![muvluv_p2](https://static.30hb.cn/vndb/img/muvluv_p2.webp)
 
-![muvluv_p3](https://r2.30hb.cn/vndb-img/muvluv_p3.webp)
+![muvluv_p3](https://static.30hb.cn/vndb/img/muvluv_p3.webp)
 
 ## 链接
 

@@ -23,23 +23,23 @@ date: 2024-10-21 20:55:00
 updated: 2024-10-21 20:55:00
 ---
 
-![stella_key](https://r2.30hb.cn/vndb-img/stella_key.webp)
+![stella_key](https://static.30hb.cn/vndb/img/stella_key.webp)
 
 《**星之终途**》（日语：終のステラ，英语：*Stella of The End*）是[Key](https://zh.wikipedia.org/wiki/Key_(遊戲品牌))于2022年9月30日推出的[视觉小说](https://zh.wikipedia.org/wiki/视觉小说)类型游戏，2023年4月21日游戏登陆手机平台，同年9月26日登陆Steam。游戏讲述架空的未来地球，货运人裘德接到一个神秘委托，去寻找一个能拯救人类的[女性仿生人](https://zh.wikipedia.org/wiki/女性人形機器人)，并将她带到委托人身边的故事。
 
 <!--more-->
 
-![stella_key_p1](https://r2.30hb.cn/vndb-img/stella_key_p1.webp)
+![stella_key_p1](https://static.30hb.cn/vndb/img/stella_key_p1.webp)
 
-![stella_key_p2](https://r2.30hb.cn/vndb-img/stella_key_p2.webp)
+![stella_key_p2](https://static.30hb.cn/vndb/img/stella_key_p2.webp)
 
-![stella_key_p3](https://r2.30hb.cn/vndb-img/stella_key_p3.webp)
+![stella_key_p3](https://static.30hb.cn/vndb/img/stella_key_p3.webp)
 
-![stella_key_p4](https://r2.30hb.cn/vndb-img/stella_key_p4.webp)
+![stella_key_p4](https://static.30hb.cn/vndb/img/stella_key_p4.webp)
 
-![stella_key_p5](https://r2.30hb.cn/vndb-img/stella_key_p5.webp)
+![stella_key_p5](https://static.30hb.cn/vndb/img/stella_key_p5.webp)
 
-![stella_key_p6](https://r2.30hb.cn/vndb-img/stella_key_p6.webp)
+![stella_key_p6](https://static.30hb.cn/vndb/img/stella_key_p6.webp)
 
 ## 剧情
 

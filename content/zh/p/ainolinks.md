@@ -20,7 +20,7 @@ date: 2025-03-12 21:55:38
 updated: 2025-03-22 03:08:45
 ---
 
-![ainolinks](https://r2.30hb.cn/vndb-img/ainolinks.webp)
+![ainolinks](https://static.30hb.cn/vndb/img/ainolinks.webp)
 
 《**创作彼女的恋爱公式**》（日语：創作彼女の恋愛公式）是2021年11月26日发售的[18禁](https://zh.wikipedia.org/wiki/日本成人遊戲)[恋爱冒险游戏](https://zh.wikipedia.org/wiki/戀愛冒險遊戲)，由成人游戏品牌Aino+Links制作。剧本、原画分别由工藤启介、[有叶](https://zh.wikipedia.org/w/index.php?title=有叶&action=edit&redlink=1)创作。
 
@@ -32,17 +32,17 @@ updated: 2025-03-22 03:08:45
 
 <!--more-->
 
-![ainolinks_p1](https://r2.30hb.cn/vndb-img/ainolinks_p1.webp)
+![ainolinks_p1](https://static.30hb.cn/vndb/img/ainolinks_p1.webp)
 
-![ainolinks_p2](https://r2.30hb.cn/vndb-img/ainolinks_p2.webp)
+![ainolinks_p2](https://static.30hb.cn/vndb/img/ainolinks_p2.webp)
 
-![ainolinks_p3](https://r2.30hb.cn/vndb-img/ainolinks_p3.webp)
+![ainolinks_p3](https://static.30hb.cn/vndb/img/ainolinks_p3.webp)
 
-![ainolinks_p4](https://r2.30hb.cn/vndb-img/ainolinks_p4.webp)
+![ainolinks_p4](https://static.30hb.cn/vndb/img/ainolinks_p4.webp)
 
-![ainolinks_p5](https://r2.30hb.cn/vndb-img/ainolinks_p5.webp)
+![ainolinks_p5](https://static.30hb.cn/vndb/img/ainolinks_p5.webp)
 
-![ainolinks_p6](https://r2.30hb.cn/vndb-img/ainolinks_p6.webp)
+![ainolinks_p6](https://static.30hb.cn/vndb/img/ainolinks_p6.webp)
 
 ## 剧情
 

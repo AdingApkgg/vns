@@ -21,7 +21,7 @@ date: 2024-10-25 03:46:40
 updated: 2024-10-25 03:46:40
 ---
 
-![lol3](https://r2.30hb.cn/vndb-img/lol3.webp)
+![lol3](https://static.30hb.cn/vndb/img/lol3.webp)
 
 喜欢萝莉吗？
 
@@ -35,11 +35,11 @@ updated: 2024-10-25 03:46:40
 
 <!--more-->
 
-![lol3_p1](https://r2.30hb.cn/vndb-img/lol3_p1.webp)
+![lol3_p1](https://static.30hb.cn/vndb/img/lol3_p1.webp)
 
-![lol3_p2](https://r2.30hb.cn/vndb-img/lol3_p2.webp)
+![lol3_p2](https://static.30hb.cn/vndb/img/lol3_p2.webp)
 
-![lol3_p3](https://r2.30hb.cn/vndb-img/lol3_p3.webp)
+![lol3_p3](https://static.30hb.cn/vndb/img/lol3_p3.webp)
 
 ## 链接
 

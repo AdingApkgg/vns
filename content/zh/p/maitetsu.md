@@ -22,7 +22,7 @@ date: 2024-03-23 00:10:00
 updated: 2024-03-23 00:10:00
 ---
 
-![maitetsu](https://r2.30hb.cn/vndb-img/maitetsu.webp)
+![maitetsu](https://static.30hb.cn/vndb/img/maitetsu.webp)
 
 **《爱上火车》**（日语：まいてつ）是由Lose开发的恋爱冒险类电子游戏，并有系列衍生漫画、摄影APP、动画等。2020年10月30日发售新增剧情的《爱上火车 Last Run!!》，新增原有线路的后日谈及新线路，并重写了总集线，而原版《爱上火车》则对应地被称作《爱上火车 Pure Station》。
 
@@ -46,11 +46,11 @@ updated: 2024-03-23 00:10:00
 
 ## 图片
 
-![maitetsu_p1](https://r2.30hb.cn/vndb-img/maitetsu_p1.webp)
+![maitetsu_p1](https://static.30hb.cn/vndb/img/maitetsu_p1.webp)
 
-![maitetsu_p2](https://r2.30hb.cn/vndb-img/maitetsu_p2.webp)
+![maitetsu_p2](https://static.30hb.cn/vndb/img/maitetsu_p2.webp)
 
-![maitetsu_p3](https://r2.30hb.cn/vndb-img/maitetsu_p3.webp)
+![maitetsu_p3](https://static.30hb.cn/vndb/img/maitetsu_p3.webp)
 
 ## 评价
 

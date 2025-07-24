@@ -23,7 +23,7 @@ date: 2024-05-02 19:58:30
 updated: 2024-10-02 02:35:40
 ---
 
-![nknk](https://r2.30hb.cn/vndb-img/nknk.webp)
+![nknk](https://static.30hb.cn/vndb/img/nknk.webp)
 
 《**逝去的骑士，异世界中回响的断末魔**》（日语：**死に逝く騎士 異世界に響く断末魔**）是由[BUG SYSTEM](https://zh.moegirl.org.cn/BUG_SYSTEM)制作发行的一款[galgame](https://zh.moegirl.org.cn/Galgame)，于2024年4月26日发售。
 
@@ -52,15 +52,15 @@ updated: 2024-10-02 02:35:40
 
 ## 图片
 
-![nknk_p1](https://r2.30hb.cn/vndb-img/nknk_p1.webp)
+![nknk_p1](https://static.30hb.cn/vndb/img/nknk_p1.webp)
 
-![nknk_p2](https://r2.30hb.cn/vndb-img/nknk_p2.webp)
+![nknk_p2](https://static.30hb.cn/vndb/img/nknk_p2.webp)
 
-![nknk_p3](https://r2.30hb.cn/vndb-img/nknk_p3.webp)
+![nknk_p3](https://static.30hb.cn/vndb/img/nknk_p3.webp)
 
-![nknk_p4](https://r2.30hb.cn/vndb-img/nknk_p4.webp)
+![nknk_p4](https://static.30hb.cn/vndb/img/nknk_p4.webp)
 
-![nknk_p5](https://r2.30hb.cn/vndb-img/nknk_p5.webp)
+![nknk_p5](https://static.30hb.cn/vndb/img/nknk_p5.webp)
 
 ## 链接
 

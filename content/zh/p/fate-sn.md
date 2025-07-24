@@ -21,7 +21,7 @@ date: 2024-04-14 23:54:00
 updated: 2024-08-12 18:45:00
 ---
 
-![fate-sn](https://r2.30hb.cn/vndb-img/fate-sn.webp)
+![fate-sn](https://static.30hb.cn/vndb/img/fate-sn.webp)
 
 《**Fate/stay night**》（日语：フェイト/ステイナイト，中文：命运／停驻之夜、命运守护夜、命运之夜）是由[TYPE-MOON](https://zh.wikipedia.org/wiki/TYPE-MOON)于2004年1月30日发售的[PC](https://zh.wikipedia.org/wiki/个人电脑)平台[十八禁](https://zh.wikipedia.org/wiki/十八禁遊戲)[文字冒险游戏](https://zh.wikipedia.org/wiki/文字冒險遊戲)，也是TYPE-MOON商业化后初次亮相的作品。
 
@@ -39,25 +39,25 @@ updated: 2024-08-12 18:45:00
 
 ## 图片
 
-![fate-sn_p1](https://r2.30hb.cn/vndb-img/fate-sn_p1.webp)
+![fate-sn_p1](https://static.30hb.cn/vndb/img/fate-sn_p1.webp)
 
-![fate-sn_p2](https://r2.30hb.cn/vndb-img/fate-sn_p2.webp)
+![fate-sn_p2](https://static.30hb.cn/vndb/img/fate-sn_p2.webp)
 
-![fate-sn_p3](https://r2.30hb.cn/vndb-img/fate-sn_p3.webp)
+![fate-sn_p3](https://static.30hb.cn/vndb/img/fate-sn_p3.webp)
 
-![fate-sn_p4](https://r2.30hb.cn/vndb-img/fate-sn_p4.webp)
+![fate-sn_p4](https://static.30hb.cn/vndb/img/fate-sn_p4.webp)
 
-![fate-sn_p5](https://r2.30hb.cn/vndb-img/fate-sn_p5.webp)
+![fate-sn_p5](https://static.30hb.cn/vndb/img/fate-sn_p5.webp)
 
-![fate-sn_p6](https://r2.30hb.cn/vndb-img/fate-sn_p6.webp)
+![fate-sn_p6](https://static.30hb.cn/vndb/img/fate-sn_p6.webp)
 
-![fate-sn_p7](https://r2.30hb.cn/vndb-img/fate-sn_p7.webp)
+![fate-sn_p7](https://static.30hb.cn/vndb/img/fate-sn_p7.webp)
 
-![fate-sn_p8](https://r2.30hb.cn/vndb-img/fate-sn_p8.webp)
+![fate-sn_p8](https://static.30hb.cn/vndb/img/fate-sn_p8.webp)
 
-![fate-sn_p9](https://r2.30hb.cn/vndb-img/fate-sn_p9.webp)
+![fate-sn_p9](https://static.30hb.cn/vndb/img/fate-sn_p9.webp)
 
-![fate-sn_p10](https://r2.30hb.cn/vndb-img/fate-sn_p10.webp)
+![fate-sn_p10](https://static.30hb.cn/vndb/img/fate-sn_p10.webp)
 
 ## 链接
 

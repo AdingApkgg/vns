@@ -15,7 +15,7 @@ date: 2024-03-17 05:30:00
 updated: 2024-03-17 05:30:00
 ---
 
-![totono](https://r2.30hb.cn/vndb-img/totono.webp)
+![totono](https://static.30hb.cn/vndb/img/totono.webp)
 
 **《你和她和她的恋爱。》**（日语：**君と彼女と彼女の恋。**，英语：**YOU and ME and HER: A Love Story**，简称**ととの** ***Totono***）是由[Nitro+](https://zh.moegirl.org.cn/Nitro%2B)制作的一部18禁恋爱冒险游戏，于2013年6月28日发布初回限定版；英文版于2020年5月5日由 JAST USA 代理在日本以外地区发售，于2020年5月26日在[Steam](https://zh.moegirl.org.cn/Steam)平台上架，2021年11月11日Steam上更新了官方中文版。作品以打破[第四面墙](https://zh.moegirl.org.cn/第四面墙)的剧情闻名，被Galgame玩家列为“[十二神器](https://zh.moegirl.org.cn/Galgame吧十二神器)”之一，有着“次元囚笼”的称号。
 
@@ -37,13 +37,13 @@ updated: 2024-03-17 05:30:00
 
 ## 图片
 
-![totono_p1](https://r2.30hb.cn/vndb-img/totono_p1.webp)
+![totono_p1](https://static.30hb.cn/vndb/img/totono_p1.webp)
 
-![totono_p2](https://r2.30hb.cn/vndb-img/totono_p2.webp)
+![totono_p2](https://static.30hb.cn/vndb/img/totono_p2.webp)
 
-![totono_p3](https://r2.30hb.cn/vndb-img/totono_p3.webp)
+![totono_p3](https://static.30hb.cn/vndb/img/totono_p3.webp)
 
-![totono_p4](https://r2.30hb.cn/vndb-img/totono_p4.webp)
+![totono_p4](https://static.30hb.cn/vndb/img/totono_p4.webp)
 
 ## 链接
 

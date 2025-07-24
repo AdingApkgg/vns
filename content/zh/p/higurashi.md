@@ -38,7 +38,7 @@ date: 2024-09-16 03:50:00
 updated: 2024-09-17 21:42:30
 ---
 
-![higurashi](https://r2.30hb.cn/vndb-img/higurashi.webp)
+![higurashi](https://static.30hb.cn/vndb/img/higurashi.webp)
 
 《**寒蝉鸣泣之时**》（日语：ひぐらしのなく頃に）是日本[同人社团](https://zh.wikipedia.org/wiki/同人社團)[07th Expansion](https://zh.wikipedia.org/wiki/07th_Expansion)所制作的[同人游戏](https://zh.wikipedia.org/wiki/同人遊戲)以及依此改编的广播剧、[漫画](https://zh.wikipedia.org/wiki/漫畫)、[电视动画](https://zh.wikipedia.org/wiki/電視動畫)及[电影](https://zh.wikipedia.org/wiki/電影)。
 
@@ -66,23 +66,23 @@ updated: 2024-09-17 21:42:30
 
 ## 图片
 
-![higurashi_p1](https://r2.30hb.cn/vndb-img/higurashi_p1.webp)
+![higurashi_p1](https://static.30hb.cn/vndb/img/higurashi_p1.webp)
 
-![higurashi_p2](https://r2.30hb.cn/vndb-img/higurashi_p2.webp)
+![higurashi_p2](https://static.30hb.cn/vndb/img/higurashi_p2.webp)
 
-![higurashi_p3](https://r2.30hb.cn/vndb-img/higurashi_p3.webp)
+![higurashi_p3](https://static.30hb.cn/vndb/img/higurashi_p3.webp)
 
-![higurashi_p4](https://r2.30hb.cn/vndb-img/higurashi_p4.webp)
+![higurashi_p4](https://static.30hb.cn/vndb/img/higurashi_p4.webp)
 
-![higurashi_p5](https://r2.30hb.cn/vndb-img/higurashi_p5.webp)
+![higurashi_p5](https://static.30hb.cn/vndb/img/higurashi_p5.webp)
 
-![higurashi_p6](https://r2.30hb.cn/vndb-img/higurashi_p6.webp)
+![higurashi_p6](https://static.30hb.cn/vndb/img/higurashi_p6.webp)
 
-![higurashi_p7](https://r2.30hb.cn/vndb-img/higurashi_p7.webp)
+![higurashi_p7](https://static.30hb.cn/vndb/img/higurashi_p7.webp)
 
-![higurashi_p8](https://r2.30hb.cn/vndb-img/higurashi_p8.webp)
+![higurashi_p8](https://static.30hb.cn/vndb/img/higurashi_p8.webp)
 
-![higurashi_p9](https://r2.30hb.cn/vndb-img/higurashi_p9.webp)
+![higurashi_p9](https://static.30hb.cn/vndb/img/higurashi_p9.webp)
 
 ## 链接
 

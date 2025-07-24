@@ -20,7 +20,7 @@ date: 2024-04-03 23:57:00
 updated: 2025-02-24 15:52:30
 ---
 
-![si](https://r2.30hb.cn/vndb-img/si.webp)
+![si](https://static.30hb.cn/vndb/img/si.webp)
 
 《**逝去的你，馆里苏醒的罪恶**》（日语：死に逝く君、館に芽吹く憎悪）亦译作《**濒死轮回的卿，馆中萌生的憎恶**》，在日本简称为『にくにく』,是由日本游戏公司[BUG SYSTEM](https://zh.moegirl.org.cn/BUG_SYSTEM)发行的第二作，由[和泉万夜](https://zh.moegirl.org.cn/和泉万夜)担任写作的一部~~超猎奇，超血腥的~~18禁猎奇（R-18G）文字冒险游戏。~~和泉老贼纳命来！~~体验版于2016年4月1日公开，正式版于同年7月29日发售。
 
@@ -52,11 +52,11 @@ updated: 2025-02-24 15:52:30
 
 ## 图片
 
-![si_p1](https://r2.30hb.cn/vndb-img/si_p1.webp)
+![si_p1](https://static.30hb.cn/vndb/img/si_p1.webp)
 
-![si_p2](https://r2.30hb.cn/vndb-img/si_p2.webp)
+![si_p2](https://static.30hb.cn/vndb/img/si_p2.webp)
 
-![si_p3](https://r2.30hb.cn/vndb-img/si_p3.webp)
+![si_p3](https://static.30hb.cn/vndb/img/si_p3.webp)
 
 ## 链接
 

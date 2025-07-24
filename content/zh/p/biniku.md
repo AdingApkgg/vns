@@ -20,23 +20,23 @@ date: 2024-11-05 22:19:00
 updated: 2024-11-05 22:19:00
 ---
 
-![biniku](https://r2.30hb.cn/vndb-img/biniku.webp)
+![biniku](https://static.30hb.cn/vndb/img/biniku.webp)
 
 **《媚肉之香》**（日语：**媚肉の香り～ネトリネトラレヤリヤラレ～**）是日本ELF（エルフ）公司于2008年4月1日发售的一款~~治愈系~~GALGAME。
 
 <!--more-->
 
-![biniku_p1](https://r2.30hb.cn/vndb-img/biniku_p1.webp)
+![biniku_p1](https://static.30hb.cn/vndb/img/biniku_p1.webp)
 
-![biniku_p2](https://r2.30hb.cn/vndb-img/biniku_p2.webp)
+![biniku_p2](https://static.30hb.cn/vndb/img/biniku_p2.webp)
 
-![biniku_p3](https://r2.30hb.cn/vndb-img/biniku_p3.webp)
+![biniku_p3](https://static.30hb.cn/vndb/img/biniku_p3.webp)
 
-![biniku_p4](https://r2.30hb.cn/vndb-img/biniku_p4.webp)
+![biniku_p4](https://static.30hb.cn/vndb/img/biniku_p4.webp)
 
-![biniku_p5](https://r2.30hb.cn/vndb-img/biniku_p5.webp)
+![biniku_p5](https://static.30hb.cn/vndb/img/biniku_p5.webp)
 
-![biniku_p6](https://r2.30hb.cn/vndb-img/biniku_p6.webp)
+![biniku_p6](https://static.30hb.cn/vndb/img/biniku_p6.webp)
 
 ## 剧情
 

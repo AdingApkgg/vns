@@ -23,7 +23,7 @@ date: 2024-05-25 03:14:00
 updated: 2024-05-25 03:14:00
 ---
 
-![island](https://r2.30hb.cn/vndb-img/island.webp)
+![island](https://static.30hb.cn/vndb/img/island.webp)
 
 《**ISLAND**》是由[Frontwing](https://zh.moegirl.org.cn/Frontwing)制作的一部游戏，并有动画等衍生作品。
 
@@ -46,11 +46,11 @@ updated: 2024-05-25 03:14:00
 
 ## 图片
 
-![island_p1](https://r2.30hb.cn/vndb-img/island_p1.webp)
+![island_p1](https://static.30hb.cn/vndb/img/island_p1.webp)
 
-![island_p2](https://r2.30hb.cn/vndb-img/island_p2.webp)
+![island_p2](https://static.30hb.cn/vndb/img/island_p2.webp)
 
-![island_p3](https://r2.30hb.cn/vndb-img/island_p3.webp)
+![island_p3](https://static.30hb.cn/vndb/img/island_p3.webp)
 
 ## 链接
 

@@ -26,7 +26,7 @@ date: 2024-03-03 04:45:00
 updated: 2024-07-16 17:38:00
 ---
 
-![virgin-siblings](https://r2.30hb.cn/vndb-img/virgin-siblings.webp)
+![virgin-siblings](https://static.30hb.cn/vndb/img/virgin-siblings.webp)
 
 《**无法忍耐的处男哥哥和不直率的叛逆妹妹**》（ガマンができない童貞兄キと、スナオになれない反抗妹，简称：童貞兄妹）是由[Sister Position](https://zh.moegirl.org.cn/index.php?title=Sister_Position&action=edit&redlink=1)制作的一部[Galgame](https://zh.moegirl.org.cn/Galgame)。游戏于2022年6月16日放出体验版（同时发售三部妹妹的ASMR），于2022年7月24日在DLsite发售。发行游戏的Whisp是Lose的子品牌。
 
@@ -60,13 +60,13 @@ updated: 2024-07-16 17:38:00
 
 ## 图片
 
-![virgin-siblings_p1](https://r2.30hb.cn/vndb-img/virgin-siblings_p1.webp)
+![virgin-siblings_p1](https://static.30hb.cn/vndb/img/virgin-siblings_p1.webp)
 
-![virgin-siblings_p2](https://r2.30hb.cn/vndb-img/virgin-siblings_p2.webp)
+![virgin-siblings_p2](https://static.30hb.cn/vndb/img/virgin-siblings_p2.webp)
 
-![virgin-siblings_p3](https://r2.30hb.cn/vndb-img/virgin-siblings_p3.webp)
+![virgin-siblings_p3](https://static.30hb.cn/vndb/img/virgin-siblings_p3.webp)
 
-![virgin-siblings_p4](https://r2.30hb.cn/vndb-img/virgin-siblings_p4.webp)
+![virgin-siblings_p4](https://static.30hb.cn/vndb/img/virgin-siblings_p4.webp)
 
 ## 链接
 

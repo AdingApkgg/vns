@@ -22,29 +22,29 @@ date: 2025-03-02 20:39:32
 updated: 2025-03-22 02:00:00
 ---
 
-![karehana](https://r2.30hb.cn/vndb-img/karehana.webp)
+![karehana](https://static.30hb.cn/vndb/img/karehana.webp)
 
 **《永不枯萎的世界与终结之花》**（日语：**枯れない世界と終わる花**；罗马字：*Karenai Sekai to Owaru Hana*）是日本游戏品牌[SWEET&TEA](https://zh.moegirl.org.cn/SWEET%26TEA)的[处女作](https://zh.moegirl.org.cn/处女作)。官网于7月25日上线，本体于2016年11月25日正式发售。
 
 <!--more-->
 
-![karehana_p1](https://r2.30hb.cn/vndb-img/karehana_p1.webp)
+![karehana_p1](https://static.30hb.cn/vndb/img/karehana_p1.webp)
 
-![karehana_p2](https://r2.30hb.cn/vndb-img/karehana_p2.webp)
+![karehana_p2](https://static.30hb.cn/vndb/img/karehana_p2.webp)
 
-![karehana_p3](https://r2.30hb.cn/vndb-img/karehana_p3.webp)
+![karehana_p3](https://static.30hb.cn/vndb/img/karehana_p3.webp)
 
-![karehana_p4](https://r2.30hb.cn/vndb-img/karehana_p4.webp)
+![karehana_p4](https://static.30hb.cn/vndb/img/karehana_p4.webp)
 
-![karehana_p5](https://r2.30hb.cn/vndb-img/karehana_p5.webp)
+![karehana_p5](https://static.30hb.cn/vndb/img/karehana_p5.webp)
 
-![karehana_p6](https://r2.30hb.cn/vndb-img/karehana_p6.webp)
+![karehana_p6](https://static.30hb.cn/vndb/img/karehana_p6.webp)
 
-![karehana_p7](https://r2.30hb.cn/vndb-img/karehana_p7.webp)
+![karehana_p7](https://static.30hb.cn/vndb/img/karehana_p7.webp)
 
-![karehana_p8](https://r2.30hb.cn/vndb-img/karehana_p8.webp)
+![karehana_p8](https://static.30hb.cn/vndb/img/karehana_p8.webp)
 
-![karehana_p9](https://r2.30hb.cn/vndb-img/karehana_p9.webp)
+![karehana_p9](https://static.30hb.cn/vndb/img/karehana_p9.webp)
 
 ## 简介
 

@@ -21,21 +21,21 @@ date: 2025-07-18T23:45:30+08:00
 updated: 2025-07-21T03:20:20+08:00
 ---
 
-![vision](https://r2.30hb.cn/vndb-img/vision.webp)
+![vision](https://static.30hb.cn/vndb/img/vision.webp)
 
 《**我的眼睛能看光光！不可知的未来与透视的命运**》（日文：**俺の瞳で丸裸！不可知な未来と視透かす運命**）是由[HULOTTE](https://zh.moegirl.org.cn/HULOTTE)制作的一款GALGAME，于2023年7月28日发售。
 
 <!--more-->
 
-![vision_p1](https://r2.30hb.cn/vndb-img/vision_p1.webp)
+![vision_p1](https://static.30hb.cn/vndb/img/vision_p1.webp)
 
-![vision_p2](https://r2.30hb.cn/vndb-img/vision_p2.webp)
+![vision_p2](https://static.30hb.cn/vndb/img/vision_p2.webp)
 
-![vision_p3](https://r2.30hb.cn/vndb-img/vision_p3.webp)
+![vision_p3](https://static.30hb.cn/vndb/img/vision_p3.webp)
 
-![vision_p4](https://r2.30hb.cn/vndb-img/vision_p4.webp)
+![vision_p4](https://static.30hb.cn/vndb/img/vision_p4.webp)
 
-![vision_p5](https://r2.30hb.cn/vndb-img/vision_p5.webp)
+![vision_p5](https://static.30hb.cn/vndb/img/vision_p5.webp)
 
 ## 故事
 

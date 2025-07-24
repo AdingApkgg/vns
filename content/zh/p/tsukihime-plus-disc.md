@@ -13,7 +13,7 @@ date: 2024-07-31 01:00:00
 updated: 2024-07-31 01:00:00
 ---
 
-![tsukihime-plus-disc](https://r2.30hb.cn/vndb-img/tsukihime-plus-disc.webp)
+![tsukihime-plus-disc](https://static.30hb.cn/vndb/img/tsukihime-plus-disc.webp)
 
 《**月姬 PLUS-DISC** 》是[同人圈](https://ja.wikipedia.org/wiki/同人サークル)（当时） [TYPE-MOON](https://ja.wikipedia.org/wiki/TYPE-MOON)于[2001 年](https://ja.wikipedia.org/wiki/2001年)[1 月 21 日](https://ja.wikipedia.org/wiki/1月21日)制作的《[月姬](https://ja.wikipedia.org/wiki/月姫_(ゲーム))》的追加特典光盘。
 
@@ -25,15 +25,15 @@ updated: 2024-07-31 01:00:00
 
 ## 图片
 
-![tsukihime-plus-disc_p1](https://r2.30hb.cn/vndb-img/tsukihime-plus-disc_p1.webp)
+![tsukihime-plus-disc_p1](https://static.30hb.cn/vndb/img/tsukihime-plus-disc_p1.webp)
 
-![tsukihime-plus-disc_p2](https://r2.30hb.cn/vndb-img/tsukihime-plus-disc_p2.webp)
+![tsukihime-plus-disc_p2](https://static.30hb.cn/vndb/img/tsukihime-plus-disc_p2.webp)
 
-![tsukihime-plus-disc_p3](https://r2.30hb.cn/vndb-img/tsukihime-plus-disc_p3.webp)
+![tsukihime-plus-disc_p3](https://static.30hb.cn/vndb/img/tsukihime-plus-disc_p3.webp)
 
-![tsukihime-plus-disc_p4](https://r2.30hb.cn/vndb-img/tsukihime-plus-disc_p4.webp)
+![tsukihime-plus-disc_p4](https://static.30hb.cn/vndb/img/tsukihime-plus-disc_p4.webp)
 
-![tsukihime-plus-disc_p5](https://r2.30hb.cn/vndb-img/tsukihime-plus-disc_p5.webp)
+![tsukihime-plus-disc_p5](https://static.30hb.cn/vndb/img/tsukihime-plus-disc_p5.webp)
 
 ## 链接
 

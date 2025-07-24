@@ -17,7 +17,7 @@ date: 2024-01-29 01:00:00
 updated: 2024-11-19 05:27:00
 ---
 
-![haruka](https://r2.30hb.cn/vndb-img/haruka.webp)
+![haruka](https://static.30hb.cn/vndb/img/haruka.webp)
 
 **《悠之空（悠哥的穹妹）》**（日语：**ハルカナソラ**）是由日本游戏社Sphere创制作的游戏《[缘之空](https://zh.moegirl.org.cn/缘之空)》的后续作品。
 
@@ -61,17 +61,17 @@ updated: 2024-11-19 05:27:00
 
 ## 图片
 
-![haruka_p1](https://r2.30hb.cn/vndb-img/haruka_p1.webp)
+![haruka_p1](https://static.30hb.cn/vndb/img/haruka_p1.webp)
 
-![haruka_p2](https://r2.30hb.cn/vndb-img/haruka_p2.webp)
+![haruka_p2](https://static.30hb.cn/vndb/img/haruka_p2.webp)
 
-![haruka_p3](https://r2.30hb.cn/vndb-img/haruka_p3.webp)
+![haruka_p3](https://static.30hb.cn/vndb/img/haruka_p3.webp)
 
-![haruka_p4](https://r2.30hb.cn/vndb-img/haruka_p4.webp)
+![haruka_p4](https://static.30hb.cn/vndb/img/haruka_p4.webp)
 
-![haruka_p5](https://r2.30hb.cn/vndb-img/haruka_p5.webp)
+![haruka_p5](https://static.30hb.cn/vndb/img/haruka_p5.webp)
 
-![haruka_p6](https://r2.30hb.cn/vndb-img/haruka_p6.webp)
+![haruka_p6](https://static.30hb.cn/vndb/img/haruka_p6.webp)
 
 ## 链接
 

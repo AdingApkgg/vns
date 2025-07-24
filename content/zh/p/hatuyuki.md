@@ -18,7 +18,7 @@ date: 2025-04-01 05:00:00
 updated: 2025-04-01 05:00:00
 ---
 
-![hatuyuki](https://r2.30hb.cn/vndb-img/hatuyuki.webp)
+![hatuyuki](https://static.30hb.cn/vndb/img/hatuyuki.webp)
 
 《**初雪樱**》（日语：はつゆきさくら）为[SAGA PLANETS](https://zh.wikipedia.org/wiki/SAGA_PLANETS)于2012年2月24日发售的[恋爱冒险](https://zh.wikipedia.org/wiki/戀愛冒險)[成人游戏](https://zh.wikipedia.org/wiki/日本成人遊戲)。后来由ENTERGRAM发售[PlayStation Vita](https://zh.wikipedia.org/wiki/PlayStation_Vita)版、[PlayStation 4](https://zh.wikipedia.org/wiki/PlayStation_4)和[任天堂Switch](https://zh.wikipedia.org/wiki/任天堂Switch)版。
 
@@ -30,19 +30,19 @@ updated: 2025-04-01 05:00:00
 
 <!--more-->
 
-![hatuyuki_p1](https://r2.30hb.cn/vndb-img/hatuyuki_p1.webp)
+![hatuyuki_p1](https://static.30hb.cn/vndb/img/hatuyuki_p1.webp)
 
-![hatuyuki_p2](https://r2.30hb.cn/vndb-img/hatuyuki_p2.webp)
+![hatuyuki_p2](https://static.30hb.cn/vndb/img/hatuyuki_p2.webp)
 
-![hatuyuki_p3](https://r2.30hb.cn/vndb-img/hatuyuki_p3.webp)
+![hatuyuki_p3](https://static.30hb.cn/vndb/img/hatuyuki_p3.webp)
 
-![hatuyuki_p4](https://r2.30hb.cn/vndb-img/hatuyuki_p4.webp)
+![hatuyuki_p4](https://static.30hb.cn/vndb/img/hatuyuki_p4.webp)
 
-![hatuyuki_p5](https://r2.30hb.cn/vndb-img/hatuyuki_p5.webp)
+![hatuyuki_p5](https://static.30hb.cn/vndb/img/hatuyuki_p5.webp)
 
-![hatuyuki_p6](https://r2.30hb.cn/vndb-img/hatuyuki_p6.webp)
+![hatuyuki_p6](https://static.30hb.cn/vndb/img/hatuyuki_p6.webp)
 
-![hatuyuki_p7](https://r2.30hb.cn/vndb-img/hatuyuki_p7.webp)
+![hatuyuki_p7](https://static.30hb.cn/vndb/img/hatuyuki_p7.webp)
 
 ## 故事
 

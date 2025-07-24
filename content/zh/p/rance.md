@@ -41,7 +41,7 @@ date: 2024-10-20 18:05:20
 updated: 2024-10-20 18:05:20
 ---
 
-![rance](https://r2.30hb.cn/vndb-img/rance.webp)
+![rance](https://static.30hb.cn/vndb/img/rance.webp)
 
 **兰斯**（日语：ランス，英语：*Rance*）是[日本](https://zh.wikipedia.org/wiki/日本)[电子游戏](https://zh.wikipedia.org/wiki/電子遊戲)公司[AliceSoft](https://zh.wikipedia.org/wiki/AliceSoft)于1989年以来陆续发行的[成人游戏](https://zh.wikipedia.org/wiki/日本成人遊戲)系列，各代游戏类型各异，主要包括[角色扮演](https://zh.wikipedia.org/wiki/電子角色扮演遊戲)和[战略游戏](https://zh.wikipedia.org/wiki/战略游戏)两种类型。故事是记述以“全世界的美女全都是本大爷的”为信条的[鬼畜](https://zh.wikipedia.org/wiki/鬼畜)战士兰斯与他的奴隶魔法师希露一同展开的冒险历程。
 
@@ -53,21 +53,21 @@ updated: 2024-10-20 18:05:20
 
 主要讲述了鬼畜勇者[兰斯](https://zh.moegirl.org.cn/兰斯)与他的魔法师奴隶[希露](https://zh.moegirl.org.cn/希露·普莱恩)在一片漂浮大陆上的史诗冒险故事。
 
-![rance_p1](https://r2.30hb.cn/vndb-img/rance_p1.webp)
+![rance_p1](https://static.30hb.cn/vndb/img/rance_p1.webp)
 
-![rance_p2](https://r2.30hb.cn/vndb-img/rance_p2.webp)
+![rance_p2](https://static.30hb.cn/vndb/img/rance_p2.webp)
 
-![rance_p3](https://r2.30hb.cn/vndb-img/rance_p3.webp)
+![rance_p3](https://static.30hb.cn/vndb/img/rance_p3.webp)
 
-![rance_p4](https://r2.30hb.cn/vndb-img/rance_p4.webp)
+![rance_p4](https://static.30hb.cn/vndb/img/rance_p4.webp)
 
-![rance_p5](https://r2.30hb.cn/vndb-img/rance_p5.webp)
+![rance_p5](https://static.30hb.cn/vndb/img/rance_p5.webp)
 
-![rance_p6](https://r2.30hb.cn/vndb-img/rance_p6.webp)
+![rance_p6](https://static.30hb.cn/vndb/img/rance_p6.webp)
 
-![rance_p7](https://r2.30hb.cn/vndb-img/rance_p7.webp)
+![rance_p7](https://static.30hb.cn/vndb/img/rance_p7.webp)
 
-![rance_p8](https://r2.30hb.cn/vndb-img/rance_p8.webp)
+![rance_p8](https://static.30hb.cn/vndb/img/rance_p8.webp)
 
 ## 剧情
 

@@ -20,7 +20,7 @@ date: 2024-09-04 09:20:00
 updated: 2024-09-04 09:20:00
 ---
 
-![amakano2-plus](https://r2.30hb.cn/vndb-img/amakano2-plus.webp)
+![amakano2-plus](https://static.30hb.cn/vndb/img/amakano2-plus.webp)
 
 《**甜蜜女友2**》（日语：アマカノ2）是[NEXTON](https://zh.wikipedia.org/wiki/NEXTON)公司的旗下品牌あざらしそふと制作，于2020年4月24日发售的[恋爱冒险](https://zh.wikipedia.org/wiki/戀愛冒險)类型[成人游戏](https://zh.wikipedia.org/wiki/日本成人遊戲)，是《[甜蜜女友](https://zh.wikipedia.org/wiki/甜蜜女友)》的续作，2023年4月28日发售扩充版《甜蜜女友2＋》（アマカノ2＋）。
 
@@ -43,15 +43,15 @@ updated: 2024-09-04 09:20:00
 
 ## 图片
 
-![amakano2-plus_p1](https://r2.30hb.cn/vndb-img/amakano2-plus_p1.webp)
+![amakano2-plus_p1](https://static.30hb.cn/vndb/img/amakano2-plus_p1.webp)
 
-![amakano2-plus_p2](https://r2.30hb.cn/vndb-img/amakano2-plus_p2.webp)
+![amakano2-plus_p2](https://static.30hb.cn/vndb/img/amakano2-plus_p2.webp)
 
-![amakano2-plus_p3](https://r2.30hb.cn/vndb-img/amakano2-plus_p3.webp)
+![amakano2-plus_p3](https://static.30hb.cn/vndb/img/amakano2-plus_p3.webp)
 
-![amakano2-plus_p4](https://r2.30hb.cn/vndb-img/amakano2-plus_p4.webp)
+![amakano2-plus_p4](https://static.30hb.cn/vndb/img/amakano2-plus_p4.webp)
 
-![amakano2-plus_p5](https://r2.30hb.cn/vndb-img/amakano2-plus_p5.webp)
+![amakano2-plus_p5](https://static.30hb.cn/vndb/img/amakano2-plus_p5.webp)
 
 ## 链接
 

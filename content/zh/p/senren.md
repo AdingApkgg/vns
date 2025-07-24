@@ -21,7 +21,7 @@ date: 2024-01-28 10:00:00
 updated: 2024-11-17 07:18:40
 ---
 
-![senren](https://r2.30hb.cn/vndb-img/senren.webp)
+![senren](https://static.30hb.cn/vndb/img/senren.webp)
 
 《**千恋＊万花**》（日语：**千恋＊万花**）是由[YUZU SOFT](https://mzh.moegirl.org.cn/YUZU_SOFT)制作的一部[美少女游戏](https://mzh.moegirl.org.cn/美少女游戏)，并有[漫画](https://mzh.moegirl.org.cn/漫画)等衍生作品。本作曾获得2016年[美少女游戏大赏](https://mzh.moegirl.org.cn/美少女游戏大赏)综合部门第一名，2016年[萌系游戏大赏](https://mzh.moegirl.org.cn/萌系游戏大赏)准大赏。
 
@@ -68,17 +68,17 @@ updated: 2024-11-17 07:18:40
 
 ## 图片
 
-![senren_p1](https://r2.30hb.cn/vndb-img/senren_p1.webp)
+![senren_p1](https://static.30hb.cn/vndb/img/senren_p1.webp)
 
-![senren_p2](https://r2.30hb.cn/vndb-img/senren_p2.webp)
+![senren_p2](https://static.30hb.cn/vndb/img/senren_p2.webp)
 
-![senren_p3](https://r2.30hb.cn/vndb-img/senren_p3.webp)
+![senren_p3](https://static.30hb.cn/vndb/img/senren_p3.webp)
 
-![senren_p4](https://r2.30hb.cn/vndb-img/senren_p4.webp)
+![senren_p4](https://static.30hb.cn/vndb/img/senren_p4.webp)
 
-![senren_p5](https://r2.30hb.cn/vndb-img/senren_p5.webp)
+![senren_p5](https://static.30hb.cn/vndb/img/senren_p5.webp)
 
-![senren_p6](https://r2.30hb.cn/vndb-img/senren_p6.webp)
+![senren_p6](https://static.30hb.cn/vndb/img/senren_p6.webp)
 
 ## 奇想
 

@@ -30,7 +30,7 @@ updated: 2024-11-01 22:15:00
   }
 </style>
 
-![summer-rb](https://r2.30hb.cn/vndb-img/summer-rb.webp)
+![summer-rb](https://static.30hb.cn/vndb/img/summer-rb.webp)
 
 <p class="topText">神作！！推荐玩。</p>
 
@@ -56,15 +56,15 @@ updated: 2024-11-01 22:15:00
 
 ## 图片
 
-![summer-rb_p1](https://r2.30hb.cn/vndb-img/summer-rb_p1.webp)
+![summer-rb_p1](https://static.30hb.cn/vndb/img/summer-rb_p1.webp)
 
-![summer-rb_p2](https://r2.30hb.cn/vndb-img/summer-rb_p2.webp)
+![summer-rb_p2](https://static.30hb.cn/vndb/img/summer-rb_p2.webp)
 
-![summer-rb_p3](https://r2.30hb.cn/vndb-img/summer-rb_p3.webp)
+![summer-rb_p3](https://static.30hb.cn/vndb/img/summer-rb_p3.webp)
 
-![summer-rb_p4](https://r2.30hb.cn/vndb-img/summer-rb_p4.webp)
+![summer-rb_p4](https://static.30hb.cn/vndb/img/summer-rb_p4.webp)
 
-![summer-rb_p5](https://r2.30hb.cn/vndb-img/summer-rb_p5.webp)
+![summer-rb_p5](https://static.30hb.cn/vndb/img/summer-rb_p5.webp)
 
 ## 链接
 

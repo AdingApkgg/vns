@@ -18,7 +18,7 @@ updated: 2024-09-23 01:50:00
 author: WTY
 ---
 
-![recette](https://r2.30hb.cn/vndb-img/recette.webp)
+![recette](https://static.30hb.cn/vndb/img/recette.webp)
 
 **甜糖热恋！**（日语：**しゅがてん！-sugarfull tempering-**）是由[Recette](https://zh.moegirl.org.cn/Recette)（ルセート）制作发行的恋爱文字冒险游戏，于2017年2月24日面向Windows PC平台发售。
 
@@ -63,13 +63,13 @@ author: WTY
 
 ## 图片
 
-![recette_p1](https://r2.30hb.cn/vndb-img/recette_p1.webp)
+![recette_p1](https://static.30hb.cn/vndb/img/recette_p1.webp)
 
-![recette_p2](https://r2.30hb.cn/vndb-img/recette_p2.webp)
+![recette_p2](https://static.30hb.cn/vndb/img/recette_p2.webp)
 
-![recette_p3](https://r2.30hb.cn/vndb-img/recette_p3.webp)
+![recette_p3](https://static.30hb.cn/vndb/img/recette_p3.webp)
 
-![recette_p4](https://r2.30hb.cn/vndb-img/recette_p4.webp)
+![recette_p4](https://static.30hb.cn/vndb/img/recette_p4.webp)
 
 ## 评价
 

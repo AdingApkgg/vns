@@ -20,7 +20,7 @@ date: 2024-01-28 14:30:00
 updated: 2024-03-04 03:15:00
 ---
 
-![himanatsu](https://r2.30hb.cn/vndb-img/himanatsu.webp)
+![himanatsu](https://static.30hb.cn/vndb/img/himanatsu.webp)
 
 《向日葵的教会与长长的暑假》（日语：向日葵の教会と長い夏休み）是由枕制作的一部Galgame。
 主机移植版增加副标题“extra vacation”，升格一名可攻略角色。
@@ -51,11 +51,11 @@ updated: 2024-03-04 03:15:00
 
 ## 图片
 
-![himanatsu_p1](https://r2.30hb.cn/vndb-img/himanatsu_p1.webp)
+![himanatsu_p1](https://static.30hb.cn/vndb/img/himanatsu_p1.webp)
 
-![himanatsu_p2](https://r2.30hb.cn/vndb-img/himanatsu_p2.webp)
+![himanatsu_p2](https://static.30hb.cn/vndb/img/himanatsu_p2.webp)
 
-![himanatsu_p3](https://r2.30hb.cn/vndb-img/himanatsu_p3.webp)
+![himanatsu_p3](https://static.30hb.cn/vndb/img/himanatsu_p3.webp)
 
 ## 制作人员
 

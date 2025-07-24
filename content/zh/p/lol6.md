@@ -22,7 +22,7 @@ date: 2024-10-25 03:55:00
 updated: 2024-10-25 03:55:00
 ---
 
-![lol6](https://r2.30hb.cn/vndb-img/lol6.webp)
+![lol6](https://static.30hb.cn/vndb/img/lol6.webp)
 
 让不行的大人明白。
 
@@ -46,11 +46,11 @@ updated: 2024-10-25 03:55:00
 
 <!--more-->
 
-![lol6_p1](https://r2.30hb.cn/vndb-img/lol6_p1.webp)
+![lol6_p1](https://static.30hb.cn/vndb/img/lol6_p1.webp)
 
-![lol6_p2](https://r2.30hb.cn/vndb-img/lol6_p2.webp)
+![lol6_p2](https://static.30hb.cn/vndb/img/lol6_p2.webp)
 
-![lol6_p3](https://r2.30hb.cn/vndb-img/lol6_p3.webp)
+![lol6_p3](https://static.30hb.cn/vndb/img/lol6_p3.webp)
 
 ## 链接
 
