@@ -22,7 +22,7 @@ date: 2024-05-25 02:35:00
 updated: 2024-05-25 02:35:00
 ---
 
-![3days](https://static.saop.cc/vns/img/3days.webp)
+![3days](https://r2.30hb.cn/vndb-img/3days.webp)
 
 《**3days～在逝去时间的另一端**》（日语：**3days～満ちてゆく刻の彼方で～**）是由[Lass](https://zh.moegirl.org.cn/index.php?title=Lass&action=edit&redlink=1)（ぱれっと）制作的一部美少女游戏，于2004年6月25发售。简称为“3Days”。
 
@@ -36,11 +36,11 @@ updated: 2024-05-25 02:35:00
 
 ## 图片
 
-![3days_p1](https://static.saop.cc/vns/img/3days_p1.webp)
+![3days_p1](https://r2.30hb.cn/vndb-img/3days_p1.webp)
 
-![3days_p2](https://static.saop.cc/vns/img/3days_p2.webp)
+![3days_p2](https://r2.30hb.cn/vndb-img/3days_p2.webp)
 
-![3days_p3](https://static.saop.cc/vns/img/3days_p3.webp)
+![3days_p3](https://r2.30hb.cn/vndb-img/3days_p3.webp)
 
 ## 系统
 

@@ -23,7 +23,7 @@ date: 2024-04-26 23:33:00
 updated: 2024-04-26 23:33:00
 ---
 
-![3myaku](https://static.saop.cc/vns/img/3myaku.webp)
+![3myaku](https://r2.30hb.cn/vndb-img/3myaku.webp)
 
 《**女装山脉**》（日语：女装山脈）为[脑内彼女](https://zh.wikipedia.org/w/index.php?title=腦内彼女&action=edit&redlink=1)于2011年6月17日发售的[恋爱冒险](https://zh.wikipedia.org/wiki/戀愛冒險)类型[成人游戏](https://zh.wikipedia.org/wiki/日本成人遊戲)，2021年4月9由JAST USA发售英文版，并计划于同年11月11日发售简繁体中文版。
 
@@ -41,11 +41,11 @@ updated: 2024-04-26 23:33:00
 
 ## 图片
 
-![3myaku_p1](https://static.saop.cc/vns/img/3myaku_p1.webp)
+![3myaku_p1](https://r2.30hb.cn/vndb-img/3myaku_p1.webp)
 
-![3myaku_p2](https://static.saop.cc/vns/img/3myaku_p2.webp)
+![3myaku_p2](https://r2.30hb.cn/vndb-img/3myaku_p2.webp)
 
-![3myaku_p3](https://static.saop.cc/vns/img/3myaku_p3.webp)
+![3myaku_p3](https://r2.30hb.cn/vndb-img/3myaku_p3.webp)
 
 ## 链接
 

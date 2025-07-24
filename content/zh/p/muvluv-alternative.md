@@ -16,7 +16,7 @@ date: 2024-05-02 18:19:00
 updated: 2024-05-02 18:19:00
 ---
 
-![muvluv-alternative](https://static.saop.cc/vns/img/muvluv-alternative.webp)
+![muvluv-alternative](https://r2.30hb.cn/vndb-img/muvluv-alternative.webp)
 
 **《Muv-Luv  Alternative（マブラヴ オルタネイティヴ）》**是由âge开发的一部[Galgame](https://zh.moegirl.org.cn/Galgame)，是[Muv-Luv系列](https://zh.moegirl.org.cn/Muv-Luv系列)的第二部作品，《[Muv-Luv](https://zh.moegirl.org.cn/Muv-Luv)》的续作。
 
@@ -36,11 +36,11 @@ updated: 2024-05-02 18:19:00
 
 ## 图片
 
-![muvluv-alternative_p1](https://static.saop.cc/vns/img/muvluv-alternative_p1.webp)
+![muvluv-alternative_p1](https://r2.30hb.cn/vndb-img/muvluv-alternative_p1.webp)
 
-![muvluv-alternative_p2](https://static.saop.cc/vns/img/muvluv-alternative_p2.webp)
+![muvluv-alternative_p2](https://r2.30hb.cn/vndb-img/muvluv-alternative_p2.webp)
 
-![muvluv-alternative_p3](https://static.saop.cc/vns/img/muvluv-alternative_p3.webp)
+![muvluv-alternative_p3](https://r2.30hb.cn/vndb-img/muvluv-alternative_p3.webp)
 
 ## 链接
 

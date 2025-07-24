@@ -20,7 +20,7 @@ updated: 2024-11-17 07:22:10
 author: searvee
 ---
 
-![mahoyo](https://static.saop.cc/vns/img/mahoyo.webp)
+![mahoyo](https://r2.30hb.cn/vndb-img/mahoyo.webp)
 
 《**魔法使之夜**》（日语：魔法使いの夜／まほうつかいのよる *Mahōtsukai no Yoru*），是日本[TYPE-MOON](https://zh.wikipedia.org/wiki/TYPE-MOON)公司制作并发售的[视觉小说](https://zh.wikipedia.org/wiki/视觉小说)类型游戏。简称为“魔夜”（「まほよ」）。
 
@@ -46,25 +46,25 @@ The girl lived hidden as if she’s asleep”
 
 ## 图片
 
-![mahoyo_p1](https://static.saop.cc/vns/img/mahoyo_p1.webp)
+![mahoyo_p1](https://r2.30hb.cn/vndb-img/mahoyo_p1.webp)
 
-![mahoyo_p2](https://static.saop.cc/vns/img/mahoyo_p2.webp)
+![mahoyo_p2](https://r2.30hb.cn/vndb-img/mahoyo_p2.webp)
 
-![mahoyo_p3](https://static.saop.cc/vns/img/mahoyo_p3.webp)
+![mahoyo_p3](https://r2.30hb.cn/vndb-img/mahoyo_p3.webp)
 
-![mahoyo_p4](https://static.saop.cc/vns/img/mahoyo_p4.webp)
+![mahoyo_p4](https://r2.30hb.cn/vndb-img/mahoyo_p4.webp)
 
-![mahoyo_p5](https://static.saop.cc/vns/img/mahoyo_p5.webp)
+![mahoyo_p5](https://r2.30hb.cn/vndb-img/mahoyo_p5.webp)
 
-![mahoyo_p6](https://static.saop.cc/vns/img/mahoyo_p6.webp)
+![mahoyo_p6](https://r2.30hb.cn/vndb-img/mahoyo_p6.webp)
 
-![mahoyo_p7](https://static.saop.cc/vns/img/mahoyo_p7.webp)
+![mahoyo_p7](https://r2.30hb.cn/vndb-img/mahoyo_p7.webp)
 
-![mahoyo_p8](https://static.saop.cc/vns/img/mahoyo_p8.webp)
+![mahoyo_p8](https://r2.30hb.cn/vndb-img/mahoyo_p8.webp)
 
-![mahoyo_p9](https://static.saop.cc/vns/img/mahoyo_p9.webp)
+![mahoyo_p9](https://r2.30hb.cn/vndb-img/mahoyo_p9.webp)
 
-![mahoyo_p10](https://static.saop.cc/vns/img/mahoyo_p10.webp)
+![mahoyo_p10](https://r2.30hb.cn/vndb-img/mahoyo_p10.webp)
 
 ## 开发与发行
 

@@ -19,7 +19,7 @@ date: 2024-01-27 23:00:00
 updated: 2024-11-19 05:26:30
 ---
 
-![yosuga](https://static.saop.cc/vns/img/yosuga.webp)
+![yosuga](https://r2.30hb.cn/vndb-img/yosuga.webp)
 
 《**缘之空**》（日语：**ヨスガノソラ**，英语：***Yosuga no Sora***）是[Sphere](https://zh.moegirl.org.cn/CUFFS#Sphere)于2008年12月5日发售的恋爱文字冒险游戏，也是Sphere的第一部作品，以“[双胞胎](https://zh.moegirl.org.cn/双胞胎)兄妹恋”为主题，并因此引发大量争议。亦有[漫画](https://zh.moegirl.org.cn/zh-hans/缘之空#漫画版)、[动画](https://zh.moegirl.org.cn/zh-hans/缘之空#动画版)、[Fandisk](https://zh.moegirl.org.cn/zh-hans/缘之空#FanDisk《悠之空》)、[广播剧](https://zh.moegirl.org.cn/zh-hans/缘之空#广播剧)等衍生作品，其主线讲述了一对双胞胎兄妹摆脱世俗观念的束缚、坚持找寻心中的真爱的故事。续作Fandisc**《[悠之空](https://zh.moegirl.org.cn/悠之空)》**（ハルカナソラ）于2009年9月25日发售，讲述了原作中几位女主以及八寻和梢两位原作配角的全新的故事。
 
@@ -42,13 +42,13 @@ updated: 2024-11-19 05:26:30
 
 ## 游戏截图
 
-![yosuga_p1](https://static.saop.cc/vns/img/yosuga_p1.webp)
+![yosuga_p1](https://r2.30hb.cn/vndb-img/yosuga_p1.webp)
 
-![yosuga_p2](https://static.saop.cc/vns/img/yosuga_p2.webp)
+![yosuga_p2](https://r2.30hb.cn/vndb-img/yosuga_p2.webp)
 
-![yosuga_p3](https://static.saop.cc/vns/img/yosuga_p3.webp)
+![yosuga_p3](https://r2.30hb.cn/vndb-img/yosuga_p3.webp)
 
-![yosuga_p4](https://static.saop.cc/vns/img/yosuga_p4.webp)
+![yosuga_p4](https://r2.30hb.cn/vndb-img/yosuga_p4.webp)
 
 ## 游戏攻略
 

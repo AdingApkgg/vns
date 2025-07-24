@@ -21,7 +21,7 @@ date: 2024-10-25 03:52:25
 updated: 2024-10-25 03:52:25
 ---
 
-![lol5](https://static.saop.cc/vns/img/lol5.webp)
+![lol5](https://r2.30hb.cn/vndb-img/lol5.webp)
 
 来成为萝莉控吧。
 哪里都不会去哦。
@@ -31,11 +31,11 @@ updated: 2024-10-25 03:52:25
 
 <!--more-->
 
-![lol5_p1](https://static.saop.cc/vns/img/lol5_p1.webp)
+![lol5_p1](https://r2.30hb.cn/vndb-img/lol5_p1.webp)
 
-![lol5_p2](https://static.saop.cc/vns/img/lol5_p2.webp)
+![lol5_p2](https://r2.30hb.cn/vndb-img/lol5_p2.webp)
 
-![lol5_p3](https://static.saop.cc/vns/img/lol5_p3.webp)
+![lol5_p3](https://r2.30hb.cn/vndb-img/lol5_p3.webp)
 
 ## 链接
 

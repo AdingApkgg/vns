@@ -15,7 +15,7 @@ date: 2024-04-21 04:10:00
 updated: 2024-04-21 04:10:00
 ---
 
-![sakuranouta](https://static.saop.cc/vns/img/sakuranouta.webp)
+![sakuranouta](https://r2.30hb.cn/vndb-img/sakuranouta.webp)
 
 《**樱之诗 －在樱花之森上飞舞－**》（日语：サクラノ詩 -櫻の森の上を舞う-）是日本游戏品牌[枕](https://zh.wikipedia.org/wiki/枕_(遊戲品牌))制作并于2015年10月23日所推出的[Windows](https://zh.wikipedia.org/wiki/Windows)[PC](https://zh.wikipedia.org/wiki/个人电脑)平台[恋爱冒险](https://zh.wikipedia.org/wiki/戀愛冒險)[成人游戏](https://zh.wikipedia.org/wiki/日本成人遊戲)。最初预定于2004年春天发售，并命名为《**樱之诗 -The tear flows because of tenderness.-**》（サクラノ詩 -The tear flows because of tenderness.-）。2005年3月26日至2006年3月26日于《[月刊Comp Ace](https://zh.wikipedia.org/wiki/月刊Comp_Ace)》连载[漫画](https://zh.wikipedia.org/wiki/漫畫)作品《**樱之诗 -The tear flows because of tenderness.-**》，[单行本](https://zh.wikipedia.org/wiki/单行本)于2006年6月7日发售，共一册。
 
@@ -29,11 +29,11 @@ updated: 2024-04-21 04:10:00
 
 ## 图片
 
-![sakuranouta_p1](https://static.saop.cc/vns/img/sakuranouta_p1.webp)
+![sakuranouta_p1](https://r2.30hb.cn/vndb-img/sakuranouta_p1.webp)
 
-![sakuranouta_p2](https://static.saop.cc/vns/img/sakuranouta_p2.webp)
+![sakuranouta_p2](https://r2.30hb.cn/vndb-img/sakuranouta_p2.webp)
 
-![sakuranouta_p3](https://static.saop.cc/vns/img/sakuranouta_p3.webp)
+![sakuranouta_p3](https://r2.30hb.cn/vndb-img/sakuranouta_p3.webp)
 
 ## 链接
 

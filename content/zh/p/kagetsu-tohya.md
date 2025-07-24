@@ -13,7 +13,7 @@ date: 2024-07-31 01:19:20
 updated: 2024-07-31 01:19:20
 ---
 
-![kagetsu-tohya](https://static.saop.cc/vns/img/kagetsu-tohya.webp)
+![kagetsu-tohya](https://r2.30hb.cn/vndb-img/kagetsu-tohya.webp)
 
 《**歌月十夜**》是[TYPE-MOON](https://ja.wikipedia.org/wiki/TYPE-MOON)发行的[同人游戏](https://ja.wikipedia.org/wiki/同人ゲーム)《[月姬](https://ja.wikipedia.org/wiki/月姫_(ゲーム))》的[同人光盘](https://ja.wikipedia.org/wiki/ファンディスク)。它于[2001 年](https://ja.wikipedia.org/wiki/2001年)[8 月 10 日](https://ja.wikipedia.org/wiki/8月10日)在[Comic Market](https://ja.wikipedia.org/wiki/コミックマーケット) 60 上发布。
 
@@ -35,17 +35,17 @@ updated: 2024-07-31 01:19:20
 
 ## 图片
 
-![kagetsu-tohya_p1](https://static.saop.cc/vns/img/kagetsu-tohya_p1.webp)
+![kagetsu-tohya_p1](https://r2.30hb.cn/vndb-img/kagetsu-tohya_p1.webp)
 
-![kagetsu-tohya_p2](https://static.saop.cc/vns/img/kagetsu-tohya_p2.webp)
+![kagetsu-tohya_p2](https://r2.30hb.cn/vndb-img/kagetsu-tohya_p2.webp)
 
-![kagetsu-tohya_p3](https://static.saop.cc/vns/img/kagetsu-tohya_p3.webp)
+![kagetsu-tohya_p3](https://r2.30hb.cn/vndb-img/kagetsu-tohya_p3.webp)
 
-![kagetsu-tohya_p4](https://static.saop.cc/vns/img/kagetsu-tohya_p4.webp)
+![kagetsu-tohya_p4](https://r2.30hb.cn/vndb-img/kagetsu-tohya_p4.webp)
 
-![kagetsu-tohya_p5](https://static.saop.cc/vns/img/kagetsu-tohya_p5.webp)
+![kagetsu-tohya_p5](https://r2.30hb.cn/vndb-img/kagetsu-tohya_p5.webp)
 
-![kagetsu-tohya_p6](https://static.saop.cc/vns/img/kagetsu-tohya_p6.webp)
+![kagetsu-tohya_p6](https://r2.30hb.cn/vndb-img/kagetsu-tohya_p6.webp)
 
 ## 链接
 

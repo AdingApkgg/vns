@@ -19,7 +19,7 @@ date: 2024-03-29 23:05:00
 updated: 2024-03-29 23:30:00
 ---
 
-![song-of-saya](https://static.saop.cc/vns/img/song-of-saya.webp)
+![song-of-saya](https://r2.30hb.cn/vndb-img/song-of-saya.webp)
 
 **《沙耶之歌》**（日语：**沙耶の唄**）是由[Nitro+](https://zh.moegirl.org.cn/Nitro%2B)制作的一部R18文字冒险类游戏，由[虚渊玄](https://zh.moegirl.org.cn/虚渊玄)执笔脚本，初版于2003年12月26日发售。
 
@@ -51,9 +51,9 @@ updated: 2024-03-29 23:30:00
 
 ## 图片
 
-![song-of-saya_p1](https://static.saop.cc/vns/img/song-of-saya_p1.webp)
+![song-of-saya_p1](https://r2.30hb.cn/vndb-img/song-of-saya_p1.webp)
 
-![song-of-saya_p2](https://static.saop.cc/vns/img/song-of-saya_p2.webp)
+![song-of-saya_p2](https://r2.30hb.cn/vndb-img/song-of-saya_p2.webp)
 
 ## 链接
 

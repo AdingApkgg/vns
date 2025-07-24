@@ -25,7 +25,7 @@ date: 2024-05-05 03:29:30
 updated: 2024-05-05 03:29:30
 ---
 
-![ginka](https://static.saop.cc/vns/img/ginka.webp)
+![ginka](https://r2.30hb.cn/vndb-img/ginka.webp)
 
 《**GINKA**》是由[FrontWing](https://zh.moegirl.org.cn/FrontWing)制作发行的一款[视觉小说](https://zh.moegirl.org.cn/视觉小说)作品，于2023年10月26日发行，同步支持简体中文、英文。
 
@@ -73,21 +73,21 @@ Ginka连自己的名字都已不记得。
 
 ## 图片
 
-![ginka_p1](https://static.saop.cc/vns/img/ginka_p1.webp)
+![ginka_p1](https://r2.30hb.cn/vndb-img/ginka_p1.webp)
 
-![ginka_p2](https://static.saop.cc/vns/img/ginka_p2.webp)
+![ginka_p2](https://r2.30hb.cn/vndb-img/ginka_p2.webp)
 
-![ginka_p3](https://static.saop.cc/vns/img/ginka_p3.webp)
+![ginka_p3](https://r2.30hb.cn/vndb-img/ginka_p3.webp)
 
-![ginka_p4](https://static.saop.cc/vns/img/ginka_p4.webp)
+![ginka_p4](https://r2.30hb.cn/vndb-img/ginka_p4.webp)
 
-![ginka_p5](https://static.saop.cc/vns/img/ginka_p5.webp)
+![ginka_p5](https://r2.30hb.cn/vndb-img/ginka_p5.webp)
 
-![ginka_p6](https://static.saop.cc/vns/img/ginka_p6.webp)
+![ginka_p6](https://r2.30hb.cn/vndb-img/ginka_p6.webp)
 
-![ginka_p7](https://static.saop.cc/vns/img/ginka_p7.webp)
+![ginka_p7](https://r2.30hb.cn/vndb-img/ginka_p7.webp)
 
-![ginka_p8](https://static.saop.cc/vns/img/ginka_p8.webp)
+![ginka_p8](https://r2.30hb.cn/vndb-img/ginka_p8.webp)
 
 ## 链接
 

@@ -14,7 +14,7 @@ date: 2024-07-31 01:45:00
 updated: 2024-07-31 01:45:00
 ---
 
-![tsukihime-remake](https://static.saop.cc/vns/img/tsukihime-remake.webp)
+![tsukihime-remake](https://r2.30hb.cn/vndb-img/tsukihime-remake.webp)
 
 《**月姬 -A piece of blue glass moon-**》是[TYPE-MOON](https://zh.moegirl.org.cn/TYPE-MOON)开发的一款视觉小说游戏。
 
@@ -40,19 +40,19 @@ updated: 2024-07-31 01:45:00
 
 ## 图片
 
-![tsukihime-remake_p1](https://static.saop.cc/vns/img/tsukihime-remake_p1.webp)
+![tsukihime-remake_p1](https://r2.30hb.cn/vndb-img/tsukihime-remake_p1.webp)
 
-![tsukihime-remake_p2](https://static.saop.cc/vns/img/tsukihime-remake_p2.webp)
+![tsukihime-remake_p2](https://r2.30hb.cn/vndb-img/tsukihime-remake_p2.webp)
 
-![tsukihime-remake_p3](https://static.saop.cc/vns/img/tsukihime-remake_p3.webp)
+![tsukihime-remake_p3](https://r2.30hb.cn/vndb-img/tsukihime-remake_p3.webp)
 
-![tsukihime-remake_p4](https://static.saop.cc/vns/img/tsukihime-remake_p4.webp)
+![tsukihime-remake_p4](https://r2.30hb.cn/vndb-img/tsukihime-remake_p4.webp)
 
-![tsukihime-remake_p5](https://static.saop.cc/vns/img/tsukihime-remake_p5.webp)
+![tsukihime-remake_p5](https://r2.30hb.cn/vndb-img/tsukihime-remake_p5.webp)
 
-![tsukihime-remake_p6](https://static.saop.cc/vns/img/tsukihime-remake_p6.webp)
+![tsukihime-remake_p6](https://r2.30hb.cn/vndb-img/tsukihime-remake_p6.webp)
 
-![tsukihime-remake_p7](https://static.saop.cc/vns/img/tsukihime-remake_p7.webp)
+![tsukihime-remake_p7](https://r2.30hb.cn/vndb-img/tsukihime-remake_p7.webp)
 
 ## 链接
 

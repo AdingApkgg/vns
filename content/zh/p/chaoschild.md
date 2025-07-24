@@ -16,7 +16,7 @@ date: 2024-11-27 02:45:15
 updated: 2024-11-27 02:45:15
 ---
 
-![chaoschild](https://static.saop.cc/vns/img/chaoschild.webp)
+![chaoschild](https://r2.30hb.cn/vndb-img/chaoschild.webp)
 
 《**混沌之子**》（カオスチャイルド）是[5pb.](https://zh.wikipedia.org/wiki/5pb.)原案及发售的[冒险游戏](https://zh.wikipedia.org/wiki/冒險遊戲)，为[科学ADV系列](https://zh.wikipedia.org/wiki/科學ADV系列)的第四部作品，[Xbox One](https://zh.wikipedia.org/wiki/Xbox_One)平台于2014年12月18日发售，[PlayStation 4](https://zh.wikipedia.org/wiki/PlayStation_4)、[PlayStation 3](https://zh.wikipedia.org/wiki/PlayStation_3)、[PlayStation Vita](https://zh.wikipedia.org/wiki/PlayStation_Vita)平台于2015年6月25日发售。
 
@@ -24,11 +24,11 @@ updated: 2024-11-27 02:45:15
 
 <!--more-->
 
-![chaoschild_p1](https://static.saop.cc/vns/img/chaoschild_p1.webp)
+![chaoschild_p1](https://r2.30hb.cn/vndb-img/chaoschild_p1.webp)
 
-![chaoschild_p2](https://static.saop.cc/vns/img/chaoschild_p2.webp)
+![chaoschild_p2](https://r2.30hb.cn/vndb-img/chaoschild_p2.webp)
 
-![chaoschild_p3](https://static.saop.cc/vns/img/chaoschild_p3.webp)
+![chaoschild_p3](https://r2.30hb.cn/vndb-img/chaoschild_p3.webp)
 
 ## 概要
 

@@ -24,7 +24,7 @@ date: 2024-06-09 01:33:00
 updated: 2024-06-09 01:33:00
 ---
 
-![biman4](https://static.saop.cc/vns/img/biman4.webp)
+![biman4](https://r2.30hb.cn/vndb-img/biman4.webp)
 
 《**美少女万华镜 -罪与罚的少女-**》（日语：美少女万華鏡 -罪と罰の少女-），下称《**罪与罚的少女**》，是ωstar开发的[日本成人游戏](https://zh.wikipedia.org/wiki/日本成人遊戲)，亦是《[美少女万华镜](https://zh.wikipedia.org/wiki/美少女万华镜)》系列的第4部作品。当中由[八宝备仁](https://zh.wikipedia.org/wiki/八宝备仁)负责原画，吉祥寺ドロレス担当编剧。
 
@@ -54,11 +54,11 @@ updated: 2024-06-09 01:33:00
 
 ## 图片
 
-![biman4_p1](https://static.saop.cc/vns/img/biman4_p1.webp)
+![biman4_p1](https://r2.30hb.cn/vndb-img/biman4_p1.webp)
 
-![biman4_p2](https://static.saop.cc/vns/img/biman4_p2.webp)
+![biman4_p2](https://r2.30hb.cn/vndb-img/biman4_p2.webp)
 
-![biman4_p3](https://static.saop.cc/vns/img/biman4_p3.webp)
+![biman4_p3](https://r2.30hb.cn/vndb-img/biman4_p3.webp)
 
 ## 游戏系统
 

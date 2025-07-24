@@ -28,7 +28,7 @@ date: 2024-06-08 19:27:00
 updated: 2024-06-08 19:27:00
 ---
 
-![biman3](https://static.saop.cc/vns/img/biman3.webp)
+![biman3](https://r2.30hb.cn/vndb-img/biman3.webp)
 
 《**美少女万华镜 -神明所创造的少女们-**》（日语：美少女万華鏡 -神が造りたもうた少女たち-），下称《**神明所创造的少女们**》，是ωstar在2015年3月27日发售的[恋爱冒险](https://zh.wikipedia.org/wiki/戀愛冒險)类型[日本成人游戏](https://zh.wikipedia.org/wiki/日本成人遊戲)，亦是《[美少女万华镜](https://zh.wikipedia.org/wiki/美少女万华镜)》系列的第3部作品。Android版于2017年12月1日公开。
 
@@ -54,15 +54,15 @@ updated: 2024-06-08 19:27:00
 
 ## 图片
 
-![biman3_p1](https://static.saop.cc/vns/img/biman3_p1.webp)
+![biman3_p1](https://r2.30hb.cn/vndb-img/biman3_p1.webp)
 
-![biman3_p2](https://static.saop.cc/vns/img/biman3_p2.webp)
+![biman3_p2](https://r2.30hb.cn/vndb-img/biman3_p2.webp)
 
-![biman3_p3](https://static.saop.cc/vns/img/biman3_p3.webp)
+![biman3_p3](https://r2.30hb.cn/vndb-img/biman3_p3.webp)
 
-![biman3_p4](https://static.saop.cc/vns/img/biman3_p4.webp)
+![biman3_p4](https://r2.30hb.cn/vndb-img/biman3_p4.webp)
 
-![biman3_p5](https://static.saop.cc/vns/img/biman3_p5.webp)
+![biman3_p5](https://r2.30hb.cn/vndb-img/biman3_p5.webp)
 
 ## 游戏系统
 

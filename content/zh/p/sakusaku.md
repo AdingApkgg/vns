@@ -25,25 +25,25 @@ date: 2025-07-18T01:09:30+08:00
 updated: 2025-07-18T04:20:00+08:00
 ---
 
-![sakusaku](https://static.saop.cc/vns/img/sakusaku.webp)
+![sakusaku](https://r2.30hb.cn/vndb-img/sakusaku.webp)
 
 《**恋花绽放樱飞时**》（日语：**恋がさくころ桜どき**，英语：Saku Saku: Love Blooms with the Cherry Blossoms）是由[ぱれっと](https://zh.moegirl.org.cn/Palette(游戏公司))制作的一部美少女游戏，日文简称为“さくさく”（sakusaku），并有漫画等衍生作品。
 
 <!--more-->
 
-![sakusaku_p1](https://static.saop.cc/vns/img/sakusaku_p1.webp)
+![sakusaku_p1](https://r2.30hb.cn/vndb-img/sakusaku_p1.webp)
 
-![sakusaku_p2](https://static.saop.cc/vns/img/sakusaku_p2.webp)
+![sakusaku_p2](https://r2.30hb.cn/vndb-img/sakusaku_p2.webp)
 
-![sakusaku_p3](https://static.saop.cc/vns/img/sakusaku_p3.webp)
+![sakusaku_p3](https://r2.30hb.cn/vndb-img/sakusaku_p3.webp)
 
-![sakusaku_p4](https://static.saop.cc/vns/img/sakusaku_p4.webp)
+![sakusaku_p4](https://r2.30hb.cn/vndb-img/sakusaku_p4.webp)
 
-![sakusaku_p5](https://static.saop.cc/vns/img/sakusaku_p5.webp)
+![sakusaku_p5](https://r2.30hb.cn/vndb-img/sakusaku_p5.webp)
 
-![sakusaku_p6](https://static.saop.cc/vns/img/sakusaku_p6.webp)
+![sakusaku_p6](https://r2.30hb.cn/vndb-img/sakusaku_p6.webp)
 
-![sakusaku_p7](https://static.saop.cc/vns/img/sakusaku_p7.webp)
+![sakusaku_p7](https://r2.30hb.cn/vndb-img/sakusaku_p7.webp)
 
 ## 故事
 

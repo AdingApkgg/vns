@@ -20,7 +20,7 @@ date: 2024-05-16 23:40:00
 updated: 2024-05-16 23:40:00
 ---
 
-![koikake](https://static.saop.cc/vns/img/koikake.webp)
+![koikake](https://r2.30hb.cn/vndb-img/koikake.webp)
 
 《**想要传达给你的爱恋**》（日语：恋×シンアイ彼女）是Us:track在2015年10月30日发售的[恋爱冒险](https://zh.wikipedia.org/wiki/戀愛冒險)类型[成人游戏](https://zh.wikipedia.org/wiki/日本成人遊戲)，2023年8月4日发售中文版。
 
@@ -32,11 +32,11 @@ updated: 2024-05-16 23:40:00
 
 ## 图片
 
-![koikake_p1](https://static.saop.cc/vns/img/koikake_p1.webp)
+![koikake_p1](https://r2.30hb.cn/vndb-img/koikake_p1.webp)
 
-![koikake_p2](https://static.saop.cc/vns/img/koikake_p2.webp)
+![koikake_p2](https://r2.30hb.cn/vndb-img/koikake_p2.webp)
 
-![koikake_p3](https://static.saop.cc/vns/img/koikake_p3.webp)
+![koikake_p3](https://r2.30hb.cn/vndb-img/koikake_p3.webp)
 
 ## 评价
 

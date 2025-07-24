@@ -24,7 +24,7 @@ date: 2024-09-04 11:38:00
 updated: 2024-09-04 11:38:00
 ---
 
-![cld](https://static.saop.cc/vns/img/cld.webp)
+![cld](https://r2.30hb.cn/vndb-img/cld.webp)
 
 《**Clover Day's**》是[ALcot](https://zh.wikipedia.org/wiki/ALcot)在2014年3月28日发售的[恋爱冒险](https://zh.wikipedia.org/wiki/戀愛冒險)类型[成人游戏](https://zh.wikipedia.org/wiki/日本成人遊戲)，2016年6月24日发售新增[E-mote](https://zh.wikipedia.org/wiki/E-mote)的加强版《Clover Day’s Plus》，2017年9月28日发售[PlayStation Vita](https://zh.wikipedia.org/wiki/PlayStation_Vita)版，2023年8月18日发售中英文[FHD](https://zh.wikipedia.org/wiki/FHD)版。
 
@@ -63,19 +63,19 @@ Clover Day's是ALcot公司的第14部作品，不仅是做为该公司于PC平�
 
 ## 图片
 
-![cld_p1](https://static.saop.cc/vns/img/cld_p1.webp)
+![cld_p1](https://r2.30hb.cn/vndb-img/cld_p1.webp)
 
-![cld_p2](https://static.saop.cc/vns/img/cld_p2.webp)
+![cld_p2](https://r2.30hb.cn/vndb-img/cld_p2.webp)
 
-![cld_p3](https://static.saop.cc/vns/img/cld_p3.webp)
+![cld_p3](https://r2.30hb.cn/vndb-img/cld_p3.webp)
 
-![cld_p4](https://static.saop.cc/vns/img/cld_p4.webp)
+![cld_p4](https://r2.30hb.cn/vndb-img/cld_p4.webp)
 
-![cld_p5](https://static.saop.cc/vns/img/cld_p5.webp)
+![cld_p5](https://r2.30hb.cn/vndb-img/cld_p5.webp)
 
-![cld_p6](https://static.saop.cc/vns/img/cld_p6.webp)
+![cld_p6](https://r2.30hb.cn/vndb-img/cld_p6.webp)
 
-![cld_p7](https://static.saop.cc/vns/img/cld_p7.webp)
+![cld_p7](https://r2.30hb.cn/vndb-img/cld_p7.webp)
 
 ## 链接
 

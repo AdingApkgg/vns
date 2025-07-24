@@ -22,7 +22,7 @@ date: 2024-09-15 02:25:00
 updated: 2024-09-15 02:25:00
 ---
 
-![komadori](https://static.saop.cc/vns/img/komadori.webp)
+![komadori](https://r2.30hb.cn/vndb-img/komadori.webp)
 
 **《是谁杀死了知更鸟》**（日语：**誰が殺したコマドリを**）是スマイル戦機于2011年8月13日发行的一款[治愈系](https://zh.moegirl.org.cn/治愈系)（[致郁系](https://zh.moegirl.org.cn/致郁系)）[百合向](https://zh.moegirl.org.cn/百合向)游戏。
 
@@ -40,13 +40,13 @@ updated: 2024-09-15 02:25:00
 
 ## 图片
 
-![komadori_p1](https://static.saop.cc/vns/img/komadori_p1.webp)
+![komadori_p1](https://r2.30hb.cn/vndb-img/komadori_p1.webp)
 
-![komadori_p2](https://static.saop.cc/vns/img/komadori_p2.webp)
+![komadori_p2](https://r2.30hb.cn/vndb-img/komadori_p2.webp)
 
-![komadori_p3](https://static.saop.cc/vns/img/komadori_p3.webp)
+![komadori_p3](https://r2.30hb.cn/vndb-img/komadori_p3.webp)
 
-![komadori_p4](https://static.saop.cc/vns/img/komadori_p4.webp)
+![komadori_p4](https://r2.30hb.cn/vndb-img/komadori_p4.webp)
 
 ## 链接
 

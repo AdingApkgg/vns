@@ -14,7 +14,7 @@ date: 2024-03-10 20:40:00
 updated: 2024-04-03 00:00:00
 ---
 
-![rmmz](https://static.saop.cc/vns/img/rmmz.webp)
+![rmmz](https://r2.30hb.cn/vndb-img/rmmz.webp)
 
 【教育RPG/汉化】前勇者派对：屈服的奴隶教育【安卓+Windows】精翻完整汉化版【新汉化/1.3G】
 

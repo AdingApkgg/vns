@@ -19,7 +19,7 @@ date: 2024-02-15 20:35:00
 updated: 2024-04-21 19:32:00
 ---
 
-![amane](https://static.saop.cc/vns/img/amane.webp)
+![amane](https://r2.30hb.cn/vndb-img/amane.webp)
 
 Happy End 到底是什么呢？
 
@@ -44,13 +44,13 @@ Happy End 到底是什么呢？
 
 ## 图片
 
-![amane_p1](https://static.saop.cc/vns/img/amane_p1.webp)
+![amane_p1](https://r2.30hb.cn/vndb-img/amane_p1.webp)
 
-![amane_p2](https://static.saop.cc/vns/img/amane_p2.webp)
+![amane_p2](https://r2.30hb.cn/vndb-img/amane_p2.webp)
 
-![amane_p3](https://static.saop.cc/vns/img/amane_p3.webp)
+![amane_p3](https://r2.30hb.cn/vndb-img/amane_p3.webp)
 
-![amane_p4](https://static.saop.cc/vns/img/amane_p4.webp)
+![amane_p4](https://r2.30hb.cn/vndb-img/amane_p4.webp)
 
 ## 链接
 

@@ -26,7 +26,7 @@ date: 2024-06-09 20:21:30
 updated: 2024-06-09 20:21:30
 ---
 
-![tomoyo](https://static.saop.cc/vns/img/tomoyo.webp)
+![tomoyo](https://r2.30hb.cn/vndb-img/tomoyo.webp)
 
 **《智代After ～It's a Wonderful Life～》**（日语：**智代アフター ～It's a Wonderful Life～**）是由日本Visual Art's公司旗下的[Key](https://zh.moegirl.org.cn/Key)（“Key社”）所制作发行的[AVG](https://zh.moegirl.org.cn/AVG)。其剧情为游戏《[CLANNAD](https://zh.moegirl.org.cn/CLANNAD)》中智代路线之后续发展，因此接触本作前建议对《CLANNAD》有一定了解。
 
@@ -46,19 +46,19 @@ updated: 2024-06-09 20:21:30
 
 ## 图片
 
-![tomoyo_p1](https://static.saop.cc/vns/img/tomoyo_p1.webp)
+![tomoyo_p1](https://r2.30hb.cn/vndb-img/tomoyo_p1.webp)
 
-![tomoyo_p2](https://static.saop.cc/vns/img/tomoyo_p2.webp)
+![tomoyo_p2](https://r2.30hb.cn/vndb-img/tomoyo_p2.webp)
 
-![tomoyo_p3](https://static.saop.cc/vns/img/tomoyo_p3.webp)
+![tomoyo_p3](https://r2.30hb.cn/vndb-img/tomoyo_p3.webp)
 
-![tomoyo_p4](https://static.saop.cc/vns/img/tomoyo_p4.webp)
+![tomoyo_p4](https://r2.30hb.cn/vndb-img/tomoyo_p4.webp)
 
-![tomoyo_p5](https://static.saop.cc/vns/img/tomoyo_p5.webp)
+![tomoyo_p5](https://r2.30hb.cn/vndb-img/tomoyo_p5.webp)
 
-![tomoyo_p6](https://static.saop.cc/vns/img/tomoyo_p6.webp)
+![tomoyo_p6](https://r2.30hb.cn/vndb-img/tomoyo_p6.webp)
 
-![tomoyo_p7](https://static.saop.cc/vns/img/tomoyo_p7.webp)
+![tomoyo_p7](https://r2.30hb.cn/vndb-img/tomoyo_p7.webp)
 
 ## 链接
 

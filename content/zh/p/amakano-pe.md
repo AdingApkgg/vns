@@ -17,7 +17,7 @@ date: 2024-09-04 09:15:00
 updated: 2024-09-04 09:15:00
 ---
 
-![amakano-pe](https://static.saop.cc/vns/img/amakano-pe.webp)
+![amakano-pe](https://r2.30hb.cn/vndb-img/amakano-pe.webp)
 
 《**甜蜜女友**》（日语：アマカノ）是[NEXTON](https://zh.wikipedia.org/wiki/NEXTON)公司的旗下品牌あざらしそふと制作，于2014年12月19日发售的[恋爱冒险](https://zh.wikipedia.org/wiki/戀愛冒險)类型[成人游戏](https://zh.wikipedia.org/wiki/日本成人遊戲)，2022年11月24日发售[任天堂Switch](https://zh.wikipedia.org/wiki/任天堂Switch)版。2016年10月28日发售完整版，12月22日发售扩充版《甜蜜女友＋》（アマカノ＋）。后来改编成OVA由mary jan发售共四集。
 
@@ -48,19 +48,19 @@ updated: 2024-09-04 09:15:00
 
 ## 图片
 
-![amakano-pe_p1](https://static.saop.cc/vns/img/amakano-pe_p1.webp)
+![amakano-pe_p1](https://r2.30hb.cn/vndb-img/amakano-pe_p1.webp)
 
-![amakano-pe_p2](https://static.saop.cc/vns/img/amakano-pe_p2.webp)
+![amakano-pe_p2](https://r2.30hb.cn/vndb-img/amakano-pe_p2.webp)
 
-![amakano-pe_p3](https://static.saop.cc/vns/img/amakano-pe_p3.webp)
+![amakano-pe_p3](https://r2.30hb.cn/vndb-img/amakano-pe_p3.webp)
 
-![amakano-pe_p4](https://static.saop.cc/vns/img/amakano-pe_p4.webp)
+![amakano-pe_p4](https://r2.30hb.cn/vndb-img/amakano-pe_p4.webp)
 
-![amakano-pe_p5](https://static.saop.cc/vns/img/amakano-pe_p5.webp)
+![amakano-pe_p5](https://r2.30hb.cn/vndb-img/amakano-pe_p5.webp)
 
-![amakano-pe_p6](https://static.saop.cc/vns/img/amakano-pe_p6.webp)
+![amakano-pe_p6](https://r2.30hb.cn/vndb-img/amakano-pe_p6.webp)
 
-![amakano-pe_p7](https://static.saop.cc/vns/img/amakano-pe_p7.webp)
+![amakano-pe_p7](https://r2.30hb.cn/vndb-img/amakano-pe_p7.webp)
 
 ## 链接
 

@@ -20,7 +20,7 @@ date: 2024-01-30 20:50:00
 updated: 2024-11-17 07:21:10
 ---
 
-![sothewitch](https://static.saop.cc/vns/img/sothewitch.webp)
+![sothewitch](https://r2.30hb.cn/vndb-img/sothewitch.webp)
 
 《**魔女的夜宴**》（日语：**サノバウィッチ**）是由[柚子社](https://zh.moegirl.org.cn/YUZU_SOFT)制作发行的恋爱文字冒险游戏，于2015年2月27日面向Windows PC平台发售。英文版由NekoNyan代理，于2018年10月27日在Steam、NekoNyan的网上商城还有其他平台发售，并发行实体版。中文版由HIKARI FIELD代理，于2023年7月21日~~柚子厨特有的[0721](https://zh.moegirl.org.cn/0721)~~在Steam发售。
 
@@ -34,17 +34,17 @@ updated: 2024-11-17 07:21:10
 
 ## 图片
 
-![sothewitch_p1](https://static.saop.cc/vns/img/sothewitch_p1.webp)
+![sothewitch_p1](https://r2.30hb.cn/vndb-img/sothewitch_p1.webp)
 
-![sothewitch_p2](https://static.saop.cc/vns/img/sothewitch_p2.webp)
+![sothewitch_p2](https://r2.30hb.cn/vndb-img/sothewitch_p2.webp)
 
-![sothewitch_p3](https://static.saop.cc/vns/img/sothewitch_p3.webp)
+![sothewitch_p3](https://r2.30hb.cn/vndb-img/sothewitch_p3.webp)
 
-![sothewitch_p4](https://static.saop.cc/vns/img/sothewitch_p4.webp)
+![sothewitch_p4](https://r2.30hb.cn/vndb-img/sothewitch_p4.webp)
 
-![sothewitch_p5](https://static.saop.cc/vns/img/sothewitch_p5.webp)
+![sothewitch_p5](https://r2.30hb.cn/vndb-img/sothewitch_p5.webp)
 
-![sothewitch_p6](https://static.saop.cc/vns/img/sothewitch_p6.webp)
+![sothewitch_p6](https://r2.30hb.cn/vndb-img/sothewitch_p6.webp)
 
 ## 链接
 

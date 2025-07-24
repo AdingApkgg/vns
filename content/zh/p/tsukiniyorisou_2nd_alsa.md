@@ -23,7 +23,7 @@ date: 2024-04-21 00:56:00
 updated: 2024-04-21 00:56:00
 ---
 
-![ttsukiniyorisou-2nd-alsa](https://static.saop.cc/vns/img/tsukiniyorisou-2nd-alsa.webp)
+![ttsukiniyorisou-2nd-alsa](https://r2.30hb.cn/vndb-img/tsukiniyorisou-2nd-alsa.webp)
 
 《**近月少女的礼仪2.2 A×L+SA!!**》（日语：**月に寄りそう乙女の作法2.2 A×L+SA!!**）为近月2的第二个Fan Disc，于2017年12月22日发售。
 
@@ -65,11 +65,11 @@ updated: 2024-04-21 00:56:00
 
 ## 图片
 
-![tsukiniyorisou-2nd-alsa_p1](https://static.saop.cc/vns/img/tsukiniyorisou-2nd-alsa_p1.webp)
+![tsukiniyorisou-2nd-alsa_p1](https://r2.30hb.cn/vndb-img/tsukiniyorisou-2nd-alsa_p1.webp)
 
-![tsukiniyorisou-2nd-alsa_p2](https://static.saop.cc/vns/img/tsukiniyorisou-2nd-alsa_p2.webp)
+![tsukiniyorisou-2nd-alsa_p2](https://r2.30hb.cn/vndb-img/tsukiniyorisou-2nd-alsa_p2.webp)
 
-![tsukiniyorisou-2nd-alsa_p3](https://static.saop.cc/vns/img/tsukiniyorisou-2nd-alsa_p3.webp)
+![tsukiniyorisou-2nd-alsa_p3](https://r2.30hb.cn/vndb-img/tsukiniyorisou-2nd-alsa_p3.webp)
 
 ## 链接
 

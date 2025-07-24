@@ -26,7 +26,7 @@ date: 2024-04-07 23:31:00
 updated: 2024-04-20 12:29:00
 ---
 
-![sakura](https://static.saop.cc/vns/img/sakura.webp)
+![sakura](https://r2.30hb.cn/vndb-img/sakura.webp)
 
 **樱花，萌放。**（日语：**さくら、もゆ。-as the Night's, Reincarnation-**）是由[FAVORITE](https://zh.moegirl.org.cn/FAVORITE)制作的美少女游戏，为该社第七作（不计FD）。
 
@@ -96,11 +96,11 @@ updated: 2024-04-20 12:29:00
 
 ## 图片
 
-![sakura_p1](https://static.saop.cc/vns/img/sakura_p1.webp)
+![sakura_p1](https://r2.30hb.cn/vndb-img/sakura_p1.webp)
 
-![sakura_p2](https://static.saop.cc/vns/img/sakura_p2.webp)
+![sakura_p2](https://r2.30hb.cn/vndb-img/sakura_p2.webp)
 
-![sakura_p3](https://static.saop.cc/vns/img/sakura_p3.webp)
+![sakura_p3](https://r2.30hb.cn/vndb-img/sakura_p3.webp)
 
 ## 链接
 

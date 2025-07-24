@@ -19,7 +19,7 @@ date: 2024-01-31 21:40:00
 updated: 2025-02-24 15:31:10
 ---
 
-![totsu](https://static.saop.cc/vns/img/totsu.webp)
+![totsu](https://r2.30hb.cn/vndb-img/totsu.webp)
 
 《**灵感满溢的甜蜜创想FD-凸**》（日语：**ハミダシクリエイティブ凸**）是由[Madosoft](https://madosoft.net/)制作发行的恋爱文字冒险游戏，于2020年9月发售的Galgame，是《**常轨脱离Creative**》的后日谈作品，游戏的制作阵容和本篇一致，由甲木順之助负责剧本，宇都宮つみれ负责原画。游戏的时间线承接本篇，并增加了原作女配角竜閑天梨的路线。
 
@@ -56,17 +56,17 @@ updated: 2025-02-24 15:31:10
 
 ## 图片
 
-![totsu_p1](https://static.saop.cc/vns/img/totsu_p1.webp)
+![totsu_p1](https://r2.30hb.cn/vndb-img/totsu_p1.webp)
 
-![totsu_p2](https://static.saop.cc/vns/img/totsu_p2.webp)
+![totsu_p2](https://r2.30hb.cn/vndb-img/totsu_p2.webp)
 
-![totsu_p3](https://static.saop.cc/vns/img/totsu_p3.webp)
+![totsu_p3](https://r2.30hb.cn/vndb-img/totsu_p3.webp)
 
-![totsu_p4](https://static.saop.cc/vns/img/totsu_p4.webp)
+![totsu_p4](https://r2.30hb.cn/vndb-img/totsu_p4.webp)
 
-![totsu_p5](https://static.saop.cc/vns/img/totsu_p5.webp)
+![totsu_p5](https://r2.30hb.cn/vndb-img/totsu_p5.webp)
 
-![totsu_p6](https://static.saop.cc/vns/img/totsu_p6.webp)
+![totsu_p6](https://r2.30hb.cn/vndb-img/totsu_p6.webp)
 
 ## STAFF
 

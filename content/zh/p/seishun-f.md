@@ -12,7 +12,7 @@ date: 2024-09-09 18:45:00
 updated: 2024-09-09 18:45:00
 ---
 
-![seishun-f](https://static.saop.cc/vns/img/seishun-f.webp)
+![seishun-f](https://r2.30hb.cn/vndb-img/seishun-f.webp)
 
 《**玻璃青春**》~~青春玻璃渣~~（日语：**青春フラジャイル**）是由[Purple software](https://zh.moegirl.org.cn/Purple_software)制作发行的一款[ADV](https://zh.moegirl.org.cn/ADV)游戏，于2020年8月28日发售。
 
@@ -45,11 +45,11 @@ updated: 2024-09-09 18:45:00
 
 ## 图片
 
-![seishun-f_p1](https://static.saop.cc/vns/img/seishun-f_p1.webp)
+![seishun-f_p1](https://r2.30hb.cn/vndb-img/seishun-f_p1.webp)
 
-![seishun-f_p2](https://static.saop.cc/vns/img/seishun-f_p2.webp)
+![seishun-f_p2](https://r2.30hb.cn/vndb-img/seishun-f_p2.webp)
 
-![seishun-f_p3](https://static.saop.cc/vns/img/seishun-f_p3.webp)
+![seishun-f_p3](https://r2.30hb.cn/vndb-img/seishun-f_p3.webp)
 
 ## 链接
 

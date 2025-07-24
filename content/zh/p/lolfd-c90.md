@@ -23,7 +23,7 @@ date: 2024-10-25 03:41:20
 updated: 2024-10-25 03:41:20
 ---
 
-![lolfd-c90](https://static.saop.cc/vns/img/lolfd-c90.webp)
+![lolfd-c90](https://r2.30hb.cn/vndb-img/lolfd-c90.webp)
 
 从早安的kiss到睡前的晚安kiss。
 
@@ -38,11 +38,11 @@ updated: 2024-10-25 03:41:20
 
 <!--more-->
 
-![lolfd-c90_p1](https://static.saop.cc/vns/img/lolfd-c90_p1.webp)
+![lolfd-c90_p1](https://r2.30hb.cn/vndb-img/lolfd-c90_p1.webp)
 
-![lolfd-c90_p2](https://static.saop.cc/vns/img/lolfd-c90_p2.webp)
+![lolfd-c90_p2](https://r2.30hb.cn/vndb-img/lolfd-c90_p2.webp)
 
-![lolfd-c90_p3](https://static.saop.cc/vns/img/lolfd-c90_p3.webp)
+![lolfd-c90_p3](https://r2.30hb.cn/vndb-img/lolfd-c90_p3.webp)
 
 ## 链接
 

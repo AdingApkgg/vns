@@ -19,7 +19,7 @@ date: 2024-05-06 23:46:00
 updated: 2024-05-06 23:46:00
 ---
 
-![angelbeats](https://static.saop.cc/vns/img/angelbeats.webp)
+![angelbeats](https://r2.30hb.cn/vndb-img/angelbeats.webp)
 
 《Angel Beats!》游戏版，是由key社制作的一系列多媒体小说作品，也是key社第一次改编既有作品。策划和人设与动画版同为麻枝准和Na-Ga，也是Na-Ga参加人设的第二部、独立人设的第一部key社游戏。
 
@@ -27,11 +27,11 @@ updated: 2024-05-06 23:46:00
 
 ## 图片
 
-![angelbeats_p1](https://static.saop.cc/vns/img/angelbeats_p1.webp)
+![angelbeats_p1](https://r2.30hb.cn/vndb-img/angelbeats_p1.webp)
 
-![angelbeats_p2](https://static.saop.cc/vns/img/angelbeats_p2.webp)
+![angelbeats_p2](https://r2.30hb.cn/vndb-img/angelbeats_p2.webp)
 
-![angelbeats_p3](https://static.saop.cc/vns/img/angelbeats_p3.webp)
+![angelbeats_p3](https://r2.30hb.cn/vndb-img/angelbeats_p3.webp)
 
 ## 链接
 

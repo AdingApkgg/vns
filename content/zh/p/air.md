@@ -23,7 +23,7 @@ date: 2024-07-31 03:56:40
 updated: 2024-07-31 03:56:40
 ---
 
-![air](https://static.saop.cc/vns/img/air.webp)
+![air](https://r2.30hb.cn/vndb-img/air.webp)
 
 《**AIR**》是由日本公司[VISUAL ARTS](https://zh.moegirl.org.cn/VISUAL_ARTS)旗下游戏子品牌[Key](https://zh.moegirl.org.cn/Key)（“Key社”）于2000年9月8日所推出的一款[Galgame](https://zh.moegirl.org.cn/Galgame)。
 
@@ -37,17 +37,17 @@ updated: 2024-07-31 03:56:40
 
 ## 图片
 
-![air_p1](https://static.saop.cc/vns/img/air_p1.webp)
+![air_p1](https://r2.30hb.cn/vndb-img/air_p1.webp)
 
-![air_p2](https://static.saop.cc/vns/img/air_p2.webp)
+![air_p2](https://r2.30hb.cn/vndb-img/air_p2.webp)
 
-![air_p3](https://static.saop.cc/vns/img/air_p3.webp)
+![air_p3](https://r2.30hb.cn/vndb-img/air_p3.webp)
 
-![air_p4](https://static.saop.cc/vns/img/air_p4.webp)
+![air_p4](https://r2.30hb.cn/vndb-img/air_p4.webp)
 
-![air_p5](https://static.saop.cc/vns/img/air_p5.webp)
+![air_p5](https://r2.30hb.cn/vndb-img/air_p5.webp)
 
-![air_p6](https://static.saop.cc/vns/img/air_p6.webp)
+![air_p6](https://r2.30hb.cn/vndb-img/air_p6.webp)
 
 ## 链接
 

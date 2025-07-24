@@ -28,7 +28,7 @@ date: 2024-05-11 02:31:30
 updated: 2024-05-11 02:31:30
 ---
 
-![mashiro](https://static.saop.cc/vns/img/mashiro.webp)
+![mashiro](https://r2.30hb.cn/vndb-img/mashiro.webp)
 
 **《纯白交响曲》**（日语：**ましろ色シンフォニー**；英语：**Mashiroiro Symphony**）是由[Palette](https://zh.moegirl.org.cn/Palette(游戏公司))制作的一部以校园恋爱为主题的文字冒险游戏，PSP版[升格一名](https://zh.moegirl.org.cn/乾纱凪)、[新增一名](https://zh.moegirl.org.cn/小野宫结月)可攻略角色，并有动画、漫画等衍生作品。
 
@@ -57,9 +57,9 @@ updated: 2024-05-11 02:31:30
 
 ## 图片
 
-![mashiro_p1](https://static.saop.cc/vns/img/mashiro_p1.webp)
+![mashiro_p1](https://r2.30hb.cn/vndb-img/mashiro_p1.webp)
 
-![mashiro_p2](https://static.saop.cc/vns/img/mashiro_p2.webp)
+![mashiro_p2](https://r2.30hb.cn/vndb-img/mashiro_p2.webp)
 
 ## 链接
 

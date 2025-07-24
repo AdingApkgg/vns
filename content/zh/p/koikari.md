@@ -24,7 +24,7 @@ date: 2025-03-02 20:15:22
 updated: 2025-03-22 23:00:00
 ---
 
-![koikari](https://static.saop.cc/vns/img/koikari.webp)
+![koikari](https://r2.30hb.cn/vndb-img/koikari.webp)
 
 《**恋爱，我借走了**》（日语：**恋愛、借りちゃいました**）是由[ASa Project](https://zh.moegirl.org.cn/ASa_Project)制作发行的一款[Galgame](https://zh.moegirl.org.cn/Galgame)，于2019年7月26日发售。
 
@@ -34,23 +34,23 @@ updated: 2025-03-22 23:00:00
 
 <!--more-->
 
-![koikari_p1](https://static.saop.cc/vns/img/koikari_p1.webp)
+![koikari_p1](https://r2.30hb.cn/vndb-img/koikari_p1.webp)
 
-![koikari_p2](https://static.saop.cc/vns/img/koikari_p2.webp)
+![koikari_p2](https://r2.30hb.cn/vndb-img/koikari_p2.webp)
 
-![koikari_p3](https://static.saop.cc/vns/img/koikari_p3.webp)
+![koikari_p3](https://r2.30hb.cn/vndb-img/koikari_p3.webp)
 
-![koikari_p4](https://static.saop.cc/vns/img/koikari_p4.webp)
+![koikari_p4](https://r2.30hb.cn/vndb-img/koikari_p4.webp)
 
-![koikari_p5](https://static.saop.cc/vns/img/koikari_p5.webp)
+![koikari_p5](https://r2.30hb.cn/vndb-img/koikari_p5.webp)
 
-![koikari_p6](https://static.saop.cc/vns/img/koikari_p6.webp)
+![koikari_p6](https://r2.30hb.cn/vndb-img/koikari_p6.webp)
 
-![koikari_p7](https://static.saop.cc/vns/img/koikari_p7.webp)
+![koikari_p7](https://r2.30hb.cn/vndb-img/koikari_p7.webp)
 
-![koikari_p8](https://static.saop.cc/vns/img/koikari_p8.webp)
+![koikari_p8](https://r2.30hb.cn/vndb-img/koikari_p8.webp)
 
-![koikari_p9](https://static.saop.cc/vns/img/koikari_p9.webp)
+![koikari_p9](https://r2.30hb.cn/vndb-img/koikari_p9.webp)
 
 ## 故事
 

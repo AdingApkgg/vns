@@ -17,7 +17,7 @@ date: 2024-01-28 11:00:00
 updated: 2024-11-17 07:17:30
 ---
 
-![sylvie](https://static.saop.cc/vns/img/sylvie.webp)
+![sylvie](https://r2.30hb.cn/vndb-img/sylvie.webp)
 
 《**Teaching Feeling ～和奴隶在一起的生活～**》（日语：**Teaching Feeling -傷肌少女との生活-**）是由日本社团[FreakilyCharming](https://zh.moegirl.org.cn/index.php?title=FreakilyCharming&action=edit&redlink=1)发行的一部R-18养成类文字冒险游戏，游戏本体于2015年10月27日在DLsite发售，29日在DMM发售。
 
@@ -92,34 +92,34 @@ https://tmblr.co/ZWIqQi22aQ_0M
 ● 当Y-shirt和Y-shirt领子同时佩戴时，在室内菜单和图片中，领子会在用餐时不自然地加倍
 ● 穿着西装外套上床睡觉时会出现错误对话框
 
-![sylvie_p1](https://static.saop.cc/vns/img/sylvie_p1.webp)
+![sylvie_p1](https://r2.30hb.cn/vndb-img/sylvie_p1.webp)
 
-![sylvie_p2](https://static.saop.cc/vns/img/sylvie_p2.webp)
+![sylvie_p2](https://r2.30hb.cn/vndb-img/sylvie_p2.webp)
 
-![sylvie_p3](https://static.saop.cc/vns/img/sylvie_p3.webp)
+![sylvie_p3](https://r2.30hb.cn/vndb-img/sylvie_p3.webp)
 
-![sylvie_p4](https://static.saop.cc/vns/img/sylvie_p4.webp)
+![sylvie_p4](https://r2.30hb.cn/vndb-img/sylvie_p4.webp)
 
-![sylvie_p5](https://static.saop.cc/vns/img/sylvie_p5.webp)
+![sylvie_p5](https://r2.30hb.cn/vndb-img/sylvie_p5.webp)
 
-![sylvie_p6](https://static.saop.cc/vns/img/sylvie_p6.webp)
+![sylvie_p6](https://r2.30hb.cn/vndb-img/sylvie_p6.webp)
 
-![sylvie_p7](https://static.saop.cc/vns/img/sylvie_p7.webp)
+![sylvie_p7](https://r2.30hb.cn/vndb-img/sylvie_p7.webp)
 
-![sylvie_p8](https://static.saop.cc/vns/img/sylvie_p8.webp)
+![sylvie_p8](https://r2.30hb.cn/vndb-img/sylvie_p8.webp)
 
-![sylvie_p9](https://static.saop.cc/vns/img/sylvie_p9.webp)
+![sylvie_p9](https://r2.30hb.cn/vndb-img/sylvie_p9.webp)
 
-![sylvie_p10](https://static.saop.cc/vns/img/sylvie_p10.webp)
+![sylvie_p10](https://r2.30hb.cn/vndb-img/sylvie_p10.webp)
 
 ## 名字的由来
 
 据作者 [@Ray-Kbys](https://www.pixiv.net/users/888112) 的一张插画透露，
 希尔薇（Sylvie）这个名字来自英语“silver”（银）。
 
-![sylvie_p11](https://static.saop.cc/vns/img/sylvie_p11.webp)
+![sylvie_p11](https://r2.30hb.cn/vndb-img/sylvie_p11.webp)
 
-![sylvie_p12](https://static.saop.cc/vns/img/sylvie_p12.webp)
+![sylvie_p12](https://r2.30hb.cn/vndb-img/sylvie_p12.webp)
 
 ## 链接
 

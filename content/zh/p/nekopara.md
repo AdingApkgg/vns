@@ -35,7 +35,7 @@ date: 2024-10-03 01:48:30
 updated: 2024-10-03 01:48:30
 ---
 
-![nekopara](https://static.saop.cc/vns/img/nekopara.webp)
+![nekopara](https://r2.30hb.cn/vndb-img/nekopara.webp)
 
 《**猫娘乐园**》（日语：ネコぱら，英语：*Nekopara*）是由同人社团NEKO WORKs开发的[色情](https://zh.wikipedia.org/wiki/色情遊戲)[原创](https://zh.wikipedia.org/wiki/原創)[同人](https://zh.wikipedia.org/wiki/同人遊戲)[恋爱冒险](https://zh.wikipedia.org/wiki/戀愛冒險)型[美少女游戏](https://zh.wikipedia.org/wiki/美少女遊戲)。角色配音是日语；游戏同时支援[日文](https://zh.wikipedia.org/wiki/日文)、[繁体中文](https://zh.wikipedia.org/wiki/繁體中文)、[英文](https://zh.wikipedia.org/wiki/英文)三种语言的游戏[字幕](https://zh.wikipedia.org/wiki/字幕)。[Steam](https://zh.wikipedia.org/wiki/Steam)版由[Sekai Project](https://zh.wikipedia.org/wiki/Sekai_Project)发行，[台湾地区](https://zh.wikipedia.org/wiki/台灣地區)由[同人社团](https://zh.wikipedia.org/wiki/同人社團)萌少女领域发行。除[PC](https://zh.wikipedia.org/wiki/個人電腦)平台外，另外亦于[PlayStation 4](https://zh.wikipedia.org/wiki/PlayStation_4)和[任天堂Switch](https://zh.wikipedia.org/wiki/任天堂Switch)平台发售。
 
@@ -43,23 +43,23 @@ updated: 2024-10-03 01:48:30
 
 此游戏同时被改编成全年龄向的[OVA](https://zh.wikipedia.org/wiki/原創動畫錄影帶)，并于2017年12月在Steam发售，同月打入Steam的最畅销排行榜。2018年12月28日于[Comic Market](https://zh.wikipedia.org/wiki/Comic_Market) 95会场宣布[电视动画](https://zh.wikipedia.org/wiki/電視動畫)化，2020年1月9日至3月26日在[AT-X](https://zh.wikipedia.org/wiki/AT-X)等渠道播出。
 
-![nekopara_p1](https://static.saop.cc/vns/img/nekopara_p1.webp)
+![nekopara_p1](https://r2.30hb.cn/vndb-img/nekopara_p1.webp)
 
-![nekopara_p2](https://static.saop.cc/vns/img/nekopara_p2.webp)
+![nekopara_p2](https://r2.30hb.cn/vndb-img/nekopara_p2.webp)
 
-![nekopara_p3](https://static.saop.cc/vns/img/nekopara_p3.webp)
+![nekopara_p3](https://r2.30hb.cn/vndb-img/nekopara_p3.webp)
 
-![nekopara_p4](https://static.saop.cc/vns/img/nekopara_p4.webp)
+![nekopara_p4](https://r2.30hb.cn/vndb-img/nekopara_p4.webp)
 
-![nekopara_p5](https://static.saop.cc/vns/img/nekopara_p5.webp)
+![nekopara_p5](https://r2.30hb.cn/vndb-img/nekopara_p5.webp)
 
-![nekopara_p6](https://static.saop.cc/vns/img/nekopara_p6.webp)
+![nekopara_p6](https://r2.30hb.cn/vndb-img/nekopara_p6.webp)
 
-![nekopara_p7](https://static.saop.cc/vns/img/nekopara_p7.webp)
+![nekopara_p7](https://r2.30hb.cn/vndb-img/nekopara_p7.webp)
 
-![nekopara_p8](https://static.saop.cc/vns/img/nekopara_p8.webp)
+![nekopara_p8](https://r2.30hb.cn/vndb-img/nekopara_p8.webp)
 
-![nekopara_p9](https://static.saop.cc/vns/img/nekopara_p9.webp)
+![nekopara_p9](https://r2.30hb.cn/vndb-img/nekopara_p9.webp)
 
 ## 概要
 

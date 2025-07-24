@@ -19,21 +19,21 @@ date: 2025-07-18T22:04:30+08:00
 updated: 2025-07-21T03:20:00+08:00
 ---
 
-![invisible](https://static.saop.cc/vns/img/invisible.webp)
+![invisible](https://r2.30hb.cn/vndb-img/invisible.webp)
 
 《**我的身体，变透明了！？不可视之药与坎坷的命运**》（日语：**俺の姿が、透明に！？不可視の薬と数奇な運命**）是由[HULOTTE](https://zh.moegirl.org.cn/HULOTTE)于2020年3月27日制作发行的一款以“变成透明人”为卖点的恋爱ADV。
 
 <!--more-->
 
-![invisible_p1](https://static.saop.cc/vns/img/invisible_p1.webp)
+![invisible_p1](https://r2.30hb.cn/vndb-img/invisible_p1.webp)
 
-![invisible_p2](https://static.saop.cc/vns/img/invisible_p2.webp)
+![invisible_p2](https://r2.30hb.cn/vndb-img/invisible_p2.webp)
 
-![invisible_p3](https://static.saop.cc/vns/img/invisible_p3.webp)
+![invisible_p3](https://r2.30hb.cn/vndb-img/invisible_p3.webp)
 
-![invisible_p4](https://static.saop.cc/vns/img/invisible_p4.webp)
+![invisible_p4](https://r2.30hb.cn/vndb-img/invisible_p4.webp)
 
-![invisible_p5](https://static.saop.cc/vns/img/invisible_p5.webp)
+![invisible_p5](https://r2.30hb.cn/vndb-img/invisible_p5.webp)
 
 ## 故事
 

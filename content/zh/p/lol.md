@@ -19,7 +19,7 @@ date: 2024-10-25 03:38:40
 updated: 2024-10-25 03:38:40
 ---
 
-![lol](https://static.saop.cc/vns/img/lol.webp)
+![lol](https://r2.30hb.cn/vndb-img/lol.webp)
 
 那位少女甜美又芬芳。
 天真无邪，眼神里透着诱惑，等待着你的拥抱。
@@ -29,15 +29,15 @@ updated: 2024-10-25 03:38:40
 
 <!--more-->
 
-![lol_p1](https://static.saop.cc/vns/img/lol_p1.webp)
+![lol_p1](https://r2.30hb.cn/vndb-img/lol_p1.webp)
 
-![lol_p2](https://static.saop.cc/vns/img/lol_p2.webp)
+![lol_p2](https://r2.30hb.cn/vndb-img/lol_p2.webp)
 
-![lol_p3](https://static.saop.cc/vns/img/lol_p3.webp)
+![lol_p3](https://r2.30hb.cn/vndb-img/lol_p3.webp)
 
-![lol_p4](https://static.saop.cc/vns/img/lol_p4.webp)
+![lol_p4](https://r2.30hb.cn/vndb-img/lol_p4.webp)
 
-![lol_p5](https://static.saop.cc/vns/img/lol_p5.webp)
+![lol_p5](https://r2.30hb.cn/vndb-img/lol_p5.webp)
 
 ## 链接
 

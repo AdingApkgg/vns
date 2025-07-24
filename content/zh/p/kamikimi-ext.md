@@ -24,7 +24,7 @@ date: 2024-01-30 14:00:00
 updated: 2024-09-23 01:25:00
 ---
 
-![kamikimi-ext](https://static.saop.cc/vns/img/kamikimi-ext.webp)
+![kamikimi-ext](https://r2.30hb.cn/vndb-img/kamikimi-ext.webp)
 
 《献给神明般的你》（日语：神様のような君へ）是由CUBE制作的一部galgame。
 
@@ -56,15 +56,15 @@ updated: 2024-09-23 01:25:00
 
 ## 图片
 
-![kamikimi-ext_p1](https://static.saop.cc/vns/img/kamikimi-ext_p1.webp)
+![kamikimi-ext_p1](https://r2.30hb.cn/vndb-img/kamikimi-ext_p1.webp)
 
-![kamikimi-ext_p2](https://static.saop.cc/vns/img/kamikimi-ext_p2.webp)
+![kamikimi-ext_p2](https://r2.30hb.cn/vndb-img/kamikimi-ext_p2.webp)
 
-![kamikimi-ext_p3](https://static.saop.cc/vns/img/kamikimi-ext_p3.webp)
+![kamikimi-ext_p3](https://r2.30hb.cn/vndb-img/kamikimi-ext_p3.webp)
 
-![kamikimi-ext_p4](https://static.saop.cc/vns/img/kamikimi-ext_p4.webp)
+![kamikimi-ext_p4](https://r2.30hb.cn/vndb-img/kamikimi-ext_p4.webp)
 
-![kamikimi-ext_p5](https://static.saop.cc/vns/img/kamikimi-ext_p5.webp)
+![kamikimi-ext_p5](https://r2.30hb.cn/vndb-img/kamikimi-ext_p5.webp)
 
 ## 链接
 

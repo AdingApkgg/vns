@@ -20,7 +20,7 @@ date: 2024-10-25 03:44:30
 updated: 2024-10-25 03:44:30
 ---
 
-![lol2](https://static.saop.cc/vns/img/lol2.webp)
+![lol2](https://r2.30hb.cn/vndb-img/lol2.webp)
 
 **我最终还是收养了这个孩子。**
 
@@ -32,11 +32,11 @@ updated: 2024-10-25 03:44:30
 
 <!--more-->
 
-![lol2_p1](https://static.saop.cc/vns/img/lol2_p1.webp)
+![lol2_p1](https://r2.30hb.cn/vndb-img/lol2_p1.webp)
 
-![lol2_p2](https://static.saop.cc/vns/img/lol2_p2.webp)
+![lol2_p2](https://r2.30hb.cn/vndb-img/lol2_p2.webp)
 
-![lol2_p3](https://static.saop.cc/vns/img/lol2_p3.webp)
+![lol2_p3](https://r2.30hb.cn/vndb-img/lol2_p3.webp)
 
 ## 链接
 

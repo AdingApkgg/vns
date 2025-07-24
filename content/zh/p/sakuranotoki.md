@@ -14,7 +14,7 @@ date: 2024-04-21 06:05:00
 updated: 2024-08-17 01:34:40
 ---
 
-![sakuranotoki](https://static.saop.cc/vns/img/sakuranotoki.webp)
+![sakuranotoki](https://r2.30hb.cn/vndb-img/sakuranotoki.webp)
 
 《**樱之刻 －在樱花之森下漫步-**》（日语：サクラノ刻 -櫻の森の下を歩む-）是日本游戏品牌[枕](https://zh.wikipedia.org/wiki/枕_(遊戲品牌))开发并于2023年2月24日所推出的[Windows](https://zh.wikipedia.org/wiki/Windows)平台[十八禁](https://zh.wikipedia.org/wiki/日本成人遊戲)[视觉小说](https://zh.wikipedia.org/wiki/视觉小说)游戏，[樱之诗](https://zh.wikipedia.org/wiki/櫻之詩)的续作。
 
@@ -22,11 +22,11 @@ updated: 2024-08-17 01:34:40
 
 ## 图片
 
-![sakuranotoki_p1](https://static.saop.cc/vns/img/sakuranotoki_p1.webp)
+![sakuranotoki_p1](https://r2.30hb.cn/vndb-img/sakuranotoki_p1.webp)
 
-![sakuranotoki_p2](https://static.saop.cc/vns/img/sakuranotoki_p2.webp)
+![sakuranotoki_p2](https://r2.30hb.cn/vndb-img/sakuranotoki_p2.webp)
 
-![sakuranotoki_p3](https://static.saop.cc/vns/img/sakuranotoki_p3.webp)
+![sakuranotoki_p3](https://r2.30hb.cn/vndb-img/sakuranotoki_p3.webp)
 
 ## 作品评价
 

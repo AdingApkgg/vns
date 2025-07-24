@@ -24,7 +24,7 @@ date: 2024-04-19 22:58:00
 updated: 2024-04-19 22:58:00
 ---
 
-![fate-ha](https://static.saop.cc/vns/img/fate-ha.webp)
+![fate-ha](https://r2.30hb.cn/vndb-img/fate-ha.webp)
 
 **《Fate/hollow ataraxia》**（日語：**フェイト/ホロウ　アタラクシア**）是由[TYPE-MOON](https://zh.moegirl.org.cn/TYPE-MOON)製作的一部AVG遊戲，於2005年初次發售，為遊戲「[Fate/stay night](https://zh.moegirl.org.cn/Fate/stay_night)」的Fan Disc。
 
@@ -79,11 +79,11 @@ PSV版於2014年11月27日發售，追加OP、語音、新小遊戲，全年齡�
 
 ## 图片
 
-![fate-ha_p1](https://static.saop.cc/vns/img/fate-ha_p1.webp)
+![fate-ha_p1](https://r2.30hb.cn/vndb-img/fate-ha_p1.webp)
 
-![fate-ha_p2](https://static.saop.cc/vns/img/fate-ha_p2.webp)
+![fate-ha_p2](https://r2.30hb.cn/vndb-img/fate-ha_p2.webp)
 
-![fate-ha_p3](https://static.saop.cc/vns/img/fate-ha_p3.webp)
+![fate-ha_p3](https://r2.30hb.cn/vndb-img/fate-ha_p3.webp)
 
 ## 外部連結
 

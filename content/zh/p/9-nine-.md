@@ -31,7 +31,7 @@ date: 2024-02-22 03:55:00
 updated: 2024-09-23 04:07:30
 ---
 
-![9-nine-](https://static.saop.cc/vns/img/9-nine-.webp)
+![9-nine-](https://r2.30hb.cn/vndb-img/9-nine-.webp)
 
 《**9-nine-**》是[PALETTE](https://zh.wikipedia.org/wiki/PALETTE)发售的[恋爱冒险](https://zh.wikipedia.org/wiki/戀愛冒險)类型[成人游戏](https://zh.wikipedia.org/wiki/日本成人遊戲)。本作分为多个章节，自2017年开始发售：
 
@@ -53,23 +53,23 @@ updated: 2024-09-23 04:07:30
 
 ## 图片
 
-![9-nine-_p1](https://static.saop.cc/vns/img/9-nine-_p1.webp)
+![9-nine-_p1](https://r2.30hb.cn/vndb-img/9-nine-_p1.webp)
 
-![9-nine-_p2](https://static.saop.cc/vns/img/9-nine-_p2.webp)
+![9-nine-_p2](https://r2.30hb.cn/vndb-img/9-nine-_p2.webp)
 
-![9-nine-_p3](https://static.saop.cc/vns/img/9-nine-_p3.webp)
+![9-nine-_p3](https://r2.30hb.cn/vndb-img/9-nine-_p3.webp)
 
-![9-nine-_p4](https://static.saop.cc/vns/img/9-nine-_p4.webp)
+![9-nine-_p4](https://r2.30hb.cn/vndb-img/9-nine-_p4.webp)
 
-![9-nine-_p5](https://static.saop.cc/vns/img/9-nine-_p5.webp)
+![9-nine-_p5](https://r2.30hb.cn/vndb-img/9-nine-_p5.webp)
 
-![9-nine-_p6](https://static.saop.cc/vns/img/9-nine-_p6.webp)
+![9-nine-_p6](https://r2.30hb.cn/vndb-img/9-nine-_p6.webp)
 
-![9-nine-_p7](https://static.saop.cc/vns/img/9-nine-_p7.webp)
+![9-nine-_p7](https://r2.30hb.cn/vndb-img/9-nine-_p7.webp)
 
-![9-nine-_p8](https://static.saop.cc/vns/img/9-nine-_p8.webp)
+![9-nine-_p8](https://r2.30hb.cn/vndb-img/9-nine-_p8.webp)
 
-![9-nine-_p9](https://static.saop.cc/vns/img/9-nine-_p9.webp)
+![9-nine-_p9](https://r2.30hb.cn/vndb-img/9-nine-_p9.webp)
 
 ## 链接
 

@@ -22,7 +22,7 @@ date: 2024-10-22 00:47:10
 updated: 2024-10-22 00:47:10
 ---
 
-![evenicle](https://static.saop.cc/vns/img/evenicle.webp)
+![evenicle](https://r2.30hb.cn/vndb-img/evenicle.webp)
 
 《**夏娃年代记**》（日语：**イブニクル**）是[AliceSoft](https://zh.moegirl.org.cn/AliceSoft)在2015年4月24日所发售的恋爱冒险[RPG](https://zh.moegirl.org.cn/角色扮演类游戏)类型18禁游戏，获得2015年[萌系游戏大赏](https://zh.moegirl.org.cn/萌系游戏大赏)金赏。
 
@@ -30,23 +30,23 @@ updated: 2024-10-22 00:47:10
 
 讲述以大陆事记《夏娃年代记》为主轴，记载的圣母「夏娃」所创造的世界里，一位名为「[阿斯塔利斯克](https://zh.moegirl.org.cn/阿斯塔利斯克)」的少年成为骑士的冒险故事。
 
-![evenicle_p1](https://static.saop.cc/vns/img/evenicle_p1.webp)
+![evenicle_p1](https://r2.30hb.cn/vndb-img/evenicle_p1.webp)
 
-![evenicle_p2](https://static.saop.cc/vns/img/evenicle_p2.webp)
+![evenicle_p2](https://r2.30hb.cn/vndb-img/evenicle_p2.webp)
 
-![evenicle_p3](https://static.saop.cc/vns/img/evenicle_p3.webp)
+![evenicle_p3](https://r2.30hb.cn/vndb-img/evenicle_p3.webp)
 
-![evenicle_p4](https://static.saop.cc/vns/img/evenicle_p4.webp)
+![evenicle_p4](https://r2.30hb.cn/vndb-img/evenicle_p4.webp)
 
-![evenicle_p5](https://static.saop.cc/vns/img/evenicle_p5.webp)
+![evenicle_p5](https://r2.30hb.cn/vndb-img/evenicle_p5.webp)
 
-![evenicle_p6](https://static.saop.cc/vns/img/evenicle_p6.webp)
+![evenicle_p6](https://r2.30hb.cn/vndb-img/evenicle_p6.webp)
 
-![evenicle_p7](https://static.saop.cc/vns/img/evenicle_p7.webp)
+![evenicle_p7](https://r2.30hb.cn/vndb-img/evenicle_p7.webp)
 
-![evenicle_p8](https://static.saop.cc/vns/img/evenicle_p8.webp)
+![evenicle_p8](https://r2.30hb.cn/vndb-img/evenicle_p8.webp)
 
-![evenicle_p9](https://static.saop.cc/vns/img/evenicle_p9.webp)
+![evenicle_p9](https://r2.30hb.cn/vndb-img/evenicle_p9.webp)
 
 ## 剧情
 

@@ -22,7 +22,7 @@ date: 2024-04-21 23:35:00
 updated: 2024-10-27 04:44:15
 ---
 
-![slave](https://static.saop.cc/vns/img/slave.webp)
+![slave](https://r2.30hb.cn/vndb-img/slave.webp)
 
 O島…從沖繩的水座島只要開快艇30分鐘就能到達的小小離島…
 
@@ -38,11 +38,11 @@ O島…從沖繩的水座島只要開快艇30分鐘就能到達的小小離島�
 
 <!--more-->
 
-![slave_p1](https://static.saop.cc/vns/img/slave_p1.webp)
+![slave_p1](https://r2.30hb.cn/vndb-img/slave_p1.webp)
 
-![slave_p2](https://static.saop.cc/vns/img/slave_p2.webp)
+![slave_p2](https://r2.30hb.cn/vndb-img/slave_p2.webp)
 
-![slave_p3](https://static.saop.cc/vns/img/slave_p3.webp)
+![slave_p3](https://r2.30hb.cn/vndb-img/slave_p3.webp)
 
 ## 链接
 
