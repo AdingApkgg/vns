@@ -2,7 +2,7 @@
 title = "公告／発表／announcement"
 +++
 
-![Random Image](https://www.loliapi.com/acg/)
+![Random Image](https://api.illlights.com/v1/img)
 
 ## 基本帮助
 
