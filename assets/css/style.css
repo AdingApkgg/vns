@@ -1049,6 +1049,10 @@ header {
   z-index: 2;
 }
 
+header.active {
+  right: 0px;
+}
+
 @keyframes fadeInDown {
   from {
     opacity: 0;
@@ -1083,19 +1087,27 @@ header {
   opacity: 1;
 }
 
-#back-to-top:hover {
+#back-to-top:hover,
+#menuToggle:hover {
   background-color: #0056b3;
 }
 
 #menuToggle {
-  display: block;
+  display: none;
   position: fixed;
-  bottom: 120px;
+  bottom: 80px;
   right: 10px;
-  z-index: 1001;
-  width: 30px;
-  height: 30px;
+  z-index: 3;
   cursor: pointer;
+  padding: 0.3em 0.3em;
+  font-size: 1.6em;
+  background-color: #007bff;
+  color: whitesmoke;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: opacity 0.3s ease;
+  animation: rubberBand 0.3s ease;
 }
 
 header nav {
@@ -1157,7 +1169,7 @@ main,
 }
 
 main h1 {
-  font-size: 2.2em;
+  font-size: 2em;
 }
 
 main h2 {
@@ -1303,8 +1315,20 @@ footer p {
 }
 
 @media (max-width: 960px) {
+  header {
+    max-width: 160px;
+    height: auto;
+    position: fixed;
+    bottom: 0;
+    right: -100%;
+  }
+
+  #menuToggle {
+    display: block;
+  }
+
   #fps {
-    z-index: 1;
+    z-index: 3;
   }
 
   .aplayer.aplayer-fixed.aplayer-narrow .aplayer-body {

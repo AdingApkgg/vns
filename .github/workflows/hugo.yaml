@@ -1,39 +1,31 @@
-# Sample workflow for building and deploying a Hugo site to GitHub Pages
 name: Deploy Hugo site to gh-pages branch
 
 on:
-  # Runs on pushes targeting the default branch
   push:
     branches:
-      - dev # 或者您希望触发部署的分支，例如 main 或 master
+      - dev
 
-  # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 
-# Sets permissions of the GITHUB_TOKEN to allow deployment
 permissions:
-  contents: write # 需要写入权限来推送分支
-  pages: write # 如果您仍然使用GitHub Pages服务（尽管是推送到gh-pages），保留此权限
-  id-token: write # 如果您使用OIDC，保留此权限
+  contents: write
+  pages: write
+  id-token: write
 
-# Allow only one concurrent deployment, skipping runs queued between the run in-progress and latest queued.
-# However, do NOT cancel in-progress runs as we want to allow these production deployments to complete.
 concurrency:
   group: "pages"
   cancel-in-progress: false
 
-# Default to bash
 defaults:
   run:
     shell: bash
 
 jobs:
-  # Build job
   build:
     runs-on: ubuntu-latest
     env:
-      DART_SASS_VERSION: 1.89.2
-      HUGO_VERSION: 0.148.2
+      DART_SASS_VERSION: 1.92.1
+      HUGO_VERSION: 0.150.0
       HUGO_ENVIRONMENT: production
       TZ: America/Los_Angeles
     steps:
@@ -52,10 +44,6 @@ jobs:
         with:
           submodules: recursive
           fetch-depth: 0
-      # 如果您不使用actions/configure-pages和actions/deploy-pages，则不需要此步骤
-      # - name: Setup Pages
-      #   id: pages
-      #   uses: actions/configure-pages@v5
       - name: Install Node.js dependencies
         run: "[[ -f package-lock.json || -f npm-shrinkwrap.json ]] && npm ci || true"
       - name: Cache Restore
@@ -87,38 +75,34 @@ jobs:
           path: |
             ${{ runner.temp }}/hugo_cache
           key: ${{ steps.cache-restore.outputs.cache-primary-key }}
-      # 添加 Pagefind 安装和执行步骤
       - name: Install Pagefind and build search index
         run: |
           npm install -g pagefind # 安装 Pagefind CLI
           pagefind --site public # 在 public 目录上运行 Pagefind
-      # 添加此步骤以将构建的站点内容作为 artifact 上传
       - name: Upload public directory as artifact
         uses: actions/upload-artifact@v4
         with:
-          name: hugo-site-public # artifact 的名称
-          path: ./public # 要上传的目录
+          name: hugo-site-public
+          path: ./public
 
-  # Deployment job
   deploy:
     environment:
-      name: github-pages # 仍然可以使用此环境，但实际部署方式不同
-      url: ${{ steps.deployment.outputs.page_url }} # 此URL将由peaceiris/actions-gh-pages提供
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
-    needs: build # 确保在构建完成后运行
+    needs: build
     steps:
       - name: Checkout
         uses: actions/checkout@v4
         with:
           submodules: recursive
-          fetch-depth: 0 # 确保获取完整的历史记录以便推送
+          fetch-depth: 0
 
-      # 添加此步骤以下载构建的站点内容 artifact
       - name: Download public directory artifact
         uses: actions/download-artifact@v4
         with:
-          name: hugo-site-public # 与上传时使用的 artifact 名称一致
-          path: ./public # 下载到当前工作目录的 ./public 路径
+          name: hugo-site-public
+          path: ./public
 
       - name: Configure Git
         run: |
@@ -126,15 +110,11 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
       - name: Deploy to gh-pages branch
-        uses: peaceiris/actions-gh-pages@v3 # 使用此Action来推送
-        id: deployment # 为输出URL设置ID
+        uses: peaceiris/actions-gh-pages@v3
+        id: deployment
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./public # 指定要发布到gh-pages分支的目录
-          publish_branch: gh-pages # 指定目标分支
+          publish_dir: ./public
+          publish_branch: gh-pages
           user_name: "github-actions[bot]"
           user_email: "github-actions[bot]@users.noreply.github.com"
-          # 如果您的站点是项目页面（例如 username.github.io/repo-name/），
-          # 并且您希望在gh-pages分支的根目录中包含子目录，请取消注释以下行
-          # cname: example.com # 如果您有自定义域名，可以在这里设置
-          # keep_files: true # 如果您想保留gh-pages分支上的现有文件

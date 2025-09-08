@@ -2,8 +2,6 @@
 title = "公告／発表／announcement"
 +++
 
-![Random Image](https://www.loliapi.com/acg/)
-
 ## 基本帮助
 
 1. 如果有能力请去作品官网支持正版！请不要过度宣扬盗版！
