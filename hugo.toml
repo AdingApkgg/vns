@@ -50,6 +50,7 @@ identifier = "home"
 name = '首页'
 pageRef = '/'
 weight = 2
+pre = "fas home"
 [[languages.zh.menus.main]]
 identifier = "archives"
 name = '归档'

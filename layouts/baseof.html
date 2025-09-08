@@ -9,11 +9,11 @@
   </head>
 
   <body>
-    <header>{{ partial "header.html" . }}</header>
     <div id="search"></div>
     <main class="animate__animated animate__fadeIn">
       {{ block "main" . }}{{ end }}
     </main>
+    <header>{{ partial "header.html" . }}</header>
     <footer>{{ partial "footer.html" . }}</footer>
     {{ partial "scripts.html" . }}
   </body>
