@@ -58,11 +58,6 @@ jobs:
         run: git config core.quotepath false
       - name: Build with Hugo
         run: |
-          # 注意：如果您不使用actions/configure-pages，则baseURL可能需要硬编码或从其他地方获取
-          # 如果您的GitHub Pages URL是 username.github.io/repo-name/
-          # 则 baseURL 应该是 /repo-name/
-          # 如果是 username.github.io/
-          # 则 baseURL 应该是 /
           hugo \
             --gc \
             --minify \

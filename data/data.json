@@ -1665,5 +1665,184 @@
         "url": "https://lzacg.org/4055"
       }
     ]
+  },
+  {
+    "title": "Golden Marriage",
+    "cover": "https://pic1.imgdb.cn/item/68a1f8aa58cb8da5c82b577c.webp",
+    "company": "ensemble",
+    "author": "Cartethyia",
+    "platforms": [
+      "Windows"
+    ],
+    "downloads": [
+      {
+        "provider": "GAL图书馆",
+        "url": "https://gallibrary.pw/game.html?id=444"
+      },
+      {
+        "provider": "TouchGal",
+        "url": "https://www.touchgal.us/24c5dd85"
+      },
+      {
+        "provider": "鲲Galgame",
+        "url": "https://www.kungal.com/galgame/3037"
+      }
+    ]
+  },
+  {
+    "title": "Golden Marriage -Jewel Days-",
+    "cover": "https://pic1.imgdb.cn/item/68a1f8fb58cb8da5c82b5788.webp",
+    "company": "ensemble",
+    "author": "Cartethyia",
+    "platforms": [
+      "Windows"
+    ],
+    "downloads": [
+      {
+        "provider": "GAL图书馆",
+        "url": "https://gallibrary.pw/game.html?id=1176"
+      },
+      {
+        "provider": "TouchGal",
+        "url": "https://www.touchgal.us/fc94146e"
+      },
+      {
+        "provider": "鲲Galgame",
+        "url": "https://www.kungal.com/galgame/3038"
+      }
+    ]
+  },
+  {
+    "title": "少女谱写的爱之咏叹调",
+    "cover": "https://pic1.imgdb.cn/item/68a1f9c358cb8da5c82b581a.webp",
+    "company": "ensemble",
+    "author": "Cartethyia",
+    "platforms": [
+      "Windows"
+    ],
+    "downloads": [
+      {
+        "provider": "GAL图书馆",
+        "url": "https://gallibrary.pw/game.html?id=463"
+      },
+      {
+        "provider": "VikaACG",
+        "url": "https://www.vikacg.com/p/149452.html"
+      },
+      {
+        "provider": "鲲Galgame",
+        "url": "https://www.kungal.com/galgame/1396"
+      }
+    ]
+  },
+  {
+    "title": "少女谱写的爱之咏叹调 ~为你所献上的演绎~",
+    "cover": "https://pic1.imgdb.cn/item/68a1f9c358cb8da5c82b581a.webp",
+    "company": "ensemble",
+    "author": "Cartethyia",
+    "platforms": [
+      "Windows"
+    ],
+    "downloads": [
+      {
+        "provider": "GAL图书馆",
+        "url": "https://gallibrary.pw/game.html?id=464"
+      },
+      {
+        "provider": "绅仕天堂",
+        "url": "https://www.chgal.com/a/galgame/5637.html"
+      }
+    ]
+  },
+  {
+    "title": "恋慕之心的交织方式",
+    "cover": "https://pic1.imgdb.cn/item/68a1fcd658cb8da5c82b5878.webp",
+    "company": "ensemble",
+    "author": "Cartethyia",
+    "platforms": [
+      "Windows"
+    ],
+    "downloads": [
+      {
+        "provider": "鲲Galgame",
+        "url": "https://www.kungal.com/galgame/1389"
+      },
+      {
+        "provider": "TouchGal",
+        "url": "https://www.touchgal.us/54850052"
+      }
+    ]
+  },
+  {
+    "title": "恋慕之心的交织方式 ～愿交织的思念永恒～",
+    "cover": "https://pic1.imgdb.cn/item/68a1fd9958cb8da5c82b58dd.webp",
+    "company": "ensemble",
+    "author": "Cartethyia",
+    "platforms": [
+      "Windows"
+    ],
+    "downloads": [
+      {
+        "provider": "鲲Galgame",
+        "url": "https://www.kungal.com/galgame/1392"
+      },
+      {
+        "provider": "TouchGal",
+        "url": "https://www.touchgal.us/e6b0c8fa"
+      }
+    ]
+  },
+  {
+    "title": "少女涂彩的爱之芳华",
+    "cover": "https://pic1.imgdb.cn/item/68a1fdf858cb8da5c82b58ed.webp",
+    "company": "ensemble",
+    "author": "Cartethyia",
+    "platforms": [
+      "Windows"
+    ],
+    "downloads": [
+      {
+        "provider": "GAL图书馆",
+        "url": "https://gallibrary.pw/game.html?id=474"
+      },
+      {
+        "provider": "TouchGal",
+        "url": "https://www.touchgal.us/774851e3"
+      }
+    ]
+  },
+  {
+    "title": "少女涂彩的爱之芳华 ~笑脸交织的未来~",
+    "cover": "https://pic1.imgdb.cn/item/68a1fe5058cb8da5c82b58fe.webp",
+    "company": "ensemble",
+    "author": "Cartethyia",
+    "platforms": [
+      "Windows"
+    ],
+    "downloads": [
+      {
+        "provider": "GAL图书馆",
+        "url": "https://gallibrary.pw/game.html?id=911"
+      },
+      {
+        "provider": "TouchGal",
+        "url": "https://www.touchgal.us/df9fff55"
+      }
+    ]
+  },
+  {
+    "title": "音符社合集",
+    "cover": "https://pic1.imgdb.cn/item/68a1fc0558cb8da5c82b585a.webp",
+    "company": "ensemble",
+    "author": "Cartethyia",
+    "platforms": [
+      "Windows"
+    ],
+    "downloads": [
+      {
+        "provider": "VikaACG",
+        "url": "https://www.vikacg.com/p/149452.html"
+      }
+    ]
   }
 ]
