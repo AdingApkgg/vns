@@ -1,8 +1,9 @@
 <nav>
     <a href="{{ .Site.BaseURL }}"><img src="{{ .Site.Params.logo }}" alt="Logo" id="logo"></a>
+    <h2>{{ .Site.Title }}</h2>
     {{ range .Site.Menus.main }}
-    <a href="{{ .URL }}">{{ .Name }}</a>
+    <a href="{{ .URL }}"><i class="{{ .Pre }}"></i>&nbsp;{{ .Name }}</a>
     {{ end }}
-    <button id="theme-toggle">{{ T "ToolBtns.theme" }}</button>
+    <button id="theme-toggle"><i class="fa fa-palette"></i>&nbsp;{{ T "ToolBtns.theme" }}</button>
     {{ partial "language-switcher.html" . }}
 </nav>
