@@ -1,17 +1,6 @@
-<script
-  src="https://registry.npmmirror.com/instant.page/latest/files/instantpage.js"
-  type="module"
-></script>
-<link
-  rel="stylesheet"
-  href="https://registry.npmmirror.com/weblive2d/latest/files/waifu.css"
-  importance="low"
-/>
-<script
-  async
-  src="https://registry.npmmirror.com/weblive2d/latest/files/js/autoload.js"
-  importance="low"
-></script>
+<script src="https://registry.npmmirror.com/instant.page/latest/files/instantpage.js" type="module"></script>
+<link rel="stylesheet" href="https://registry.npmmirror.com/weblive2d/latest/files/waifu.css" importance="low" />
+<script async src="https://registry.npmmirror.com/weblive2d/latest/files/js/autoload.js" importance="low"></script>
 <script>
   if ("serviceWorker" in navigator) {
     window.addEventListener("load", () => {
@@ -21,50 +10,18 @@
         .catch((err) => console.log("Service Worker Err", err));
     });
   }
-  window.addEventListener("DOMContentLoaded", (event) => {
-    new PagefindUI({ element: "#search", showSubResults: true });
-  });
   var meting_api =
     "https://meting.qjqq.cn/?server=:server&type=:type&id=:id&auth=:auth&r=:r";
 </script>
-<button id="back-to-top" title="Go to top">↑</button>
+<button id="menuToggle" title="Menu Toggle"><i class="fa fa-bars"></i></button>
+<button id="back-to-top" title="Go to top"><i class="fa fa-angles-up"></i></button>
 <span id="fps"></span>
-<div
-  id="tAgeVerification"
-  data-text='{{ T "AgeWarning.text" }}'
-  data-yes='{{ T "AgeWarning.confirm" }}'
-  data-no='{{ T "AgeWarning.deny" }}'
-  data-url='{{ T "AgeWarning.url" }}'
-  style="display: none"
-></div>
-<link
-  rel="stylesheet"
-  href="https://registry.npmmirror.com/aplayer/latest/files/dist/APlayer.min.css"
-  importance="low"
-/>
-<meting-js
-  id="8464409595"
-  server="netease"
-  type="playlist"
-  fixed="true"
-  autoplay="false"
-  order="random"
-  volume="0.3"
-  list-folded="false"
-  list-max-height="36vh"
-></meting-js>
-<script
-  async
-  src="https://registry.npmmirror.com/aplayer/latest/files/dist/APlayer.min.js"
-  importance="low"
-></script>
-<script
-  async
-  src="https://registry.npmmirror.com/meting/latest/files/dist/Meting.min.js"
-  importance="low"
-></script>
-<script
-  defer
-  src="https://registry.npmmirror.com/medium-zoom/latest/files/dist/medium-zoom.min.js"
-  importance="high"
-></script>
+<div id="tAgeVerification" data-text='{{ T "AgeWarning.text" }}' data-yes='{{ T "AgeWarning.confirm" }}'
+  data-no='{{ T "AgeWarning.deny" }}' data-url='{{ T "AgeWarning.url" }}' style="display: none"></div>
+<link rel="stylesheet" href="https://registry.npmmirror.com/aplayer/latest/files/dist/APlayer.min.css" importance="low">
+<meting-js id="8464409595" server="netease" type="playlist" fixed="true" autoplay="false" order="random" volume="0.3"
+  list-folded="false" list-max-height="36vh"></meting-js>
+<script async src="https://registry.npmmirror.com/aplayer/latest/files/dist/APlayer.min.js" importance="low"></script>
+<script async src="https://registry.npmmirror.com/meting/latest/files/dist/Meting.min.js" importance="low"></script>
+<script defer src="https://registry.npmmirror.com/medium-zoom/latest/files/dist/medium-zoom.min.js"
+  importance="high"></script>

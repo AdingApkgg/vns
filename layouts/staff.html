@@ -54,7 +54,7 @@
       font-size: 1.4em;
     }
   </style>
-  <h1>{{ .Title }}</h1>
+  <h1><i class="fas fa-hashtag"></i>&nbsp;{{ .Title }}</h1>
   {{ .Content }}
   <div class="content">
     {{ $defaultAuthor := .Site.Params.ogImage | absURL }} {{ range

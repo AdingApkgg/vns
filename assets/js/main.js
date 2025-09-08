@@ -1,4 +1,5 @@
 document.addEventListener("DOMContentLoaded", () => {
+  initMenuToggle();
   initGalPopup();
   lunar();
   initDarkMode();
@@ -8,12 +9,21 @@ document.addEventListener("DOMContentLoaded", () => {
 
 document.addEventListener("pjax:complete", () => {
   quicklink.listen({ priority: true });
+  initMenuToggle();
   initGalPopup();
   lunar();
   initDarkMode();
   initScrollEffects();
   initMediumZoom();
 });
+
+function initMenuToggle() {
+  const menuToggle = document.getElementById("menuToggle");
+  const targetElement = document.getElementsByTagName("header")[0];
+  menuToggle.addEventListener("click", function () {
+    targetElement.classList.toggle("active");
+  });
+}
 
 function initDarkMode() {
   const themeToggle = document.getElementById("theme-toggle");

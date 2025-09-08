@@ -1,6 +1,15 @@
 {{ define "main" }}
 <article class="article-main">
-  <h1>{{ .Title }}</h1>
+  <p>
+    <img
+      class="zoomable medium-zoom-image"
+      loading="lazy"
+      src="https://api.illlights.com/v1/img"
+      title="Random Image"
+      alt="Random Image"
+    />
+  </p>
+  <h1><i class="fas fa-hashtag"></i>&nbsp;{{ .Title }}</h1>
   {{ .Content }} {{ $paginator := .Paginate (where .Site.RegularPages "Type"
   "p") }} {{ range $paginator.Pages }}
   <article>

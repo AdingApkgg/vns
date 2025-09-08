@@ -7,7 +7,7 @@ title = 'VNS'
 [module]
 [module.hugoVersion]
 extended = true
-min = "0.149.1"
+min = "0.150.0"
 
 [caches]
 [caches.assets]
@@ -45,61 +45,79 @@ identifier = "oldsite"
 name = '旧站'
 url = 'https://gal.saop.cc/'
 weight = 1
+pre = "fa fa-champagne-glasses"
 [[languages.zh.menus.main]]
 identifier = "home"
 name = '首页'
 pageRef = '/'
 weight = 2
+pre = "fa fa-house"
 [[languages.zh.menus.main]]
 identifier = "archives"
 name = '归档'
 pageRef = '/archives'
 weight = 3
+pre = "fa fa-box-archive"
 [[languages.zh.menus.main]]
 identifier = "categories"
 name = '分类'
 pageRef = '/categories'
 weight = 4
+pre = "fa fa-th"
 [[languages.zh.menus.main]]
 identifier = "tags"
 name = '标签'
 pageRef = '/tags'
 weight = 5
+pre = "fa fa-tags"
 [[languages.zh.menus.main]]
 identifier = "about"
 name = '关于'
 pageRef = '/about'
 weight = 6
+pre = "fa fa-circle-info"
 [[languages.zh.menus.main]]
 identifier = "docs"
 name = '文档'
 pageRef = '/docs'
 weight = 7
+pre = "fa fa-file-lines"
 [[languages.zh.menus.main]]
 identifier = "comments"
 name = '留言'
 pageRef = '/comments'
 weight = 8
+pre = "fa fa-comment-dots"
 [[languages.zh.menus.main]]
 identifier = "data"
 name = '分流'
 pageRef = '/data'
 weight = 9
+pre = "fa fa-up-down-left-right"
 [[languages.zh.menus.main]]
 identifier = "staff"
 name = '成员'
 pageRef = '/staff'
 weight = 10
+pre = "fa fa-people-group"
 [[languages.zh.menus.main]]
 identifier = "cloud"
 name = '云盘'
 url = 'https://cloud.saop.cc/'
 weight = 11
+pre = "fa fa-cloud"
 [[languages.zh.menus.main]]
 identifier = "drive"
 name = '网盘'
 url = 'https://drive.saop.cc/'
 weight = 12
+pre = "fa fa-hard-drive"
+[[languages.zh.menus.main]]
+identifier = "search"
+name = '搜索'
+pageRef = '/search'
+weight = 13
+pre = "fa fa-search"
 
 [languages.ja]
 contentDir = 'content/ja'
@@ -255,6 +273,7 @@ date_format = "1970年01月01日"
 mainSections = ["p"]
 defaultAuthor = "Asuna"
 ogImage = "img/logo.svg"
+logo = "/img/logo.svg"
 
 paginate = 10
 paginatePath = "page"
