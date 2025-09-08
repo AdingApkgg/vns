@@ -1038,6 +1038,7 @@ blockquote {
 
 header {
   position: fixed;
+  max-width: 160px;
   height: 100%;
   top: 0px;
   right: 0px;
@@ -1086,10 +1087,21 @@ header {
   background-color: #0056b3;
 }
 
+#menuToggle {
+  display: block;
+  position: fixed;
+  bottom: 120px;
+  right: 10px;
+  z-index: 1001;
+  width: 30px;
+  height: 30px;
+  cursor: pointer;
+}
+
 header nav {
   top: 0;
   right: 0;
-  width: 22vh;
+  width: 100%;
   height: 100%;
   z-index: 1000;
   flex-direction: column;
@@ -1133,7 +1145,7 @@ header nav a img {
 
 main,
 #search {
-  max-width: 72vw;
+  max-width: 1000px;
   margin: 0 auto;
   padding: 1em;
   border-top: none;
