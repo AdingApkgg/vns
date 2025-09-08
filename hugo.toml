@@ -7,7 +7,7 @@ title = 'VNS'
 [module]
 [module.hugoVersion]
 extended = true
-min = "0.148.2"
+min = "0.149.1"
 
 [caches]
 [caches.assets]
@@ -101,6 +101,11 @@ identifier = "drive"
 name = '网盘'
 url = 'https://drive.saop.cc/'
 weight = 12
+[[languages.zh.menus.main]]
+identifier = "search"
+name = '搜索'
+pageRef = '/search'
+weight = 13
 
 [languages.ja]
 contentDir = 'content/ja'
@@ -256,6 +261,7 @@ date_format = "1970年01月01日"
 mainSections = ["p"]
 defaultAuthor = "Asuna"
 ogImage = "img/logo.svg"
+logo = "/img/logo.svg"
 
 paginate = 10
 paginatePath = "page"

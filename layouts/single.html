@@ -1,6 +1,6 @@
 {{ define "main" }}
 <article class="article-main">
-  <h1>{{ .Title }}</h1>
+  <h1><i class="fas fa-hashtag"></i>&nbsp;{{ .Title }}</h1>
   {{ if not (eq .Params.postmeta false) }} {{ partial "post-meta.html" . }} {{
   end }} {{ if in .TableOfContents "li" }} {{ .TableOfContents }} {{ end }}
   <div class="content">{{ .Content }}</div>

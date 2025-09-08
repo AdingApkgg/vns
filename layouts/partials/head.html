@@ -2,7 +2,6 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 <link rel="preconnect" href="https://registry.npmmirror.com/" crossorigin />
 <link rel="dns-prefetch" href="https://registry.npmmirror.com/" />
-<link rel="dns-prefetch" href="https://lf26-cdn-tos.bytecdntp.com/" />
 <link rel="dns-prefetch" href="https://busuanzi.9420.ltd/" />
 <title>
   {{ if .IsHome }}{{ site.Title }}{{ else }}{{ printf "%s | %s" .Title
@@ -27,8 +26,6 @@
   importance="high" />
 <link rel="stylesheet" href="https://registry.npmmirror.com/animate.css/latest/files/animate.min.css"
   fetchpriority="high" />
-<link rel="stylesheet" href="/pagefind/pagefind-ui.css" importance="high" />
-<script src="/pagefind/pagefind-ui.js" importance="high"></script>
 <script>
   document.addEventListener("DOMContentLoaded", () => {
     const pjax = new Pjax({
@@ -40,6 +37,7 @@
         "header",
         ".article-main",
         ".comments",
+        "#search",
         "footer",
       ],
       cacheBust: false,

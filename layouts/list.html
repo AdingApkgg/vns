@@ -1,6 +1,6 @@
 {{ define "main" }}
 <article class="article-main">
-  <h1>{{ .Title }}</h1>
+  <h1><i class="fas fa-hashtag"></i>&nbsp;{{ .Title }}</h1>
   {{ .Content }} {{ $paginator := .Paginate (where .Site.RegularPages "Type"
   "docs") }} {{ range $paginator.Pages }}
   <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>

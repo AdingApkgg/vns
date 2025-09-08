@@ -1,6 +1,6 @@
 {{ define "main" }}
 <article class="article-main">
-  <h1>{{ T "archives" }}</h1>
+  <h1><i class="fas fa-hashtag"></i>&nbsp;{{ T "archives" }}</h1>
   {{ $pages := where .Site.RegularPages "Type" "in" .Site.Params.mainSections }}
   {{ $groupedPages := $pages.GroupByDate "2006" }} {{ range $groupedPages }}
   <h2>{{ .Key }}</h2>

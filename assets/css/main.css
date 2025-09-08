@@ -1,5 +1,5 @@
 :root {
-  --bg-color: #ffffff;
+  --bg-color: rgba(250, 250, 250, 0.7);
   --bg-span-color: rgba(120, 120, 120, 0.2);
   --bg-li-color: rgba(250, 250, 250, 0.3);
   --border-color: rgba(200, 200, 200, 1);
@@ -9,11 +9,11 @@
   --table-row-hover-bg-color: #f5f5f5;
   --highlight-background: #f3f3f3;
   --highlight-foreground: #444;
-  --bg-header-fixed: rgba(255, 255, 255, 0.7);
+  --bg-header-fixed: rgba(250, 250, 250, 0.9);
 }
 
 [data-theme="dark"] {
-  --bg-color: #1a1a1a;
+  --bg-color: rgba(26, 26, 26, 0.7);
   --bg-span-color: rgba(50, 50, 50, 1);
   --bg-li-color: rgba(51, 51, 51, 0.3);
   --border-color: rgba(250, 250, 250, 0.3);
@@ -1037,23 +1037,15 @@ blockquote {
 }
 
 header {
-  display: inline-block;
-  top: 0;
-  right: 0;
-  background: var(--bg-color);
+  position: fixed;
+  top: 0px;
+  right: 0px;
+  background: var(--bg-header-fixed);
   border-bottom: 1px solid #e0e0e0;
   transition: all 0.3s ease;
-}
-
-header.fixed {
-  position: fixed;
-  top: 0;
-  left: 0;
-  width: 100%;
   box-shadow: 0 5px 6px -5px rgba(133, 133, 133, 0.6);
   z-index: 2;
-  animation: fadeInDown 0.3s ease;
-  background: var(--bg-header-fixed);
+  animation: rubberBand 0.3s ease;
 }
 
 @keyframes fadeInDown {
@@ -1096,29 +1088,28 @@ header.fixed {
 header nav {
   top: 0;
   right: 0;
-  width: 20vh;
+  width: 12vh;
   height: 100%;
   z-index: 1000;
-  background: var(--bg-header-fixed);
   flex-direction: column;
   display: flex;
 }
 
-/* header nav {
+header nav {
   max-width: 1000px;
-  height: 60px;
+  /* height: 60px; */
   margin: 0 auto;
   overflow-x: auto;
   overflow-y: hidden;
   white-space: nowrap;
-} */
+}
 
 header nav a {
   color: var(--link-color);
   text-decoration: none;
-  /* height: 100%; */
+  height: 100%;
   padding: 0 0.5em;
-  /* line-height: 60px; */
+  line-height: 60px;
   display: inline-block;
   text-align: center;
   line-height: 2;
@@ -1129,11 +1120,15 @@ header nav a:hover {
   text-decoration: underline;
 }
 
+header nav a img {
+  max-width: 100%;
+  height: auto;
+}
+
 main,
 #search {
-  max-width: 70%;
-  display: inline-block;
-  /* margin: 10px auto; */
+  max-width: 1000px;
+  margin: 0 auto;
   padding: 1em;
   border-top: none;
   border-bottom: none;
@@ -1141,11 +1136,12 @@ main,
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
   background-color: var(--bg-color);
   color: var(--text-color);
+  animation: rubberBand 0.3s ease;
 }
 
-/* #search {
-  margin-top: 71px;
-} */
+main h1 {
+  font-size: 2.2em;
+}
 
 main h2 {
   border-bottom: 1px solid #e0e0e0;

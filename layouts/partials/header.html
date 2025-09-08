@@ -1,4 +1,5 @@
 <nav>
+    <a href="{{ .Site.BaseURL }}"><img src="{{ .Site.Params.logo }}" alt="Logo" id="logo"></a>
     {{ range .Site.Menus.main }}
     <a href="{{ .URL }}">{{ .Name }}</a>
     {{ end }}
