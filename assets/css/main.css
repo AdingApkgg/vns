@@ -1133,7 +1133,7 @@ header nav a img {
 
 main,
 #search {
-  max-width: 1000px;
+  max-width: 72vw;
   margin: 0 auto;
   padding: 1em;
   border-top: none;
