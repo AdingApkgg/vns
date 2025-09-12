@@ -12,18 +12,20 @@
   --bg-header-fixed: rgba(250, 250, 250, 0.8);
 }
 
-[data-theme="dark"] {
-  --bg-color: rgba(26, 26, 26, 0.7);
-  --bg-span-color: rgba(50, 50, 50, 1);
-  --bg-li-color: rgba(51, 51, 51, 0.3);
-  --border-color: rgba(250, 250, 250, 0.3);
-  --text-color: #f8f9fa;
-  --link-color: #4dabf7;
-  --table-row-odd-bg-color: #282828;
-  --table-row-hover-bg-color: #363636;
-  --highlight-background: #3b3b3b;
-  --highlight-foreground: #fff;
-  --bg-header-fixed: rgba(18, 18, 18, 0.8);
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg-color: rgba(26, 26, 26, 0.7);
+    --bg-span-color: rgba(50, 50, 50, 1);
+    --bg-li-color: rgba(51, 51, 51, 0.3);
+    --border-color: rgba(250, 250, 250, 0.3);
+    --text-color: #f8f9fa;
+    --link-color: #4dabf7;
+    --table-row-odd-bg-color: #282828;
+    --table-row-hover-bg-color: #363636;
+    --highlight-background: #3b3b3b;
+    --highlight-foreground: #fff;
+    --bg-header-fixed: rgba(18, 18, 18, 0.8);
+  }
 }
 
 @font-face {
@@ -1038,7 +1040,7 @@ blockquote {
 
 header {
   position: fixed;
-  max-width: 160px;
+  max-width: 126px;
   height: 100%;
   top: 0px;
   right: 0px;
@@ -1198,8 +1200,11 @@ footer {
   padding: 1rem;
 }
 
-[data-theme="dark"] footer {
-  background: rgba(18, 18, 18, 0.8);
+@media (prefers-color-scheme: dark) {
+  footer {
+    background: rgba(20, 20, 20, 0.7);
+    border-top: 1px solid #333;
+  }
 }
 
 footer p {
@@ -1316,7 +1321,6 @@ footer p {
 
 @media (max-width: 960px) {
   header {
-    max-width: 160px;
     height: auto;
     position: fixed;
     bottom: 0;

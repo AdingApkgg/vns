@@ -2,7 +2,6 @@ document.addEventListener("DOMContentLoaded", () => {
   initMenuToggle();
   initGalPopup();
   lunar();
-  initDarkMode();
   initScrollEffects();
   initMediumZoom();
 });
@@ -12,7 +11,6 @@ document.addEventListener("pjax:complete", () => {
   initMenuToggle();
   initGalPopup();
   lunar();
-  initDarkMode();
   initScrollEffects();
   initMediumZoom();
 });
@@ -23,22 +21,6 @@ function initMenuToggle() {
   menuToggle.addEventListener("click", function () {
     targetElement.classList.toggle("active");
   });
-}
-
-function initDarkMode() {
-  const themeToggle = document.getElementById("theme-toggle");
-  const currentTheme = localStorage.getItem("theme") || "light";
-  document.documentElement.setAttribute("data-theme", currentTheme);
-  if (themeToggle) {
-    themeToggle.addEventListener("click", () => {
-      const newTheme =
-        document.documentElement.getAttribute("data-theme") === "dark"
-          ? "light"
-          : "dark";
-      document.documentElement.setAttribute("data-theme", newTheme);
-      localStorage.setItem("theme", newTheme);
-    });
-  }
 }
 
 function initScrollEffects() {
