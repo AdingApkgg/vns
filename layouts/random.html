@@ -1,0 +1,33 @@
+{{ define "main" }}
+<article class="article-main">
+    <p>Redirecting to a random post...</p>
+    <script>
+        fetch('/p/index.xml').then(response => {
+            if (!response.ok) throw new Error('Failed to fetch index.xml');
+            return response.text();
+        })
+            .then(xmlText => {
+                const parser = new DOMParser();
+                const xmlDoc = parser.parseFromString(xmlText, 'text/xml');
+                const links = xmlDoc.getElementsByTagName('link');
+                const posts = Array.from(links)
+                    .map(link => link.textContent)
+                    .filter(url => url !== '{{ .Site.BaseURL }}'); // 排除 channel 的 <link>
+
+                console.log('Posts array:', posts); // 调试：检查提取的 URL 数组
+                if (!posts || posts.length === 0) {
+                    console.warn('No pages available');
+                    document.body.innerHTML = '<p>No random pages found. Please try again.</p>';
+                    return;
+                }
+                const randomUrl = posts[Math.floor(Math.random() * posts.length)];
+                console.log('Redirecting to:', randomUrl); // 调试：检查跳转 URL
+                pjax.loadUrl(randomUrl);
+            })
+            .catch(error => {
+                console.error('Error loading index.xml:', error);
+                document.body.innerHTML = '<p>Error loading random page. Please try again.</p>';
+            });
+    </script>
+</article>
+{{ end }}

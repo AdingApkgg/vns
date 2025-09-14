@@ -1043,7 +1043,7 @@ header {
   max-width: 126px;
   height: 100%;
   top: 0px;
-  right: 0px;
+  left: 0px;
   background: var(--bg-header-fixed);
   border-bottom: 1px solid #e0e0e0;
   transition: all 0.3s ease;
@@ -1052,7 +1052,25 @@ header {
 }
 
 header.active {
+  left: 0px;
+}
+
+#waifu {
+  left: 100%;
+  transform: translate(-100%, 3px);
+}
+
+#waifu:hover {
+  transform: translate(-100%, 0);
+}
+
+#waifu-tips {
   right: 0px;
+}
+
+#waifu-tool {
+  left: 0;
+  transform: translateX(-50%);
 }
 
 @keyframes fadeInDown {
@@ -1132,6 +1150,10 @@ header nav h2 {
   font-size: 2.2em;
   margin: 0 auto;
   animation: rubberBand 0.3s ease;
+}
+
+header nav p {
+  text-align: center;
 }
 
 header nav a,
@@ -1324,7 +1346,7 @@ footer p {
     height: auto;
     position: fixed;
     bottom: 0;
-    right: -100%;
+    left: -100%;
   }
 
   #menuToggle {

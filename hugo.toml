@@ -118,6 +118,12 @@ name = '搜索'
 pageRef = '/search'
 weight = 13
 pre = "fa fa-search"
+[[languages.zh.menus.main]]
+identifier = "random"
+name = '随机'
+pageRef = '/random'
+weight = 14
+pre = "fa fa-shuffle"
 
 [languages.ja]
 contentDir = 'content/ja'
@@ -292,6 +298,7 @@ endLevel = 4
 ordered = true
 
 [params]
+subtitle = 'Visual Novel'
 summaryLength = 100
 date_format = "1970年01月01日"
 mainSections = ["p"]
