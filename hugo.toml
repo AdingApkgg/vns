@@ -32,257 +32,96 @@ maxAge = -1
 dir = ':cacheDir/modules'
 maxAge = -1
 
-[languages]
-[languages.zh]
-contentDir = 'content/zh'
+contentDir = 'content'
 languageName = "简体中文"
 languageDirection = "ltr"
 languageCode = "zh"
 hasCJKLanguage = true
 weight = 1
-[[languages.zh.menus.main]]
+[[menus.main]]
 identifier = "oldsite"
 name = '旧站'
 url = 'https://gal.saop.cc/'
 weight = 1
 pre = "fa fa-champagne-glasses"
-[[languages.zh.menus.main]]
+[[menus.main]]
 identifier = "home"
 name = '首页'
 pageRef = '/'
 weight = 2
 pre = "fa fa-house"
-[[languages.zh.menus.main]]
+[[menus.main]]
 identifier = "archives"
 name = '归档'
 pageRef = '/archives'
 weight = 3
 pre = "fa fa-box-archive"
-[[languages.zh.menus.main]]
+[[menus.main]]
 identifier = "categories"
 name = '分类'
 pageRef = '/categories'
 weight = 4
 pre = "fa fa-th"
-[[languages.zh.menus.main]]
+[[menus.main]]
 identifier = "tags"
 name = '标签'
 pageRef = '/tags'
 weight = 5
 pre = "fa fa-tags"
-[[languages.zh.menus.main]]
+[[menus.main]]
 identifier = "about"
 name = '关于'
 pageRef = '/about'
 weight = 6
 pre = "fa fa-circle-info"
-[[languages.zh.menus.main]]
+[[menus.main]]
 identifier = "docs"
 name = '文档'
 pageRef = '/docs'
 weight = 7
 pre = "fa fa-file-lines"
-[[languages.zh.menus.main]]
+[[menus.main]]
 identifier = "comments"
 name = '留言'
 pageRef = '/comments'
 weight = 8
 pre = "fa fa-comment-dots"
-[[languages.zh.menus.main]]
-identifier = "data"
-name = '分流'
-pageRef = '/data'
+[[menus.main]]
+identifier = "dls"
+name = '下载'
+pageRef = '/dls'
 weight = 9
-pre = "fa fa-up-down-left-right"
-[[languages.zh.menus.main]]
-identifier = "staff"
-name = '成员'
-pageRef = '/staff'
+pre = "fa fa-download"
+[[menus.main]]
+identifier = "teams"
+name = '团队'
+pageRef = '/teams'
 weight = 10
 pre = "fa fa-people-group"
-[[languages.zh.menus.main]]
+[[menus.main]]
 identifier = "cloud"
 name = '云盘'
 url = 'https://cloud.saop.cc/'
 weight = 11
 pre = "fa fa-cloud"
-[[languages.zh.menus.main]]
+[[menus.main]]
 identifier = "drive"
 name = '网盘'
 url = 'https://drive.saop.cc/'
 weight = 12
 pre = "fa fa-hard-drive"
-[[languages.zh.menus.main]]
+[[menus.main]]
 identifier = "search"
 name = '搜索'
 pageRef = '/search'
 weight = 13
 pre = "fa fa-search"
-[[languages.zh.menus.main]]
+[[menus.main]]
 identifier = "random"
 name = '随机'
 pageRef = '/random'
 weight = 14
 pre = "fa fa-shuffle"
-
-[languages.ja]
-contentDir = 'content/ja'
-languageName = "日本語"
-languageDirection = "ltr"
-languageCode = "ja"
-hasCJKLanguage = true
-weight = 2
-[[languages.ja.menus.main]]
-identifier = "oldsite"
-name = '旧サイト'
-url = 'https://gal.saop.cc/'
-weight = 1
-pre = "fa fa-champagne-glasses"
-[[languages.ja.menus.main]]
-identifier = "home"
-name = 'ホームページ'
-pageRef = '/'
-weight = 2
-pre = "fa fa-house"
-[[languages.ja.menus.main]]
-identifier = "archives"
-name = 'アーカイブ'
-pageRef = '/archives'
-weight = 3
-pre = "fa fa-box-archive"
-[[languages.ja.menus.main]]
-identifier = "categories"
-name = 'カテゴリー'
-pageRef = '/categories'
-weight = 4
-pre = "fa fa-th"
-[[languages.ja.menus.main]]
-identifier = "tags"
-name = 'タグ'
-pageRef = '/tags'
-weight = 5
-pre = "fa fa-tags"
-[[languages.ja.menus.main]]
-identifier = "about"
-name = 'このサイトについて'
-pageRef = '/about'
-weight = 6
-pre = "fa fa-circle-info"
-[[languages.ja.menus.main]]
-identifier = "docs"
-name = '書類'
-pageRef = '/docs'
-weight = 7
-pre = "fa fa-file-lines"
-[[languages.ja.menus.main]]
-identifier = "comments"
-name = 'メッセージ'
-pageRef = '/comments'
-weight = 8
-pre = "fa fa-comment-dots"
-[[languages.ja.menus.main]]
-identifier = "data"
-name = '分流'
-pageRef = '/data'
-weight = 9
-pre = "fa fa-up-down-left-right"
-[[languages.ja.menus.main]]
-identifier = "staff"
-name = 'メンバー'
-pageRef = '/staff'
-weight = 10
-pre = "fa fa-people-group"
-[[languages.ja.menus.main]]
-identifier = "cloud"
-name = 'クラウド'
-url = 'https://cloud.saop.cc/'
-weight = 11
-pre = "fa fa-cloud"
-[[languages.ja.menus.main]]
-identifier = "drive"
-name = 'ネットディスク'
-url = 'https://drive.saop.cc/'
-weight = 12
-pre = "fa fa-hard-drive"
-
-[languages.en]
-contentDir = 'content/en'
-languageName = "English"
-languageDirection = "ltr"
-languageCode = "en"
-weight = 3
-[[languages.en.menus.main]]
-identifier = "oldsite"
-name = 'OldSite'
-url = 'https://gal.saop.cc/'
-weight = 1
-pre = "fa fa-champagne-glasses"
-[[languages.en.menus.main]]
-identifier = "home"
-name = 'Home'
-pageRef = '/'
-weight = 2
-pre = "fa fa-house"
-[[languages.en.menus.main]]
-identifier = "archives"
-name = 'Archives'
-pageRef = '/archives'
-weight = 3
-pre = "fa fa-box-archive"
-[[languages.en.menus.main]]
-identifier = "categories"
-name = 'Categories'
-pageRef = '/categories'
-weight = 4
-pre = "fa fa-th"
-[[languages.en.menus.main]]
-identifier = "tags"
-name = 'Tags'
-pageRef = '/tags'
-weight = 5
-pre = "fa fa-tags"
-[[languages.en.menus.main]]
-identifier = "about"
-name = 'About'
-pageRef = '/about'
-weight = 6
-pre = "fa fa-circle-info"
-[[languages.en.menus.main]]
-identifier = "docs"
-name = 'Docs'
-pageRef = '/docs'
-weight = 7
-pre = "fa fa-file-lines"
-[[languages.en.menus.main]]
-identifier = "comments"
-name = 'Comments'
-pageRef = '/comments'
-weight = 8
-pre = "fa fa-comment-dots"
-[[languages.en.menus.main]]
-identifier = "data"
-name = 'Mirrors'
-pageRef = '/data'
-weight = 9
-pre = "fa fa-up-down-left-right"
-[[languages.en.menus.main]]
-identifier = "staff"
-name = 'Team'
-pageRef = '/staff'
-weight = 10
-pre = "fa fa-people-group"
-[[languages.en.menus.main]]
-identifier = "cloud"
-name = 'Cloud'
-url = 'https://cloud.saop.cc/'
-weight = 11
-pre = "fa fa-cloud"
-[[languages.en.menus.main]]
-identifier = "drive"
-name = 'Drive'
-url = 'https://drive.saop.cc/'
-weight = 12
-pre = "fa fa-hard-drive"
 
 [markup]
 defaultMarkdownHandler = "goldmark"
