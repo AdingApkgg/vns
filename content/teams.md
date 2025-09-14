@@ -1,6 +1,6 @@
 +++
 title = "团队成员"
-layout = "staff"
+layout = "teams"
 comments = false
 +++
 

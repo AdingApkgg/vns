@@ -117,16 +117,16 @@
     }
   </style>
   <h1><i class="fas fa-hashtag"></i>&nbsp;{{ .Title }}</h1>
-  <div id="content">少女祈祷中...</div>
+  <div class="content" id="content">{{ .Content }}</div>
   <script>
     document.addEventListener("DOMContentLoaded", () => {
-      fetchData();
+      fetchDLS();
     });
     document.addEventListener("pjax:complete", () => {
-      fetchData();
+      fetchDLS();
     });
 
-    function fetchData() {
+    function fetchDLS() {
       const jsonUrl =
         "https://ghfast.top/https://raw.githubusercontent.com/AdingApkgg/vns/refs/heads/dev/data/data.json";
 
