@@ -1,8 +1,8 @@
 <nav>
-  <a href="{{ .Site.BaseURL }}{{ .Site.Language.Lang }}/"
-    ><img src="{{ .Site.Params.logo }}" alt="Logo" id="logo"
-  /></a>
+  <a href="{{ .Site.BaseURL }}{{ .Site.Language.Lang }}/"><img src="{{ .Site.Params.logo }}" alt="Logo" id="logo" /></a>
   <h2>{{ .Site.Title }}</h2>
+  <p>{{ .Site.Params.subtitle }}
+  </p>
   {{ range .Site.Menus.main }}
   <a href="{{ .URL }}"><i class="{{ .Pre }}"></i>&nbsp;{{ .Name }}</a>
   {{ end }} {{/* {{ partial "language-switcher.html" . }} */}}

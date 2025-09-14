@@ -1,4 +1,7 @@
-<p>&copy; {{ now.Year }} {{ .Site.Title }}</p>
+<p><i class="fa fa-copyright"></i>&nbsp;2024-{{ time.Now.Year }}&nbsp;{{ .Site.Params.defaultAuthor }}</p>
+<p>使用 <a target="_blank" href="https://gohugo.io/">hugo{{ hugo.Version }}</a> 和 <a target="_blank"
+    href="https://go.dev/">{{ hugo.GoVersion }}</a>
+  构建</p>
 <p>
   {{ T "SiteInfoItems.totalViews" }}<span id="busuanzi_site_pv">null</span>，{{
   T "SiteInfoItems.visitors" }}<span id="busuanzi_site_uv">null</span>
