@@ -34,4 +34,4 @@ hugo server
 
 ## 参与贡献
 
-目前网站有许多内容需要建设完善，欢迎对本站内容及源码做贡献，更多信息请参阅 [贡献指南](/content/zh/docs/postscript/contribute.md)。
+目前网站有许多内容需要建设完善，欢迎对本站内容及源码做贡献，更多信息请参阅 [贡献指南](/content/docs/%E8%B4%A1%E7%8C%AE%E6%8C%87%E5%8D%97.md)。
