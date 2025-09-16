@@ -2,7 +2,7 @@
 "targetPath" "css/style.css"
 "transpiler" "dartsass"
 }}
-{{- with resources.Get "scss/style.scss" | toCSS $options }} {{- if eq hugo.Environment
+{{- with resources.Get "sass/style.scss" | toCSS $options }} {{- if eq hugo.Environment
 "development" }}
 <link rel="stylesheet" href="{{ .RelPermalink }}" importance="high" />
 {{- else }} {{- with . | minify | fingerprint }}
