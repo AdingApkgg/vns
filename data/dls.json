@@ -4,9 +4,7 @@
     "cover": "https://pic1.imgdb.cn/item/683c6f8958cb8da5c821898f.webp",
     "company": "TYPE-MOON",
     "author": "Phoebe",
-    "platforms": [
-      "Windows"
-    ],
+    "platforms": ["Windows"],
     "downloads": [
       {
         "provider": "鲲Galgame",
@@ -23,11 +21,7 @@
     "cover": "https://pic1.imgdb.cn/item/683c703c58cb8da5c82189f0.webp",
     "company": "TYPE-MOON",
     "author": "Phoebe",
-    "platforms": [
-      "Windows",
-      "ONS",
-      "NS"
-    ],
+    "platforms": ["Windows", "ONS", "NS"],
     "downloads": [
       {
         "provider": "绮梦ACG",
@@ -48,9 +42,7 @@
     "cover": "https://pic1.imgdb.cn/item/683c708158cb8da5c8218a0a.webp",
     "company": "TYPE-MOON",
     "author": "Phoebe",
-    "platforms": [
-      "Windows"
-    ],
+    "platforms": ["Windows"],
     "downloads": [
       {
         "provider": "鲲Galgame",
@@ -71,9 +63,7 @@
     "cover": "https://pic1.imgdb.cn/item/683c714558cb8da5c8218a75.webp",
     "company": "TYPE-MOON",
     "author": "Phoebe",
-    "platforms": [
-      "Windows"
-    ],
+    "platforms": ["Windows"],
     "downloads": [
       {
         "provider": "量子acg",
@@ -90,9 +80,7 @@
     "cover": "https://pic1.imgdb.cn/item/683c720b58cb8da5c8218abe.webp",
     "company": "TYPE-MOON",
     "author": "Phoebe",
-    "platforms": [
-      "Windows"
-    ],
+    "platforms": ["Windows"],
     "downloads": [
       {
         "provider": "忧郁的loli",
@@ -109,10 +97,7 @@
     "cover": "https://static.30hb.cn/vndb/img/mahoyo.webp",
     "company": "TYPE-MOON",
     "author": "Asuna",
-    "platforms": [
-      "Windows",
-      "KRKR"
-    ],
+    "platforms": ["Windows", "KRKR"],
     "downloads": [
       {
         "provider": "AsunaDrive",
@@ -129,9 +114,7 @@
     "cover": "https://pic1.imgdb.cn/item/683c733b58cb8da5c8218b0d.webp",
     "company": "TYPE-MOON",
     "author": "Phoebe",
-    "platforms": [
-      "Windows"
-    ],
+    "platforms": ["Windows"],
     "downloads": [
       {
         "provider": "青桔ACG",
@@ -148,10 +131,7 @@
     "cover": "https://pic1.imgdb.cn/item/683dc9fa58cb8da5c825d88b.webp",
     "company": "YUZUSOFT",
     "author": "Phoebe",
-    "platforms": [
-      "Windows",
-      "KRKR"
-    ],
+    "platforms": ["Windows", "KRKR"],
     "downloads": [
       {
         "provider": "梓澪の妙妙屋",
@@ -172,9 +152,7 @@
     "cover": "https://pic1.imgdb.cn/item/683dcaaa58cb8da5c825d8d5.webp",
     "company": "YUZUSOFT",
     "author": "Phoebe",
-    "platforms": [
-      "Windows"
-    ],
+    "platforms": ["Windows"],
     "downloads": [
       {
         "provider": "梓澪の妙妙屋",
@@ -195,10 +173,7 @@
     "cover": "https://pic1.imgdb.cn/item/683dcb8458cb8da5c825d935.webp",
     "company": "YUZUSOFT",
     "author": "Phoebe",
-    "platforms": [
-      "Windows",
-      "KRKR"
-    ],
+    "platforms": ["Windows", "KRKR"],
     "downloads": [
       {
         "provider": "梓澪の妙妙屋",
@@ -219,10 +194,7 @@
     "cover": "https://pic1.imgdb.cn/item/683dcbbb58cb8da5c825d944.webp",
     "company": "YUZUSOFT",
     "author": "Phoebe",
-    "platforms": [
-      "Windows",
-      "KRKR"
-    ],
+    "platforms": ["Windows", "KRKR"],
     "downloads": [
       {
         "provider": "TouchGal",
@@ -235,9 +207,7 @@
     "cover": "https://pic1.imgdb.cn/item/683dcc6458cb8da5c825d996.webp",
     "company": "YUZUSOFT",
     "author": "Phoebe",
-    "platforms": [
-      "Windows"
-    ],
+    "platforms": ["Windows"],
     "downloads": [
       {
         "provider": "VikaACG",
@@ -254,9 +224,7 @@
     "cover": "https://pic1.imgdb.cn/item/683dccf458cb8da5c825d9b3.webp",
     "company": "YUZUSOFT",
     "author": "Phoebe",
-    "platforms": [
-      "Windows"
-    ],
+    "platforms": ["Windows"],
     "downloads": [
       {
         "provider": "鲲Galgame",
@@ -273,9 +241,7 @@
     "cover": "https://pic1.imgdb.cn/item/683dcd5358cb8da5c825d9c1.webp",
     "company": "YUZUSOFT",
     "author": "Phoebe",
-    "platforms": [
-      "Windows"
-    ],
+    "platforms": ["Windows"],
     "downloads": [
       {
         "provider": "GAL图书馆",
@@ -292,10 +258,7 @@
     "cover": "https://pic1.imgdb.cn/item/683dcd9a58cb8da5c825d9d8.webp",
     "company": "YUZUSOFT",
     "author": "Phoebe",
-    "platforms": [
-      "Windows",
-      "KRKR"
-    ],
+    "platforms": ["Windows", "KRKR"],
     "downloads": [
       {
         "provider": "GAL图书馆",
@@ -312,10 +275,7 @@
     "cover": "https://static.30hb.cn/vndb/img/sothewitch.webp",
     "company": "YUZUSOFT",
     "author": "Asuna",
-    "platforms": [
-      "Windows",
-      "KRKR"
-    ],
+    "platforms": ["Windows", "KRKR"],
     "downloads": [
       {
         "provider": "AsunaDrive",
@@ -332,10 +292,7 @@
     "cover": "https://static.30hb.cn/vndb/img/senren.webp",
     "company": "YUZUSOFT",
     "author": "Asuna",
-    "platforms": [
-      "Windows",
-      "KRKR"
-    ],
+    "platforms": ["Windows", "KRKR"],
     "downloads": [
       {
         "provider": "AsunaDrive",
@@ -352,9 +309,7 @@
     "cover": "https://pic1.imgdb.cn/item/683dce2d58cb8da5c825d9f1.webp",
     "company": "YUZUSOFT",
     "author": "Phoebe",
-    "platforms": [
-      "Windows"
-    ],
+    "platforms": ["Windows"],
     "downloads": [
       {
         "provider": "GAL图书馆",
@@ -371,10 +326,7 @@
     "cover": "https://static.30hb.cn/vndb/img/stella_yuzu-soft.webp",
     "company": "YUZUSOFT",
     "author": "Asuna",
-    "platforms": [
-      "Windows",
-      "KRKR"
-    ],
+    "platforms": ["Windows", "KRKR"],
     "downloads": [
       {
         "provider": "AsunaDrive",
@@ -391,10 +343,7 @@
     "cover": "https://pic1.imgdb.cn/item/683dce8258cb8da5c825da05.webp",
     "company": "YUZUSOFT",
     "author": "Phoebe",
-    "platforms": [
-      "Windows",
-      "KRKR"
-    ],
+    "platforms": ["Windows", "KRKR"],
     "downloads": [
       {
         "provider": "GAL图书馆",
@@ -411,10 +360,7 @@
     "cover": "https://static.30hb.cn/vndb/img/ten-sz.webp",
     "company": "YUZUSOFT",
     "author": "Asuna",
-    "platforms": [
-      "Windows",
-      "KRKR"
-    ],
+    "platforms": ["Windows", "KRKR"],
     "downloads": [
       {
         "provider": "AsunaDrive",
@@ -431,12 +377,7 @@
     "cover": "https://static.30hb.cn/vndb/img/yosuga.webp",
     "company": "Sphere",
     "author": "Asuna",
-    "platforms": [
-      "Windows",
-      "Android",
-      "ONS",
-      "PSP"
-    ],
+    "platforms": ["Windows", "Android", "ONS", "PSP"],
     "downloads": [
       {
         "provider": "AsunaDrive",
@@ -453,11 +394,7 @@
     "cover": "https://static.30hb.cn/vndb/img/haruka.webp",
     "company": "Sphere",
     "author": "Asuna",
-    "platforms": [
-      "Windows",
-      "Android",
-      "ONS"
-    ],
+    "platforms": ["Windows", "Android", "ONS"],
     "downloads": [
       {
         "provider": "AsunaDrive",
@@ -474,9 +411,7 @@
     "cover": "https://pic1.imgdb.cn/item/683fa94458cb8da5c82a0513.webp",
     "company": "Sphere",
     "author": "Phoebe",
-    "platforms": [
-      "Windows"
-    ],
+    "platforms": ["Windows"],
     "downloads": [
       {
         "provider": "TouchGal",
@@ -493,9 +428,7 @@
     "cover": "https://pic1.imgdb.cn/item/683fa9c058cb8da5c82a055d.jpg",
     "company": "Sphere",
     "author": "Phoebe",
-    "platforms": [
-      "Windows"
-    ],
+    "platforms": ["Windows"],
     "downloads": [
       {
         "provider": "TouchGal",
@@ -516,10 +449,7 @@
     "cover": "https://static.30hb.cn/vndb/img/sylvie.webp",
     "company": "FreakilyCharming",
     "author": "Asuna",
-    "platforms": [
-      "Windows",
-      "Android"
-    ],
+    "platforms": ["Windows", "Android"],
     "downloads": [
       {
         "provider": "AsunaDrive",
@@ -536,10 +466,7 @@
     "cover": "https://static.30hb.cn/vndb/img/1room.webp",
     "company": "Akari Blast!",
     "author": "Asuna",
-    "platforms": [
-      "Windows",
-      "Android"
-    ],
+    "platforms": ["Windows", "Android"],
     "downloads": [
       {
         "provider": "AsunaDrive",
@@ -556,9 +483,7 @@
     "cover": "https://pic1.imgdb.cn/item/681a2ed658cb8da5c8e149b2.png",
     "company": "minori",
     "author": "Phoebe",
-    "platforms": [
-      "Windows"
-    ],
+    "platforms": ["Windows"],
     "downloads": [
       {
         "provider": "TouchGal",
@@ -575,9 +500,7 @@
     "cover": "https://pic1.imgdb.cn/item/685c9ea758cb8da5c8715b4e.webp",
     "company": "minori",
     "author": "Phoebe",
-    "platforms": [
-      "Windows"
-    ],
+    "platforms": ["Windows"],
     "downloads": [
       {
         "provider": "TouchGal",
@@ -594,9 +517,7 @@
     "cover": "https://pic1.imgdb.cn/item/685c9ee358cb8da5c8715b54.webp",
     "company": "August",
     "author": "Phoebe",
-    "platforms": [
-      "Windows"
-    ],
+    "platforms": ["Windows"],
     "downloads": [
       {
         "provider": "TouchGal",
@@ -613,9 +534,7 @@
     "cover": "https://pic1.imgdb.cn/item/685c9f0b58cb8da5c8715b56.webp",
     "company": "August",
     "author": "Phoebe",
-    "platforms": [
-      "Windows"
-    ],
+    "platforms": ["Windows"],
     "downloads": [
       {
         "provider": "TouchGal",
@@ -632,9 +551,7 @@
     "cover": "https://pic1.imgdb.cn/item/685c9f3058cb8da5c8715b5c.webp",
     "company": "August",
     "author": "Phoebe",
-    "platforms": [
-      "Windows"
-    ],
+    "platforms": ["Windows"],
     "downloads": [
       {
         "provider": "TouchGal",
@@ -651,9 +568,7 @@
     "cover": "https://pic1.imgdb.cn/item/685c9f6958cb8da5c8715b5f.webp",
     "company": "August",
     "author": "Phoebe",
-    "platforms": [
-      "Switch"
-    ],
+    "platforms": ["Switch"],
     "downloads": [
       {
         "provider": "BaiduNetdisk",
@@ -666,9 +581,7 @@
     "cover": "https://pic1.imgdb.cn/item/685c9fa558cb8da5c8715b69.webp",
     "company": "minori",
     "author": "Phoebe",
-    "platforms": [
-      "Windows"
-    ],
+    "platforms": ["Windows"],
     "downloads": [
       {
         "provider": "TouchGal",
@@ -685,9 +598,7 @@
     "cover": "https://pic1.imgdb.cn/item/685c9fe058cb8da5c8715b6f.webp",
     "company": "minori",
     "author": "Phoebe",
-    "platforms": [
-      "Windows"
-    ],
+    "platforms": ["Windows"],
     "downloads": [
       {
         "provider": "TouchGal",
@@ -704,9 +615,7 @@
     "cover": "https://pic1.imgdb.cn/item/685ca00d58cb8da5c8715b71.webp",
     "company": "minori",
     "author": "Phoebe",
-    "platforms": [
-      "Windows"
-    ],
+    "platforms": ["Windows"],
     "downloads": [
       {
         "provider": "TouchGal",
@@ -723,9 +632,7 @@
     "cover": "https://pic1.imgdb.cn/item/685ca02d58cb8da5c8715b78.webp",
     "company": "Navel",
     "author": "Phoebe",
-    "platforms": [
-      "Windows"
-    ],
+    "platforms": ["Windows"],
     "downloads": [
       {
         "provider": "TouchGal",
@@ -742,9 +649,7 @@
     "cover": "https://pic1.imgdb.cn/item/685ca10158cb8da5c8715b99.webp",
     "company": "Navel",
     "author": "Phoebe",
-    "platforms": [
-      "Windows"
-    ],
+    "platforms": ["Windows"],
     "downloads": [
       {
         "provider": "TouchGal",
@@ -761,9 +666,7 @@
     "cover": "https://pic1.imgdb.cn/item/685ca13158cb8da5c8715b9b.webp",
     "company": "Navel",
     "author": "Phoebe",
-    "platforms": [
-      "Windows"
-    ],
+    "platforms": ["Windows"],
     "downloads": [
       {
         "provider": "TouchGal",
@@ -780,9 +683,7 @@
     "cover": "https://pic1.imgdb.cn/item/685ca05058cb8da5c8715b7c.webp",
     "company": "Navel",
     "author": "Phoebe",
-    "platforms": [
-      "Windows"
-    ],
+    "platforms": ["Windows"],
     "downloads": [
       {
         "provider": "TouchGal",
@@ -799,9 +700,7 @@
     "cover": "https://pic1.imgdb.cn/item/685ca07358cb8da5c8715b80.webp",
     "company": "Navel",
     "author": "Phoebe",
-    "platforms": [
-      "Windows"
-    ],
+    "platforms": ["Windows"],
     "downloads": [
       {
         "provider": "TouchGal",
@@ -818,9 +717,7 @@
     "cover": "https://pic1.imgdb.cn/item/685ca09858cb8da5c8715b86.webp",
     "company": "Navel",
     "author": "Phoebe",
-    "platforms": [
-      "Windows"
-    ],
+    "platforms": ["Windows"],
     "downloads": [
       {
         "provider": "TouchGal",
@@ -837,9 +734,7 @@
     "cover": "https://pic1.imgdb.cn/item/685ca0ca58cb8da5c8715b8a.webp",
     "company": "ASa Project",
     "author": "Phoebe",
-    "platforms": [
-      "Windows"
-    ],
+    "platforms": ["Windows"],
     "downloads": [
       {
         "provider": "TouchGal",
@@ -868,9 +763,7 @@
     "cover": "https://pic1.imgdb.cn/item/685ca16a58cb8da5c8715c6d.webp",
     "company": "Tinkle Position",
     "author": "Phoebe",
-    "platforms": [
-      "Windows"
-    ],
+    "platforms": ["Windows"],
     "downloads": [
       {
         "provider": "TouchGal",
@@ -887,9 +780,7 @@
     "cover": "https://pic1.imgdb.cn/item/685ca19758cb8da5c8715d72.webp",
     "company": "Tinkle Position",
     "author": "Phoebe",
-    "platforms": [
-      "Windows"
-    ],
+    "platforms": ["Windows"],
     "downloads": [
       {
         "provider": "TouchGal",
@@ -906,9 +797,7 @@
     "cover": "https://pic1.imgdb.cn/item/685ca1d458cb8da5c8715eba.webp",
     "company": "Tinkle Position",
     "author": "Phoebe",
-    "platforms": [
-      "Windows"
-    ],
+    "platforms": ["Windows"],
     "downloads": [
       {
         "provider": "GAL图书馆",
@@ -933,9 +822,7 @@
     "cover": "https://pic1.imgdb.cn/item/685ca1fc58cb8da5c8715f7c.webp",
     "company": "Tinkle Position",
     "author": "Phoebe",
-    "platforms": [
-      "Windows"
-    ],
+    "platforms": ["Windows"],
     "downloads": [
       {
         "provider": "鲲Galgame",
@@ -956,9 +843,7 @@
     "cover": "https://pic1.imgdb.cn/item/685ca22458cb8da5c8716031.webp",
     "company": "AUGUST",
     "author": "Phoebe",
-    "platforms": [
-      "Windows"
-    ],
+    "platforms": ["Windows"],
     "downloads": [
       {
         "provider": "TouchGal",
@@ -975,9 +860,7 @@
     "cover": "https://pic1.imgdb.cn/item/685ca26a58cb8da5c871615d.webp",
     "company": "AUGUST",
     "author": "Phoebe",
-    "platforms": [
-      "Windows"
-    ],
+    "platforms": ["Windows"],
     "downloads": [
       {
         "provider": "TouchGal",
@@ -994,9 +877,7 @@
     "cover": "https://pic1.imgdb.cn/item/687d0f5e58cb8da5c8c8b5af.webp",
     "company": "AUGUST",
     "author": "Phoebe",
-    "platforms": [
-      "Windows"
-    ],
+    "platforms": ["Windows"],
     "downloads": [
       {
         "provider": "TouchGal",
@@ -1013,9 +894,7 @@
     "cover": "https://pic1.imgdb.cn/item/687d0fa558cb8da5c8c8b5ed.webp",
     "company": "AUGUST",
     "author": "Phoebe",
-    "platforms": [
-      "Windows"
-    ],
+    "platforms": ["Windows"],
     "downloads": [
       {
         "provider": "TouchGal",
@@ -1032,9 +911,7 @@
     "cover": "https://pic1.imgdb.cn/item/687d0fa558cb8da5c8c8b5ed.webp",
     "company": "AUGUST",
     "author": "Phoebe",
-    "platforms": [
-      "Windows"
-    ],
+    "platforms": ["Windows"],
     "downloads": [
       {
         "provider": "TouchGal",
@@ -1051,9 +928,7 @@
     "cover": "https://pic1.imgdb.cn/item/687d0fe958cb8da5c8c8b617.webp",
     "company": "AUGUST",
     "author": "Phoebe",
-    "platforms": [
-      "Windows"
-    ],
+    "platforms": ["Windows"],
     "downloads": [
       {
         "provider": "TouchGal",
@@ -1070,9 +945,7 @@
     "cover": "https://pic1.imgdb.cn/item/687d111b58cb8da5c8c8b678.webp",
     "company": "AUGUST",
     "author": "Phoebe",
-    "platforms": [
-      "Windows"
-    ],
+    "platforms": ["Windows"],
     "downloads": [
       {
         "provider": "TouchGal",
@@ -1089,9 +962,7 @@
     "cover": "https://pic1.imgdb.cn/item/687d114c58cb8da5c8c8b68b.webp",
     "company": "AUGUST",
     "author": "Phoebe",
-    "platforms": [
-      "Windows"
-    ],
+    "platforms": ["Windows"],
     "downloads": [
       {
         "provider": "TouchGal",
@@ -1112,9 +983,7 @@
     "cover": "https://pic1.imgdb.cn/item/687d117358cb8da5c8c8b699.webp",
     "company": "AUGUST",
     "author": "Phoebe",
-    "platforms": [
-      "Windows"
-    ],
+    "platforms": ["Windows"],
     "downloads": [
       {
         "provider": "GAL图书馆",
@@ -1131,9 +1000,7 @@
     "cover": "https://pic1.imgdb.cn/item/687d118f58cb8da5c8c8b6a3.webp",
     "company": "AUGUST",
     "author": "Phoebe",
-    "platforms": [
-      "Windows"
-    ],
+    "platforms": ["Windows"],
     "downloads": [
       {
         "provider": "TouchGal",
@@ -1154,9 +1021,7 @@
     "cover": "https://pic1.imgdb.cn/item/687d11b558cb8da5c8c8b6b9.webp",
     "company": "minori",
     "author": "Phoebe",
-    "platforms": [
-      "Windows"
-    ],
+    "platforms": ["Windows"],
     "downloads": [
       {
         "provider": "真红小站",
@@ -1173,9 +1038,7 @@
     "cover": "https://pic1.imgdb.cn/item/687d11dd58cb8da5c8c8b6c0.webp",
     "company": "minori",
     "author": "Phoebe",
-    "platforms": [
-      "Windows"
-    ],
+    "platforms": ["Windows"],
     "downloads": [
       {
         "provider": "TouchGal",
@@ -1188,9 +1051,7 @@
     "cover": "https://pic1.imgdb.cn/item/687d121158cb8da5c8c8b6d6.webp",
     "company": "minori",
     "author": "Phoebe",
-    "platforms": [
-      "Windows"
-    ],
+    "platforms": ["Windows"],
     "downloads": [
       {
         "provider": "TouchGal",
@@ -1215,9 +1076,7 @@
     "cover": "https://pic1.imgdb.cn/item/687d122d58cb8da5c8c8b6ee.webp",
     "company": "minori",
     "author": "Phoebe",
-    "platforms": [
-      "Windows"
-    ],
+    "platforms": ["Windows"],
     "downloads": [
       {
         "provider": "GAL图书馆",
@@ -1230,9 +1089,7 @@
     "cover": "https://pic1.imgdb.cn/item/687d125458cb8da5c8c8b6fd.webp",
     "company": "minori",
     "author": "Phoebe",
-    "platforms": [
-      "Windows"
-    ],
+    "platforms": ["Windows"],
     "downloads": [
       {
         "provider": "TouchGal",
@@ -1253,9 +1110,7 @@
     "cover": "https://pic1.imgdb.cn/item/687d127e58cb8da5c8c8b70f.webp",
     "company": "minori",
     "author": "Phoebe",
-    "platforms": [
-      "Windows"
-    ],
+    "platforms": ["Windows"],
     "downloads": [
       {
         "provider": "TouchGal",
@@ -1268,9 +1123,7 @@
     "cover": "https://pic1.imgdb.cn/item/687d12f458cb8da5c8c8b738.webp",
     "company": "minori",
     "author": "Phoebe",
-    "platforms": [
-      "Windows"
-    ],
+    "platforms": ["Windows"],
     "downloads": [
       {
         "provider": "TouchGal",
@@ -1287,9 +1140,7 @@
     "cover": "https://pic1.imgdb.cn/item/687d130c58cb8da5c8c8b743.webp",
     "company": "minori",
     "author": "Phoebe",
-    "platforms": [
-      "Windows"
-    ],
+    "platforms": ["Windows"],
     "downloads": [
       {
         "provider": "TouchGal",
@@ -1314,9 +1165,7 @@
     "cover": "https://pic1.imgdb.cn/item/687d133158cb8da5c8c8b768.webp",
     "company": "minori",
     "author": "Phoebe",
-    "platforms": [
-      "Windows"
-    ],
+    "platforms": ["Windows"],
     "downloads": [
       {
         "provider": "TouchGal",
@@ -1341,9 +1190,7 @@
     "cover": "https://pic1.imgdb.cn/item/687d134d58cb8da5c8c8b77c.webp",
     "company": "minori",
     "author": "Phoebe",
-    "platforms": [
-      "Windows"
-    ],
+    "platforms": ["Windows"],
     "downloads": [
       {
         "provider": "TouchGal",
@@ -1368,9 +1215,7 @@
     "cover": "https://pic1.imgdb.cn/item/687d136a58cb8da5c8c8b793.webp",
     "company": "minori",
     "author": "Phoebe",
-    "platforms": [
-      "Windows"
-    ],
+    "platforms": ["Windows"],
     "downloads": [
       {
         "provider": "TouchGal",
@@ -1395,9 +1240,7 @@
     "cover": "https://pic1.imgdb.cn/item/687d138c58cb8da5c8c8b7a8.webp",
     "company": "minori",
     "author": "Phoebe",
-    "platforms": [
-      "Windows"
-    ],
+    "platforms": ["Windows"],
     "downloads": [
       {
         "provider": "TouchGal",
@@ -1422,9 +1265,7 @@
     "cover": "https://pic1.imgdb.cn/item/687d13ae58cb8da5c8c8b7af.webp",
     "company": "minori",
     "author": "Phoebe",
-    "platforms": [
-      "Windows"
-    ],
+    "platforms": ["Windows"],
     "downloads": [
       {
         "provider": "TouchGal",
@@ -1449,9 +1290,7 @@
     "cover": "https://pic1.imgdb.cn/item/687d13ca58cb8da5c8c8b7b4.webp",
     "company": "ensemble",
     "author": "Phoebe",
-    "platforms": [
-      "Windows"
-    ],
+    "platforms": ["Windows"],
     "downloads": [
       {
         "provider": "TouchGal",
@@ -1468,9 +1307,7 @@
     "cover": "https://pic1.imgdb.cn/item/687d13f358cb8da5c8c8b7c1.webp",
     "company": "ensemble",
     "author": "Phoebe",
-    "platforms": [
-      "Windows"
-    ],
+    "platforms": ["Windows"],
     "downloads": [
       {
         "provider": "TouchGal",
@@ -1487,9 +1324,7 @@
     "cover": "https://pic1.imgdb.cn/item/687d141d58cb8da5c8c8b7c2.webp",
     "company": "ensemble",
     "author": "Phoebe",
-    "platforms": [
-      "Windows"
-    ],
+    "platforms": ["Windows"],
     "downloads": [
       {
         "provider": "GAL图书馆",
@@ -1514,9 +1349,7 @@
     "cover": "https://pic1.imgdb.cn/item/687d143e58cb8da5c8c8b7ca.webp",
     "company": "ensemble",
     "author": "Phoebe",
-    "platforms": [
-      "Windows"
-    ],
+    "platforms": ["Windows"],
     "downloads": [
       {
         "provider": "GAL图书馆",
@@ -1545,9 +1378,7 @@
     "cover": "https://pic1.imgdb.cn/item/687d145c58cb8da5c8c8b7d6.webp",
     "company": "ensemble",
     "author": "Phoebe",
-    "platforms": [
-      "Windows"
-    ],
+    "platforms": ["Windows"],
     "downloads": [
       {
         "provider": "GAL图书馆",
@@ -1568,9 +1399,7 @@
     "cover": "https://pic1.imgdb.cn/item/687d147c58cb8da5c8c8b7da.webp",
     "company": "ensemble",
     "author": "Phoebe",
-    "platforms": [
-      "Windows"
-    ],
+    "platforms": ["Windows"],
     "downloads": [
       {
         "provider": "TouchGal",
@@ -1583,9 +1412,7 @@
     "cover": "https://pic1.imgdb.cn/item/687d149658cb8da5c8c8b7e4.webp",
     "company": "ensemble",
     "author": "Phoebe",
-    "platforms": [
-      "Windows"
-    ],
+    "platforms": ["Windows"],
     "downloads": [
       {
         "provider": "鲲Galgame",
@@ -1602,9 +1429,7 @@
     "cover": "https://pic1.imgdb.cn/item/687d15e458cb8da5c8c8b865.webp",
     "company": "ensemble",
     "author": "Phoebe",
-    "platforms": [
-      "Windows"
-    ],
+    "platforms": ["Windows"],
     "downloads": [
       {
         "provider": "GAL图书馆",
@@ -1625,9 +1450,7 @@
     "cover": "https://pic1.imgdb.cn/item/687d15b658cb8da5c8c8b841.webp",
     "company": "ensemble",
     "author": "Phoebe",
-    "platforms": [
-      "Windows"
-    ],
+    "platforms": ["Windows"],
     "downloads": [
       {
         "provider": "TouchGal",
@@ -1648,9 +1471,7 @@
     "cover": "https://pic1.imgdb.cn/item/687d14d658cb8da5c8c8b7f7.webp",
     "company": "ensemble",
     "author": "Phoebe",
-    "platforms": [
-      "Windows"
-    ],
+    "platforms": ["Windows"],
     "downloads": [
       {
         "provider": "GAL图书馆",
@@ -1671,9 +1492,7 @@
     "cover": "https://pic1.imgdb.cn/item/68a1f8aa58cb8da5c82b577c.webp",
     "company": "ensemble",
     "author": "Cartethyia",
-    "platforms": [
-      "Windows"
-    ],
+    "platforms": ["Windows"],
     "downloads": [
       {
         "provider": "GAL图书馆",
@@ -1694,9 +1513,7 @@
     "cover": "https://pic1.imgdb.cn/item/68a1f8fb58cb8da5c82b5788.webp",
     "company": "ensemble",
     "author": "Cartethyia",
-    "platforms": [
-      "Windows"
-    ],
+    "platforms": ["Windows"],
     "downloads": [
       {
         "provider": "GAL图书馆",
@@ -1717,9 +1534,7 @@
     "cover": "https://pic1.imgdb.cn/item/68a1f9c358cb8da5c82b581a.webp",
     "company": "ensemble",
     "author": "Cartethyia",
-    "platforms": [
-      "Windows"
-    ],
+    "platforms": ["Windows"],
     "downloads": [
       {
         "provider": "GAL图书馆",
@@ -1740,9 +1555,7 @@
     "cover": "https://pic1.imgdb.cn/item/68a1f9c358cb8da5c82b581a.webp",
     "company": "ensemble",
     "author": "Cartethyia",
-    "platforms": [
-      "Windows"
-    ],
+    "platforms": ["Windows"],
     "downloads": [
       {
         "provider": "GAL图书馆",
@@ -1759,9 +1572,7 @@
     "cover": "https://pic1.imgdb.cn/item/68a1fcd658cb8da5c82b5878.webp",
     "company": "ensemble",
     "author": "Cartethyia",
-    "platforms": [
-      "Windows"
-    ],
+    "platforms": ["Windows"],
     "downloads": [
       {
         "provider": "鲲Galgame",
@@ -1778,9 +1589,7 @@
     "cover": "https://pic1.imgdb.cn/item/68a1fd9958cb8da5c82b58dd.webp",
     "company": "ensemble",
     "author": "Cartethyia",
-    "platforms": [
-      "Windows"
-    ],
+    "platforms": ["Windows"],
     "downloads": [
       {
         "provider": "鲲Galgame",
@@ -1797,9 +1606,7 @@
     "cover": "https://pic1.imgdb.cn/item/68a1fdf858cb8da5c82b58ed.webp",
     "company": "ensemble",
     "author": "Cartethyia",
-    "platforms": [
-      "Windows"
-    ],
+    "platforms": ["Windows"],
     "downloads": [
       {
         "provider": "GAL图书馆",
@@ -1816,9 +1623,7 @@
     "cover": "https://pic1.imgdb.cn/item/68a1fe5058cb8da5c82b58fe.webp",
     "company": "ensemble",
     "author": "Cartethyia",
-    "platforms": [
-      "Windows"
-    ],
+    "platforms": ["Windows"],
     "downloads": [
       {
         "provider": "GAL图书馆",
@@ -1835,9 +1640,7 @@
     "cover": "https://pic1.imgdb.cn/item/68a1fc0558cb8da5c82b585a.webp",
     "company": "ensemble",
     "author": "Cartethyia",
-    "platforms": [
-      "Windows"
-    ],
+    "platforms": ["Windows"],
     "downloads": [
       {
         "provider": "VikaACG",
