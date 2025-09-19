@@ -17,11 +17,11 @@ body {
 a {
   color: var(--link-color);
   text-decoration: none;
-}
 
-a:hover {
-  opacity: 0.7;
-  text-decoration: underline;
+  &:hover {
+    opacity: 0.7;
+    text-decoration: underline;
+  }
 }
 
 table {
@@ -30,35 +30,34 @@ table {
   font-size: 0.875em;
   margin: 0 0 20px;
   width: 100%;
-}
+  tbody tr {
+    &:nth-of-type(odd) {
+      background: var(--table-row-odd-bg-color);
+    }
+    &:hover {
+      background: var(--table-row-hover-bg-color);
+    }
+  }
+  caption,
+  td,
+  th {
+    padding: 8px;
+  }
 
-tbody tr:nth-of-type(odd) {
-  background: var(--table-row-odd-bg-color);
-}
+  td,
+  th {
+    border: 1px solid #ddd;
+    border-bottom: 3px solid #ddd;
+  }
 
-tbody tr:hover {
-  background: var(--table-row-hover-bg-color);
-}
+  th {
+    font-weight: 700;
+    padding-bottom: 10px;
+  }
 
-caption,
-td,
-th {
-  padding: 8px;
-}
-
-td,
-th {
-  border: 1px solid #ddd;
-  border-bottom: 3px solid #ddd;
-}
-
-th {
-  font-weight: 700;
-  padding-bottom: 10px;
-}
-
-td {
-  border-bottom-width: 1px;
+  td {
+    border-bottom-width: 1px;
+  }
 }
 
 .highlight {
@@ -68,23 +67,25 @@ td {
   position: relative;
   left: calc(50% + 1em);
   transform: translateX(-50%);
+  pre {
+    padding: 1em;
+    overflow: auto;
+    code {
+      font-family: Consolas, system-ui, -apple-system, BlinkMacSystemFont,
+        "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans",
+        "Helvetica Neue", sans-serif;
+      font-size: 0.875em;
+    }
+  }
 }
 
-.highlight pre {
-  padding: 1em;
-  overflow: auto;
-}
-
-.highlight pre code {
-  font-family: Consolas, system-ui, -apple-system, BlinkMacSystemFont,
-    "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue",
-    sans-serif;
-  font-size: 0.875em;
-}
-
-main ol li,
-main ul li {
-  line-height: 2;
+main {
+  ol,
+  ul {
+    li {
+      line-height: 2;
+    }
+  }
 }
 
 main kbd,
@@ -105,17 +106,19 @@ select option {
   white-space: nowrap;
 }
 
-p code,
-li code {
-  font-family: Consolas, system-ui, -apple-system, BlinkMacSystemFont,
-    "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue",
-    sans-serif;
-  font-size: 0.875em;
-  background: var(--highlight-background);
-  color: var(--highlight-foreground);
-  border-radius: 3px;
-  padding: 2px 4px;
-  overflow-wrap: break-word;
+p,
+li {
+  code {
+    font-family: Consolas, system-ui, -apple-system, BlinkMacSystemFont,
+      "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans",
+      "Helvetica Neue", sans-serif;
+    font-size: 0.875em;
+    background: var(--highlight-background);
+    color: var(--highlight-foreground);
+    border-radius: 3px;
+    padding: 2px 4px;
+    overflow-wrap: break-word;
+  }
 }
 
 blockquote {
@@ -135,39 +138,23 @@ header {
   transition: all 0.3s ease;
   box-shadow: 0 5px 6px -5px rgba(133, 133, 133, 0.6);
   z-index: 2;
-}
-
-header.active {
-  left: 0px;
+  &.active {
+    left: 0px;
+  }
 }
 
 #waifu {
   left: 100%;
   transform: translate(-100%, 3px);
-}
-
-#waifu:hover {
-  transform: translate(-100%, 0);
-}
-
-#waifu-tips {
-  right: 0px;
-}
-
-#waifu-tool {
-  left: 0;
-  transform: translateX(-50%);
-}
-
-@keyframes fadeInDown {
-  from {
-    opacity: 0;
-    transform: translateY(-20px);
+  &:hover {
+    transform: translate(-100%, 0);
   }
-
-  to {
-    opacity: 1;
-    transform: translateY(0);
+  #waifu-tips {
+    right: 0px;
+  }
+  #waifu-tool {
+    left: 0;
+    transform: translateX(-50%);
   }
 }
 
@@ -302,17 +289,10 @@ main h3 {
 }
 
 footer {
-  background: rgba(255, 255, 255, 0.7);
+  background: var(--footer-bg);
   box-shadow: 0 5px 6px -5px rgba(133, 133, 133, 0.6);
-  border-top: 1px solid #e0e0e0;
+  border-top: 1px solid var(--footer-border);
   padding: 1rem;
-}
-
-@media (prefers-color-scheme: dark) {
-  footer {
-    background: rgba(20, 20, 20, 0.7);
-    border-top: 1px solid #333;
-  }
 }
 
 footer p {
@@ -454,4 +434,16 @@ footer p {
 
 .swal2-container {
   backdrop-filter: blur(8px);
+}
+
+@keyframes fadeInDown {
+  from {
+    opacity: 0;
+    transform: translateY(-20px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
 }
