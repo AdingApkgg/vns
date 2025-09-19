@@ -10,6 +10,8 @@
   --highlight-background: #f3f3f3;
   --highlight-foreground: #444;
   --bg-header-fixed: rgba(250, 250, 250, 0.8);
+  --footer-bg: rgba(255, 255, 255, 0.7);
+  --footer-border: #e0e0e0;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -25,5 +27,7 @@
     --highlight-background: #3b3b3b;
     --highlight-foreground: #fff;
     --bg-header-fixed: rgba(18, 18, 18, 0.8);
+    --footer-bg: rgba(20, 20, 20, 0.7);
+    --footer-border: #333;
   }
 }
