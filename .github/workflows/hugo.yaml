@@ -24,8 +24,8 @@ jobs:
   build:
     runs-on: ubuntu-latest
     env:
-      DART_SASS_VERSION: 1.92.1
-      HUGO_VERSION: 0.150.0
+      DART_SASS_VERSION: 1.93.2
+      HUGO_VERSION: 0.150.1
       HUGO_ENVIRONMENT: production
       TZ: America/Los_Angeles
     steps:
@@ -62,7 +62,7 @@ jobs:
             --gc \
             --minify \
             --baseURL "/" \
-            --cacheDir "${{ runner.temp }}/hugo_cache" # 根据您的实际情况修改此项
+            --cacheDir "${{ runner.temp }}/hugo_cache"
       - name: Cache Save
         id: cache-save
         uses: actions/cache/save@v4
@@ -72,8 +72,8 @@ jobs:
           key: ${{ steps.cache-restore.outputs.cache-primary-key }}
       - name: Install Pagefind and build search index
         run: |
-          npm install -g pagefind # 安装 Pagefind CLI
-          pagefind --site public # 在 public 目录上运行 Pagefind
+          npm install -g pagefind
+          pagefind --site public
       - name: Upload public directory as artifact
         uses: actions/upload-artifact@v4
         with:
