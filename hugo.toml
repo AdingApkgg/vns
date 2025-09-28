@@ -57,11 +57,11 @@ pageRef = '/archives'
 weight = 3
 pre = "fa fa-box-archive"
 [[menus.main]]
-identifier = "categories"
-name = '分类'
-pageRef = '/categories'
+identifier = "platforms"
+name = '平台'
+pageRef = '/platforms'
 weight = 4
-pre = "fa fa-th"
+pre = "fas fa-layer-group"
 [[menus.main]]
 identifier = "tags"
 name = '标签'
