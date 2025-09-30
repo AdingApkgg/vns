@@ -127,6 +127,7 @@ pre = "fa fa-shuffle"
 defaultMarkdownHandler = "goldmark"
 [markup.goldmark.renderer]
 unsafe = true
+hardWraps = true
 [markup.goldmark.extensions.cjk]
 eastAsianLineBreaks = true
 enable = true
