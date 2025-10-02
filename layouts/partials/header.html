@@ -5,10 +5,7 @@
   {{ range .Site.Menus.main }}
   <a href="{{ .URL }}" id="item-{{ .Identifier }}"><i class="{{ .Pre }}"></i>&nbsp;{{ .Name }}</a>
   {{ end }}
-  {{ $opts := dict
-  "targetDir" "img"
-  }}
-  {{ with images.QR .Permalink $opts }}
-  <img src="{{ .Permalink }}" alt="QR code linking to {{ $.Permalink }}" class="qr-code" loading="lazy">
+  {{ with images.QR .Permalink (dict "targetDir" "img") }}
+  <img src="{{ .RelPermalink }}" alt="QR code linking to {{ .Permalink }}" class="qr-code" loading="lazy">
   {{ end }}
 </nav>
