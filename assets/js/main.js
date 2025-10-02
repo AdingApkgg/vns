@@ -1,4 +1,5 @@
 document.addEventListener("DOMContentLoaded", () => {
+  quicklink.listen({ priority: true });
   initMenuToggle();
   initGalPopup();
   lunar();
@@ -56,8 +57,9 @@ function initScrollEffects() {
 }
 
 function initSearch() {
-  document.querySelector("#search").innerHTML = "";
-  new PagefindUI({ element: "#search", showSubResults: false });
+  if (document.querySelector("#search")) {
+    new PagefindUI({ element: "#search", showSubResults: false });
+  }
 }
 
 function initMediumZoom() {
