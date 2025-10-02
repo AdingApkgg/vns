@@ -1,9 +1,9 @@
 {{ define "main" }}
 <article class="article-main">
-  <h1><i class="fas fa-hashtag"></i>&nbsp;{{ .Title }}</h1>
+  <h1 data-pagefind-body><i class="fas fa-hashtag"></i>&nbsp;{{ .Title }}</h1>
   {{ if not (eq .Params.postmeta false) }} {{ partial "post-meta.html" . }} {{
   end }} {{ if in .TableOfContents "li" }} {{ .TableOfContents }} {{ end }}
-  <div class="content">{{ .Content }}</div>
+  <div class="content" data-pagefind-body>{{ .Content }}</div>
   {{ partial "terms.html" (dict "taxonomy" "categories" "page" .) }} {{ partial
   "terms.html" (dict "taxonomy" "tags" "page" .) }}
 </article>

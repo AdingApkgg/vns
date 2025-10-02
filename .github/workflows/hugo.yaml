@@ -72,8 +72,7 @@ jobs:
           key: ${{ steps.cache-restore.outputs.cache-primary-key }}
       - name: Install Pagefind and build search index
         run: |
-          npm install -g pagefind
-          pagefind --site public
+          npm install -g pagefind && pagefind
       - name: Upload public directory as artifact
         uses: actions/upload-artifact@v4
         with:
