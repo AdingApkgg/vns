@@ -219,8 +219,7 @@ header nav {
   display: flex;
   max-width: 1000px;
   margin: 0 auto;
-  overflow-x: auto;
-  overflow-y: hidden;
+  overflow: auto;
   white-space: nowrap;
 }
 
