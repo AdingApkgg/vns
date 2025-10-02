@@ -7,7 +7,7 @@ title = 'VNS'
 [module]
 [module.hugoVersion]
 extended = true
-min = "0.150.0"
+min = "0.150.1"
 
 [caches]
 [caches.assets]
@@ -119,7 +119,6 @@ pre = "fa fa-search"
 [[menus.main]]
 identifier = "random"
 name = '随机'
-pageRef = '/random'
 weight = 14
 pre = "fa fa-shuffle"
 
@@ -163,17 +162,3 @@ enabled = true
 [params.comments]
 enabled = true
 provider = "valine"
-
-[params.comments.valine]
-appId = "BnlZFCN5ghutLVVEX0el3pz3-MdYXbMMI"
-appKey = "OvpvXLKwajI2qYE4XsNMokpW"
-serverURLs = "https://valine.saop.cc"
-placeholder = "昵称栏输入 QQ 号即可获取头像与邮箱..\n评论支持标准的 Markdown 全语法~"
-avatar_cdn = "https://weavatar.com/avatar/"
-pageSize = 20
-visitor = false
-comment_count = false
-highlight = true
-recordIP = true
-emojiCDN = "//twikoo-magic.oss-cn-hangzhou.aliyuncs.com/"
-enableQQ = true
