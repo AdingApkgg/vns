@@ -62,6 +62,7 @@ table {
 
 .qr-code {
   position: fixed;
+  max-width: 100px;
   top: 0px;
   right: 0px;
 }
@@ -426,6 +427,7 @@ footer p {
 
   .qr-code {
     position: initial;
+    max-width: 100%;
     top: initial;
     right: initial;
   }
