@@ -1,16 +1,5 @@
 <script src="https://registry.npmmirror.com/instant.page/latest/files/instantpage.js" type="module"></script>
 <script>
-  quicklink.listen({ priority: true });
-
-  if ("serviceWorker" in navigator) {
-    window.addEventListener("load", () => {
-      navigator.serviceWorker
-        .register("/js/sw.js")
-        .then((reg) => console.log("Service Worker Reg", reg))
-        .catch((err) => console.log("Service Worker Err", err));
-    });
-  }
-
   var pjax = new Pjax({
     selectors: [
       "title",
