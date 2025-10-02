@@ -6,6 +6,7 @@ document.addEventListener("DOMContentLoaded", () => {
   initMediumZoom();
   rv();
   initValine();
+  initSearch();
 });
 
 document.addEventListener("pjax:complete", () => {
@@ -17,6 +18,7 @@ document.addEventListener("pjax:complete", () => {
   initMediumZoom();
   rv();
   initValine();
+  initSearch();
 });
 
 function initMenuToggle() {
@@ -51,6 +53,11 @@ function initScrollEffects() {
       behavior: "smooth",
     });
   });
+}
+
+function initSearch() {
+  document.querySelector("#search").innerHTML = "";
+  new PagefindUI({ element: "#search", showSubResults: false });
 }
 
 function initMediumZoom() {
