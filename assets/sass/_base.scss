@@ -179,8 +179,7 @@ header {
   border-radius: 5px;
   cursor: pointer;
   opacity: 0;
-  transition: opacity 0.3s ease;
-  animation: rubberBand 0.3s ease;
+  animation: fadeInRight 0.3s ease-out;
 }
 
 #back-to-top.show {
@@ -207,7 +206,7 @@ header {
   border-radius: 5px;
   cursor: pointer;
   transition: opacity 0.3s ease;
-  animation: rubberBand 0.3s ease;
+  animation: fadeInDown 0.3s ease-out;
 }
 
 header nav {
@@ -228,7 +227,6 @@ header nav h2 {
   text-align: center;
   font-size: 2.2em;
   margin: 0 auto;
-  animation: rubberBand 0.3s ease;
 }
 
 header nav p {
@@ -245,12 +243,12 @@ header nav select {
   display: inline-block;
   text-align: center;
   line-height: 2;
-  animation: rubberBand 0.3s ease;
 }
 
 header nav a:hover {
   opacity: 0.7;
   text-decoration: underline;
+  animation: rubberBand 0.3s ease-out;
 }
 
 header nav a img {
@@ -269,6 +267,7 @@ main,
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
   background-color: var(--bg-color);
   color: var(--text-color);
+  animation: fadeInDown 0.3s ease-out;
 }
 
 main h1 {
@@ -299,6 +298,7 @@ footer {
   box-shadow: 0 5px 6px -5px rgba(133, 133, 133, 0.6);
   border-top: 1px solid var(--footer-border);
   padding: 1rem;
+  animation: fadeInUp 0.3s ease-out;
 }
 
 footer p {
@@ -354,7 +354,7 @@ footer p {
 .pagination a:hover {
   opacity: 0.7;
   box-shadow: 0 0 0.08em 0.12em rgba(0, 0, 0, 0.3);
-  transition: all 0.1s ease;
+  transition: all 0.1s ease-out;
   transform: scale(0.95);
 }
 
@@ -447,16 +447,4 @@ footer p {
 
 .swal2-container {
   backdrop-filter: blur(8px);
-}
-
-@keyframes fadeInDown {
-  from {
-    opacity: 0;
-    transform: translateY(-20px);
-  }
-
-  to {
-    opacity: 1;
-    transform: translateY(0);
-  }
 }
