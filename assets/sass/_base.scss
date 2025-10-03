@@ -267,7 +267,7 @@ main,
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
   background-color: var(--bg-color);
   color: var(--text-color);
-  animation: fadeInDown 0.3s ease-out;
+  animation: fadeInUp 0.3s ease-out;
 }
 
 main h1 {
@@ -427,6 +427,7 @@ footer p {
 
   .qr-code {
     position: initial;
+    margin: 10px;
     max-width: 100%;
     top: initial;
     right: initial;

@@ -39,88 +39,94 @@ languageCode = "zh"
 hasCJKLanguage = true
 weight = 1
 [[menus.main]]
-identifier = "oldsite"
-name = '旧站'
-url = 'https://gal.saop.cc/'
+identifier = "multi-search"
+name = '聚搜'
+url = 'https://searchgal.homes/'
 weight = 1
-pre = "fa fa-champagne-glasses"
+pre = "fa fa-hexagon-nodes"
+[[menus.main]]
+identifier = "random"
+name = '随机'
+weight = 2
+pre = "fa fa-shuffle"
 [[menus.main]]
 identifier = "home"
 name = '首页'
 pageRef = '/'
-weight = 2
+weight = 3
 pre = "fa fa-house"
 [[menus.main]]
-identifier = "archives"
-name = '归档'
-pageRef = '/archives'
-weight = 3
-pre = "fa fa-box-archive"
+identifier = "search"
+name = '搜索'
+pageRef = '/search'
+weight = 4
+pre = "fa fa-search"
 [[menus.main]]
 identifier = "platforms"
 name = '平台'
 pageRef = '/platforms'
-weight = 4
+weight = 5
 pre = "fas fa-layer-group"
 [[menus.main]]
 identifier = "tags"
 name = '标签'
 pageRef = '/tags'
-weight = 5
+weight = 6
 pre = "fa fa-tags"
 [[menus.main]]
 identifier = "about"
 name = '关于'
 pageRef = '/about'
-weight = 6
+weight = 7
 pre = "fa fa-circle-info"
 [[menus.main]]
 identifier = "docs"
 name = '文档'
 pageRef = '/docs'
-weight = 7
+weight = 8
 pre = "fa fa-file-lines"
 [[menus.main]]
 identifier = "comments"
 name = '留言'
 pageRef = '/comments'
-weight = 8
+weight = 9
 pre = "fa fa-comment-dots"
 [[menus.main]]
 identifier = "dls"
 name = '下载'
 pageRef = '/dls'
-weight = 9
+weight = 10
 pre = "fa fa-download"
 [[menus.main]]
 identifier = "teams"
 name = '团队'
 pageRef = '/teams'
-weight = 10
+weight = 11
 pre = "fa fa-people-group"
 [[menus.main]]
 identifier = "cloud"
 name = '云盘'
 url = 'https://cloud.saop.cc/'
-weight = 11
+weight = 12
 pre = "fa fa-cloud"
 [[menus.main]]
 identifier = "drive"
 name = '网盘'
 url = 'https://drive.saop.cc/'
-weight = 12
+weight = 13
 pre = "fa fa-hard-drive"
 [[menus.main]]
-identifier = "search"
-name = '搜索'
-pageRef = '/search'
-weight = 13
-pre = "fa fa-search"
-[[menus.main]]
-identifier = "random"
-name = '随机'
+identifier = "live"
+name = '云游'
+pageRef = '/live'
 weight = 14
-pre = "fa fa-shuffle"
+pre = "fa fa-gamepad"
+[[menus.main]]
+identifier = "post"
+name = '投稿'
+url = 'mailto:i@saop.cc?subject=资源投稿《xxxx》&body=这里填写你要发布的内容..'
+weight = 15
+pre = "fa fa-pen"
 
 [markup]
 defaultMarkdownHandler = "goldmark"
