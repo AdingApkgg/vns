@@ -26,7 +26,7 @@ updated: 2025-10-06 04:50:00
 
 《**梦幻的提尔纳诺**》（日语：**夢幻のティル・ナ・ノーグ**）是由あざらしそふと＋１制作发行的一款Galgame，于2024年12月20日发售。
 
-<!--more-->
+<!-- more -->
 
 ![tirnanog_p1](https://static.30hb.cn/vndb/img/tirnanog_p1.webp)
 

@@ -24,7 +24,7 @@ updated: 2025-10-06 04:56:00
 
 《**ANIMAL☆PANIC**》（日语：**あにまる☆ぱにっく**）是[QUINCE SOFT](https://zh.moegirl.org.cn/QUINCE_SOFT)开发的一款18禁Galgame。
 
-<!--more-->
+<!-- more -->
 
 ![anipani_p1](https://static.30hb.cn/vndb/img/anipani_p1.webp)
 
