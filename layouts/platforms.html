@@ -1,7 +1,10 @@
-{{ define "main" }}
-{{ $taxonomyObject := .Site.Taxonomies.categories }}
+{{ define "main" }} {{ $taxonomyObject := .Site.Taxonomies.categories }}
 <article class="article-main">
-  <h1><i class="fa fa-hashtag"></i>&nbsp;平台</h1>
+  <h1>
+    <i class="fa fa-hashtag"></i>&nbsp;平台<sup
+      ><span id="busuanzi_value_page_pv">null</span></sup
+    >
+  </h1>
   <div class="content">{{ .Content }}</div>
   <ul class="taxonomy">
     {{ range $term, $weightedPages := $taxonomyObject }}

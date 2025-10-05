@@ -17,6 +17,11 @@ body {
 main {
   h1 {
     font-size: 2em;
+    sup {
+      font-size: 0.5em;
+      color: #666;
+      margin-left: 0.2em;
+    }
   }
   h2 {
     border-bottom: 1px solid #e0e0e0;
