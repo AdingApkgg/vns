@@ -7,7 +7,7 @@ title = 'VNS'
 [module]
 [module.hugoVersion]
 extended = true
-min = "0.150.0"
+min = "0.151.0"
 
 [caches]
 [caches.assets]
@@ -32,232 +32,107 @@ maxAge = -1
 dir = ':cacheDir/modules'
 maxAge = -1
 
-[languages]
-[languages.zh]
-contentDir = 'content/zh'
+contentDir = 'content'
 languageName = "简体中文"
 languageDirection = "ltr"
 languageCode = "zh"
 hasCJKLanguage = true
 weight = 1
-[[languages.zh.menus.main]]
-identifier = "oldsite"
-name = '旧站'
-url = 'https://gal.saop.cc/'
+[[menus.main]]
+identifier = "multi-search"
+name = '聚搜'
+url = 'https://searchgal.homes/'
 weight = 1
-pre = "fa fa-champagne-glasses"
-[[languages.zh.menus.main]]
+pre = "fa fa-hexagon-nodes"
+[[menus.main]]
+identifier = "random"
+name = '随机'
+weight = 2
+pre = "fa fa-shuffle"
+[[menus.main]]
 identifier = "home"
 name = '首页'
 pageRef = '/'
-weight = 2
-pre = "fa fa-house"
-[[languages.zh.menus.main]]
-identifier = "archives"
-name = '归档'
-pageRef = '/archives'
 weight = 3
-pre = "fa fa-box-archive"
-[[languages.zh.menus.main]]
-identifier = "categories"
-name = '分类'
-pageRef = '/categories'
-weight = 4
-pre = "fa fa-th"
-[[languages.zh.menus.main]]
-identifier = "tags"
-name = '标签'
-pageRef = '/tags'
-weight = 5
-pre = "fa fa-tags"
-[[languages.zh.menus.main]]
-identifier = "about"
-name = '关于'
-pageRef = '/about'
-weight = 6
-pre = "fa fa-circle-info"
-[[languages.zh.menus.main]]
-identifier = "docs"
-name = '文档'
-pageRef = '/docs'
-weight = 7
-pre = "fa fa-file-lines"
-[[languages.zh.menus.main]]
-identifier = "comments"
-name = '留言'
-pageRef = '/comments'
-weight = 8
-pre = "fa fa-comment-dots"
-[[languages.zh.menus.main]]
-identifier = "data"
-name = '分流'
-pageRef = '/data'
-weight = 9
-pre = "fa fa-up-down-left-right"
-[[languages.zh.menus.main]]
-identifier = "staff"
-name = '成员'
-pageRef = '/staff'
-weight = 10
-pre = "fa fa-people-group"
-[[languages.zh.menus.main]]
-identifier = "cloud"
-name = '云盘'
-url = 'https://cloud.saop.cc/'
-weight = 11
-pre = "fa fa-cloud"
-[[languages.zh.menus.main]]
-identifier = "drive"
-name = '网盘'
-url = 'https://drive.saop.cc/'
-weight = 12
-pre = "fa fa-hard-drive"
-[[languages.zh.menus.main]]
+pre = "fa fa-house"
+[[menus.main]]
 identifier = "search"
 name = '搜索'
 pageRef = '/search'
-weight = 13
+weight = 4
 pre = "fa fa-search"
-
-[languages.ja]
-contentDir = 'content/ja'
-languageName = "日本語"
-languageDirection = "ltr"
-languageCode = "ja"
-hasCJKLanguage = true
-weight = 2
-[[languages.ja.menus.main]]
-identifier = "oldsite"
-name = '旧サイト'
-url = 'https://gal.saop.cc/'
-weight = 1
-[[languages.ja.menus.main]]
-identifier = "home"
-name = 'ホームページ'
-pageRef = '/'
-weight = 2
-[[languages.ja.menus.main]]
-identifier = "archives"
-name = 'アーカイブ'
-pageRef = '/archives'
-weight = 3
-[[languages.ja.menus.main]]
-identifier = "categories"
-name = 'カテゴリー'
-pageRef = '/categories'
-weight = 4
-[[languages.ja.menus.main]]
-identifier = "tags"
-name = 'タグ'
-pageRef = '/tags'
+[[menus.main]]
+identifier = "platforms"
+name = '平台'
+pageRef = '/platforms'
 weight = 5
-[[languages.ja.menus.main]]
-identifier = "about"
-name = 'このサイトについて'
-pageRef = '/about'
-weight = 6
-[[languages.ja.menus.main]]
-identifier = "docs"
-name = '書類'
-pageRef = '/docs'
-weight = 7
-[[languages.ja.menus.main]]
-identifier = "comments"
-name = 'メッセージ'
-pageRef = '/comments'
-weight = 8
-[[languages.ja.menus.main]]
-identifier = "data"
-name = '分流'
-pageRef = '/data'
-weight = 9
-[[languages.ja.menus.main]]
-identifier = "staff"
-name = 'メンバー'
-pageRef = '/staff'
-weight = 10
-[[languages.ja.menus.main]]
-identifier = "cloud"
-name = 'クラウド'
-url = 'https://cloud.saop.cc/'
-weight = 11
-[[languages.ja.menus.main]]
-identifier = "drive"
-name = 'ネットディスク'
-url = 'https://drive.saop.cc/'
-weight = 12
-
-[languages.en]
-contentDir = 'content/en'
-languageName = "English"
-languageDirection = "ltr"
-languageCode = "en"
-weight = 3
-[[languages.en.menus.main]]
-identifier = "oldsite"
-name = 'OldSite'
-url = 'https://gal.saop.cc/'
-weight = 1
-[[languages.en.menus.main]]
-identifier = "home"
-name = 'Home'
-pageRef = '/'
-weight = 2
-[[languages.en.menus.main]]
-identifier = "archives"
-name = 'Archives'
-pageRef = '/archives'
-weight = 3
-[[languages.en.menus.main]]
-identifier = "categories"
-name = 'Categories'
-pageRef = '/categories'
-weight = 4
-[[languages.en.menus.main]]
+pre = "fas fa-layer-group"
+[[menus.main]]
 identifier = "tags"
-name = 'Tags'
+name = '标签'
 pageRef = '/tags'
-weight = 5
-[[languages.en.menus.main]]
-identifier = "about"
-name = 'About'
-pageRef = '/about'
 weight = 6
-[[languages.en.menus.main]]
-identifier = "docs"
-name = 'Docs'
-pageRef = '/docs'
+pre = "fa fa-tags"
+[[menus.main]]
+identifier = "about"
+name = '关于'
+pageRef = '/about'
 weight = 7
-[[languages.en.menus.main]]
-identifier = "comments"
-name = 'Comments'
-pageRef = '/comments'
+pre = "fa fa-circle-info"
+[[menus.main]]
+identifier = "docs"
+name = '文档'
+pageRef = '/docs'
 weight = 8
-[[languages.en.menus.main]]
-identifier = "data"
-name = 'Mirrors'
-pageRef = '/data'
+pre = "fa fa-file-lines"
+[[menus.main]]
+identifier = "comments"
+name = '留言'
+pageRef = '/comments'
 weight = 9
-[[languages.en.menus.main]]
-identifier = "staff"
-name = 'Team'
-pageRef = '/staff'
+pre = "fa fa-comment-dots"
+[[menus.main]]
+identifier = "dls"
+name = '下载'
+pageRef = '/dls'
 weight = 10
-[[languages.en.menus.main]]
-identifier = "cloud"
-name = 'Cloud'
-url = 'https://cloud.saop.cc/'
+pre = "fa fa-download"
+[[menus.main]]
+identifier = "teams"
+name = '团队'
+pageRef = '/teams'
 weight = 11
-[[languages.en.menus.main]]
-identifier = "drive"
-name = 'Drive'
-url = 'https://drive.saop.cc/'
+pre = "fa fa-people-group"
+[[menus.main]]
+identifier = "cloud"
+name = '云盘'
+url = 'https://cloud.saop.cc/'
 weight = 12
+pre = "fa fa-cloud"
+[[menus.main]]
+identifier = "drive"
+name = '网盘'
+url = 'https://drive.saop.cc/'
+weight = 13
+pre = "fa fa-hard-drive"
+[[menus.main]]
+identifier = "live"
+name = '云游'
+pageRef = '/live'
+weight = 14
+pre = "fa fa-gamepad"
+[[menus.main]]
+identifier = "post"
+name = '投稿'
+url = 'mailto:i@saop.cc?subject=资源投稿《xxxx》&body=这里填写你要发布的内容..'
+weight = 15
+pre = "fa fa-pen"
 
 [markup]
 defaultMarkdownHandler = "goldmark"
 [markup.goldmark.renderer]
 unsafe = true
+hardWraps = true
 [markup.goldmark.extensions.cjk]
 eastAsianLineBreaks = true
 enable = true
@@ -268,6 +143,7 @@ endLevel = 4
 ordered = true
 
 [params]
+subtitle = 'Visual Novel'
 summaryLength = 100
 date_format = "1970年01月01日"
 mainSections = ["p"]
@@ -292,17 +168,3 @@ enabled = true
 [params.comments]
 enabled = true
 provider = "valine"
-
-[params.comments.valine]
-appId = "BnlZFCN5ghutLVVEX0el3pz3-MdYXbMMI"
-appKey = "OvpvXLKwajI2qYE4XsNMokpW"
-serverURLs = "https://valine.saop.cc"
-placeholder = "昵称栏输入 QQ 号即可获取头像与邮箱..\n评论支持标准的 Markdown 全语法~"
-avatar_cdn = "https://weavatar.com/avatar/"
-pageSize = 20
-visitor = false
-comment_count = false
-highlight = true
-recordIP = true
-emojiCDN = "//twikoo-magic.oss-cn-hangzhou.aliyuncs.com/"
-enableQQ = true

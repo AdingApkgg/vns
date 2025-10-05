@@ -1,0 +1,451 @@
+@use "./pattern" as pattern;
+
+html {
+  scroll-behavior: smooth;
+  scroll-padding-top: 30vh;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: HarmonyOS_Regular, -apple-system, BlinkMacSystemFont, "Segoe UI",
+    Roboto, "Helvetica Neue", Arial, sans-serif !important;
+  background: fixed var(--bg-color) pattern.$bg center;
+  color: var(--text-color);
+}
+
+a {
+  color: var(--link-color);
+  text-decoration: none;
+
+  &:hover {
+    opacity: 0.7;
+    text-decoration: underline;
+  }
+}
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+  font-size: 0.875em;
+  margin: 0 0 20px;
+  width: 100%;
+  tbody tr {
+    &:nth-of-type(odd) {
+      background: var(--table-row-odd-bg-color);
+    }
+    &:hover {
+      background: var(--table-row-hover-bg-color);
+    }
+  }
+  caption,
+  td,
+  th {
+    padding: 8px;
+  }
+
+  td,
+  th {
+    border: 1px solid #ddd;
+    border-bottom: 3px solid #ddd;
+  }
+
+  th {
+    font-weight: 700;
+    padding-bottom: 10px;
+  }
+
+  td {
+    border-bottom-width: 1px;
+  }
+}
+
+.qr-code {
+  position: fixed;
+  max-width: 100px;
+  top: 0px;
+  right: 0px;
+}
+
+.highlight {
+  max-width: calc(100% + 2em);
+  margin: 0 -1em;
+  display: block;
+  position: relative;
+  left: calc(50% + 1em);
+  transform: translateX(-50%);
+  pre {
+    padding: 1em;
+    overflow: auto;
+    code {
+      font-family: Consolas, system-ui, -apple-system, BlinkMacSystemFont,
+        "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans",
+        "Helvetica Neue", sans-serif;
+      font-size: 0.875em;
+    }
+  }
+}
+
+main {
+  ol,
+  ul {
+    li {
+      line-height: 2;
+    }
+  }
+}
+
+main kbd,
+header nav button,
+select,
+select option {
+  font-family: Consolas, system-ui, -apple-system, BlinkMacSystemFont,
+    "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue",
+    sans-serif;
+  font-size: 0.875em;
+  border: 2px solid #ccc;
+  border-radius: 0.2em;
+  box-shadow: 0.1em 0.1em 0.2em rgba(0, 0, 0, 0.1);
+  background: var(--highlight-background);
+  color: var(--highlight-foreground);
+  font-family: inherit;
+  padding: 0.1em 0.3em;
+  white-space: nowrap;
+}
+
+p,
+li {
+  code {
+    font-family: Consolas, system-ui, -apple-system, BlinkMacSystemFont,
+      "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans",
+      "Helvetica Neue", sans-serif;
+    font-size: 0.875em;
+    background: var(--highlight-background);
+    color: var(--highlight-foreground);
+    border-radius: 3px;
+    padding: 2px 4px;
+    overflow-wrap: break-word;
+  }
+}
+
+blockquote {
+  border-left: var(--link-color) 4px solid;
+  padding: 0 15px;
+  margin: 0 auto;
+}
+
+header {
+  position: fixed;
+  max-width: 126px;
+  height: 100%;
+  top: 0px;
+  left: 0px;
+  background: var(--bg-header-fixed);
+  border-bottom: 1px solid #e0e0e0;
+  transition: all 0.3s ease;
+  box-shadow: 0 5px 6px -5px rgba(133, 133, 133, 0.6);
+  z-index: 2;
+  &.active {
+    left: 0px;
+  }
+}
+
+#waifu {
+  left: 100%;
+  transform: translate(-100%, 3px);
+  &:hover {
+    transform: translate(-100%, 0);
+  }
+  #waifu-tips {
+    right: 0px;
+  }
+  #waifu-tool {
+    left: 0;
+    transform: translateX(-50%);
+  }
+}
+
+#back-to-top {
+  display: none;
+  position: fixed;
+  bottom: 30px;
+  right: 10px;
+  z-index: 2;
+  padding: 0.3em 0.3em;
+  font-size: 1.6em;
+  background-color: #007bff;
+  color: whitesmoke;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  opacity: 0;
+  animation: fadeInRight 0.3s ease-out;
+}
+
+#back-to-top.show {
+  opacity: 1;
+}
+
+#back-to-top:hover,
+#menuToggle:hover {
+  background-color: #0056b3;
+}
+
+#menuToggle {
+  display: none;
+  position: fixed;
+  bottom: 80px;
+  right: 10px;
+  z-index: 3;
+  cursor: pointer;
+  padding: 0.3em 0.3em;
+  font-size: 1.6em;
+  background-color: #007bff;
+  color: whitesmoke;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: opacity 0.3s ease;
+  animation: fadeInDown 0.3s ease-out;
+}
+
+header nav {
+  top: 0;
+  right: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 1000;
+  flex-direction: column;
+  display: flex;
+  max-width: 1000px;
+  margin: 0 auto;
+  overflow: auto;
+  white-space: nowrap;
+}
+
+header nav h2 {
+  text-align: center;
+  font-size: 2.2em;
+  margin: 0 auto;
+}
+
+header nav p {
+  text-align: center;
+}
+
+header nav a,
+header nav button,
+header nav select {
+  color: var(--link-color);
+  text-decoration: none;
+  padding: 0 0.5em;
+  line-height: 60px;
+  display: inline-block;
+  text-align: center;
+  line-height: 2;
+}
+
+header nav a:hover {
+  opacity: 0.7;
+  text-decoration: underline;
+  animation: rubberBand 0.3s ease-out;
+}
+
+header nav a img {
+  max-width: 100%;
+  height: auto;
+}
+
+main,
+#search {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 1em;
+  border-top: none;
+  border-bottom: none;
+  border-radius: 4px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  background-color: var(--bg-color);
+  color: var(--text-color);
+  animation: fadeInUp 0.3s ease-out;
+}
+
+main h1 {
+  font-size: 2em;
+}
+
+main h2 {
+  border-bottom: 1px solid #e0e0e0;
+}
+
+main h3 {
+  border-bottom: 1px dotted #e0e0e0;
+}
+
+.article-main img.zoomable,
+.article-main video,
+.article-main iframe {
+  max-width: calc(100% + 2em);
+  margin: 0 -1em;
+  display: block;
+  position: relative;
+  left: calc(50% + 1em);
+  transform: translateX(-50%);
+}
+
+footer {
+  background: var(--footer-bg);
+  box-shadow: 0 5px 6px -5px rgba(133, 133, 133, 0.6);
+  border-top: 1px solid var(--footer-border);
+  padding: 1rem;
+  animation: fadeInUp 0.3s ease-out;
+}
+
+footer p {
+  color: var(--text-color);
+  text-align: center;
+  font-weight: bold;
+}
+
+.pagefind-ui form input,
+.pagefind-ui form button,
+.pagefind-ui div * {
+  background: var(--bg-color) !important;
+  color: var(--text-color) !important;
+}
+
+.comments {
+  max-width: 960px;
+  margin: 0 auto;
+}
+
+.post-meta {
+  font-size: 0.9rem;
+  color: #666;
+  margin-bottom: 1rem;
+}
+
+.comment {
+  padding: 1rem 0;
+  line-height: 1.6;
+}
+
+.taxonomy {
+  list-style: none;
+  font-size: 1.2em;
+  padding: 0;
+}
+
+.taxonomy li,
+.pagination a,
+.pagination span {
+  display: inline-block;
+  margin: 4px;
+  border: 2px solid var(--border-color);
+  border-radius: 0.2em;
+  box-shadow: 0 0 0.1em 0.1em rgba(0, 0, 0, 0.1);
+  background: var(--bg-li-color);
+  padding: 0 0.4em;
+  overflow-wrap: break-word;
+  transition: all 0.3s ease-in;
+}
+
+.taxonomy li:hover,
+.pagination a:hover {
+  opacity: 0.7;
+  box-shadow: 0 0 0.08em 0.12em rgba(0, 0, 0, 0.3);
+  transition: all 0.1s ease-out;
+  transform: scale(0.95);
+}
+
+.taxonomy li span {
+  color: var(--text-color);
+  font-size: 0.875em;
+  background: var(--bg-span-color);
+  border-radius: 3px;
+  padding: 2px 4px;
+}
+
+.pagination {
+  margin: 1em 0;
+  font-size: 1.2em;
+  text-align: center;
+}
+
+#TableOfContents {
+  max-width: 100%;
+  background: var(--highlight-background);
+  border-radius: 4px;
+  padding: 0.5em;
+  overflow: auto;
+}
+
+#fps {
+  position: fixed;
+  right: 0px;
+  bottom: 0px;
+  z-index: 1000;
+  background-color: var(--bg-color);
+  padding: 2px 4px;
+  border-top-left-radius: 4px;
+}
+
+.aplayer-list,
+.aplayer-list-index,
+.aplayer-list-title,
+.aplayer-list-author,
+.aplayer-title,
+.aplayer-info,
+.aplayer-music *,
+.aplayer-icon {
+  background: var(--bg-color);
+  color: var(--text-color) !important;
+}
+
+.aplayer-list ol li,
+.aplayer-music {
+  text-align: initial !important;
+}
+
+.medium-zoom-image--opened,
+.medium-zoom-overlay {
+  z-index: 1001;
+  backdrop-filter: blur(8px);
+}
+
+@media (max-width: 1288px) {
+  header {
+    height: auto;
+    position: fixed;
+    bottom: 0;
+    left: -100%;
+  }
+
+  #menuToggle {
+    display: block;
+  }
+
+  .qr-code {
+    position: initial;
+    margin: 10px;
+    max-width: 100%;
+    top: initial;
+    right: initial;
+  }
+
+  #fps {
+    z-index: 3;
+  }
+
+  .aplayer.aplayer-fixed.aplayer-narrow .aplayer-body {
+    left: -66px !important;
+  }
+
+  .aplayer.aplayer-fixed.aplayer-narrow .aplayer-body:hover {
+    left: 0 !important;
+  }
+}
+
+.swal2-container {
+  backdrop-filter: blur(8px);
+}

@@ -117,18 +117,18 @@
     }
   </style>
   <h1><i class="fas fa-hashtag"></i>&nbsp;{{ .Title }}</h1>
-  <div id="content">少女祈祷中...</div>
+  <div class="content" id="content">{{ .Content }}</div>
   <script>
     document.addEventListener("DOMContentLoaded", () => {
-      fetchData();
+      fetchDLS();
     });
     document.addEventListener("pjax:complete", () => {
-      fetchData();
+      fetchDLS();
     });
 
-    function fetchData() {
+    function fetchDLS() {
       const jsonUrl =
-        "https://ghfast.top/https://raw.githubusercontent.com/AdingApkgg/vns/refs/heads/dev/data/data.json";
+        "https://ghfast.top/https://raw.githubusercontent.com/AdingApkgg/vns/refs/heads/dev/data/dls.json";
 
       fetch(jsonUrl)
         .then((response) => {
@@ -142,7 +142,7 @@
           contentDiv.innerHTML = "";
           data.forEach((item) => {
             const itemDiv = document.createElement("div");
-            itemDiv.className = "item animate__animated animate__fadeIn";
+            itemDiv.className = "item";
 
             const cover = document.createElement("img");
             cover.className = "cover";

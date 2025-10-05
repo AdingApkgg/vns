@@ -1,42 +1,44 @@
 # Visual Novel Site
 
-[简体中文](README.zh.md) | [日本語](README.ja.md) | [English](README.md)
+- 由 [Go](https://go.dev/) && [Hugo](https://gohugo.io/) 强力驱动~
 
-***
+## 本地运行
 
-- Powered by the [Hugo](https://gohugo.io/) framework
-- Supports internationalization and multilingual features
-
-## Local Development
-
-> Setting up the development environment requires tools like [Git](https://git-scm.com/) and [Hugo](https://gohugo.io/).
+> 搭建开发环境需要安装 [Git](https://git-scm.com/)、[Hugo](https://gohugo.io/)、[Sass](https://sass-lang.com/)、[Node.js](https://nodejs.org/zh-cn)、[Pagefind](https://pagefind.app/) 等工具..
 
 ### Windows => Winget
 
 ```sh
-winget install Hugo.Hugo.Extended
-git clone -b dev https://github.com/AdingApkgg/vns.git && cd vns
+winget install Git.Git Hugo.Hugo.Extended OpenJS.NodeJS
+choco install sass
+npm install -g pagefind
+git clone https://github.com/AdingApkgg/vns.git && cd vns
+hugo && pagefind
 hugo server
 ```
 
 ### macOS => Homebrew
 
 ```sh
-brew install hugo
-git clone -b dev https://github.com/AdingApkgg/vns.git && cd vns
+brew install git hugo sass/sass/sass node
+npm install -g pagefind
+git clone https://github.com/AdingApkgg/vns.git && cd vns
+hugo && pagefind
 hugo server
 ```
 
 ### Arch Linux => Pacman
 
 ```sh
-pacman -S hugo
-git clone -b dev https://github.com/AdingApkgg/vns.git && cd vns
+pacman -S git hugo dart-sass nodejs
+npm install -g pagefind
+git clone https://github.com/AdingApkgg/vns.git && cd vns
+hugo && pagefind
 hugo server
 ```
 
-For more details, please refer to [Hugo](https://gohugo.io/).
+更多内容请参阅 [Hugo](https://gohugo.io/)..
 
-## Contributing
+## 参与贡献
 
-The site still has many areas that need improvement. Contributions to both the content and source code are welcome. For more information, please refer to the [Contribution Guide](/content/en/docs/postscript/contribute.md).
+目前网站有许多内容需要建设完善，欢迎对本站内容及源码做贡献，更多信息请参阅 [贡献指南](https://vns.saop.cc/docs/%E8%B4%A1%E7%8C%AE%E6%8C%87%E5%8D%97/)。

@@ -1,6 +1,28 @@
-<p>&copy; {{ now.Year }} {{ .Site.Title }}</p>
 <p>
-  {{ T "SiteInfoItems.totalViews" }}<span id="busuanzi_site_pv">null</span>，{{
-  T "SiteInfoItems.visitors" }}<span id="busuanzi_site_uv">null</span>
+  <i class="fa fa-copyright"></i>&nbsp;2024 ~ {{ time.Now.Year }}&nbsp;<i
+    class="fa fa-heart"
+  ></i
+  >&nbsp;{{ .Site.Params.defaultAuthor }}&nbsp;<i
+    class="fa fa-scale-balanced"
+  ></i
+  >&nbsp;<a
+    target="_blank"
+    href="https://github.com/AdingApkgg/vns/blob/dev/LICENSE"
+    >MIT</a
+  >
 </p>
-<script async src="https://busuanzi.9420.ltd/js"></script>
+<p>
+  使用
+  <a target="_blank" href="https://gohugo.io/">hugo{{ hugo.Version }}</a> 和
+  <a target="_blank" href="https://go.dev/">{{ hugo.GoVersion }}</a> 构建
+</p>
+<p>
+  <i class="fa fa-eye"></i>&nbsp;<span id="busuanzi_value_site_pv">null</span
+  >&nbsp;<i class="fa fa-user"></i>&nbsp;<span id="busuanzi_value_site_uv"
+    >null</span
+  >
+</p>
+<script
+  async
+  src="https://registry.npmmirror.com/js-asuna/latest/files/js/bsz.pure.mini.js"
+></script>

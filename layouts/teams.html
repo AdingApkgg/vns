@@ -24,7 +24,7 @@
       }
     }
 
-    .article-main .content .staff {
+    .article-main .content .item {
       border: 1px solid rgba(0, 0, 0, 0.1);
       border-radius: 8px;
       box-shadow: 0 4px 8px rgba(0, 0, 0, 0.05);
@@ -35,22 +35,22 @@
       transition: transform 0.2s, box-shadow 0.2s;
       font-size: 1rem;
     }
-    .article-main .content .staff:hover {
+    .article-main .content .item:hover {
       transform: translateY(-4px);
       box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1);
     }
-    .article-main .content .staff section {
+    .article-main .content .item section {
       height: 100%;
       display: flex;
       flex-direction: column;
       justify-content: space-evenly;
     }
-    .article-main .content .staff section p {
+    .article-main .content .item section p {
       text-align: center;
       margin: 0.6em 0;
       padding: 0 16px;
     }
-    .article-main .content .staff section p strong {
+    .article-main .content .item section p strong {
       font-size: 1.4em;
     }
   </style>
@@ -58,8 +58,8 @@
   {{ .Content }}
   <div class="content">
     {{ $defaultAuthor := .Site.Params.ogImage | absURL }} {{ range
-    .Site.Data.staff }}
-    <div class="staff">
+    .Site.Data.teams }}
+    <div class="item">
       {{ if .avatar }}
       <img
         loading="lazy"

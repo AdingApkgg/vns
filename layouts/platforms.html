@@ -1,8 +1,10 @@
 {{ define "main" }}
+{{ $taxonomyObject := .Site.Taxonomies.categories }}
 <article class="article-main">
-  <h1><i class="fa fa-hashtag"></i>&nbsp;{{ i18n $.Data.Plural }}</h1>
+  <h1><i class="fa fa-hashtag"></i>&nbsp;平台</h1>
+  <div class="content">{{ .Content }}</div>
   <ul class="taxonomy">
-    {{ range .Data.Terms }}
+    {{ range $term, $weightedPages := $taxonomyObject }}
     <li>
       <a href="{{ .Page.Permalink }}">{{ .Page.Name }}</a>
       <span>{{ .Count }}</span>
