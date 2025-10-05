@@ -116,7 +116,11 @@
       display: block;
     }
   </style>
-  <h1><i class="fas fa-hashtag"></i>&nbsp;{{ .Title }}</h1>
+  <h1>
+    <i class="fas fa-hashtag"></i>&nbsp;{{ .Title }}<sup
+      ><span id="busuanzi_value_page_pv">null</span></sup
+    >
+  </h1>
   <div class="content" id="content">{{ .Content }}</div>
   <script>
     document.addEventListener("DOMContentLoaded", () => {
