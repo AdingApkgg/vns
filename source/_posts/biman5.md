@@ -23,7 +23,7 @@ date: 2024-06-09 01:58:30
 updated: 2024-06-09 01:58:30
 ---
 
-![biman5](https://static.saop.cc/vns/img/biman5.webp)
+![biman5](https://static.30hb.cn/vndb/img/biman5.webp)
 
 《**美少女万华镜 -理与迷宫的少女-**》（日语：美少女万華鏡 -理と迷宮の少女-），下称《**理与迷宫的少女**》，是ωstar开发的[日本成人游戏](https://zh.wikipedia.org/wiki/日本成人遊戲)，亦是《[美少女万华镜](https://zh.wikipedia.org/wiki/美少女万华镜)》系列的第5部作品（最终作）。当中由[八宝备仁](https://zh.wikipedia.org/wiki/八宝备仁)负责原画，吉祥寺ドロレス担当编剧。
 
@@ -52,11 +52,11 @@ updated: 2024-06-09 01:58:30
 
 ## 图片
 
-![biman5_p1](https://static.saop.cc/vns/img/biman5_p1.webp)
+![biman5_p1](https://static.30hb.cn/vndb/img/biman5_p1.webp)
 
-![biman5_p2](https://static.saop.cc/vns/img/biman5_p2.webp)
+![biman5_p2](https://static.30hb.cn/vndb/img/biman5_p2.webp)
 
-![biman5_p3](https://static.saop.cc/vns/img/biman5_p3.webp)
+![biman5_p3](https://static.30hb.cn/vndb/img/biman5_p3.webp)
 
 ## 系统
 

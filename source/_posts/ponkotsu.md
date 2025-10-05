@@ -1,20 +1,27 @@
 ---
-title: 与我恋爱的废柴小恶魔。 / 与我恋爱的废柴小恶魔。超级H！ / 与我恋爱的废柴恶魔。 / 僕と恋するポンコツアクマ。 / 僕と恋するポンコツアクマ。 すっごいえっち！ / 恋クマ。 / Koikuma / The Ditzy Demons Are in Love With Me
-abbrlink: 19494
+title: >-
+  与我恋爱的废柴小恶魔。／与我恋爱的废柴小恶魔。超级H！／与我恋爱的废柴恶魔。／僕と恋するポンコツアクマ。／僕と恋するポンコツアクマ。
+  すっごいえっち！／恋クマ。／Koikuma／The Ditzy Demons Are in Love With Me／Fan Disc
+abbrlink: 38423
 tags:
-  - Smile
-  - 废萌
+  - スミレ／Smile
   - 拔
+  - 动态CG
+  - 实用
+  - 萌
+  - 妹
+  - 后宫
+  - 废萌
+  - 纯爱
+  - 欢乐
   - 幼驯染
+  - 萝莉
   - 魔女
   - 天使
   - 雪女
-  - 妹妹
-  - 纯爱
-  - 后宫
   - 校园
   - 同居
-  - 动态CG
+  - FD
   - 2015
   - 2016
 categories:
@@ -23,26 +30,22 @@ categories:
   - - Android
 author: Dimly
 date: 2025-07-21 21:11:30
-updated: 2025-07-21 21:11:30
+updated: 2025-10-06 00:53:40
 ---
 
-![koikuma](https://t.vndb.org/cv/21/79021.jpg)
+![ponkotsu](https://static.30hb.cn/vndb/img/ponkotsu.webp)
 
 《**与我恋爱的废柴小恶魔**》（英文：**The Ditzy Demons Are in Love With Me**）是[Smile](https://zh.moegirl.org.cn/Smile(游戏品牌))开发的一款Galgame，并有FanDisc等衍生作品，繁体中文实体版由未来数位代理。
 
-<!--more-->
+<!-- more -->
 
-![koikuma_p1](https://t.vndb.org/sf/24/89324.jpg)
+![ponkotsu_p1](https://static.30hb.cn/vndb/img/ponkotsu_p1.webp)
 
-![koikuma_p2](https://t.vndb.org/sf/28/89328.jpg)
+![ponkotsu_p2](https://static.30hb.cn/vndb/img/ponkotsu_p2.webp)
 
-![koikuma_p3](https://t.vndb.org/sf/29/89329.jpg)
+![ponkotsu_p3](https://static.30hb.cn/vndb/img/ponkotsu_p3.webp)
 
-![koikuma_p4](https://t.vndb.org/sf/40/116740.jpg)
-
-![koikuma_p5](https://t.vndb.org/sf/84/131884.jpg)
-
-![koikuma_p6](https://t.vndb.org/sf/85/131885.jpg)
+![ponkotsu_p4](https://static.30hb.cn/vndb/img/ponkotsu_p4.webp)
 
 ## 故事
 

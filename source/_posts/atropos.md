@@ -26,21 +26,21 @@ date: 2025-07-18 20:12:30
 updated: 2025-07-21 03:19:40
 ---
 
-![atropos](https://static.saop.cc/vns/img/atropos.webp)
+![atropos](https://static.30hb.cn/vndb/img/atropos.webp)
 
 《**5分钟的邂逅！时间停止与不可避免的命运**》（日语：**出会って5分は俺のもの！時間停止と不可避な運命**）是由[HULOTTE](https://zh.moegirl.org.cn/HULOTTE)制作的一部Galgame。
 
 <!-- more -->
 
-![atropos_p1](https://static.saop.cc/vns/img/atropos_p1.webp)
+![atropos_p1](https://static.30hb.cn/vndb/img/atropos_p1.webp)
 
-![atropos_p2](https://static.saop.cc/vns/img/atropos_p2.webp)
+![atropos_p2](https://static.30hb.cn/vndb/img/atropos_p2.webp)
 
-![atropos_p3](https://static.saop.cc/vns/img/atropos_p3.webp)
+![atropos_p3](https://static.30hb.cn/vndb/img/atropos_p3.webp)
 
-![atropos_p4](https://static.saop.cc/vns/img/atropos_p4.webp)
+![atropos_p4](https://static.30hb.cn/vndb/img/atropos_p4.webp)
 
-![atropos_p5](https://static.saop.cc/vns/img/atropos_p5.webp)
+![atropos_p5](https://static.30hb.cn/vndb/img/atropos_p5.webp)
 
 ## 故事
 

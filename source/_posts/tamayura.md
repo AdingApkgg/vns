@@ -1,14 +1,19 @@
 ---
-title: 玉响未来 / 深野协调魔法使 / タマユラミライ / Tamayura Mirai
-abbrlink: 64981
+title: 玉响未来／深野协调魔法使／タマユラミライ／Tamayura Mirai
+abbrlink: 47194
 tags:
   - Azurite
-  - 剧情
   - 废萌
   - 纯爱
-  - 姐
-  - 魅魔
+  - 黑长直
+  - 白毛
   - 民俗
+  - 奇幻
+  - 幼驯染
+  - 姐
+  - 恋爱
+  - 剧情
+  - 魅魔
   - 轮回
   - 2019
 categories:
@@ -19,23 +24,19 @@ date: 2025-07-21 23:02:30
 updated: 2025-07-21 23:02:30
 ---
 
-![tamayura](https://t.vndb.org/cv/51/79751.jpg)
+![tamayura](https://static.30hb.cn/vndb/img/tamayura.webp)
 
 **《玉响未来》**（日语：**タマユラミライ**），是由[DiGination](https://zh.moegirl.org.cn/index.php?title=DiGination&action=edit&redlink=1)旗下品牌Azurite制作的一款ADV游戏，于2019年5月31日发售。
 
-<!--more-->
+<!-- more -->
 
-![tamayura_p1](https://t.vndb.org/sf/21/161121.jpg)
+![tamayura_p1](https://static.30hb.cn/vndb/img/tamayura_p1.webp)
 
-![tamayura_p2](https://t.vndb.org/sf/22/161122.jpg)
+![tamayura_p2](https://static.30hb.cn/vndb/img/tamayura_p2.webp)
 
-![tamayura_p3](https://t.vndb.org/sf/23/161123.jpg)
+![tamayura_p3](https://static.30hb.cn/vndb/img/tamayura_p3.webp)
 
-![tamayura_p4](https://t.vndb.org/sf/24/161124.jpg)
-
-![tamayura_p5](https://t.vndb.org/sf/25/161125.jpg)
-
-![tamayura_p6](https://t.vndb.org/sf/26/161126.jpg)
+![tamayura_p4](https://static.30hb.cn/vndb/img/tamayura_p4.webp)
 
 ## 故事
 

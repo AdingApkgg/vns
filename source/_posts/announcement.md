@@ -9,7 +9,7 @@ date: 2024-04-04 19:40:00
 updated: 2025-07-18 08:00:00
 ---
 
-![Random Image](https://www.loliapi.com/acg/)
+![Random Image](https://api.illlights.com/v1/img)
 
 ## 基本帮助
 

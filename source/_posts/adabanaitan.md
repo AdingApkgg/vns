@@ -20,7 +20,7 @@ date: 2024-11-11 00:26:50
 updated: 2024-11-11 00:26:50
 ---
 
-![adabanaitan](https://static.saop.cc/vns/img/adabanaitan.webp)
+![adabanaitan](https://static.30hb.cn/vndb/img/adabanaitan.webp)
 
 **《徒花异谭》**是由 [ANIPLEX.EXE](https://zh.moegirl.org.cn/ANIPLEX.EXE) 和 [Liar-soft](https://zh.moegirl.org.cn/Liar-soft) 共同制作，并由 [ANIPLEX.EXE](https://zh.moegirl.org.cn/ANIPLEX.EXE) 发行的一部[视觉小说](https://zh.moegirl.org.cn/视觉小说)游戏。于2020年6月19日在[Steam](https://zh.moegirl.org.cn/Steam)平台和[DMM](https://zh.moegirl.org.cn/DMM)平台上同步发售。
 
@@ -32,15 +32,15 @@ updated: 2024-11-11 00:26:50
 
 修复完扭曲的故事后，二人会迎来怎样的结局呢——
 
-![adabanaitan_p1](https://static.saop.cc/vns/img/adabanaitan_p1.webp)
+![adabanaitan_p1](https://static.30hb.cn/vndb/img/adabanaitan_p1.webp)
 
-![adabanaitan_p2](https://static.saop.cc/vns/img/adabanaitan_p2.webp)
+![adabanaitan_p2](https://static.30hb.cn/vndb/img/adabanaitan_p2.webp)
 
-![adabanaitan_p3](https://static.saop.cc/vns/img/adabanaitan_p3.webp)
+![adabanaitan_p3](https://static.30hb.cn/vndb/img/adabanaitan_p3.webp)
 
-![adabanaitan_p4](https://static.saop.cc/vns/img/adabanaitan_p4.webp)
+![adabanaitan_p4](https://static.30hb.cn/vndb/img/adabanaitan_p4.webp)
 
-![adabanaitan_p5](https://static.saop.cc/vns/img/adabanaitan_p5.webp)
+![adabanaitan_p5](https://static.30hb.cn/vndb/img/adabanaitan_p5.webp)
 
 ## 剧情
 

@@ -14,7 +14,7 @@ tags:
   - 胃疼
   - 纯爱
   - 治愈
-  - 甜蜜
+  - 甜
   - 1998
   - 2010
   - 2011
@@ -27,7 +27,7 @@ date: 2024-10-29 05:04:00
 updated: 2024-10-29 05:04:00
 ---
 
-![wa](https://static.saop.cc/vns/img/wa.webp)
+![wa](https://static.30hb.cn/vndb/img/wa.webp)
 
 《**白色相簿**》（日语：WHITE ALBUM／ホワイトアルバム），是[日本](https://zh.wikipedia.org/wiki/日本)[Leaf](https://zh.wikipedia.org/wiki/Leaf)在1998年5月1日发售[成人游戏](https://zh.wikipedia.org/wiki/日本成人遊戲)。2010年6月24日由[AQUAPLUS](https://zh.wikipedia.org/wiki/AQUAPLUS)发售[PS3](https://zh.wikipedia.org/wiki/PS3)重制版《白色相簿：编缀的冬日回忆》（WHITE ALBUM -綴られる冬の思い出-），2012年3月30日由[DMM.com](https://zh.wikipedia.org/wiki/DMM.com)发售从PlayStation 3逆移植的[PC](https://zh.wikipedia.org/wiki/個人電腦)重制版。2009年1月播放[电视动画](https://zh.wikipedia.org/wiki/日本電視動畫)版前半部，后半部于2009年10月3日开始播放，共有26集。
 
@@ -45,23 +45,23 @@ updated: 2024-10-29 05:04:00
 
 <!-- more -->
 
-![wa_p1](https://static.saop.cc/vns/img/wa_p1.webp)
+![wa_p1](https://static.30hb.cn/vndb/img/wa_p1.webp)
 
-![wa_p2](https://static.saop.cc/vns/img/wa_p2.webp)
+![wa_p2](https://static.30hb.cn/vndb/img/wa_p2.webp)
 
-![wa_p3](https://static.saop.cc/vns/img/wa_p3.webp)
+![wa_p3](https://static.30hb.cn/vndb/img/wa_p3.webp)
 
-![wa_p4](https://static.saop.cc/vns/img/wa_p4.webp)
+![wa_p4](https://static.30hb.cn/vndb/img/wa_p4.webp)
 
-![wa_p5](https://static.saop.cc/vns/img/wa_p5.webp)
+![wa_p5](https://static.30hb.cn/vndb/img/wa_p5.webp)
 
-![wa_p6](https://static.saop.cc/vns/img/wa_p6.webp)
+![wa_p6](https://static.30hb.cn/vndb/img/wa_p6.webp)
 
-![wa_p7](https://static.saop.cc/vns/img/wa_p7.webp)
+![wa_p7](https://static.30hb.cn/vndb/img/wa_p7.webp)
 
-![wa_p8](https://static.saop.cc/vns/img/wa_p8.webp)
+![wa_p8](https://static.30hb.cn/vndb/img/wa_p8.webp)
 
-![wa_p9](https://static.saop.cc/vns/img/wa_p9.webp)
+![wa_p9](https://static.30hb.cn/vndb/img/wa_p9.webp)
 
 ## 剧情
 

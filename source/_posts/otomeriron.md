@@ -25,7 +25,7 @@ date: 2024-05-05 02:26:00
 updated: 2024-05-05 02:26:00
 ---
 
-![otomeriron](https://static.saop.cc/vns/img/otomeriron.webp)
+![otomeriron](https://static.30hb.cn/vndb/img/otomeriron.webp)
 
 《少女理论及其周边  -Ecole de Paris-》（日语：**乙女理論とその周辺 -Ecole de Paris-**）是由[Navel](https://zh.moegirl.org.cn/Navel)制作、发行的Galgame，于2013年7月26日发售。简称为乙りろ（おとりろ）。是《[近月少女的礼仪](https://zh.moegirl.org.cn/近月少女的礼仪)》的续作，剧情衔接《近月少女的礼仪》的BAD END。
 
@@ -73,11 +73,11 @@ updated: 2024-05-05 02:26:00
 
 ## 图片
 
-![otomeriron_p1](https://static.saop.cc/vns/img/otomeriron_p1.webp)
+![otomeriron_p1](https://static.30hb.cn/vndb/img/otomeriron_p1.webp)
 
-![otomeriron_p2](https://static.saop.cc/vns/img/otomeriron_p2.webp)
+![otomeriron_p2](https://static.30hb.cn/vndb/img/otomeriron_p2.webp)
 
-![otomeriron_p3](https://static.saop.cc/vns/img/otomeriron_p3.webp)
+![otomeriron_p3](https://static.30hb.cn/vndb/img/otomeriron_p3.webp)
 
 ## 链接
 

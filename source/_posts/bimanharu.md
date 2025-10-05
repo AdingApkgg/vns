@@ -20,7 +20,7 @@ date: 2024-06-08 19:00:00
 updated: 2024-06-08 19:00:00
 ---
 
-![bimanharu](https://static.saop.cc/vns/img/bimanharu.webp)
+![bimanharu](https://static.30hb.cn/vndb/img/bimanharu.webp)
 
 《致曾经是少女的你》（かつて少女だった君へ）是系列的外传，PC正式版于2014年2月28日发行。这部作品讲述了温泉旅馆的侍者小姐稻森春跟其恋人上条草太的故事。
 
@@ -36,9 +36,9 @@ updated: 2024-06-08 19:00:00
 
 ## 图片
 
-![bimanharu_p1](https://static.saop.cc/vns/img/bimanharu_p1.webp)
+![bimanharu_p1](https://static.30hb.cn/vndb/img/bimanharu_p1.webp)
 
-![bimanharu_p2](https://static.saop.cc/vns/img/bimanharu_p2.webp)
+![bimanharu_p2](https://static.30hb.cn/vndb/img/bimanharu_p2.webp)
 
 ## 链接
 

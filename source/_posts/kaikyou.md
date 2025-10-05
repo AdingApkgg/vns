@@ -17,7 +17,7 @@ date: 2024-04-30 00:09:00
 updated: 2024-04-30 00:09:00
 ---
 
-![kaikyou](https://static.saop.cc/vns/img/kaikyou.webp)
+![kaikyou](https://static.30hb.cn/vndb/img/kaikyou.webp)
 
 《女装海峡》是日本游戏公司[脑内彼女](https://zh.moegirl.org.cn/脑内彼女)制作并于2013年05月31日发售的成人向纯爱（Yoooo）AVG（文字冒险）游戏。脑内彼女“女装”系列第二部，同前作一样，依旧讲述与[可爱的男孩子](https://zh.moegirl.org.cn/伪娘)们的恋爱与生活。
 
@@ -47,11 +47,11 @@ updated: 2024-04-30 00:09:00
 
 ## 图片
 
-![kaikyou_p1](https://static.saop.cc/vns/img/kaikyou_p1.webp)
+![kaikyou_p1](https://static.30hb.cn/vndb/img/kaikyou_p1.webp)
 
-![kaikyou_p2](https://static.saop.cc/vns/img/kaikyou_p2.webp)
+![kaikyou_p2](https://static.30hb.cn/vndb/img/kaikyou_p2.webp)
 
-![kaikyou_p3](https://static.saop.cc/vns/img/kaikyou_p3.webp)
+![kaikyou_p3](https://static.30hb.cn/vndb/img/kaikyou_p3.webp)
 
 ## 链接
 

@@ -22,7 +22,7 @@ date: 2024-01-31 20:40:00
 updated: 2024-04-13 22:40:00
 ---
 
-![hamidashi](https://static.saop.cc/vns/img/hamidashi.webp)
+![hamidashi](https://static.30hb.cn/vndb/img/hamidashi.webp)
 
 《**常轨脱离Creative**》（日语：**ハミダシクリエイティブ**），民间汉化译作灵感满溢的甜蜜创想，是由[Madosoft](https://mzh.moegirl.org.cn/Madosoft)制作的一款[Galgame](https://mzh.moegirl.org.cn/Galgame)。
 
@@ -48,15 +48,15 @@ updated: 2024-04-13 22:40:00
 
 ## 图片
 
-![hamidashi_p1](https://static.saop.cc/vns/img/hamidashi_p1.webp)
+![hamidashi_p1](https://static.30hb.cn/vndb/img/hamidashi_p1.webp)
 
-![hamidashi_p2](https://static.saop.cc/vns/img/hamidashi_p2.webp)
+![hamidashi_p2](https://static.30hb.cn/vndb/img/hamidashi_p2.webp)
 
-![hamidashi_p3](https://static.saop.cc/vns/img/hamidashi_p3.webp)
+![hamidashi_p3](https://static.30hb.cn/vndb/img/hamidashi_p3.webp)
 
-![hamidashi_p4](https://static.saop.cc/vns/img/hamidashi_p4.webp)
+![hamidashi_p4](https://static.30hb.cn/vndb/img/hamidashi_p4.webp)
 
-![hamidashi_p5](https://static.saop.cc/vns/img/hamidashi_p5.webp)
+![hamidashi_p5](https://static.30hb.cn/vndb/img/hamidashi_p5.webp)
 
 ## STAFF
 

@@ -24,7 +24,7 @@ date: 2024-04-19 23:51:00
 updated: 2024-04-19 23:51:00
 ---
 
-![eustia](https://static.saop.cc/vns/img/eustia.webp)
+![eustia](https://static.30hb.cn/vndb/img/eustia.webp)
 
 《**秽翼的尤斯蒂娅**》（日语：穢翼のユースティア）为[AUGUST](https://zh.wikipedia.org/wiki/AUGUST)发行的[恋爱冒险](https://zh.wikipedia.org/wiki/戀愛冒險)类型[日本成人游戏](https://zh.wikipedia.org/wiki/日本成人遊戲)。2010年8月释出全部主配角资料，2011年初推出体验版，2011年4月28日和7月29日各发售于[Windows](https://zh.wikipedia.org/wiki/Windows)平台运行的初回版和通常版。2014年2月，在电击G's杂志上宣布将移植到[PSV](https://zh.wikipedia.org/wiki/PlayStation_Vita)平台，基于平台的性质问题，会取消娼妇部分的相关设定。实体版本《秽翼的尤斯蒂娅 Angel’s blessing》于同年6月26日发售，下载版本则于7月10日上架。2016年11月22日由[DMM.com](https://zh.wikipedia.org/wiki/DMM.com)发售Windows平台和[Android](https://zh.wikipedia.org/wiki/Android)平台的新装版。
 
@@ -64,11 +64,11 @@ updated: 2024-04-19 23:51:00
 
 ## 图片
 
-![eustia_p1](https://static.saop.cc/vns/img/eustia_p1.webp)
+![eustia_p1](https://static.30hb.cn/vndb/img/eustia_p1.webp)
 
-![eustia_p2](https://static.saop.cc/vns/img/eustia_p2.webp)
+![eustia_p2](https://static.30hb.cn/vndb/img/eustia_p2.webp)
 
-![eustia_p3](https://static.saop.cc/vns/img/eustia_p3.webp)
+![eustia_p3](https://static.30hb.cn/vndb/img/eustia_p3.webp)
 
 ## 评价
 

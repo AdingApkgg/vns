@@ -6,7 +6,7 @@ abbrlink: 3699
 tags:
   - Palette／调色板／ぱれっと
   - 废萌
-  - 甜蜜
+  - 甜
   - 纯爱
   - 傲娇
   - FD
@@ -22,7 +22,7 @@ date: 2024-05-11 02:31:30
 updated: 2024-05-11 02:31:30
 ---
 
-![mashiro-sana](https://static.saop.cc/vns/img/mashiro-sana.webp)
+![mashiro-sana](https://static.30hb.cn/vndb/img/mashiro-sana.webp)
 
 **《纯白交响曲》**（日语：**ましろ色シンフォニー**；英语：**Mashiroiro Symphony**）是由[Palette](https://zh.moegirl.org.cn/Palette(游戏公司))制作的一部以校园恋爱为主题的文字冒险游戏，PSP版[升格一名](https://zh.moegirl.org.cn/乾纱凪)、[新增一名](https://zh.moegirl.org.cn/小野宫结月)可攻略角色，并有动画、漫画等衍生作品。
 
@@ -43,7 +43,7 @@ updated: 2024-05-11 02:31:30
 
 ## 图片
 
-![mashiro-sana_p1](https://static.saop.cc/vns/img/mashiro-sana_p1.webp)
+![mashiro-sana_p1](https://static.30hb.cn/vndb/img/mashiro-sana_p1.webp)
 
 ## 链接
 

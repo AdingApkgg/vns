@@ -18,7 +18,7 @@ date: 2024-04-30 01:26:00
 updated: 2024-04-30 01:26:00
 ---
 
-![gakunin](https://static.saop.cc/vns/img/gakunin.webp)
+![gakunin](https://static.30hb.cn/vndb/img/gakunin.webp)
 
 **《女装学园（妊）》**是日本游戏品牌**脑内彼女**制作并于2014年9月26日发售的R-18纯爱ADV。和女装山脉、女装海峡一样，该作中的“女主角”全部都是[伪娘](https://zh.moegirl.org.cn/伪娘)。
 
@@ -66,11 +66,11 @@ updated: 2024-04-30 01:26:00
 
 ## 图片
 
-![gakunin_p1](https://static.saop.cc/vns/img/gakunin_p1.webp)
+![gakunin_p1](https://static.30hb.cn/vndb/img/gakunin_p1.webp)
 
-![gakunin_p2](https://static.saop.cc/vns/img/gakunin_p2.webp)
+![gakunin_p2](https://static.30hb.cn/vndb/img/gakunin_p2.webp)
 
-![gakunin_p3](https://static.saop.cc/vns/img/gakunin_p3.webp)
+![gakunin_p3](https://static.30hb.cn/vndb/img/gakunin_p3.webp)
 
 ## 链接
 

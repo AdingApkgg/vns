@@ -21,7 +21,7 @@ date: 2024-04-19 00:05:00
 updated: 2024-04-19 00:05:00
 ---
 
-![tsukiniyorisou-2nd](https://static.saop.cc/vns/img/tsukiniyorisou-2nd.webp)
+![tsukiniyorisou-2nd](https://static.30hb.cn/vndb/img/tsukiniyorisou-2nd.webp)
 
 **《近月少女的礼仪2》**（日语：**月に寄りそう乙女の作法2**）是Navel社制作的一部[Galgame](https://zh.moegirl.org.cn/Galgame)，为近月系列第三作，并有两篇[Fan Disc](https://zh.moegirl.org.cn/Fan_Disc)《近月少女的礼仪2.1 E×S×PAR!!》和《近月少女的礼仪2.2 A×L+SA!!》。
 
@@ -64,11 +64,11 @@ updated: 2024-04-19 00:05:00
 
 ## 图片
 
-![tsukiniyorisou-2nd_p1](https://static.saop.cc/vns/img/tsukiniyorisou-2nd_p1.webp)
+![tsukiniyorisou-2nd_p1](https://static.30hb.cn/vndb/img/tsukiniyorisou-2nd_p1.webp)
 
-![tsukiniyorisou-2nd_p2](https://static.saop.cc/vns/img/tsukiniyorisou-2nd_p2.webp)
+![tsukiniyorisou-2nd_p2](https://static.30hb.cn/vndb/img/tsukiniyorisou-2nd_p2.webp)
 
-![tsukiniyorisou-2nd_p3](https://static.saop.cc/vns/img/tsukiniyorisou-2nd_p3.webp)
+![tsukiniyorisou-2nd_p3](https://static.30hb.cn/vndb/img/tsukiniyorisou-2nd_p3.webp)
 
 ## 链接
 

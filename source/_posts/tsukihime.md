@@ -19,7 +19,7 @@ date: 2024-07-31 00:03:20
 updated: 2024-07-31 00:03:20
 ---
 
-![tsukihime](https://static.saop.cc/vns/img/tsukihime.webp)
+![tsukihime](https://static.30hb.cn/vndb/img/tsukihime.webp)
 
 **《月姬》**是日本同人社团**[TYPE-MOON](https://zh.moegirl.org.cn/TYPE-MOON)**于2000年在Windows平台推出的一款十八禁[Galgame](https://zh.moegirl.org.cn/Galgame)。另有格斗游戏《[MELTY BLOOD](https://zh.moegirl.org.cn/MELTY_BLOOD)》以及改编动画等衍生作品。
 
@@ -49,19 +49,19 @@ updated: 2024-07-31 00:03:20
 
 ## 图片
 
-![tsukihime_p1](https://static.saop.cc/vns/img/tsukihime_p1.webp)
+![tsukihime_p1](https://static.30hb.cn/vndb/img/tsukihime_p1.webp)
 
-![tsukihime_p2](https://static.saop.cc/vns/img/tsukihime_p2.webp)
+![tsukihime_p2](https://static.30hb.cn/vndb/img/tsukihime_p2.webp)
 
-![tsukihime_p3](https://static.saop.cc/vns/img/tsukihime_p3.webp)
+![tsukihime_p3](https://static.30hb.cn/vndb/img/tsukihime_p3.webp)
 
-![tsukihime_p4](https://static.saop.cc/vns/img/tsukihime_p4.webp)
+![tsukihime_p4](https://static.30hb.cn/vndb/img/tsukihime_p4.webp)
 
-![tsukihime_p5](https://static.saop.cc/vns/img/tsukihime_p5.webp)
+![tsukihime_p5](https://static.30hb.cn/vndb/img/tsukihime_p5.webp)
 
-![tsukihime_p6](https://static.saop.cc/vns/img/tsukihime_p6.webp)
+![tsukihime_p6](https://static.30hb.cn/vndb/img/tsukihime_p6.webp)
 
-![tsukihime_p7](https://static.saop.cc/vns/img/tsukihime_p7.webp)
+![tsukihime_p7](https://static.30hb.cn/vndb/img/tsukihime_p7.webp)
 
 ## 动画版
 

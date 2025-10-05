@@ -19,7 +19,7 @@ date: 2024-05-11 03:17:30
 updated: 2024-09-20 11:03:30
 ---
 
-![ibun](https://static.saop.cc/vns/img/ibun.webp)
+![ibun](https://static.30hb.cn/vndb/img/ibun.webp)
 
 《**美少女万华镜异闻 雪女**》（日语：美少女万華鏡異聞 雪おんな）是[ωstar](https://zh.wikipedia.org/wiki/Ωstar)在2024年4月26日发售的[恋爱冒险](https://zh.wikipedia.org/wiki/戀愛冒險)类型[日本成人游戏](https://zh.wikipedia.org/wiki/日本成人遊戲)，当中由[八宝备仁](https://zh.wikipedia.org/wiki/八宝备仁)担当原画，吉祥寺ドロレス撰写剧本。
 
@@ -45,13 +45,13 @@ updated: 2024-09-20 11:03:30
 
 ## 图片
 
-![ibun_p1](https://static.saop.cc/vns/img/ibun_p1.webp)
+![ibun_p1](https://static.30hb.cn/vndb/img/ibun_p1.webp)
 
-![ibun_p2](https://static.saop.cc/vns/img/ibun_p2.webp)
+![ibun_p2](https://static.30hb.cn/vndb/img/ibun_p2.webp)
 
-![ibun_p3](https://static.saop.cc/vns/img/ibun_p3.webp)
+![ibun_p3](https://static.30hb.cn/vndb/img/ibun_p3.webp)
 
-![ibun_p4](https://static.saop.cc/vns/img/ibun_p4.webp)
+![ibun_p4](https://static.30hb.cn/vndb/img/ibun_p4.webp)
 
 ## 开发
 

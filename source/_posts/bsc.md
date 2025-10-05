@@ -1,16 +1,22 @@
 ---
-title: 青空下的加缪 / 青空下的卡缪 / 青い空のカミュ / Camus In The Blue Sky / 	BSC
-abbrlink: 56673
+title: 青空下的加缪／青空下的卡缪／青い空のカミュ／Camus In The Blue Sky／BSC
+abbrlink: 7025
 tags:
-  - KAI / KAI-SOFT
+  - KAI-SOFT
+  - 电波
+  - 百合
+  - 萝莉
   - 哲学
-  - 凌辱
-  - 冒险
   - 剧情
+  - 凌辱
+  - 触手
+  - 猎奇
+  - 氛围
+  - 致郁
+  - 拔
+  - 冒险
   - 奇幻
   - 恐怖
-  - 萝莉
-  - 电波系
   - 2019
 categories:
   - - Windows
@@ -21,7 +27,7 @@ date: 2025-07-19 17:36:30
 updated: 2025-07-19 17:36:00
 ---
 
-![camus](https://t.vndb.org/cv/46/108646.jpg)
+![bsc](https://static.30hb.cn/vndb/img/bsc.webp)
 
 《青空下的加缪》是[KAI-SOFT](https://zh.moegirl.org.cn/KAI(游戏公司))制作的一款双女主视觉小说，于2019年3月29日发布。
 
@@ -29,19 +35,19 @@ updated: 2025-07-19 17:36:00
 
 游戏以阿尔贝·加缪的哲学为主题思想，同时也融入宫泽贤治《[银河铁道之夜](https://zh.moegirl.org.cn/%E9%93%B6%E6%B2%B3%E9%93%81%E9%81%93%E4%B9%8B%E5%A4%9C)》元素，内容充斥着哲学、超现实与民俗学的内容，让这个游戏显得更加云诡波谲。意识流与现实主义交相辉映，也为此作添加了一份先锋派文学的风采。
 
-<!--more-->
+<!-- more -->
 
-![camus_p1](https://t.vndb.org/sf/82/123082.jpg)
+![bsc_p1](https://static.30hb.cn/vndb/img/bsc_p1.webp)
 
-![camus_p2](https://t.vndb.org/sf/14/127114.jpg)
+![bsc_p2](https://static.30hb.cn/vndb/img/bsc_p2.webp)
 
-![camus_p3](https://t.vndb.org/sf/15/127115.jpg)
+![bsc_p3](https://static.30hb.cn/vndb/img/bsc_p3.webp)
 
-![camus_p4](https://t.vndb.org/sf/16/127116.jpg)
+![bsc_p4](https://static.30hb.cn/vndb/img/bsc_p4.webp)
 
-![camus_p5](https://t.vndb.org/sf/17/127117.jpg)
+![bsc_p5](https://static.30hb.cn/vndb/img/bsc_p5.webp)
 
-![camus_p6](https://t.vndb.org/sf/83/135683.jpg)
+![bsc_p6](https://static.30hb.cn/vndb/img/bsc_p6.webp)
 
 ## 故事
 
@@ -71,9 +77,9 @@ Qui a tué fille（是谁杀死了少女）
 
 > 基本帮助请参阅公告：[点我跳转](/p/announcement/)
 
-## 分流
+- “青空下的卡缪” 为机翻版本。
 
-注：“青空下的卡缪”为机翻版本。
+## 分流
 
 1.  [TouchGAL](https://www.touchgal.us/) & `Windows`：[点击下载](https://pan.touchgal.net/s/OpPFW)，密码：`touchgal`
 2.  [TouchGAL](https://www.touchgal.us/) & `KRKR`：[点击下载](https://pan.touchgal.net/s/OLRCW)，密码：`touchgal`

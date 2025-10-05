@@ -16,7 +16,7 @@ updated: 2024-09-23 02:20:00
 author: WTY
 ---
 
-![mashimaro](https://static.saop.cc/vns/img/mashimaro.webp)
+![mashimaro](https://static.30hb.cn/vndb/img/mashimaro.webp)
 
 《**回家之前的棉花糖** - I'll find my way home》（英语：Marshmallow All the Way Home）是[MARMALADE](https://mzh.moegirl.org.cn/MARMALADE)开发的一款[Galgame](https://mzh.moegirl.org.cn/Galgame)，获得2017年萌系游戏大赏“实用奖”。
 
@@ -51,11 +51,11 @@ author: WTY
 
 ## 图片
 
-![mashimaro_p1](https://static.saop.cc/vns/img/mashimaro_p1.webp)
+![mashimaro_p1](https://static.30hb.cn/vndb/img/mashimaro_p1.webp)
 
-![mashimaro_p2](https://static.saop.cc/vns/img/mashimaro_p2.webp)
+![mashimaro_p2](https://static.30hb.cn/vndb/img/mashimaro_p2.webp)
 
-![mashimaro_p3](https://static.saop.cc/vns/img/mashimaro_p3.webp)
+![mashimaro_p3](https://static.30hb.cn/vndb/img/mashimaro_p3.webp)
 
 ## STAFF
 

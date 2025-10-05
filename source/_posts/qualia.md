@@ -1,16 +1,23 @@
 ---
-title: 少女 * 领域 / 少女领域 / オトメ＊ドメイン / オトメドメイン / オトメド / オトドメ / otomedo / otodome / Otome * Domain
-abbrlink: 47281
+title: >-
+  少女 * 领域／少女领域／オトメ＊ドメイン／オトメドメイン／オトメド／オトドメ／otomedo／otodome／Otome *
+  Domain／有少女涂彩的爱之芬芳 ~笑容交织的未来~／乙女が彩る恋のエッセンス ～笑顔で織りなす未来～ FD
+abbrlink: 855
 tags:
-  - Palette Qualia
+  - Palette／调色板／ぱれっと
   - 伪娘
+  - 女装
   - 废萌
+  - 纯爱
   - 校园
+  - 甜
   - 同居
   - 中二
   - 治愈
-  - 纯爱
+  - 日常
   - 萌
+  - 妹
+  - FD
   - 2016
 categories:
   - - Windows
@@ -18,10 +25,10 @@ categories:
   - - Android
 author: Dimly
 date: 2025-07-20 20:55:30
-updated: 2025-07-20 20:55:30
+updated: 2025-10-06 01:00:00
 ---
 
-![otomedo](https://t.vndb.org/cv/54/79754.jpg)
+![qualia](https://static.30hb.cn/vndb/img/qualia.webp)
 
 **《少女＊领域》**（日语：**オトメ＊ドメイン**）是由[PALETTE QUALIA](https://zh.moegirl.org.cn/Palette(游戏公司)#Palette_QUALIA（ぱれっとクオリア）)制作发行的一部游戏，于2016年6月24日发行。
 
@@ -29,17 +36,21 @@ updated: 2025-07-20 20:55:30
 
 该游戏在2017年9月29日由粉菠萝社改编并出版了1集时长26分钟的OVA限制级动画（R-18）。配音方面除了贵船柚子的声优从上田朱音换成了花影萤之外，其他人员都是原班人马，剧情方面为共通线+风莉线，相比原作并没有太大改动。
 
-<!--more-->
+<!-- more -->
 
-![otomedo_p1](https://t.vndb.org/sf/49/96149.jpg)
+![qualia_p1](https://static.30hb.cn/vndb/img/qualia_p1.webp)
 
-![otomedo_p2](https://t.vndb.org/sf/51/96151.jpg)
+![qualia_p2](https://static.30hb.cn/vndb/img/qualia_p2.webp)
 
-![otomedo_p3](https://t.vndb.org/sf/52/96152.jpg)
+![qualia_p3](https://static.30hb.cn/vndb/img/qualia_p3.webp)
 
-![otomedo_p4](https://t.vndb.org/sf/53/96153.jpg)
+![qualia_p4](https://static.30hb.cn/vndb/img/qualia_p4.webp)
 
-![otomedo_p5](https://t.vndb.org/sf/54/96154.jpg)
+![qualia_p5](https://static.30hb.cn/vndb/img/qualia_p5.webp)
+
+![qualia_p6](https://static.30hb.cn/vndb/img/qualia_p6.webp)
+
+![qualia_p7](https://static.30hb.cn/vndb/img/qualia_p7.webp)
 
 ## 故事
 
@@ -92,7 +103,7 @@ updated: 2025-07-20 20:55:30
 18.  [鲲 Galgame 论坛](https://kungal.com) & `Windows` + `KRKR`：[点击下载](https://www.kungal.com/galgame/187)
 
 
-### 『少女 * 领域』X『有少女涂彩的爱之芬芳』女装主人公联动迷你ADV
+### 『少女 * 领域』X『有少女涂彩的爱之芬芳』 FD 女装主人公联动迷你 ADV
 
 1.  [梓澪の妙妙屋](https://zi0.cc/) & `Windows`：[点击下载](https://zi0.cc/%E5%90%88%E9%9B%86%E7%B3%BB%E5%88%97/%E5%8D%97+GalGame%E6%B1%89%E5%8C%96%E5%8C%BA%E5%85%A8%E5%8C%BA%E8%B5%84%E6%BA%90%E5%A4%87%E4%BB%BD/01/[ensemble]%20%E5%A5%B3%E8%A3%85%E4%B8%BB%E4%BA%BA%E5%85%AC%E4%B8%8E%E5%B0%91%E5%A5%B3%E9%A2%86%E5%9F%9F%E8%81%94%E5%8A%A8%E5%B0%8F%E5%89%A7%E5%9C%BA%20%E6%B1%89%E5%8C%96%E7%A1%AC%E7%9B%98%E7%89%88[dodjjdba1%E4%B8%AA%E4%BA%BA%E6%B1%89%E5%8C%96].zip)
 2.  [猫猫网盘](https://sakiko.de/) & `Windows`：[点击下载](https://catcat.cloud/GalGame/SP%E5%90%8E%E7%AB%AF1[GalGame%E5%88%86%E5%8C%BA]/%E5%8D%97+GalGame%E6%B1%89%E5%8C%96%E5%8C%BA%E5%85%A8%E5%8C%BA%E5%A4%87%E4%BB%BD%E5%90%88%E9%9B%86[%E9%87%8D%E5%8E%8B]-%E7%A6%BB%E6%95%A3/%E7%AC%AC%E4%B8%80%E8%BD%AE-Part2/Main/[ensemble]%20%E5%A5%B3%E8%A3%85%E4%B8%BB%E4%BA%BA%E5%85%AC%E4%B8%8E%E5%B0%91%E5%A5%B3%E9%A2%86%E5%9F%9F%E8%81%94%E5%8A%A8%E5%B0%8F%E5%89%A7%E5%9C%BA%20%E6%B1%89%E5%8C%96%E7%A1%AC%E7%9B%98%E7%89%88[dodjjdba1%E4%B8%AA%E4%BA%BA%E6%B1%89%E5%8C%96]/[ensemble]%20%E5%A5%B3%E8%A3%85%E4%B8%BB%E4%BA%BA%E5%85%AC%E4%B8%8E%E5%B0%91%E5%A5%B3%E9%A2%86%E5%9F%9F%E8%81%94%E5%8A%A8%E5%B0%8F%E5%89%A7%E5%9C%BA%20%E6%B1%89%E5%8C%96%E7%A1%AC%E7%9B%98%E7%89%88[dodjjdba1%E4%B8%AA%E4%BA%BA%E6%B1%89%E5%8C%96].rar)，密码：`south-plus`

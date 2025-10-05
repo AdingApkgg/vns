@@ -6,7 +6,7 @@ tags:
   - 萝莉
   - 后宫
   - 可爱
-  - 甜蜜
+  - 甜
   - 同居
   - 炼铜
   - 萌
@@ -21,7 +21,7 @@ updated: 2024-03-31 01:29:00
 author: WTY
 ---
 
-![onigyu](https://static.saop.cc/vns/img/onigyu.webp)
+![onigyu](https://static.30hb.cn/vndb/img/onigyu.webp)
 
 《**哥哥，早上起床之前都要抱紧我哦！**》是由[Tinkle Position](https://zh.moegirl.org.cn/index.php?title=Tinkle_Position&action=edit&redlink=1)制作的一部[Galgame](https://zh.moegirl.org.cn/Galgame)。
 
@@ -45,17 +45,17 @@ author: WTY
 4. 拥抱时间没够就分开要重新抱
 5. 要充满爱意地去拥抱
 
-![女未家五大家规](https://static.saop.cc/vns/img/onigyu_p1.webp)
+![女未家五大家规](https://static.30hb.cn/vndb/img/onigyu_p1.webp)
 
 ## 图片
 
-![onigyu_p2](https://static.saop.cc/vns/img/onigyu_p2.webp)
+![onigyu_p2](https://static.30hb.cn/vndb/img/onigyu_p2.webp)
 
-![onigyu_p3](https://static.saop.cc/vns/img/onigyu_p3.webp)
+![onigyu_p3](https://static.30hb.cn/vndb/img/onigyu_p3.webp)
 
-![onigyu_p4](https://static.saop.cc/vns/img/onigyu_p4.webp)
+![onigyu_p4](https://static.30hb.cn/vndb/img/onigyu_p4.webp)
 
-![onigyu_p5](https://static.saop.cc/vns/img/onigyu_p5.webp)
+![onigyu_p5](https://static.30hb.cn/vndb/img/onigyu_p5.webp)
 
 ## 特典代码
 

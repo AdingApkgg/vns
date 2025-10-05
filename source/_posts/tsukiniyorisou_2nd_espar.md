@@ -21,7 +21,7 @@ date: 2024-04-21 00:23:00
 updated: 2024-04-21 00:23:00
 ---
 
-![ttsukiniyorisou-2nd-espar](https://static.saop.cc/vns/img/tsukiniyorisou-2nd-espar.webp)
+![ttsukiniyorisou-2nd-espar](https://static.30hb.cn/vndb/img/tsukiniyorisou-2nd-espar.webp)
 
 《**近月少女的礼仪2.1 E×S×PAR!!**》（日语：**月に寄りそう乙女の作法2.1 E×S×PAR!!**）为近月2的第一个Fan Disc，于2017年5月26日发售。
 
@@ -57,11 +57,11 @@ updated: 2024-04-21 00:23:00
 
 ## 图片
 
-![tsukiniyorisou-2nd-espar_p1](https://static.saop.cc/vns/img/tsukiniyorisou-2nd-espar_p1.webp)
+![tsukiniyorisou-2nd-espar_p1](https://static.30hb.cn/vndb/img/tsukiniyorisou-2nd-espar_p1.webp)
 
-![tsukiniyorisou-2nd-espar_p2](https://static.saop.cc/vns/img/tsukiniyorisou-2nd-espar_p2.webp)
+![tsukiniyorisou-2nd-espar_p2](https://static.30hb.cn/vndb/img/tsukiniyorisou-2nd-espar_p2.webp)
 
-![tsukiniyorisou-2nd-espar_p3](https://static.saop.cc/vns/img/tsukiniyorisou-2nd-espar_p3.webp)
+![tsukiniyorisou-2nd-espar_p3](https://static.30hb.cn/vndb/img/tsukiniyorisou-2nd-espar_p3.webp)
 
 ## 链接
 

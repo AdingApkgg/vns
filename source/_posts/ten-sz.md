@@ -18,7 +18,7 @@ date: 2024-01-30 22:00:00
 updated: 2024-07-17 07:19:30
 ---
 
-![ten-sz](https://static.saop.cc/vns/img/ten-sz.webp)
+![ten-sz](https://static.30hb.cn/vndb/img/ten-sz.webp)
 
 《**天使☆嚣嚣 RE-BOOT!**》（日语：**天使（てんし）☆騒々（そうぞう） RE-BOOT!**、英语：**Tenshi Souzou "Angelic Chaos" RE-BOOT!**）是由[YUZU SOFT](https://zh.moegirl.org.cn/YUZU_SOFT)制作的[Galgame](https://zh.moegirl.org.cn/Galgame)，于2023年4月28日发售。本作国际版曾计划于2024年1月发行，但因审核时受不可抗力因素，发行延期。
 
@@ -52,15 +52,15 @@ updated: 2024-07-17 07:19:30
 
 ## 图片
 
-![ten-sz_p1](https://static.saop.cc/vns/img/ten-sz_p1.webp)
+![ten-sz_p1](https://static.30hb.cn/vndb/img/ten-sz_p1.webp)
 
-![ten-sz_p2](https://static.saop.cc/vns/img/ten-sz_p2.webp)
+![ten-sz_p2](https://static.30hb.cn/vndb/img/ten-sz_p2.webp)
 
-![ten-sz_p3](https://static.saop.cc/vns/img/ten-sz_p3.webp)
+![ten-sz_p3](https://static.30hb.cn/vndb/img/ten-sz_p3.webp)
 
-![ten-sz_p4](https://static.saop.cc/vns/img/ten-sz_p4.webp)
+![ten-sz_p4](https://static.30hb.cn/vndb/img/ten-sz_p4.webp)
 
-![ten-sz_p5](https://static.saop.cc/vns/img/ten-sz_p5.webp)
+![ten-sz_p5](https://static.30hb.cn/vndb/img/ten-sz_p5.webp)
 
 ## STAFF
 

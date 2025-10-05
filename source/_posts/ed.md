@@ -17,7 +17,7 @@ date: 2024-08-27 15:00:00
 updated: 2024-08-27 15:00:00
 ---
 
-![ed](https://static.saop.cc/vns/img/ed.webp)
+![ed](https://static.30hb.cn/vndb/img/ed.webp)
 
 **《微小地牢》**（英语：Tiny Dungeon）是[Rosebleu](https://zh.moegirl.org.cn/Rosebleu)公司制作的日本成人系[Galgame](https://zh.moegirl.org.cn/Galgame)，共分为四部（分割商法），于2010年至2012年陆续发售，2014年发布续作《Endless Dungeon》。
 
@@ -46,15 +46,15 @@ updated: 2024-08-27 15:00:00
 
 ## 图片
 
-![ed_p1](https://static.saop.cc/vns/img/ed_p1.webp)
+![ed_p1](https://static.30hb.cn/vndb/img/ed_p1.webp)
 
-![ed_p2](https://static.saop.cc/vns/img/ed_p2.webp)
+![ed_p2](https://static.30hb.cn/vndb/img/ed_p2.webp)
 
-![ed_p3](https://static.saop.cc/vns/img/ed_p3.webp)
+![ed_p3](https://static.30hb.cn/vndb/img/ed_p3.webp)
 
-![ed_p4](https://static.saop.cc/vns/img/ed_p4.webp)
+![ed_p4](https://static.30hb.cn/vndb/img/ed_p4.webp)
 
-![ed_p5](https://static.saop.cc/vns/img/ed_p5.webp)
+![ed_p5](https://static.30hb.cn/vndb/img/ed_p5.webp)
 
 ## 链接
 

@@ -16,7 +16,7 @@ date: 2024-01-30 22:00:00
 updated: 2024-07-22 02:05:00
 ---
 
-![riddle](https://static.saop.cc/vns/img/riddle.webp)
+![riddle](https://static.30hb.cn/vndb/img/riddle.webp)
 
 《**RIDDLE JOKER**》是由[柚子社](https://zh.moegirl.org.cn/柚子社)制作的第十部[Galgame](https://zh.moegirl.org.cn/Galgame)，于2018年3月30日发售，Steam版于2020年12月18日发售。
 
@@ -38,13 +38,13 @@ updated: 2024-07-22 02:05:00
 
 ## 图片
 
-![riddle_p1](https://static.saop.cc/vns/img/riddle_p1.webp)
+![riddle_p1](https://static.30hb.cn/vndb/img/riddle_p1.webp)
 
-![riddle_p2](https://static.saop.cc/vns/img/riddle_p2.webp)
+![riddle_p2](https://static.30hb.cn/vndb/img/riddle_p2.webp)
 
-![riddle_p3](https://static.saop.cc/vns/img/riddle_p3.webp)
+![riddle_p3](https://static.30hb.cn/vndb/img/riddle_p3.webp)
 
-![riddle_p4](https://static.saop.cc/vns/img/riddle_p4.webp)
+![riddle_p4](https://static.30hb.cn/vndb/img/riddle_p4.webp)
 
 ## STAFF
 

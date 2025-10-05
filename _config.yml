@@ -187,7 +187,7 @@ markdown_it_plus:
 
 swpp:
   # 是否启用插件
-  enable: true
+  enable: false
   # 是否在发布前自动执行脚本
   # auto_exec: true
   # 构建时拉取版本文件的警告等级，缺省为 1（该功能仅在 swpp-backends 版本号 >= 2.1.2 时可用）

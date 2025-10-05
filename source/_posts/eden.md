@@ -19,7 +19,7 @@ date: 2024-02-25 02:32:00
 updated: 2024-02-25 02:32:00
 ---
 
-![eden](https://static.saop.cc/vns/img/eden.webp)
+![eden](https://static.30hb.cn/vndb/img/eden.webp)
 
 **《eden\*》**是由[minori](https://zh.moegirl.org.cn/Minori)于2009年所推出的一款[Galgame](https://zh.moegirl.org.cn/Galgame)，并有漫画等衍生作品。
 
@@ -43,13 +43,13 @@ updated: 2024-02-25 02:32:00
 
 ## 图片
 
-![eden_p1](https://static.saop.cc/vns/img/eden_p1.webp)
+![eden_p1](https://static.30hb.cn/vndb/img/eden_p1.webp)
 
-![eden_p2](https://static.saop.cc/vns/img/eden_p2.webp)
+![eden_p2](https://static.30hb.cn/vndb/img/eden_p2.webp)
 
-![eden_p3](https://static.saop.cc/vns/img/eden_p3.webp)
+![eden_p3](https://static.30hb.cn/vndb/img/eden_p3.webp)
 
-![eden_p4](https://static.saop.cc/vns/img/eden_p4.webp)
+![eden_p4](https://static.30hb.cn/vndb/img/eden_p4.webp)
 
 ## 链接
 

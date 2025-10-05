@@ -22,7 +22,7 @@ date: 2024-10-25 03:57:40
 updated: 2024-10-25 03:57:40
 ---
 
-![lol7](https://static.saop.cc/vns/img/lol7.webp)
+![lol7](https://static.30hb.cn/vndb/img/lol7.webp)
 
 每次接吻都不行。
 
@@ -42,13 +42,13 @@ updated: 2024-10-25 03:57:40
 
 <!-- more -->
 
-![lol7_p1](https://static.saop.cc/vns/img/lol7_p1.webp)
+![lol7_p1](https://static.30hb.cn/vndb/img/lol7_p1.webp)
 
-![lol7_p2](https://static.saop.cc/vns/img/lol7_p2.webp)
+![lol7_p2](https://static.30hb.cn/vndb/img/lol7_p2.webp)
 
-![lol7_p3](https://static.saop.cc/vns/img/lol7_p3.webp)
+![lol7_p3](https://static.30hb.cn/vndb/img/lol7_p3.webp)
 
-![lol7_p4](https://static.saop.cc/vns/img/lol7_p4.webp)
+![lol7_p4](https://static.30hb.cn/vndb/img/lol7_p4.webp)
 
 ## 链接
 

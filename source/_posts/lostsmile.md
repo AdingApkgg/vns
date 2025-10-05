@@ -15,7 +15,7 @@ date: 2024-11-03 00:40:30
 updated: 2024-11-03 00:40:30
 ---
 
-![lostsmile](https://static.saop.cc/vns/img/lostsmile.webp)
+![lostsmile](https://static.30hb.cn/vndb/img/lostsmile.webp)
 
 《**LOST:SMILE memories+promises**》（日语：**ロストスマイル　メモリーズ+プロミセス**）是由**[LIFE0](https://zh.moegirl.org.cn/LIFE0)**制作的一款ADV游戏。
 前篇《**LOST:SMILE memories**》（**ロストスマイル　メモリーズ**）于2019年08月08日发售，讲述的是东云美铃、与那岭纯和一条巡的故事。
@@ -23,13 +23,13 @@ updated: 2024-11-03 00:40:30
 
 <!-- more -->
 
-![lostsmile_p1](https://static.saop.cc/vns/img/lostsmile_p1.webp)
+![lostsmile_p1](https://static.30hb.cn/vndb/img/lostsmile_p1.webp)
 
-![lostsmile_p2](https://static.saop.cc/vns/img/lostsmile_p2.webp)
+![lostsmile_p2](https://static.30hb.cn/vndb/img/lostsmile_p2.webp)
 
-![lostsmile_p3](https://static.saop.cc/vns/img/lostsmile_p3.webp)
+![lostsmile_p3](https://static.30hb.cn/vndb/img/lostsmile_p3.webp)
 
-![lostsmile_p4](https://static.saop.cc/vns/img/lostsmile_p4.webp)
+![lostsmile_p4](https://static.30hb.cn/vndb/img/lostsmile_p4.webp)
 
 ## 剧情
 

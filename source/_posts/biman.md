@@ -25,7 +25,7 @@ date: 2024-06-08 03:32:00
 updated: 2024-06-08 03:32:00
 ---
 
-![biman](https://static.saop.cc/vns/img/biman.webp)
+![biman](https://static.30hb.cn/vndb/img/biman.webp)
 
 《**美少女万华镜 -被诅咒的传说少女-**》（日语：美少女万華鏡 -呪われし伝説の少女-），下称《**被诅咒的传说少女**》，是[ωstar](https://zh.wikipedia.org/wiki/Ωstar)在2011年12月29日发售的[恋爱冒险](https://zh.wikipedia.org/wiki/戀愛冒險)类型[日本成人游戏](https://zh.wikipedia.org/wiki/日本成人遊戲)，亦是《[美少女万华镜](https://zh.wikipedia.org/wiki/美少女万华镜)》系列的首部作品。Android版于2016年9月1日公开。
 
@@ -47,13 +47,13 @@ updated: 2024-06-08 03:32:00
 
 ## 图片
 
-![biman_p1](https://static.saop.cc/vns/img/biman_p1.webp)
+![biman_p1](https://static.30hb.cn/vndb/img/biman_p1.webp)
 
-![biman_p2](https://static.saop.cc/vns/img/biman_p2.webp)
+![biman_p2](https://static.30hb.cn/vndb/img/biman_p2.webp)
 
-![biman_p3](https://static.saop.cc/vns/img/biman_p3.webp)
+![biman_p3](https://static.30hb.cn/vndb/img/biman_p3.webp)
 
-![biman_p4](https://static.saop.cc/vns/img/biman_p4.webp)
+![biman_p4](https://static.30hb.cn/vndb/img/biman_p4.webp)
 
 ## 游戏系统
 

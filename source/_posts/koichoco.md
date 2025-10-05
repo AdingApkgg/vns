@@ -23,7 +23,7 @@ date: 2024-11-20 02:47:40
 updated: 2024-11-20 02:47:40
 ---
 
-![koichoco](https://static.saop.cc/vns/img/koichoco.webp)
+![koichoco](https://static.30hb.cn/vndb/img/koichoco.webp)
 
 《**恋爱与选举与巧克力**》（日语：恋と選挙とチョコレート，英语：*Love, Election & Chocolate*）是[sprite](https://zh.wikipedia.org/wiki/Sprite_(遊戲品牌))公司制作并于2010年10月29日发售的[恋爱冒险](https://zh.wikipedia.org/wiki/戀愛冒險)类型[成人游戏](https://zh.wikipedia.org/wiki/日本成人遊戲)，同时也是sprite创社后制作的首款游戏。后来于2012年9月27日移植至[PlayStation Portable](https://zh.wikipedia.org/wiki/PlayStation_Portable)平台。
 
@@ -35,11 +35,11 @@ updated: 2024-11-20 02:47:40
 
 <!-- more -->
 
-![koichoco_p1](https://static.saop.cc/vns/img/koichoco_p1.webp)
+![koichoco_p1](https://static.30hb.cn/vndb/img/koichoco_p1.webp)
 
-![koichoco_p2](https://static.saop.cc/vns/img/koichoco_p2.webp)
+![koichoco_p2](https://static.30hb.cn/vndb/img/koichoco_p2.webp)
 
-![koichoco_p3](https://static.saop.cc/vns/img/koichoco_p3.webp)
+![koichoco_p3](https://static.30hb.cn/vndb/img/koichoco_p3.webp)
 
 ## 故事
 

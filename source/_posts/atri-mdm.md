@@ -19,7 +19,7 @@ date: 2024-02-04 05:00:00
 updated: 2024-09-13 05:03:00
 ---
 
-![atri-mdm](https://static.saop.cc/vns/img/atri-mdm.webp)
+![atri-mdm](https://static.30hb.cn/vndb/img/atri-mdm.webp)
 
 《**ATRI -My Dear Moments-**》是由[FrontWing](https://zh.wikipedia.org/wiki/FrontWing)和[枕](https://zh.wikipedia.org/wiki/枕_(遊戲品牌))制作、[ANIPLEX.EXE](https://zh.wikipedia.org/wiki/Aniplex)发行的一款[视觉小说](https://zh.wikipedia.org/wiki/视觉小说)，本作于2020年6月19日在[Windows](https://zh.wikipedia.org/wiki/Windows)平台发售。
 
@@ -41,15 +41,15 @@ updated: 2024-09-13 05:03:00
 
 ## 图片
 
-![atri-mdm_p1](https://static.saop.cc/vns/img/atri-mdm_p1.webp)
+![atri-mdm_p1](https://static.30hb.cn/vndb/img/atri-mdm_p1.webp)
 
-![atri-mdm_p2](https://static.saop.cc/vns/img/atri-mdm_p2.webp)
+![atri-mdm_p2](https://static.30hb.cn/vndb/img/atri-mdm_p2.webp)
 
-![atri-mdm_p3](https://static.saop.cc/vns/img/atri-mdm_p3.webp)
+![atri-mdm_p3](https://static.30hb.cn/vndb/img/atri-mdm_p3.webp)
 
-![atri-mdm_p4](https://static.saop.cc/vns/img/atri-mdm_p4.webp)
+![atri-mdm_p4](https://static.30hb.cn/vndb/img/atri-mdm_p4.webp)
 
-![atri-mdm_p5](https://static.saop.cc/vns/img/atri-mdm_p5.webp)
+![atri-mdm_p5](https://static.30hb.cn/vndb/img/atri-mdm_p5.webp)
 
 ## 链接
 

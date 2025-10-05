@@ -4,7 +4,7 @@ abbrlink: 54966
 tags:
   - 海豹社／あざらしそふと
   - 纯爱
-  - 甜蜜
+  - 甜
   - 拔
   - 熟女
   - FD
@@ -15,7 +15,7 @@ date: 2024-09-04 09:17:00
 updated: 2024-09-04 09:17:00
 ---
 
-![amakano-plus](https://static.saop.cc/vns/img/amakano-plus.webp)
+![amakano-plus](https://static.30hb.cn/vndb/img/amakano-plus.webp)
 
 《**甜蜜女友**》（日语：アマカノ）是[NEXTON](https://zh.wikipedia.org/wiki/NEXTON)公司的旗下品牌あざらしそふと制作，于2014年12月19日发售的[恋爱冒险](https://zh.wikipedia.org/wiki/戀愛冒險)类型[成人游戏](https://zh.wikipedia.org/wiki/日本成人遊戲)，2022年11月24日发售[任天堂Switch](https://zh.wikipedia.org/wiki/任天堂Switch)版。2016年10月28日发售完整版，12月22日发售扩充版《甜蜜女友＋》（アマカノ＋）。后来改编成OVA由mary jan发售共四集。
 
@@ -61,17 +61,17 @@ updated: 2024-09-04 09:17:00
 
 ## 图片
 
-![amakano-plus_p1](https://static.saop.cc/vns/img/amakano-plus_p1.webp)
+![amakano-plus_p1](https://static.30hb.cn/vndb/img/amakano-plus_p1.webp)
 
-![amakano-plus_p2](https://static.saop.cc/vns/img/amakano-plus_p2.webp)
+![amakano-plus_p2](https://static.30hb.cn/vndb/img/amakano-plus_p2.webp)
 
-![amakano-plus_p3](https://static.saop.cc/vns/img/amakano-plus_p3.webp)
+![amakano-plus_p3](https://static.30hb.cn/vndb/img/amakano-plus_p3.webp)
 
-![amakano-plus_p4](https://static.saop.cc/vns/img/amakano-plus_p4.webp)
+![amakano-plus_p4](https://static.30hb.cn/vndb/img/amakano-plus_p4.webp)
 
-![amakano-plus_p5](https://static.saop.cc/vns/img/amakano-plus_p5.webp)
+![amakano-plus_p5](https://static.30hb.cn/vndb/img/amakano-plus_p5.webp)
 
-![amakano-plus_p6](https://static.saop.cc/vns/img/amakano-plus_p6.webp)
+![amakano-plus_p6](https://static.30hb.cn/vndb/img/amakano-plus_p6.webp)
 
 ## 链接
 
