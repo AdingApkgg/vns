@@ -154,9 +154,3 @@ ToolBtns:
   theme: "昼夜切换"
   lang: "多语言翻译"
   backTop: "返回顶部"
-
-AgeWarning:
-  text: "您已年满 18 岁？"
-  confirm: "是"
-  deny: "否"
-  url: "//player.bilibili.com/player.html?bvid=BV1GJ411x7h7"
