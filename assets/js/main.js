@@ -71,29 +71,17 @@ function initMediumZoom() {
 }
 
 function initGalPopup() {
-  const tAgeVerification = document.getElementById("tAgeVerification");
-  if (!tAgeVerification) {
-    console.error("Age verification translations not found");
-    return;
-  }
-  const text =
-    tAgeVerification.dataset.text ||
-    "本サイトは18歳以上の方を対象としています。<br>あなたは18歳以上ですか？";
-  const yes = tAgeVerification.dataset.yes || "はい";
-  const no = tAgeVerification.dataset.no || "いいえ";
-  const locationHref = tAgeVerification.dataset.url;
-
   const ageVerificationTime = localStorage.getItem("ageVerificationTime");
   const oneWeek = 3 * 24 * 60 * 60 * 1000;
   const now = new Date().getTime();
   if (!ageVerificationTime || now - parseInt(ageVerificationTime) > oneWeek) {
     Swal.fire({
-      text: text,
+      text: "您已年满 18 岁？",
       icon: "warning",
       showConfirmButton: true,
-      confirmButtonText: yes,
+      confirmButtonText: "是",
       showDenyButton: true,
-      denyButtonText: no,
+      denyButtonText: "否",
       reverseButtons: true,
       allowOutsideClick: false,
       allowEscapeKey: false,
@@ -102,10 +90,13 @@ function initGalPopup() {
     }).then((result) => {
       if (result.isConfirmed) {
         localStorage.setItem("ageVerificationTime", now.toString());
-        const sukiAudio = new Audio("/media/suki.mp3");
-        sukiAudio.play();
+        setTimeout(function () {
+          const sukiAudio = new Audio("/media/suki.mp3");
+          sukiAudio.play();
+        }, 500);
       } else {
-        window.location.href = locationHref;
+        window.location.href =
+          "//player.bilibili.com/player.html?bvid=BV1GJ411x7h7";
       }
     });
   }

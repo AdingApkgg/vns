@@ -22,6 +22,8 @@
     (dict "taxonomy" "categories" "page" .) }} {{ partial "terms.html" (dict
     "taxonomy" "tags" "page" .) }}
   </article>
-  {{ end }} {{ partial "pagination.html" . }}
+  {{ end }} {{ partial "pagination.html" . }} {{ $articles := where
+  .Site.RegularPages "Type" "p" }}
+  <p class="articles-len">总共有 {{ len $articles }} 部资源</p>
 </article>
 {{ end }}

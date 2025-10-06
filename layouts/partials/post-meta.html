@@ -9,6 +9,15 @@
   <span
     ><i class="fas fa-calendar-check"></i> 发表于: {{ .Format "2006-01-02 15:04:05 -07:00" }}</span
   >
-  {{ end }}
+  {{ end }} |
+  <span
+    ><i class="fas fa-file-word"></i> 总字数: {{ .Plain | htmlUnescape |
+    strings.RuneCount }}</span
+  >
+  |
+  <span
+    ><i class="fas fa-clock"></i> 阅读时长: {{ div (div (.Plain | htmlUnescape |
+    strings.RuneCount) 5) 60 }} 分钟</span
+  >
 </div>
 {{ end }}
