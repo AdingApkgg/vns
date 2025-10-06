@@ -8,6 +8,7 @@
   </head>
 
   <body>
+    {{ partial "ageVerification.html" . }}
     <noscript>请启用 JavaScript</noscript>
     <main>{{ block "main" . }}{{ end }}</main>
     <header>{{ partial "header.html" . }}</header>

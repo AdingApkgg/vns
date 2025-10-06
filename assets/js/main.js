@@ -72,33 +72,26 @@ function initMediumZoom() {
 
 function initGalPopup() {
   const ageVerificationTime = localStorage.getItem("ageVerificationTime");
-  const oneWeek = 3 * 24 * 60 * 60 * 1000;
+  const oneWeek = 7 * 24 * 60 * 60 * 1000;
   const now = new Date().getTime();
   if (!ageVerificationTime || now - parseInt(ageVerificationTime) > oneWeek) {
-    Swal.fire({
-      text: "您已年满 18 岁？",
-      icon: "warning",
-      showConfirmButton: true,
-      confirmButtonText: "是",
-      showDenyButton: true,
-      denyButtonText: "否",
-      reverseButtons: true,
-      allowOutsideClick: false,
-      allowEscapeKey: false,
-      color: "var(--text-color)",
-      background: "var(--bg-color)",
-    }).then((result) => {
-      if (result.isConfirmed) {
-        localStorage.setItem("ageVerificationTime", now.toString());
-        setTimeout(function () {
-          const sukiAudio = new Audio("/media/suki.mp3");
-          sukiAudio.play();
-        }, 500);
-      } else {
-        window.location.href =
-          "//player.bilibili.com/player.html?bvid=BV1GJ411x7h7";
-      }
+    document.getElementById("caution").style.display = "block";
+    const cautionYes = document.querySelector("#caution .btn-yes");
+    const cautionNo = document.querySelector("#caution .btn-no");
+    cautionYes.addEventListener("click", function () {
+      localStorage.setItem("ageVerificationTime", now.toString());
+      document.getElementById("caution").style.display = "none";
+      setTimeout(function () {
+        const sukiAudio = new Audio("/media/suki.mp3");
+        sukiAudio.play();
+      }, 500);
     });
+    cautionNo.addEventListener("click", function () {
+      window.location.href =
+        "//player.bilibili.com/player.html?bvid=BV1GJ411x7h7";
+    });
+  } else {
+    document.getElementById("caution").style.display = "none";
   }
 }
 
