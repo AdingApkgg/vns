@@ -194,7 +194,8 @@ footer {
   #caution-bg {
     width: 60%;
     height: auto;
-    background: #fff;
+    background: var(--bg-color);
+    color: var(--text-color);
     margin: 0px auto;
     position: relative;
     top: 50%;
