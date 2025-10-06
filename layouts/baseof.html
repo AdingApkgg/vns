@@ -1,17 +1,17 @@
 <!DOCTYPE html>
-<html lang="{{ .Site.LanguageCode }}" dir="{{ or site.Language.LanguageDirection `ltr` }}">
+<html
+  lang="{{ .Site.LanguageCode }}"
+  dir="{{ or site.Language.LanguageDirection `ltr` }}"
+>
+  <head>
+    {{ partial "head.html" . }}
+  </head>
 
-<head>
-  {{ partial "head.html" . }}
-</head>
-
-<body>
-  <main>
-    {{ block "main" . }}{{ end }}
-  </main>
-  <header>{{ partial "header.html" . }}</header>
-  <footer>{{ partial "footer.html" . }}</footer>
-  {{ partial "scripts.html" . }}
-</body>
-
+  <body>
+    <noscript>请启用 JavaScript</noscript>
+    <main>{{ block "main" . }}{{ end }}</main>
+    <header>{{ partial "header.html" . }}</header>
+    <footer>{{ partial "footer.html" . }}</footer>
+    {{ partial "scripts.html" . }}
+  </body>
 </html>

@@ -1,0 +1,15 @@
+{{ define "main" }}
+<article class="article-main">
+  <h1>
+    <i class="fas fa-hashtag"></i>&nbsp;{{ .Title }}<sup
+      ><span id="busuanzi_value_page_pv">null</span></sup
+    >
+  </h1>
+  <div class="content">{{ .Content }}</div>
+  <script>
+    setTimeout(function () {
+      pjax.loadUrl("/");
+    }, 5000);
+  </script>
+</article>
+{{ end }}
