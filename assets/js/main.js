@@ -1,7 +1,7 @@
 document.addEventListener("DOMContentLoaded", () => {
+  initGalPopup();
   quicklink.listen({ priority: true });
   initMenuToggle();
-  initGalPopup();
   lunar();
   initScrollEffects();
   initMediumZoom();
@@ -11,9 +11,9 @@ document.addEventListener("DOMContentLoaded", () => {
 });
 
 document.addEventListener("pjax:complete", () => {
+  initGalPopup();
   quicklink.listen({ priority: true });
   initMenuToggle();
-  initGalPopup();
   lunar();
   initScrollEffects();
   initMediumZoom();
@@ -102,6 +102,8 @@ function initGalPopup() {
     }).then((result) => {
       if (result.isConfirmed) {
         localStorage.setItem("ageVerificationTime", now.toString());
+        const sukiAudio = new Audio("/media/suki.mp3");
+        sukiAudio.play();
       } else {
         window.location.href = locationHref;
       }

@@ -6,7 +6,8 @@
     >
   </h1>
   {{ if not (eq .Params.postmeta false) }}{{ partial "post-meta.html" . }} {{
-  end }} {{ if in .TableOfContents "li" }} {{ .TableOfContents }} {{ end }}
+  end }} {{ if (and (in .TableOfContents "li") (not (eq .Params.toc false))) }}
+  {{ .TableOfContents }} {{ end }}
   <div class="content" data-pagefind-body>{{ .Content }}</div>
   {{ partial "terms.html" (dict "taxonomy" "categories" "page" .) }} {{ partial
   "terms.html" (dict "taxonomy" "tags" "page" .) }}

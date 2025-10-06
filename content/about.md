@@ -1,5 +1,6 @@
 +++
 title = "关于本站"
+postmeta = false
 comments = false
 +++
 

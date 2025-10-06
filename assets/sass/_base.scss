@@ -1,5 +1,18 @@
 @use "./pattern" as pattern;
 
+noscript {
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  background: var(--bg-color);
+  color: var(--text-color);
+  z-index: 114514;
+  text-align: center;
+  padding: 0.8em;
+  font-size: 3em;
+  box-sizing: border-box;
+}
+
 html {
   scroll-behavior: smooth;
   scroll-padding-top: 30vh;
