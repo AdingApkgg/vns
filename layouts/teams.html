@@ -1,66 +1,12 @@
 {{ define "main" }}
 <article class="article-main">
-  <style>
-    .article-main .content {
-      display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
-      gap: 16px;
-      justify-content: center;
-      background: var(--bg-color);
-      font-size: 15px;
-    }
-
-    @media (min-width: 1024px) {
-      .article-main .content {
-        grid-template-columns: repeat(5, 1fr);
-      }
-    }
-
-    @media (max-width: 480px) {
-      .article-main .content {
-        grid-template-columns: repeat(2, 1fr);
-        gap: 8px;
-        font-size: 14px;
-      }
-    }
-
-    .article-main .content .item {
-      border: 1px solid rgba(0, 0, 0, 0.1);
-      border-radius: 8px;
-      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.05);
-      background: var(--bg-color);
-      overflow: hidden;
-      display: flex;
-      flex-direction: column;
-      transition: transform 0.2s, box-shadow 0.2s;
-      font-size: 1rem;
-    }
-    .article-main .content .item:hover {
-      transform: translateY(-4px);
-      box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1);
-    }
-    .article-main .content .item section {
-      height: 100%;
-      display: flex;
-      flex-direction: column;
-      justify-content: space-evenly;
-    }
-    .article-main .content .item section p {
-      text-align: center;
-      margin: 0.6em 0;
-      padding: 0 16px;
-    }
-    .article-main .content .item section p strong {
-      font-size: 1.4em;
-    }
-  </style>
   <h1>
     <i class="fas fa-hashtag"></i>&nbsp;{{ .Title }}<sup
       ><span id="busuanzi_value_page_pv">null</span></sup
     >
   </h1>
   {{ .Content }}
-  <div class="content">
+  <div class="content teams">
     {{ $defaultAuthor := .Site.Params.ogImage | absURL }} {{ range
     .Site.Data.teams }}
     <div class="item">
