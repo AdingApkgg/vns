@@ -1,4 +1,4 @@
-document.addEventListener("DOMContentLoaded", () => {
+function initializePage() {
   initGalPopup();
   quicklink.listen({ priority: true });
   initMenuToggle();
@@ -8,19 +8,10 @@ document.addEventListener("DOMContentLoaded", () => {
   rv();
   initValine();
   initSearch();
-});
+}
 
-document.addEventListener("pjax:complete", () => {
-  initGalPopup();
-  quicklink.listen({ priority: true });
-  initMenuToggle();
-  lunar();
-  initScrollEffects();
-  initMediumZoom();
-  rv();
-  initValine();
-  initSearch();
-});
+document.addEventListener("DOMContentLoaded", initializePage);
+document.addEventListener("pjax:complete", initializePage);
 
 function initMenuToggle() {
   const menuToggle = document.getElementById("menuToggle");

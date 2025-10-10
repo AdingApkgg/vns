@@ -1,19 +1,5 @@
 @use "./pattern" as pattern;
 
-noscript {
-  position: fixed;
-  width: 100%;
-  height: 100%;
-  background: var(--bg-color);
-  color: var(--text-color);
-  z-index: 1919810;
-  text-align: center;
-  padding: 0.8em;
-  font-size: 3em;
-  box-sizing: border-box;
-  backdrop-filter: blur(8px);
-}
-
 html {
   scroll-behavior: smooth;
   scroll-padding-top: 30vh;
@@ -26,62 +12,6 @@ body {
     Roboto, "Helvetica Neue", Arial, sans-serif !important;
   background: fixed var(--bg-color) pattern.$bg center;
   color: var(--text-color);
-}
-
-main {
-  h1 {
-    font-size: 2em;
-    sup {
-      font-size: 0.5em;
-      color: #666;
-      margin-left: 0.2em;
-    }
-  }
-  h2 {
-    border-bottom: 1px solid #e0e0e0;
-  }
-  h3 {
-    border-bottom: 1px dotted #e0e0e0;
-  }
-  ol,
-  ul {
-    li {
-      line-height: 2;
-    }
-  }
-}
-
-main kbd,
-header nav button,
-select,
-select option {
-  font-family: Consolas, system-ui, -apple-system, BlinkMacSystemFont,
-    "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue",
-    sans-serif;
-  font-size: 0.875em;
-  border: 2px solid #ccc;
-  border-radius: 0.2em;
-  box-shadow: 0.1em 0.1em 0.2em rgba(0, 0, 0, 0.1);
-  background: var(--highlight-background);
-  color: var(--highlight-foreground);
-  font-family: inherit;
-  padding: 0.1em 0.3em;
-  white-space: nowrap;
-}
-
-p,
-li {
-  code {
-    font-family: Consolas, system-ui, -apple-system, BlinkMacSystemFont,
-      "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans",
-      "Helvetica Neue", sans-serif;
-    font-size: 0.875em;
-    background: var(--highlight-background);
-    color: var(--highlight-foreground);
-    border-radius: 3px;
-    padding: 2px 4px;
-    overflow-wrap: break-word;
-  }
 }
 
 header {
@@ -143,8 +73,7 @@ header {
   }
 }
 
-main,
-#search {
+main {
   max-width: 1000px;
   margin: 0 auto;
   padding: 1em;
@@ -155,6 +84,59 @@ main,
   background-color: var(--bg-color);
   color: var(--text-color);
   animation: fadeInUp 0.3s ease-out;
+  h1 {
+    font-size: 2em;
+    sup {
+      font-size: 0.5em;
+      color: #666;
+      margin-left: 0.2em;
+    }
+  }
+  h2 {
+    border-bottom: 1px solid #e0e0e0;
+  }
+  h3 {
+    border-bottom: 1px dotted #e0e0e0;
+  }
+  ol,
+  ul {
+    li {
+      line-height: 2;
+    }
+  }
+}
+
+main kbd,
+header nav button,
+select,
+select option {
+  font-family: Consolas, system-ui, -apple-system, BlinkMacSystemFont,
+    "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue",
+    sans-serif;
+  font-size: 0.875em;
+  border: 2px solid #ccc;
+  border-radius: 0.2em;
+  box-shadow: 0.1em 0.1em 0.2em rgba(0, 0, 0, 0.1);
+  background: var(--highlight-background);
+  color: var(--highlight-foreground);
+  font-family: inherit;
+  padding: 0.1em 0.3em;
+  white-space: nowrap;
+}
+
+p,
+li {
+  code {
+    font-family: Consolas, system-ui, -apple-system, BlinkMacSystemFont,
+      "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans",
+      "Helvetica Neue", sans-serif;
+    font-size: 0.875em;
+    background: var(--highlight-background);
+    color: var(--highlight-foreground);
+    border-radius: 3px;
+    padding: 2px 4px;
+    overflow-wrap: break-word;
+  }
 }
 
 .article-main {

@@ -1,0 +1,100 @@
+.content.dls {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+  gap: 8px;
+  justify-content: center;
+  background: var(--bg-color);
+  font-size: 15px;
+  .item {
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    border-radius: 12px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.05);
+    background: var(--bg-color);
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    padding: 8px;
+    transition: transform 0.2s, box-shadow 0.2s;
+    font-size: 1rem;
+    &:hover {
+      transform: translateY(-5px);
+      box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1);
+    }
+    img {
+      width: 100%;
+      object-fit: cover;
+      border-radius: 8px;
+    }
+    .title {
+      font-size: 1.15rem;
+      font-weight: bold;
+      margin-bottom: 8px;
+      color: var(--text-color);
+    }
+    .company {
+      font-size: 0.95rem;
+      color: #888;
+      margin-bottom: 4px;
+    }
+    .platforms {
+      font-size: 0.85rem;
+      color: var(--text-color);
+      margin-bottom: 2px;
+      margin-top: 4px;
+    }
+    .downloads {
+      margin-top: 3px;
+      margin-bottom: 2px;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      font-size: 0.85rem;
+    }
+    .download-button {
+      background: var(--link-color);
+      color: #fff;
+      border: none;
+      border-radius: 6px;
+      padding: 8px 12px;
+      font-size: 0.85rem;
+      cursor: pointer;
+      transition: background 0.2s, transform 0.2s;
+      &:hover {
+        background: #4a5568;
+        transform: scale(1.05);
+      }
+    }
+    .author {
+      font-size: 0.8rem;
+      color: #aaa;
+      margin-top: 8px;
+      display: block;
+    }
+  }
+}
+
+@media (min-width: 1024px) {
+  .content.dls {
+    grid-template-columns: repeat(4, 1fr);
+  }
+}
+
+@media (max-width: 480px) {
+  .content.dls {
+    grid-template-columns: repeat(2, 1fr);
+    font-size: 14px;
+    .item {
+      padding: 6px;
+      .title {
+        font-size: 1rem;
+      }
+      .platforms {
+        font-size: 0.7rem;
+      }
+      .download-button {
+        padding: 6px 10px;
+        font-size: 0.7rem;
+      }
+    }
+  }
+}
