@@ -14,6 +14,15 @@ body {
   color: var(--text-color);
 }
 
+html.is-changing .transition-fade {
+  transition: opacity 0.25s;
+  opacity: 1;
+}
+
+html.is-animating .transition-fade {
+  opacity: 0;
+}
+
 header {
   position: fixed;
   max-width: 126px;
@@ -84,7 +93,7 @@ main {
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
   background-color: var(--bg-color);
   color: var(--text-color);
-  animation: fadeInUp 0.3s ease-out;
+  // animation: fadeInUp 0.3s ease-out;
   h1 {
     font-size: 2em;
     sup {
@@ -158,7 +167,7 @@ footer {
   box-shadow: 0 5px 6px -5px rgba(133, 133, 133, 0.6);
   border-top: 1px solid var(--footer-border);
   padding: 1rem;
-  animation: fadeInUp 0.3s ease-out;
+  // animation: fadeInUp 0.3s ease-out;
   p {
     color: var(--text-color);
     text-align: center;

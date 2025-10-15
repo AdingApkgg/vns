@@ -1,6 +1,5 @@
 function initializePage() {
   initGalPopup();
-  quicklink.listen({ priority: true });
   initMenuToggle();
   lunar();
   initScrollEffects();
@@ -8,10 +7,30 @@ function initializePage() {
   rv();
   initValine();
   initSearch();
+  fetchDLS();
+  quicklink.listen({ priority: true });
 }
 
 document.addEventListener("DOMContentLoaded", initializePage);
-document.addEventListener("pjax:complete", initializePage);
+// document.addEventListener("pjax:complete", initializePage);
+
+swup.hooks.on("page:view", () => {
+  initializePage();
+});
+
+swup.hooks.on("content:replace", () => {
+  bszRe();
+});
+
+function bszRe() {
+  bszCaller.fetch(
+    "//busuanzi.ibruce.info/busuanzi?jsonpCallback=BusuanziCallback",
+    function (a) {
+      bszTag.texts(a);
+      bszTag.shows();
+    }
+  );
+}
 
 function initMenuToggle() {
   const menuToggle = document.getElementById("menuToggle");
@@ -128,7 +147,8 @@ function rv() {
             return;
           }
           const randomUrl = posts[Math.floor(Math.random() * posts.length)];
-          pjax.loadUrl(randomUrl);
+          // pjax.loadUrl(randomUrl);
+          swup.navigate(randomUrl);
         })
         .catch((error) => {
           document.body.innerHTML =
@@ -1181,5 +1201,74 @@ function lunar() {
       Swal.fire("重阳节快乐\n独在异乡为异客，每逢佳节倍思亲");
       sessionStorage.setItem("isPopupWindow", "1");
     }
+  }
+}
+
+function fetchDLS() {
+  if (document.querySelector(".content.dls")) {
+    const jsonUrl =
+      "https://ghfast.top/https://raw.githubusercontent.com/AdingApkgg/vns/refs/heads/dev/data/dls.json";
+
+    fetch(jsonUrl)
+      .then((response) => {
+        if (!response.ok) {
+          throw new Error("网络响应失败");
+        }
+        return response.json();
+      })
+      .then((data) => {
+        const contentDiv = document.getElementById("content");
+        contentDiv.innerHTML = "";
+        data.forEach((item) => {
+          const itemDiv = document.createElement("div");
+          itemDiv.className = "item";
+
+          const cover = document.createElement("img");
+          cover.className = "cover";
+          cover.src = item.cover;
+          cover.alt = item.title;
+          cover.title = item.title;
+          cover.loading = "lazy";
+          itemDiv.appendChild(cover);
+
+          const title = document.createElement("h2");
+          title.className = "title";
+          title.textContent = item.title;
+          itemDiv.appendChild(title);
+
+          const company = document.createElement("span");
+          company.className = "company";
+          company.textContent = item.company;
+          itemDiv.appendChild(company);
+
+          const platforms = document.createElement("p");
+          platforms.className = "platforms";
+          platforms.textContent = `${item.platforms.join("、")}`;
+          itemDiv.appendChild(platforms);
+
+          const downloads = document.createElement("p");
+          downloads.className = "downloads";
+          item.downloads.forEach((download) => {
+            const button = document.createElement("button");
+            button.className = "download-button";
+            button.textContent = `${download.provider}`;
+            button.onclick = () => window.open(download.url, "_blank");
+            downloads.appendChild(button);
+          });
+          itemDiv.appendChild(downloads);
+
+          const author = document.createElement("span");
+          author.className = "author";
+          author.textContent = `编辑者：${item.author}`;
+          itemDiv.appendChild(author);
+
+          contentDiv.appendChild(itemDiv);
+        });
+      })
+      .catch((error) => {
+        console.error("获取数据失败:", error);
+        document.getElementById("content").textContent =
+          "加载数据失败，请稍后重试。";
+      });
   }
 }
