@@ -127,6 +127,12 @@ name = '投稿'
 url = 'mailto:i@saop.cc?subject=资源投稿《xxxx》&body=这里填写你要发布的内容..'
 weight = 15
 pre = "fa fa-pen"
+[[menus.main]]
+identifier = "donate"
+name = '捐赠'
+pageRef = '/donate'
+weight = 16
+pre = "fa fa-hand-holding-dollar"
 
 [markup]
 defaultMarkdownHandler = "goldmark"
