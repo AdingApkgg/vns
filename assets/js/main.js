@@ -9,18 +9,37 @@ function initializePage() {
   initSearch();
   fetchDLS();
   quicklink.listen({ priority: true });
+  endLoading();
 }
 
 document.addEventListener("DOMContentLoaded", initializePage);
-// document.addEventListener("pjax:complete", initializePage);
 
 swup.hooks.on("page:view", () => {
+  startLoading();
   initializePage();
 });
 
 swup.hooks.on("content:replace", () => {
   bszRe();
+  endLoading();
 });
+
+var time = null,
+  loaderEl = document.getElementById("loader"),
+  startLoading = () => {
+    (time = Date.now()), loaderEl.classList.remove("loading");
+  },
+  hideLoader = () => {
+    (document.body.style.overflow = "auto"), loader.classList.add("loading");
+  },
+  endLoading = () => {
+    time
+      ? 500 < Date.now() - time
+        ? ((time = null), hideLoader())
+        : (setTimeout(endLoading, 500 - (Date.now() - time)), (time = null))
+      : hideLoader();
+  };
+loaderEl.addEventListener("click", endLoading);
 
 function bszRe() {
   bszCaller.fetch(
@@ -147,7 +166,6 @@ function rv() {
             return;
           }
           const randomUrl = posts[Math.floor(Math.random() * posts.length)];
-          // pjax.loadUrl(randomUrl);
           swup.navigate(randomUrl);
         })
         .catch((error) => {

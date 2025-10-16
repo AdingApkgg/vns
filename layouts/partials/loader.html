@@ -13,22 +13,3 @@
         <div class="loading-word">少女祈祷中...</div>
     </div>
 </div>
-<script>
-    var time = null,
-        loaderEl = document.getElementById("loader"),
-        startLoading = () => {
-            (time = Date.now()), loaderEl.classList.remove("loading");
-        },
-        hideLoader = () => {
-            (document.body.style.overflow = "auto"), loader.classList.add("loading");
-        },
-        endLoading = () => {
-            time
-                ? 500 < Date.now() - time
-                    ? ((time = null), hideLoader())
-                    : (setTimeout(endLoading, 500 - (Date.now() - time)), (time = null))
-                : hideLoader();
-        };
-    document.addEventListener("DOMContentLoaded", endLoading),
-        loaderEl.addEventListener("click", endLoading);
-</script>
