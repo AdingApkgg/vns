@@ -1,27 +1,24 @@
 {{ define "main" }}
 <article class="article-main">
-  <p>
-    <img
-      class="zoomable medium-zoom-image"
-      loading="lazy"
-      src="https://api.illlights.com/v1/img"
-      title="Random Image"
-      alt="Random Image"
-    />
-  </p>
-  <h1>
-    <i class="fas fa-hashtag"></i>&nbsp;{{ .Title }}<sup
-      ><span id="busuanzi_value_page_pv">null</span></sup
-    >
-  </h1>
+  <section>
+    <p>
+      <img class="zoomable medium-zoom-image" loading="lazy" src="https://api.illlights.com/v1/img" title="Random Image"
+        alt="Random Image" />
+    <h1>
+      <i class="fas fa-hashtag"></i>&nbsp;{{ .Title }}<sup><span id="busuanzi_value_page_pv">null</span></sup>
+    </h1>
+    </p>
+  </section>
   {{ .Content }} {{ $paginator := .Paginate (where .Site.RegularPages "Type"
   "p") }} {{ range $paginator.Pages }}
-  <article>
-    <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
-    {{ partial "post-meta.html" . }} {{ .Summary }} {{ partial "terms.html"
-    (dict "taxonomy" "categories" "page" .) }} {{ partial "terms.html" (dict
-    "taxonomy" "tags" "page" .) }}
-  </article>
+  <section>
+    <article>
+      <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
+      {{ partial "post-meta.html" . }} {{ .Summary }} {{ partial "terms.html"
+      (dict "taxonomy" "categories" "page" .) }} {{ partial "terms.html" (dict
+      "taxonomy" "tags" "page" .) }}
+    </article>
+  </section>
   {{ end }} {{ partial "pagination.html" . }} {{ $articles := where
   .Site.RegularPages "Type" "p" }}
   <p class="articles-len">总共有 {{ len $articles }} 部资源</p>
