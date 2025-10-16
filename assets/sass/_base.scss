@@ -15,12 +15,15 @@ body {
 }
 
 html.is-changing .transition-fade {
-  transition: opacity 0.25s;
+  transition: opacity 0.3s ease-out, transform 0.3s ease-out;
   opacity: 1;
+  transform: translateY(0) scale(1);
+  will-change: opacity, transform;
 }
 
 html.is-animating .transition-fade {
   opacity: 0;
+  transform: translateY(10px) scale(0.98);
 }
 
 header {
@@ -76,7 +79,7 @@ header {
       &:hover {
         opacity: 0.7;
         text-decoration: underline;
-        animation: rubberBand 0.3s ease-out;
+        animation: flash 0.3s ease-out;
       }
     }
   }
@@ -93,7 +96,6 @@ main {
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
   background-color: var(--bg-color);
   color: var(--text-color);
-  // animation: fadeInUp 0.3s ease-out;
   h1 {
     font-size: 2em;
     sup {
@@ -167,7 +169,6 @@ footer {
   box-shadow: 0 5px 6px -5px rgba(133, 133, 133, 0.6);
   border-top: 1px solid var(--footer-border);
   padding: 1rem;
-  // animation: fadeInUp 0.3s ease-out;
   p {
     color: var(--text-color);
     text-align: center;
