@@ -1,57 +1,54 @@
-#loader .loading-bg {
-  position: fixed;
-  z-index: 1000;
-  width: 50%;
-  height: 100%;
-  background-color: #ffffffe6;
-  transition: 0.8s;
-}
-
-#loader .loading-right-bg {
-  right: 0;
-}
-
-#loader .spinner-box {
-  position: fixed;
-  z-index: 1001;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  width: 100%;
-  height: 100vh;
-  opacity: 1;
-  transition: 0.5s;
-}
-
-#loader .spinner-box .loading-taichi {
-  opacity: 0.8;
-}
-
-#loader .spinner-box .rotate {
-  animation: rotate-all 2s linear infinite;
-}
-
-#loader .spinner-box .loading-word {
-  position: absolute;
-  color: var(--red-1, #ff5252);
-  top: calc(50% + 110px);
-  left: 50%;
-  transform: translate(-50%, -50%);
-  font: 700 1.2rem LXGW WenKai, Mulish, "Noto Serif SC", -apple-system,
-    PingFang SC, Microsoft YaHei, "sans-serif";
-}
-
-#loader.loading .loading-left-bg {
-  transform: translate(-100%);
-}
-
-#loader.loading .loading-right-bg {
-  transform: translate(100%);
-}
-
-#loader.loading .spinner-box {
-  opacity: 0;
-  visibility: hidden;
+#loader {
+  .loading-bg {
+    position: fixed;
+    z-index: 1000;
+    width: 50%;
+    height: 100%;
+    background-color: #ffffffe6;
+    transition: 0.2s;
+    backdrop-filter: blur(8px);
+  }
+  .loading-right-bg {
+    right: 0;
+  }
+  .spinner-box {
+    position: fixed;
+    z-index: 1001;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100vh;
+    opacity: 1;
+    transition: 0.5s;
+    .loading-taichi {
+      opacity: 0.8;
+    }
+    .rotate {
+      animation: rotate-all 2s linear infinite;
+    }
+    .loading-word {
+      position: absolute;
+      color: var(--red-1, #ff5252);
+      top: calc(50% + 110px);
+      left: 50%;
+      transform: translate(-50%, -50%);
+      font: 700 1.2rem WenKai, Mulish, "Noto Serif SC", -apple-system,
+        PingFang SC, Microsoft YaHei, "sans-serif";
+    }
+  }
+  &.loading {
+    .loading-left-bg {
+      transform: translate(-100%);
+    }
+    .loading-right-bg {
+      transform: translate(100%);
+    }
+    .spinner-box {
+      opacity: 0;
+      visibility: hidden;
+    }
+  }
 }
 
 @keyframes rotate-all {
@@ -61,10 +58,14 @@
 }
 
 @media (prefers-color-scheme: dark) {
-  #loader .loading-bg {
-    background-color: #252525e6;
-  }
-  #loader .spinner-box .loading-word {
-    color: var(--red-1, #ff5252);
+  #loader {
+    .loading-bg {
+      background-color: #252525e6;
+    }
+    .spinner-box {
+      .loading-word {
+        color: var(--red-1, #ff5252);
+      }
+    }
   }
 }
