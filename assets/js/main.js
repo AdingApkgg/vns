@@ -14,7 +14,7 @@ function initializePage() {
 
 document.addEventListener("DOMContentLoaded", initializePage);
 
-swup.hooks.on("page:load", () => {
+swup.hooks.on("animation:out:start", () => {
   startLoading();
 });
 
