@@ -7,7 +7,7 @@ title = 'VNS'
 [module]
 [module.hugoVersion]
 extended = true
-min = "0.151.0"
+min = "0.151.2"
 
 [caches]
 [caches.assets]
