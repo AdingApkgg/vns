@@ -14,8 +14,11 @@ function initializePage() {
 
 document.addEventListener("DOMContentLoaded", initializePage);
 
-swup.hooks.on("page:view", () => {
+swup.hooks.on("page:load", () => {
   startLoading();
+});
+
+swup.hooks.on("page:view", () => {
   initializePage();
 });
 
