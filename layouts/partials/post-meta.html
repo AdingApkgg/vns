@@ -1,23 +1,15 @@
 {{ if .Site.Params.postmeta.enabled }}
 <div class="post-meta">
-  <span
-    ><i class="fas fa-user-pen"></i> 编辑者: {{ if .Params.author }}{{ if
+  <span><i class="fas fa-user-pen"></i> 编辑者: {{ if .Params.author }}{{ if
     reflect.IsSlice .Params.author }}{{ delimit .Params.author ", " }}{{ else
     }}{{ .Params.author }}{{ end }}{{ else }}{{ .Site.Params.defaultAuthor }}{{
-    end }}</span
-  >{{ with .Date }} |
-  <span
-    ><i class="fas fa-calendar-check"></i> 发表于: {{ .Format "2006-01-02 15:04:05 -07:00" }}</span
-  >
+    end }}</span>{{ with .Date }} |
+  <span><i class="fas fa-calendar-check"></i> 发表于: {{ .Format "2006-01-02 15:04:05 -07:00" }}</span>
   {{ end }} |
-  <span
-    ><i class="fas fa-file-word"></i> 总字数: {{ .Plain | htmlUnescape |
-    strings.RuneCount }}</span
-  >
+  <span><i class="fas fa-file-word"></i> 总字数: {{ .Plain | htmlUnescape |
+    strings.RuneCount }}</span>
   |
-  <span
-    ><i class="fas fa-clock"></i> 阅读时长: {{ div (div (.Plain | htmlUnescape |
-    strings.RuneCount) 5) 60 }} 分钟</span
-  >
+  <span><i class="fas fa-clock"></i> 阅读时长: {{ div (div (.Plain | htmlUnescape |
+    strings.RuneCount) 2) 60 }} 分钟</span>
 </div>
 {{ end }}
