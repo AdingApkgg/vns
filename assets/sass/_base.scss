@@ -1,5 +1,9 @@
 @use "./pattern" as pattern;
 
+* {
+  box-sizing: border-box;
+}
+
 html {
   scroll-behavior: smooth;
   scroll-padding-top: 30vh;
