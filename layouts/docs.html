@@ -10,10 +10,14 @@
   <div class="content">{{ .Content }}</div>
   {{ $paginator := .Paginate (where .Site.RegularPages "Type" "docs") }} {{
   range $paginator.Pages.ByLastmod.Reverse.ByWeight }}
-  <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
-  {{ partial "post-meta.html" . }} {{ .Summary }} {{ end }} {{ partial
-  "pagination.html" . }} {{ $articles := where .Site.RegularPages "Type" "docs"
-  }}
+  <section>
+    <article>
+      <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
+      {{ partial "post-meta.html" . }} {{ .Summary }}
+    </article>
+  </section>
+  {{ end }} {{ partial "pagination.html" . }} {{ $articles := where
+  .Site.RegularPages "Type" "docs" }}
   <p class="articles-len">总共有 {{ len $articles }} 篇文档</p>
 </article>
 {{ end }}
