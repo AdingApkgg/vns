@@ -23,7 +23,7 @@ categories:
   - Android
 author: Dimly
 date: 2025-07-18T20:12:30+08:00
-updated: 2025-07-21T03:19:40+08:00
+lastmod: 2025-07-21T03:19:40+08:00
 ---
 
 ![atropos](https://static.30hb.cn/vndb/img/atropos.webp)

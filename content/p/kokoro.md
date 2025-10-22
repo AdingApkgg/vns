@@ -17,7 +17,7 @@ categories:
   - ONS
 author: Kirishima
 date: 2024-09-15 21:20:00
-updated: 2024-09-15 21:20:00
+lastmod: 2024-09-15 21:20:00
 ---
 
 ![kokoro](https://static.30hb.cn/vndb/img/kokoro.webp)

@@ -10,7 +10,7 @@ categories:
   - Windows
   - ONS
 date: 2024-07-31 01:19:20
-updated: 2024-07-31 01:19:20
+lastmod: 2024-07-31 01:19:20
 ---
 
 ![kagetsu-tohya](https://static.30hb.cn/vndb/img/kagetsu-tohya.webp)

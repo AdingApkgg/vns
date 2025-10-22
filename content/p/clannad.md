@@ -20,7 +20,7 @@ categories:
   - Windows
   - ONS
 date: 2024-02-26 02:20:00
-updated: 2024-04-01 12:26:40
+lastmod: 2024-04-01 12:26:40
 ---
 
 ![clannad](https://static.30hb.cn/vndb/img/clannad.webp)

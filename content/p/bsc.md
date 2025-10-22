@@ -24,7 +24,7 @@ categories:
   - Android
 author: Dimly
 date: 2025-07-19 17:36:30
-updated: 2025-07-19 17:36:00
+lastmod: 2025-07-19 17:36:00
 ---
 
 ![bsc](https://static.30hb.cn/vndb/img/bsc.webp)

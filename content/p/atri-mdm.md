@@ -16,7 +16,7 @@ categories:
   - KRKR
   - Android
 date: 2024-02-04 05:00:00
-updated: 2024-09-13 05:03:00
+lastmod: 2024-09-13 05:03:00
 ---
 
 ![atri-mdm](https://static.30hb.cn/vndb/img/atri-mdm.webp)

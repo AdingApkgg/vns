@@ -13,7 +13,7 @@ tags:
 categories:
   - Windows
 date: 2024-03-02 21:40:00
-updated: 2024-04-01 12:26:00
+lastmod: 2024-04-01 12:26:00
 ---
 
 ![clannad-side-stories](https://static.30hb.cn/vndb/img/clannad-side-stories.webp)

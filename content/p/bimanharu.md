@@ -17,7 +17,7 @@ categories:
   - ONS
   - Android
 date: 2024-06-08 19:00:00
-updated: 2024-06-08 19:00:00
+lastmod: 2024-06-08 19:00:00
 ---
 
 ![bimanharu](https://static.30hb.cn/vndb/img/bimanharu.webp)

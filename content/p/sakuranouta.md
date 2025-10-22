@@ -12,7 +12,7 @@ categories:
   - Windows
   - Android
 date: 2024-04-21 04:10:00
-updated: 2024-04-21 04:10:00
+lastmod: 2024-04-21 04:10:00
 ---
 
 ![sakuranouta](https://static.30hb.cn/vndb/img/sakuranouta.webp)

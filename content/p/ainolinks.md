@@ -17,7 +17,7 @@ categories:
   - KRKR
 author: molin
 date: 2025-03-12 21:55:38
-updated: 2025-03-22 03:08:45
+lastmod: 2025-03-22 03:08:45
 ---
 
 ![ainolinks](https://static.30hb.cn/vndb/img/ainolinks.webp)

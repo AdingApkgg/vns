@@ -18,7 +18,7 @@ categories:
   - KRKR
 author: WTY
 date: 2024-10-25 03:52:25
-updated: 2024-10-25 03:52:25
+lastmod: 2024-10-25 03:52:25
 ---
 
 ![lol5](https://static.30hb.cn/vndb/img/lol5.webp)

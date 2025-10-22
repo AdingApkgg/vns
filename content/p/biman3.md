@@ -25,7 +25,7 @@ categories:
   - ONS
   - Android
 date: 2024-06-08 19:27:00
-updated: 2024-06-08 19:27:00
+lastmod: 2024-06-08 19:27:00
 ---
 
 ![biman3](https://static.30hb.cn/vndb/img/biman3.webp)

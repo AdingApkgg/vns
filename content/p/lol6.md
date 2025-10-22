@@ -19,7 +19,7 @@ categories:
   - Android
 author: WTY
 date: 2024-10-25 03:55:00
-updated: 2024-10-25 03:55:00
+lastmod: 2024-10-25 03:55:00
 ---
 
 ![lol6](https://static.30hb.cn/vndb/img/lol6.webp)

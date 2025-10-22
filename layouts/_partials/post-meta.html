@@ -4,7 +4,9 @@
     reflect.IsSlice .Params.author }}{{ delimit .Params.author ", " }}{{ else
     }}{{ .Params.author }}{{ end }}{{ else }}{{ .Site.Params.defaultAuthor }}{{
     end }}</span>{{ with .Date }} |
-  <span><i class="fas fa-calendar-check"></i> 发表于: {{ .Format "2006-01-02 15:04:05 -07:00" }}</span>
+  <span><i class="fas fa-calendar-alt"></i> 发表于: {{ .Format "06.01.02 15:04:05 T-07:00" }}</span>
+  {{ end }} {{ with .Lastmod }} |
+  <span><i class="fas fa-history"></i> 更新于: {{ .Format "06.01.02 15:04:05 T-07:00" }}</span>
   {{ end }} |
   <span><i class="fas fa-file-word"></i> 总字数: {{ .Plain | htmlUnescape |
     strings.RuneCount }}</span>

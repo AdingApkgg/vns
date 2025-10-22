@@ -21,7 +21,7 @@ categories:
   - Windows
   - KRKR
 date: 2024-01-30 14:00:00
-updated: 2024-09-23 01:25:00
+lastmod: 2024-09-23 01:25:00
 ---
 
 ![kamikimi-ext](https://static.30hb.cn/vndb/img/kamikimi-ext.webp)

@@ -16,7 +16,7 @@ tags:
 categories:
   - Windows
 date: 2024-08-27 07:20:00
-updated: 2024-08-27 07:20:00
+lastmod: 2024-08-27 07:20:00
 ---
 
 ![euphoria](https://static.30hb.cn/vndb/img/euphoria.webp)

@@ -21,7 +21,7 @@ categories:
   - KRKR
 author: Dimly
 date: 2025-07-21 23:02:30
-updated: 2025-07-21 23:02:30
+lastmod: 2025-07-21 23:02:30
 ---
 
 ![tamayura](https://static.30hb.cn/vndb/img/tamayura.webp)

@@ -18,7 +18,7 @@ categories:
   - KRKR
   - Android
 date: 2024-01-28 10:00:00
-updated: 2024-11-17 07:18:40
+lastmod: 2024-11-17 07:18:40
 ---
 
 ![senren](https://static.30hb.cn/vndb/img/senren.webp)

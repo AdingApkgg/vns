@@ -20,7 +20,7 @@ categories:
   - KRKR
   - Android
 date: 2024-05-02 19:58:30
-updated: 2024-10-02 02:35:40
+lastmod: 2024-10-02 02:35:40
 ---
 
 ![nknk](https://static.30hb.cn/vndb/img/nknk.webp)

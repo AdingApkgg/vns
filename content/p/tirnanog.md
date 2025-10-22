@@ -19,7 +19,7 @@ categories:
   - KRKR
 author: Dimly
 date: 2025-07-30 14:13:30
-updated: 2025-10-06 04:50:00
+lastmod: 2025-10-06 04:50:00
 ---
 
 ![tirnanog](https://static.30hb.cn/vndb/img/tirnanog.webp)

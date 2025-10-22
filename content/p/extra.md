@@ -22,7 +22,7 @@ categories:
   - Windows
 author: Kirishima
 date: 2024-05-25 01:50:00
-updated: 2024-05-25 01:50:00
+lastmod: 2024-05-25 01:50:00
 ---
 
 ![extra](https://static.30hb.cn/vndb/img/extra.webp)

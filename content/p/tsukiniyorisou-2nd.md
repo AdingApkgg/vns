@@ -18,7 +18,7 @@ categories:
   - Windows
   - ONS
 date: 2024-04-19 00:05:00
-updated: 2024-04-19 00:05:00
+lastmod: 2024-04-19 00:05:00
 ---
 
 ![tsukiniyorisou-2nd](https://static.30hb.cn/vndb/img/tsukiniyorisou-2nd.webp)

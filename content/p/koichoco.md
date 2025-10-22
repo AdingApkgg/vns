@@ -20,7 +20,7 @@ categories:
   - Windows
   - PSP
 date: 2024-11-20 02:47:40
-updated: 2024-11-20 02:47:40
+lastmod: 2024-11-20 02:47:40
 ---
 
 ![koichoco](https://static.30hb.cn/vndb/img/koichoco.webp)

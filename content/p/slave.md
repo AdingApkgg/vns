@@ -19,7 +19,7 @@ categories:
   - KRKR
   - Android
 date: 2024-04-21 23:35:00
-updated: 2024-10-27 04:44:15
+lastmod: 2024-10-27 04:44:15
 ---
 
 ![slave](https://static.30hb.cn/vndb/img/slave.webp)

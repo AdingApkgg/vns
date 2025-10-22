@@ -3,11 +3,12 @@ languageCode = 'zh'
 defaultContentLanguage = "zh"
 defaultContentLanguageInSubdir = false
 title = 'VNS'
+timezone = "Asia/Shanghai"
 
 [module]
 [module.hugoVersion]
 extended = true
-min = "0.151.2"
+min = "0.152.0"
 
 [caches]
 [caches.assets]

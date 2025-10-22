@@ -19,7 +19,7 @@ categories:
   - Windows
   - KRKR
 date: 2024-03-23 00:10:00
-updated: 2024-03-23 00:10:00
+lastmod: 2024-03-23 00:10:00
 ---
 
 ![maitetsu](https://static.30hb.cn/vndb/img/maitetsu.webp)

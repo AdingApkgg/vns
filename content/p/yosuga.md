@@ -16,7 +16,7 @@ categories:
   - PSP
   - Android
 date: 2024-01-27 23:00:00
-updated: 2024-11-19 05:26:30
+lastmod: 2024-11-19 05:26:30
 ---
 
 ![yosuga](https://static.30hb.cn/vndb/img/yosuga.webp)

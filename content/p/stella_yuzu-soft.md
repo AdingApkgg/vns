@@ -16,7 +16,7 @@ categories:
   - Windows
   - KRKR
 date: 2024-02-10 23:42:00
-updated: 2024-11-17 07:20:20
+lastmod: 2024-11-17 07:20:20
 ---
 
 ![stella_yuzu-soft](https://static.30hb.cn/vndb/img/stella_yuzu-soft.webp)

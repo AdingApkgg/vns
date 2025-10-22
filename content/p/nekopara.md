@@ -32,7 +32,7 @@ categories:
   - KRKR
   - Android
 date: 2024-10-03 01:48:30
-updated: 2024-10-03 01:48:30
+lastmod: 2024-10-03 01:48:30
 ---
 
 ![nekopara](https://static.30hb.cn/vndb/img/nekopara.webp)
