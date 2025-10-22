@@ -9,14 +9,26 @@
   site.Title }}{{ end }}
 </title>
 <meta property="og:title" content="{{ .Title }}" />
-<meta property="og:description" content="{{ .Summary | default .Site.Params.description }}" />
+<meta
+  property="og:description"
+  content="{{ .Summary | default .Site.Params.description }}"
+/>
 <meta property="og:type" content="website" />
 <meta property="og:url" content="{{ .Permalink }}" />
 <meta property="og:image" content="{{ .Site.Params.ogImage | absURL }}" />
 <meta property="og:site_name" content="{{ .Site.Title }}" />
 <link rel="manifest" href="{{ .Site.BaseURL }}manifest.json" />
-<link rel="alternate" type="application/rss+xml" href="{{ .Site.BaseURL }}index.xml" title="{{ .Site.Title }}" />
-<link rel="stylesheet" href="https://registry.npmmirror.com/weblive2d/latest/files/waifu.css" importance="low" />
+<link
+  rel="alternate"
+  type="application/rss+xml"
+  href="{{ .Site.BaseURL }}index.xml"
+  title="{{ .Site.Title }}"
+/>
+<link
+  rel="stylesheet"
+  href="https://registry.npmmirror.com/weblive2d/latest/files/waifu.css"
+  importance="low"
+/>
 {{ partialCached "head/css.html" . }}
 <script>
   if (/MSIE|Trident/.test(window.navigator.userAgent)) {
@@ -27,17 +39,38 @@
   }
 </script>
 <script src="https://registry.npmmirror.com/js-asuna/latest/files/js/bsz.pure.mini.js"></script>
-<script src="https://registry.npmmirror.com/swup/latest/files/dist/Swup.umd.js" importance="high"></script>
-<link rel="stylesheet" href="https://registry.npmmirror.com/@fortawesome/fontawesome-free/latest/files/css/all.min.css"
-  fetchpriority="high" />
-<link rel="stylesheet" href="https://registry.npmmirror.com/animate.css/latest/files/animate.min.css"
-  fetchpriority="high" />
-<script src="https://registry.npmmirror.com/sweetalert2/latest/files/dist/sweetalert2.all.min.js"
-  importance="high"></script>
-<script src="https://registry.npmmirror.com/quicklink/latest/files/dist/quicklink.umd.js" importance="high"></script>
-<script async src="https://registry.npmmirror.com/pace-js/latest/files/pace.min.js" importance="high"></script>
-<link rel="stylesheet" href="https://registry.npmmirror.com/pace-js/latest/files/themes/blue/pace-theme-flash.css"
-  importance="high" />
+<script
+  src="https://registry.npmmirror.com/swup/latest/files/dist/Swup.umd.js"
+  importance="high"
+></script>
+<link
+  rel="stylesheet"
+  href="https://registry.npmmirror.com/@fortawesome/fontawesome-free/latest/files/css/all.min.css"
+  fetchpriority="high"
+/>
+<link
+  rel="stylesheet"
+  href="https://registry.npmmirror.com/animate.css/latest/files/animate.min.css"
+  fetchpriority="high"
+/>
+<script
+  src="https://registry.npmmirror.com/sweetalert2/latest/files/dist/sweetalert2.all.min.js"
+  importance="high"
+></script>
+<script
+  src="https://registry.npmmirror.com/quicklink/latest/files/dist/quicklink.umd.js"
+  importance="high"
+></script>
+<script
+  async
+  src="https://registry.npmmirror.com/pace-js/latest/files/pace.min.js"
+  importance="high"
+></script>
+<link
+  rel="stylesheet"
+  href="https://registry.npmmirror.com/pace-js/latest/files/themes/blue/pace-theme-flash.css"
+  importance="high"
+/>
 <link rel="stylesheet" href="/pagefind/pagefind-ui.css" importance="high" />
 <script src="/pagefind/pagefind-ui.js" importance="high"></script>
 <script src="//registry.npmmirror.com/leancloud-storage/latest/files/dist/av-min.js"></script>

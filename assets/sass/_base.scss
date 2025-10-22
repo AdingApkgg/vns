@@ -169,9 +169,7 @@ li {
 }
 
 footer {
-  background: var(--footer-bg);
   box-shadow: 0 5px 6px -5px rgba(133, 133, 133, 0.6);
-  border-top: 1px solid var(--footer-border);
   padding: 1rem;
   p {
     color: var(--text-color);
@@ -438,7 +436,7 @@ blockquote {
 
 #TableOfContents {
   max-width: 100%;
-  background: var(--highlight-background);
+  background: var(--toc-bg);
   border-radius: 4px;
   padding: 0.5em;
   overflow: auto;
