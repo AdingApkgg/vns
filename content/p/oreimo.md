@@ -16,7 +16,7 @@ categories:
   - PSP
 author: WTY
 date: 2024-09-13 03:14:00
-updated: 2024-09-14 21:56:00
+lastmod: 2024-09-14 21:56:00
 ---
 
 ![oreimo](https://static.30hb.cn/vndb/img/oreimo.webp)

@@ -22,7 +22,7 @@ categories:
   - ONS
   - Tyranor
 date: 2024-05-05 02:26:00
-updated: 2024-05-05 02:26:00
+lastmod: 2024-05-05 02:26:00
 ---
 
 ![otomeriron](https://static.30hb.cn/vndb/img/otomeriron.webp)

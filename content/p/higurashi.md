@@ -35,7 +35,7 @@ categories:
   - PSP
 author: Kirishima
 date: 2024-09-16 03:50:00
-updated: 2024-09-17 21:42:30
+lastmod: 2024-09-17 21:42:30
 ---
 
 ![higurashi](https://static.30hb.cn/vndb/img/higurashi.webp)

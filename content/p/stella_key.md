@@ -20,7 +20,7 @@ categories:
   - Tyranor
   - Android
 date: 2024-10-21 20:55:00
-updated: 2024-10-21 20:55:00
+lastmod: 2024-10-21 20:55:00
 ---
 
 ![stella_key](https://static.30hb.cn/vndb/img/stella_key.webp)

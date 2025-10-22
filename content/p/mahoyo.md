@@ -16,7 +16,7 @@ categories:
   - KRKR
   - Android
 date: 2024-05-04 03:23:00
-updated: 2024-11-17 07:22:10
+lastmod: 2024-11-17 07:22:10
 author: searvee
 ---
 

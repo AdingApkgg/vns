@@ -15,7 +15,7 @@ categories:
   - Windows
   - KRKR
 date: 2024-01-30 22:00:00
-updated: 2024-07-17 07:19:30
+lastmod: 2024-07-17 07:19:30
 ---
 
 ![ten-sz](https://static.30hb.cn/vndb/img/ten-sz.webp)

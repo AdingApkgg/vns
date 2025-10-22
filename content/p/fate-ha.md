@@ -21,7 +21,7 @@ categories:
   - Windows
   - KRKR
 date: 2024-04-19 22:58:00
-updated: 2024-04-19 22:58:00
+lastmod: 2024-04-19 22:58:00
 ---
 
 ![fate-ha](https://static.30hb.cn/vndb/img/fate-ha.webp)

@@ -17,7 +17,7 @@ tags:
 categories:
   - Windows
 date: 2024-05-05 02:37:30
-updated: 2024-05-05 02:37:30
+lastmod: 2024-05-05 02:37:30
 ---
 
 ![otome-sonogo](https://static.30hb.cn/vndb/img/otome-sonogo.webp)

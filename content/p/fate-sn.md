@@ -18,7 +18,7 @@ categories:
   - ONS
 author: searvee
 date: 2024-04-14 23:54:00
-updated: 2024-08-12 18:45:00
+lastmod: 2024-08-12 18:45:00
 ---
 
 ![fate-sn](https://static.30hb.cn/vndb/img/fate-sn.webp)

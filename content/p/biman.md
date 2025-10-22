@@ -22,7 +22,7 @@ categories:
   - Android
   - Tyranor
 date: 2024-06-08 03:32:00
-updated: 2024-06-08 03:32:00
+lastmod: 2024-06-08 03:32:00
 ---
 
 ![biman](https://static.30hb.cn/vndb/img/biman.webp)

@@ -15,7 +15,7 @@ categories:
   - KRKR
   - Android
 date: 2024-03-02 01:36:00
-updated: 2024-03-02 01:36:00
+lastmod: 2024-03-02 01:36:00
 ---
 
 ![inochinospare](https://static.30hb.cn/vndb/img/inochinospare.webp)

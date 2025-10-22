@@ -16,7 +16,7 @@ categories:
   - Windows
   - KRKR
 date: 2024-04-06 18:17:00
-updated: 2024-04-06 18:17:00
+lastmod: 2024-04-06 18:17:00
 ---
 
 ![kamimaho](https://static.30hb.cn/vndb/img/kamimaho.webp)

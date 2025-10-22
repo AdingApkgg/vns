@@ -19,7 +19,7 @@ categories:
   - ONS
 author: Kirishima
 date: 2024-05-25 02:35:00
-updated: 2024-05-25 02:35:00
+lastmod: 2024-05-25 02:35:00
 ---
 
 ![3days](https://static.30hb.cn/vndb/img/3days.webp)

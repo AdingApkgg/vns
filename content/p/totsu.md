@@ -16,7 +16,7 @@ categories:
   - Tyranor
 author: Sinon
 date: 2024-01-31 21:40:00
-updated: 2025-02-24 15:31:10
+lastmod: 2025-02-24 15:31:10
 ---
 
 ![totsu](https://static.30hb.cn/vndb/img/totsu.webp)

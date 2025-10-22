@@ -18,7 +18,7 @@ categories:
   - KRKR
 author: Dimly
 date: 2025-07-18T23:45:30+08:00
-updated: 2025-07-21T03:20:20+08:00
+lastmod: 2025-07-21T03:20:20+08:00
 ---
 
 ![vision](https://static.30hb.cn/vndb/img/vision.webp)

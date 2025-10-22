@@ -20,7 +20,7 @@ categories:
   - Android
 author: Kirishima
 date: 2024-04-26 23:33:00
-updated: 2024-04-26 23:33:00
+lastmod: 2024-04-26 23:33:00
 ---
 
 ![3myaku](https://static.30hb.cn/vndb/img/3myaku.webp)

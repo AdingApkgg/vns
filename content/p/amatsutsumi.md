@@ -17,7 +17,7 @@ tags:
 categories:
   - Windows
 date: 2024-10-02 16:09:10
-updated: 2024-10-02 16:09:10
+lastmod: 2024-10-02 16:09:10
 ---
 
 ![amatsutsumi](https://static.30hb.cn/vndb/img/amatsutsumi.webp)

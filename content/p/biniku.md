@@ -17,7 +17,7 @@ tags:
 categories:
   - Windows
 date: 2024-11-05 22:19:00
-updated: 2024-11-05 22:19:00
+lastmod: 2024-11-05 22:19:00
 ---
 
 ![biniku](https://static.30hb.cn/vndb/img/biniku.webp)

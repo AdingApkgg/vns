@@ -15,7 +15,7 @@ categories:
   - ONS
   - Android
 date: 2024-04-30 01:26:00
-updated: 2024-04-30 01:26:00
+lastmod: 2024-04-30 01:26:00
 ---
 
 ![gakunin](https://static.30hb.cn/vndb/img/gakunin.webp)

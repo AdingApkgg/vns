@@ -22,7 +22,7 @@ categories:
   - KRKR
   - Android
 date: 2024-05-05 03:29:30
-updated: 2024-05-05 03:29:30
+lastmod: 2024-05-05 03:29:30
 ---
 
 ![ginka](https://static.30hb.cn/vndb/img/ginka.webp)

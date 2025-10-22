@@ -20,7 +20,7 @@ categories:
   - Windows
   - Android
 date: 2024-10-24 00:23:40
-updated: 2024-10-24 00:23:40
+lastmod: 2024-10-24 00:23:40
 ---
 
 ![zombie](https://static.30hb.cn/vndb/img/zombie.webp)

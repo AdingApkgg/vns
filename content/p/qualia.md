@@ -25,7 +25,7 @@ categories:
   - Android
 author: Dimly
 date: 2025-07-20 20:55:30
-updated: 2025-10-06 01:00:00
+lastmod: 2025-10-06 01:00:00
 ---
 
 ![qualia](https://static.30hb.cn/vndb/img/qualia.webp)

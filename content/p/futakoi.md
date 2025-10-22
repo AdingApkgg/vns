@@ -24,7 +24,7 @@ categories:
   - KRKR
 author: molin
 date: 2025-03-02 20:45:08
-updated: 2025-03-22 01:08:30
+lastmod: 2025-03-22 01:08:30
 ---
 
 ![futakoi](https://static.30hb.cn/vndb/img/futakoi.webp)

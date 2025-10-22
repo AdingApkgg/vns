@@ -14,7 +14,7 @@ categories:
   - Windows
   - ONS
 date: 2024-04-30 00:09:00
-updated: 2024-04-30 00:09:00
+lastmod: 2024-04-30 00:09:00
 ---
 
 ![kaikyou](https://static.30hb.cn/vndb/img/kaikyou.webp)

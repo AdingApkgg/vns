@@ -18,7 +18,7 @@ categories:
   - Windows
   - Android
 date: 2024-12-19 03:38:12
-updated: 2024-12-19 03:38:12
+lastmod: 2024-12-19 03:38:12
 ---
 
 ![hoshitetsu](https://static.30hb.cn/vndb/img/hoshitetsu.webp)

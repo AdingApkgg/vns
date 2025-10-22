@@ -17,7 +17,7 @@ categories:
   - Tyranor
   - Android
 date: 2024-11-11 00:26:50
-updated: 2024-11-11 00:26:50
+lastmod: 2024-11-11 00:26:50
 ---
 
 ![adabanaitan](https://static.30hb.cn/vndb/img/adabanaitan.webp)

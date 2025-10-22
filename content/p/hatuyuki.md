@@ -15,7 +15,7 @@ categories:
   - Tyranor
 author: Sinon
 date: 2025-04-01 05:00:00
-updated: 2025-04-01 05:00:00
+lastmod: 2025-04-01 05:00:00
 ---
 
 ![hatuyuki](https://static.30hb.cn/vndb/img/hatuyuki.webp)
