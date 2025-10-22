@@ -6,7 +6,7 @@
     >
   </h1>
   {{ .Content }} {{ $paginator := .Paginate (where .Site.RegularPages "Type"
-  "docs") }} {{ range $paginator.Pages }}
+  "docs") }} {{ range $paginator.Pages.ByLastmod.Reverse }}
   <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
   {{ partial "post-meta.html" . }} {{ .Summary }} {{ end }} {{ partial
   "pagination.html" . }} {{ $articles := where .Site.RegularPages "Type" "docs"

@@ -10,7 +10,7 @@
     </p>
   </section>
   {{ .Content }} {{ $paginator := .Paginate (where .Site.RegularPages "Type"
-  "p") }} {{ range $paginator.Pages }}
+  "p") }} {{ range $paginator.Pages.ByLastmod.Reverse }}
   <section>
     <article>
       <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
