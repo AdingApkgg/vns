@@ -8,7 +8,7 @@ timezone = "Asia/Shanghai"
 [module]
 [module.hugoVersion]
 extended = true
-min = "0.152.0"
+min = "0.152.1"
 
 [caches]
 [caches.assets]
