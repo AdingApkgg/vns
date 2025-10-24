@@ -1,8 +1,6 @@
 {{ define "main" }}
 <article class="article-main">
-  <h1>
-    <i class="fas fa-hashtag"></i>&nbsp;{{ .Title }}<sup id="busuanzi_value_page_pv"></sup>
-  </h1>
+  {{ partial "h1.html" . }}
   <div class="content">{{ .Content }}</div>
 </article>
 {{ end }}
