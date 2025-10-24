@@ -2,7 +2,7 @@
 <article class="article-main">
   <h1 data-pagefind-body>
     <i class="fas fa-hashtag"></i>&nbsp;{{ .Title }}<sup id="busuanzi_value_page_pv"></sup><a class="post-edit-link"
-      href="{{ .Site.Params.contentEdit }}{{ with .File }}{{ .Path }}{{ end }}?plain=1"
+      href="{{ .Site.Params.contentEdit }}{{ with .File }}{{ .Path }}{{ end }}"
       rel="external nofollow noreferrer" title="编辑" target="_blank"><i class="fas fa-pencil-alt"></i></a>
   </h1>
   {{ if not (eq .Params.postmeta false) }}{{ partial "post-meta.html" . }} {{
