@@ -3,11 +3,11 @@
     containers: ['#swup', "meta[property='og:title']",
       "meta[property='og:description']",
       "meta[property='og:url']", 'header', 'footer'],
-    linkSelector: 'a[href]:not([data-no-swup])'
+    linkSelector: 'a[href]:not([data-no-swup], [data-fancybox])'
   });
 
-  // var meting_api =
-  //   "https://meting.qjqq.cn/?server=:server&type=:type&id=:id&auth=:auth&r=:r";
+  var meting_api =
+    "https://meting.qjqq.cn/?server=:server&type=:type&id=:id&auth=:auth&r=:r";
 </script>
 {{ partialCached "head/js.html" . }}
 <button id="menuToggle" title="Menu Toggle"><i class="fa fa-bars"></i></button>
@@ -16,13 +16,14 @@
 </button>
 <span id="fps"></span>
 <script src="https://registry.npmmirror.com/instant.page/latest/files/instantpage.js" type="module"></script>
-<script async src="https://registry.npmmirror.com/weblive2d/latest/files/js/autoload.js" importance="low"></script>
+<script async src="https://registry.npmmirror.com/weblive2d/latest/files/js/autoload.js" fetchpriority="low"></script>
 <link rel="stylesheet" href="https://registry.npmmirror.com/aplayer/latest/files/dist/APlayer.min.css"
-  importance="low" />
+  fetchpriority="low" />
 <meting-js id="8464409595" server="netease" type="playlist" fixed="true" autoplay="false" order="random" volume="0.3"
   list-folded="false" list-max-height="36vh"></meting-js>
-<script defer src="https://registry.npmmirror.com/aplayer/latest/files/dist/APlayer.min.js" importance="low"></script>
-<script defer src="https://registry.npmmirror.com/meting/latest/files/dist/Meting.min.js" importance="low"></script>
-<script defer src="https://registry.npmmirror.com/medium-zoom/latest/files/dist/medium-zoom.min.js"
-  importance="high"></script>
-<script defer src="https://unpkg.com/mouse-firework@latest/dist/index.umd.js" importance="low"></script>
+<script defer src="https://registry.npmmirror.com/aplayer/latest/files/dist/APlayer.min.js"
+  fetchpriority="low"></script>
+<script defer src="https://registry.npmmirror.com/meting/latest/files/dist/Meting.min.js" fetchpriority="low"></script>
+<script async src="/js/mouse-firework/dist/index.umd.js" fetchpriority="low"></script>
+<script defer src="https://registry.npmmirror.com/@fancyapps/ui/latest/files/dist/fancybox/fancybox.umd.js"
+  fetchpriority="low"></script>

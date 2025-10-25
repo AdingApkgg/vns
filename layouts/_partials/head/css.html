@@ -4,8 +4,8 @@
 }}
 {{- with resources.Get "sass/style.scss" | toCSS $options }} {{- if eq hugo.Environment
 "development" }}
-<link rel="stylesheet" href="{{ .RelPermalink }}" importance="high" />
+<link rel="stylesheet" href="{{ .RelPermalink }}" fetchpriority="high" />
 {{- else }} {{- with . | minify | fingerprint }}
-<link rel="stylesheet" href="{{ .RelPermalink }}" importance="high" integrity="{{ .Data.Integrity }}"
+<link rel="stylesheet" href="{{ .RelPermalink }}" fetchpriority="high" integrity="{{ .Data.Integrity }}"
   crossorigin="anonymous" />
 {{- end }} {{- end }} {{- end }}

@@ -7,9 +7,9 @@
     .Site.Data.teams }}
     <div class="item">
       {{ if .avatar }}
-      <img loading="lazy" src="{{ .avatar | absURL }}" alt="{{ .author }}" title="{{ .author }}" />
+      <img src="{{ .avatar | absURL }}" alt="{{ .author }}" title="{{ .author }}" />
       {{ else }}
-      <img loading="lazy" src="{{ $defaultAuthor }}" alt="{{ .author }}" title="{{ .author }}" />
+      <img src="{{ $defaultAuthor }}" alt="{{ .author }}" title="{{ .author }}" />
       {{ end }}
       <section>
         <p>
