@@ -3,14 +3,15 @@ function initializePage() {
   initMenuToggle();
   lunar();
   initScrollEffects();
-  initMediumZoom();
+  initLozad();
+  mouseFirework();
+  Fancybox.bind("[data-fancybox]");
   rv();
   initValine();
   initSearch();
   fetchDLS();
   quicklink.listen({ priority: true });
   endLoading();
-  mouseFirework();
 }
 
 document.addEventListener("DOMContentLoaded", initializePage);
@@ -93,14 +94,6 @@ function initSearch() {
   if (document.querySelector("#search")) {
     new PagefindUI({ element: "#search", showSubResults: false });
   }
-}
-
-function initMediumZoom() {
-  mediumZoom(".zoomable", {
-    margin: 0,
-    background: "transparent",
-    scrollOffset: 20,
-  });
 }
 
 function initGalPopup() {
@@ -1250,7 +1243,6 @@ function fetchDLS() {
           cover.src = item.cover;
           cover.alt = item.title;
           cover.title = item.title;
-          cover.loading = "lazy";
           itemDiv.appendChild(cover);
 
           const title = document.createElement("h2");
@@ -1297,7 +1289,7 @@ function fetchDLS() {
 
 function mouseFirework() {
   firework({
-    excludeElements: ["a"],
+    excludeElements: [],
     particles: [
       {
         shape: "polygon",
@@ -1327,4 +1319,10 @@ function mouseFirework() {
       },
     ],
   });
+}
+
+function initLozad() {
+  const el = document.querySelectorAll("img");
+  const observerLozad = lozad(el);
+  observerLozad.observe();
 }

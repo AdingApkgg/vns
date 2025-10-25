@@ -156,7 +156,7 @@ li {
 }
 
 .article-main {
-  img.zoomable,
+  .fancybox img,
   video,
   iframe {
     max-width: calc(100% + 2em);
@@ -467,12 +467,6 @@ blockquote {
 .aplayer-list ol li,
 .aplayer-music {
   text-align: initial !important;
-}
-
-.medium-zoom-image--opened,
-.medium-zoom-overlay {
-  z-index: 1001;
-  backdrop-filter: blur(8px);
 }
 
 @media (max-width: 1288px) {
