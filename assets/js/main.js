@@ -10,6 +10,7 @@ function initializePage() {
   fetchDLS();
   quicklink.listen({ priority: true });
   endLoading();
+  mouseFirework();
 }
 
 document.addEventListener("DOMContentLoaded", initializePage);
@@ -1292,4 +1293,38 @@ function fetchDLS() {
           "加载数据失败，请稍后重试。";
       });
   }
+}
+
+function mouseFirework() {
+  firework({
+    excludeElements: ["a"],
+    particles: [
+      {
+        shape: "polygon",
+        move: ["emit", "rotate"],
+        easing: "easeOutExpo",
+        colors: ["#ff324a", "#31ffa6", "#206eff", "#ffff99"],
+        number: 30,
+        duration: [1200, 1800],
+        shapeOptions: {
+          radius: [16, 32],
+          sides: 5,
+        },
+      },
+      {
+        shape: "polygon",
+        move: ["diffuse", "rotate"],
+        easing: "easeOutExpo",
+        colors: ["#FFF"],
+        number: 3,
+        duration: [1200, 1800],
+        shapeOptions: {
+          radius: 20,
+          alpha: 0.5,
+          lineWidth: 6,
+          sides: 5,
+        },
+      },
+    ],
+  });
 }
