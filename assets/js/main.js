@@ -46,6 +46,46 @@ var time = null,
   };
 loaderEl.addEventListener("click", endLoading);
 
+function mouseFirework() {
+  firework({
+    excludeElements: [],
+    particles: [
+      {
+        shape: "polygon",
+        move: ["emit", "rotate"],
+        easing: "easeOutExpo",
+        colors: ["#ff324a", "#31ffa6", "#206eff", "#ffff99"],
+        number: 30,
+        duration: [1200, 1800],
+        shapeOptions: {
+          radius: [16, 32],
+          sides: 5,
+        },
+      },
+      {
+        shape: "polygon",
+        move: ["diffuse", "rotate"],
+        easing: "easeOutExpo",
+        colors: ["#FFF"],
+        number: 3,
+        duration: [1200, 1800],
+        shapeOptions: {
+          radius: 20,
+          alpha: 0.5,
+          lineWidth: 6,
+          sides: 5,
+        },
+      },
+    ],
+  });
+}
+
+function initLozad() {
+  const el = document.querySelectorAll("img");
+  const observerLozad = lozad(el);
+  observerLozad.observe();
+}
+
 function bszRe() {
   bszCaller.fetch(
     "//busuanzi.ibruce.info/busuanzi?jsonpCallback=BusuanziCallback",
@@ -1285,44 +1325,4 @@ function fetchDLS() {
           "加载数据失败，请稍后重试。";
       });
   }
-}
-
-function mouseFirework() {
-  firework({
-    excludeElements: [],
-    particles: [
-      {
-        shape: "polygon",
-        move: ["emit", "rotate"],
-        easing: "easeOutExpo",
-        colors: ["#ff324a", "#31ffa6", "#206eff", "#ffff99"],
-        number: 30,
-        duration: [1200, 1800],
-        shapeOptions: {
-          radius: [16, 32],
-          sides: 5,
-        },
-      },
-      {
-        shape: "polygon",
-        move: ["diffuse", "rotate"],
-        easing: "easeOutExpo",
-        colors: ["#FFF"],
-        number: 3,
-        duration: [1200, 1800],
-        shapeOptions: {
-          radius: 20,
-          alpha: 0.5,
-          lineWidth: 6,
-          sides: 5,
-        },
-      },
-    ],
-  });
-}
-
-function initLozad() {
-  const el = document.querySelectorAll("img");
-  const observerLozad = lozad(el);
-  observerLozad.observe();
 }
