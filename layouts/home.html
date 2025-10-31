@@ -2,10 +2,13 @@
 <article class="article-main">
   <section>
     <p>
-      <img class="zoomable medium-zoom-image" loading="lazy" src="https://api.illlights.com/v1/img" title="Random Image"
-        alt="Random Image" />
+      <a class="fancybox" href="https://api.illlights.com/v1/img" itemscope itemtype="http://schema.org/ImageObject"
+        itemprop="url" data-fancybox="default" title="Random Image" data-caption="Random Image"><img
+          data-src="https://api.illlights.com/v1/img" alt="Random Image" src="https://api.illlights.com/v1/img"></a>
     <h1>
-      <i class="fas fa-hashtag"></i>&nbsp;{{ .Title }}<sup><span id="busuanzi_value_page_pv">null</span></sup>
+      <i class="fas fa-hashtag"></i>&nbsp;{{ .Title }}<sup id="busuanzi_value_page_pv"></sup>
+      <a class="post-edit-link" href="{{ .Site.Params.contentEdit }}{{ with .File }}{{ .Path }}{{ end }}"
+        rel="external nofollow noreferrer" title="编辑" target="_blank"><i class="fas fa-pencil-alt"></i></a>
     </h1>
     </p>
   </section>

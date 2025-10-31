@@ -1,36 +1,20 @@
 {{ define "main" }}
 <article class="article-main">
-  <h1>
-    <i class="fas fa-hashtag"></i>&nbsp;{{ .Title }}<sup
-      ><span id="busuanzi_value_page_pv">null</span></sup
-    >
-  </h1>
+  {{ partial "h1.html" . }}
   {{ .Content }}
   <div class="content teams">
     {{ $defaultAuthor := .Site.Params.ogImage | absURL }} {{ range
     .Site.Data.teams }}
     <div class="item">
       {{ if .avatar }}
-      <img
-        loading="lazy"
-        src="{{ .avatar | absURL }}"
-        alt="{{ .author }}"
-        title="{{ .author }}"
-      />
+      <img src="{{ .avatar | absURL }}" alt="{{ .author }}" title="{{ .author }}" />
       {{ else }}
-      <img
-        loading="lazy"
-        src="{{ $defaultAuthor }}"
-        alt="{{ .author }}"
-        title="{{ .author }}"
-      />
+      <img src="{{ $defaultAuthor }}" alt="{{ .author }}" title="{{ .author }}" />
       {{ end }}
       <section>
         <p>
           {{ if .url }}
-          <a href="{{ .url }}" target="_blank"
-            ><strong>{{ .author }}</strong></a
-          >
+          <a href="{{ .url }}" target="_blank"><strong>{{ .author }}</strong></a>
           {{ else }} {{ if .author }}
           <strong>{{ .author }}</strong>
           {{ else }}

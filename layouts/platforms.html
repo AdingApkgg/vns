@@ -1,9 +1,9 @@
 {{ define "main" }} {{ $taxonomyObject := .Site.Taxonomies.categories }}
 <article class="article-main">
   <h1>
-    <i class="fa fa-hashtag"></i>&nbsp;平台<sup
-      ><span id="busuanzi_value_page_pv">null</span></sup
-    >
+    <i class="fa fa-hashtag"></i>&nbsp;平台<sup id="busuanzi_value_page_pv"></sup><a class="post-edit-link"
+      href="{{ .Site.Params.contentEdit }}{{ with .File }}{{ .Path }}{{ end }}"
+      rel="external nofollow noreferrer" title="编辑" target="_blank"><i class="fas fa-pencil-alt"></i></a>
   </h1>
   <div class="content">{{ .Content }}</div>
   <ul class="taxonomy">

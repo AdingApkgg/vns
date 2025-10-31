@@ -8,7 +8,7 @@ timezone = "Asia/Shanghai"
 [module]
 [module.hugoVersion]
 extended = true
-min = "0.152.0"
+min = "0.152.2"
 
 [caches]
 [caches.assets]
@@ -157,6 +157,7 @@ mainSections = ["p"]
 defaultAuthor = "Asuna"
 ogImage = "img/logo.svg"
 logo = "/img/logo.svg"
+contentEdit = "https://github.com/AdingApkgg/vns/edit/dev/content/"
 
 paginate = 10
 paginatePath = "page"

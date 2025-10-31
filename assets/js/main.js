@@ -3,7 +3,9 @@ function initializePage() {
   initMenuToggle();
   lunar();
   initScrollEffects();
-  initMediumZoom();
+  initLozad();
+  mouseFirework();
+  Fancybox.bind("[data-fancybox]");
   rv();
   initValine();
   initSearch();
@@ -43,6 +45,46 @@ var time = null,
       : hideLoader();
   };
 loaderEl.addEventListener("click", endLoading);
+
+function mouseFirework() {
+  firework({
+    excludeElements: [],
+    particles: [
+      {
+        shape: "polygon",
+        move: ["emit", "rotate"],
+        easing: "easeOutExpo",
+        colors: ["#ff324a", "#31ffa6", "#206eff", "#ffff99"],
+        number: 30,
+        duration: [1200, 1800],
+        shapeOptions: {
+          radius: [16, 32],
+          sides: 5,
+        },
+      },
+      {
+        shape: "polygon",
+        move: ["diffuse", "rotate"],
+        easing: "easeOutExpo",
+        colors: ["#FFF"],
+        number: 3,
+        duration: [1200, 1800],
+        shapeOptions: {
+          radius: 20,
+          alpha: 0.5,
+          lineWidth: 6,
+          sides: 5,
+        },
+      },
+    ],
+  });
+}
+
+function initLozad() {
+  const el = document.querySelectorAll("img");
+  const observerLozad = lozad(el);
+  observerLozad.observe();
+}
 
 function bszRe() {
   bszCaller.fetch(
@@ -92,14 +134,6 @@ function initSearch() {
   if (document.querySelector("#search")) {
     new PagefindUI({ element: "#search", showSubResults: false });
   }
-}
-
-function initMediumZoom() {
-  mediumZoom(".zoomable", {
-    margin: 0,
-    background: "transparent",
-    scrollOffset: 20,
-  });
 }
 
 function initGalPopup() {
@@ -1249,7 +1283,6 @@ function fetchDLS() {
           cover.src = item.cover;
           cover.alt = item.title;
           cover.title = item.title;
-          cover.loading = "lazy";
           itemDiv.appendChild(cover);
 
           const title = document.createElement("h2");

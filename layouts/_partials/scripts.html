@@ -8,11 +8,11 @@
       "header",
       "footer",
     ],
-    linkSelector: "a[href]:not([data-no-swup])",
+    linkSelector: "a[href]:not([data-no-swup], [data-fancybox])",
   });
 
-  // var meting_api =
-  //   "https://meting.qjqq.cn/?server=:server&type=:type&id=:id&auth=:auth&r=:r";
+  var meting_api =
+    "https://meting.qjqq.cn/?server=:server&type=:type&id=:id&auth=:auth&r=:r";
 </script>
 {{ partialCached "head/js.html" . }}
 <button id="menuToggle" title="Menu Toggle"><i class="fa fa-bars"></i></button>
@@ -23,6 +23,16 @@
 <script
   src="https://registry.npmmirror.com/instant.page/latest/files/instantpage.js"
   type="module"
+></script>
+<script
+  defer
+  src="/js/mouse-firework/dist/index.umd.js"
+  fetchpriority="low"
+></script>
+<script
+  defer
+  src="https://registry.npmmirror.com/@fancyapps/ui/latest/files/dist/fancybox/fancybox.umd.js"
+  fetchpriority="low"
 ></script>
 <script
   async
@@ -54,9 +64,4 @@
   defer
   src="https://registry.npmmirror.com/meting/latest/files/dist/Meting.min.js"
   fetchpriority="low"
-></script>
-<script
-  defer
-  src="https://registry.npmmirror.com/medium-zoom/latest/files/dist/medium-zoom.min.js"
-  fetchpriority="high"
 ></script>
