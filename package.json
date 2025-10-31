@@ -9,11 +9,11 @@
     "server": "hexo server"
   },
   "hexo": {
-    "version": "8.0.0"
+    "version": "8.1.1"
   },
   "dependencies": {
     "@upupming/hexo-renderer-markdown-it-plus": "^2.0.2",
-    "hexo": "^8.0.0",
+    "hexo": "^8.1.1",
     "hexo-abbrlink": "^2.2.1",
     "hexo-all-minifier": "^0.5.7",
     "hexo-deployer-git": "^4.0.0",
