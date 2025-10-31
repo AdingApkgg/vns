@@ -27,7 +27,7 @@
 <link
   rel="stylesheet"
   href="https://registry.npmmirror.com/weblive2d/latest/files/waifu.css"
-  importance="low"
+  fetchpriority="low"
 />
 {{ partialCached "head/css.html" . }}
 <script>
@@ -41,7 +41,12 @@
 <script src="https://registry.npmmirror.com/js-asuna/latest/files/js/bsz.pure.mini.js"></script>
 <script
   src="https://registry.npmmirror.com/swup/latest/files/dist/Swup.umd.js"
-  importance="high"
+  fetchpriority="high"
+></script>
+<script
+  async
+  src="https://registry.npmmirror.com/vue/latest/files/dist/vue.esm-browser.prod.js"
+  fetchpriority="high"
 ></script>
 <link
   rel="stylesheet"
@@ -55,23 +60,23 @@
 />
 <script
   src="https://registry.npmmirror.com/sweetalert2/latest/files/dist/sweetalert2.all.min.js"
-  importance="high"
+  fetchpriority="high"
 ></script>
 <script
   src="https://registry.npmmirror.com/quicklink/latest/files/dist/quicklink.umd.js"
-  importance="high"
+  fetchpriority="high"
 ></script>
 <script
   async
   src="https://registry.npmmirror.com/pace-js/latest/files/pace.min.js"
-  importance="high"
+  fetchpriority="high"
 ></script>
 <link
   rel="stylesheet"
   href="https://registry.npmmirror.com/pace-js/latest/files/themes/blue/pace-theme-flash.css"
-  importance="high"
+  fetchpriority="high"
 />
-<link rel="stylesheet" href="/pagefind/pagefind-ui.css" importance="high" />
-<script src="/pagefind/pagefind-ui.js" importance="high"></script>
+<link rel="stylesheet" href="/pagefind/pagefind-ui.css" fetchpriority="high" />
+<script src="/pagefind/pagefind-ui.js" fetchpriority="high"></script>
 <script src="//registry.npmmirror.com/leancloud-storage/latest/files/dist/av-min.js"></script>
 <script src="//registry.npmmirror.com/valine/latest/files/dist/Valine.min.js"></script>
