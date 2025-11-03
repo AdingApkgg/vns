@@ -9,6 +9,7 @@ function initializePage() {
   rv();
   initValine();
   initSearch();
+  shortcutKey();
   fetchDLS();
   quicklink.listen({ priority: true });
   endLoading();
@@ -211,6 +212,43 @@ function rv() {
         });
     });
   }
+}
+
+function shortcutKey() {
+  document.addEventListener("keydown", (e) => {
+    if ((e.ctrlKey || e.metaKey) && e.key === "k") {
+      e.preventDefault();
+      swup.navigate("/search/");
+    }
+    if ((e.ctrlKey || e.metaKey) && e.key === "h") {
+      e.preventDefault();
+      swup.navigate("/");
+    }
+    if ((e.ctrlKey || e.metaKey) && e.key === "d") {
+      e.preventDefault();
+      swup.navigate("/docs/");
+    }
+    if ((e.ctrlKey || e.metaKey) && e.key === "t") {
+      e.preventDefault();
+      swup.navigate("/tags/");
+    }
+    if ((e.ctrlKey || e.metaKey) && e.key === "p") {
+      e.preventDefault();
+      swup.navigate("/platforms/");
+    }
+    if ((e.ctrlKey || e.metaKey) && e.key === "c") {
+      e.preventDefault();
+      swup.navigate("/comments/");
+    }
+    if ((e.ctrlKey || e.metaKey) && e.key === "l") {
+      e.preventDefault();
+      swup.navigate("/links/");
+    }
+    if ((e.ctrlKey || e.metaKey) && e.key === "a") {
+      e.preventDefault();
+      swup.navigate("/about/");
+    }
+  });
 }
 
 function initValine() {

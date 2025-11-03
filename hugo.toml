@@ -134,6 +134,18 @@ name = '捐赠'
 pageRef = '/donate'
 weight = 16
 pre = "fa fa-hand-holding-dollar"
+[[menus.main]]
+identifier = "links"
+name = '友链'
+pageRef = '/links'
+weight = 17
+pre = "fa fa-link"
+[[menus.main]]
+identifier = "ads"
+name = '广告'
+pageRef = '/ads'
+weight = 18
+pre = "fa fa-rectangle-ad"
 
 [markup]
 defaultMarkdownHandler = "goldmark"
