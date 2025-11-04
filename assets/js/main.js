@@ -10,6 +10,8 @@ function initializePage() {
   initValine();
   initSearch();
   shortcutKey();
+  langCode();
+  initClipboard();
   fetchDLS();
   quicklink.listen({ priority: true });
   endLoading();
@@ -249,6 +251,46 @@ function shortcutKey() {
       swup.navigate("/about/");
     }
   });
+}
+
+function langCode() {
+  document.querySelectorAll(".highlight pre code").forEach((block) => {
+    const lang = block.getAttribute("data-lang") || "code";
+    const corner = document.createElement("span");
+    corner.textContent = lang;
+    corner.style = `
+    position: absolute;
+    bottom: 8px; right: 32px;
+    font-size: 12px;
+    color: #89b4fa;
+    font-family: monospace;
+    pointer-events: none;
+    z-index: 1;
+  `;
+    block.parentElement.style.position = "relative";
+    block.parentElement.appendChild(corner);
+  });
+}
+
+function initClipboard() {
+  const highlightDiv = document.querySelector("div.highlight");
+  if (highlightDiv) {
+    (() => {
+      document.querySelectorAll("pre code").forEach((code) => {
+        const btn = document.createElement("button");
+        btn.className = "copy-btn";
+        btn.dataset.clipboardText = code.textContent.trim();
+        btn.innerHTML = "📋";
+        code.parentNode.style.position = "relative";
+        code.parentNode.appendChild(btn);
+      });
+
+      new ClipboardJS(".copy-btn").on("success", (e) => {
+        e.trigger.innerHTML = "✓";
+        setTimeout(() => (e.trigger.innerHTML = "📋"), 1500);
+      });
+    })();
+  }
 }
 
 function initValine() {
