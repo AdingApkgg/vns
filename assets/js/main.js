@@ -218,35 +218,35 @@ function rv() {
 
 function shortcutKey() {
   document.addEventListener("keydown", (e) => {
-    if ((e.ctrlKey || e.metaKey) && e.key === "k") {
+    if (e.ctrlKey && e.key === "k") {
       e.preventDefault();
       swup.navigate("/search/");
     }
-    if ((e.ctrlKey || e.metaKey) && e.key === "h") {
+    if (e.ctrlKey && e.key === "h") {
       e.preventDefault();
       swup.navigate("/");
     }
-    if ((e.ctrlKey || e.metaKey) && e.key === "d") {
+    if (e.ctrlKey && e.key === "d") {
       e.preventDefault();
       swup.navigate("/docs/");
     }
-    if ((e.ctrlKey || e.metaKey) && e.key === "t") {
+    if (e.ctrlKey && e.key === "t") {
       e.preventDefault();
       swup.navigate("/tags/");
     }
-    if ((e.ctrlKey || e.metaKey) && e.key === "p") {
+    if (e.ctrlKey && e.key === "p") {
       e.preventDefault();
       swup.navigate("/platforms/");
     }
-    if ((e.ctrlKey || e.metaKey) && e.key === "c") {
+    if (e.ctrlKey && e.key === "c") {
       e.preventDefault();
       swup.navigate("/comments/");
     }
-    if ((e.ctrlKey || e.metaKey) && e.key === "l") {
+    if (e.ctrlKey && e.key === "l") {
       e.preventDefault();
       swup.navigate("/links/");
     }
-    if ((e.ctrlKey || e.metaKey) && e.key === "a") {
+    if (e.ctrlKey && e.key === "a") {
       e.preventDefault();
       swup.navigate("/about/");
     }
