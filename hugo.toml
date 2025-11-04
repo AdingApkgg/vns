@@ -4,6 +4,7 @@ defaultContentLanguage = "zh"
 defaultContentLanguageInSubdir = false
 title = 'VNS'
 timezone = "Asia/Shanghai"
+enableRobotsTXT = true
 
 [module]
 [module.hugoVersion]
@@ -163,6 +164,7 @@ ordered = true
 
 [params]
 subtitle = 'Visual Novel'
+description = "Visual Novel"
 summaryLength = 100
 date_format = "1970年01月01日"
 mainSections = ["p"]
@@ -188,3 +190,16 @@ enabled = true
 [params.comments]
 enabled = true
 provider = "valine"
+
+[mediaTypes]
+  [mediaTypes."text/llms"]
+    suffixes = ["txt"]
+
+[outputFormats.LLMS]
+  mediaType = "text/llms"
+  baseName = "llms"
+  isPlainText = true
+  permalinkable = false
+
+[outputs]
+  home = ["HTML", "RSS", "LLMS"]
