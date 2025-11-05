@@ -46,6 +46,13 @@ scheme: Gemini
 # Dark Mode
 darkmode: true
 
+# Light-Dark Mode
+lightdark:
+  enable: false
+  # Add @supports (color: light-dark(red, red)) check
+  check_supports: true
+
+
 # ---------------------------------------------------------------
 # Site Information Settings
 # ---------------------------------------------------------------
