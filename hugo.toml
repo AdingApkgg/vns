@@ -1,40 +1,11 @@
 baseURL = 'https://vns.saop.cc/'
-languageCode = 'zh'
 defaultContentLanguage = "zh"
 defaultContentLanguageInSubdir = false
 title = 'VNS'
 timezone = "Asia/Shanghai"
 enableRobotsTXT = true
 
-[module]
-[module.hugoVersion]
-extended = true
-min = "0.152.2"
-
-[caches]
-[caches.assets]
-dir = ':resourceDir/_gen'
-maxAge = -1
-[caches.getcsv]
-dir = ':cacheDir/:project'
-maxAge = -1
-[caches.getjson]
-dir = ':cacheDir/:project'
-maxAge = -1
-[caches.getresource]
-dir = ':cacheDir/:project'
-maxAge = -1
-[caches.images]
-dir = ':cacheDir/images'
-maxAge = -1
-[caches.misc]
-dir = ':cacheDir/:project'
-maxAge = -1
-[caches.modules]
-dir = ':cacheDir/modules'
-maxAge = -1
-
-contentDir = 'content'
+contentDir = "content"
 languageName = "简体中文"
 languageDirection = "ltr"
 languageCode = "zh"
@@ -148,14 +119,12 @@ pageRef = '/ads'
 weight = 18
 pre = "fa fa-rectangle-ad"
 
-[markup]
-defaultMarkdownHandler = "goldmark"
 [markup.goldmark.renderer]
 unsafe = true
 hardWraps = true
 [markup.goldmark.extensions.cjk]
-eastAsianLineBreaks = true
 enable = true
+eastAsianLineBreaks = true
 escapedSpace = true
 [markup.tableOfContents]
 startLevel = 2
@@ -192,14 +161,14 @@ enabled = true
 provider = "valine"
 
 [mediaTypes]
-  [mediaTypes."text/llms"]
-    suffixes = ["txt"]
+[mediaTypes."text/llms"]
+suffixes = ["txt"]
 
 [outputFormats.LLMS]
-  mediaType = "text/llms"
-  baseName = "llms"
-  isPlainText = true
-  permalinkable = false
+mediaType = "text/llms"
+baseName = "llms"
+isPlainText = true
+permalinkable = false
 
 [outputs]
-  home = ["HTML", "RSS", "LLMS"]
+home = ["HTML", "RSS", "LLMS"]
