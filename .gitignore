@@ -1,5 +1,8 @@
-.history/
-public/
-resources/
+.history
+public
+resources
 .DS_Store
 .hugo_build.lock
+node_modules
+db.json
+package-lock.json
