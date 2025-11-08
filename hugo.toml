@@ -60,7 +60,7 @@ pageRef = '/tags'
 weight = 6
 pre = "fa fa-tags"
 
-[[menus.main]]
+[[menus.footer]]
 identifier = "about"
 name = '关于'
 pageRef = '/about'
@@ -88,21 +88,21 @@ pageRef = '/dls'
 weight = 10
 pre = "fa fa-download"
 
-[[menus.main]]
+[[menus.footer]]
 identifier = "teams"
 name = '团队'
 pageRef = '/teams'
 weight = 11
 pre = "fa fa-people-group"
 
-[[menus.main]]
+[[menus.footer]]
 identifier = "cloud"
 name = '云盘'
 url = 'https://cloud.saop.cc/'
 weight = 12
 pre = "fa fa-cloud"
 
-[[menus.main]]
+[[menus.footer]]
 identifier = "drive"
 name = '网盘'
 url = 'https://drive.saop.cc/'
@@ -116,35 +116,35 @@ pageRef = '/live'
 weight = 14
 pre = "fa fa-gamepad"
 
-[[menus.main]]
+[[menus.footer]]
 identifier = "post"
 name = '投稿'
 url = 'mailto:i@saop.cc?subject=资源投稿《xxxx》&body=这里填写你要发布的内容..'
 weight = 15
 pre = "fa fa-pen"
 
-[[menus.main]]
+[[menus.footer]]
 identifier = "donate"
 name = '捐赠'
 pageRef = '/donate'
 weight = 16
 pre = "fa fa-hand-holding-dollar"
 
-[[menus.main]]
+[[menus.footer]]
 identifier = "links"
 name = '友链'
 pageRef = '/links'
 weight = 17
 pre = "fa fa-link"
 
-[[menus.main]]
+[[menus.footer]]
 identifier = "feedback"
 name = '问卷'
 pageRef = '/feedback'
 weight = 18
 pre = "fa fa-file-lines"
 
-[[menus.main]]
+[[menus.footer]]
 identifier = "ads"
 name = '广告'
 pageRef = '/ads'

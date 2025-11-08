@@ -175,6 +175,9 @@ footer {
     color: var(--text-color);
     text-align: center;
     font-weight: bold;
+    a {
+      display: inline-block;
+    }
   }
 }
 

@@ -1,12 +1,20 @@
 <nav>
-  <a href="{{ .Site.BaseURL }}"><img src="{{ .Site.Params.logo }}" alt="Logo" id="logo" /></a>
+  <a href="{{ .Site.BaseURL }}"
+    ><img src="{{ .Site.Params.logo }}" alt="Logo" id="logo"
+  /></a>
   <h2>{{ .Site.Title }}</h2>
   <p>{{ .Site.Params.subtitle }}</p>
   {{ range .Site.Menus.main }}
-  <a href="{{ .URL }}" id="item-{{ .Identifier }}"><i class="{{ .Pre }}"></i>&nbsp;{{ .Name }}</a>
+  <a href="{{ .URL }}" id="item-{{ .Identifier }}"
+    ><i class="{{ .Pre }}"></i>&nbsp;{{ .Name }}</a
+  >
   {{ end }} {{ with images.QR $.Permalink (dict "level" "low" "scale" 2
   "targetDir" "img") }}
-  <img src="{{ .RelPermalink }}" alt="QR code linking to {{ $.Permalink }}" class="qr-code"
-    onclick="window.open('{{ .RelPermalink }}', '_blank')" />
+  <img
+    src="{{ .RelPermalink }}"
+    alt="QR code linking to {{ $.Permalink }}"
+    class="qr-code"
+    onclick="window.open('{{ .RelPermalink }}', '_blank')"
+  />
   {{ end }}
 </nav>
