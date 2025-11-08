@@ -1,7 +1,22 @@
 <p>
-  <i class="fa fa-copyright"></i>&nbsp;2024 ~ {{ time.Now.Year }}&nbsp;<i class="fa fa-heart"></i>&nbsp;{{
-  .Site.Params.defaultAuthor }}&nbsp;<i class="fa fa-scale-balanced"></i>&nbsp;<a target="_blank"
-    href="https://github.com/AdingApkgg/vns/blob/dev/LICENSE">MIT</a>
+  {{ range .Site.Menus.footer }}
+  <a href="{{ .URL }}" id="item-{{ .Identifier }}"
+    ><i class="{{ .Pre }}"></i>&nbsp;{{ .Name }}</a
+  >
+  {{ end }}
+</p>
+<p>
+  <i class="fa fa-copyright"></i>&nbsp;2024 ~ {{ time.Now.Year }}&nbsp;<i
+    class="fa fa-heart"
+  ></i
+  >&nbsp;{{ .Site.Params.defaultAuthor }}&nbsp;<i
+    class="fa fa-scale-balanced"
+  ></i
+  >&nbsp;<a
+    target="_blank"
+    href="https://github.com/AdingApkgg/vns/blob/dev/LICENSE"
+    >MIT</a
+  >
 </p>
 <p>
   使用
@@ -9,6 +24,8 @@
   <a target="_blank" href="https://go.dev/">{{ hugo.GoVersion }}</a> 构建
 </p>
 <p>
-  <i class="fa fa-eye"></i>&nbsp;<span id="busuanzi_value_site_pv">null</span>&nbsp;<i
-    class="fa fa-user"></i>&nbsp;<span id="busuanzi_value_site_uv">null</span>
+  <i class="fa fa-eye"></i>&nbsp;<span id="busuanzi_value_site_pv">null</span
+  >&nbsp;<i class="fa fa-user"></i>&nbsp;<span id="busuanzi_value_site_uv"
+    >null</span
+  >
 </p>
