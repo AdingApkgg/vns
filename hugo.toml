@@ -116,10 +116,10 @@ pageRef = '/live'
 weight = 14
 pre = "fa fa-gamepad"
 
-[[menus.footer]]
+[[menus.main]]
 identifier = "post"
 name = '投稿'
-url = 'mailto:i@saop.cc?subject=资源投稿《xxxx》&body=这里填写你要发布的内容..'
+pageRef = '/post'
 weight = 15
 pre = "fa fa-pen"
 
