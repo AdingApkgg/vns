@@ -9,6 +9,11 @@
       "footer",
     ],
     linkSelector: "a[href]:not([data-no-swup], [data-fancybox])",
+    plugins: [
+      new SwupParallelPlugin(),
+      new SwupPreloadPlugin(),
+      new SwupScrollPlugin(),
+    ],
   });
 
   var meting_api =
@@ -26,7 +31,7 @@
 ></script>
 <script
   defer
-  src="/js/mouse-firework/dist/index.umd.js"
+  src="https://registry.npmmirror.com/mouse-firework/latest/files/dist/index.umd.js"
   fetchpriority="low"
 ></script>
 <script

@@ -3,7 +3,7 @@ title = "薇尔莉特·伊芙加登の留言板"
 postmeta = false
 +++
 
-![violet](https://tuchuang.voooe.cn/images/2023/01/02/violet.webp)
+![violet](/img/violet.webp)
 
 来自 **薇尔莉特** 的留言：
 
