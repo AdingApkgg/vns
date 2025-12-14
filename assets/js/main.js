@@ -217,39 +217,52 @@ function rv() {
 }
 
 function shortcutKey() {
+  const routes = {
+    h: "/",
+    d: "/docs/",
+    t: "/tags/",
+    p: "/platforms/",
+    c: "/comments/",
+    l: "/links/",
+    a: "/about/",
+    "/": "/search/",
+  };
+
+  const pressed = new Set();
+  let triggered = false;
+
   document.addEventListener("keydown", (e) => {
-    if (e.ctrlKey && e.key === "k") {
-      e.preventDefault();
-      swup.navigate("/search/");
+    const el = e.target;
+
+    if (
+      el.tagName === "INPUT" ||
+      el.tagName === "TEXTAREA" ||
+      el.isContentEditable
+    ) {
+      return;
     }
-    if (e.ctrlKey && e.key === "h") {
+
+    const key = e.key.toLowerCase();
+    pressed.add(key);
+
+    if (triggered) return;
+
+    if (pressed.has("v") && key !== "v" && routes[key]) {
       e.preventDefault();
-      swup.navigate("/");
+
+      triggered = true;
+
+      const target = routes[key];
+      if (window.location.pathname !== target) {
+        swup.navigate(target);
+      }
     }
-    if (e.ctrlKey && e.key === "d") {
-      e.preventDefault();
-      swup.navigate("/docs/");
-    }
-    if (e.ctrlKey && e.key === "t") {
-      e.preventDefault();
-      swup.navigate("/tags/");
-    }
-    if (e.ctrlKey && e.key === "p") {
-      e.preventDefault();
-      swup.navigate("/platforms/");
-    }
-    if (e.ctrlKey && e.key === "c") {
-      e.preventDefault();
-      swup.navigate("/comments/");
-    }
-    if (e.ctrlKey && e.key === "l") {
-      e.preventDefault();
-      swup.navigate("/links/");
-    }
-    if (e.ctrlKey && e.key === "a") {
-      e.preventDefault();
-      swup.navigate("/about/");
-    }
+  });
+
+  document.addEventListener("keyup", (e) => {
+    pressed.delete(e.key.toLowerCase());
+
+    triggered = false;
   });
 }
 
