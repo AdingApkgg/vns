@@ -5,15 +5,16 @@ Visual Novel
 ## 最新文章
 
 - [快捷键速查](https://vns.saop.cc/docs/%E5%BF%AB%E6%8D%B7%E9%94%AE%E9%80%9F%E6%9F%A5/) — 本文档列出了本站定制的快捷键，方便用户快速使用本站功能。
-Ctrl + K = 搜索
-Ctrl + H = 首页
-Ctrl + D = 文档
-Ctrl + T = 标签
-Ctrl + P = 平台
-Ctrl + C = 评论
-Ctrl + L = 友链
-Ctrl + A = 关于
-试试看，会让你浏览 …
+V + / = 搜索
+V + H = 首页
+V + D = 文档
+V + T = 标签
+V + P = 平台
+V + C = 评论
+V + L = 友链
+V + A = 关于
+试试看，会让你浏览像风一样轻～
+
 
 - [梦幻的提尔纳诺／夢幻のティル・ナ・ノーグ／Mugen no Tír na nÓg](https://vns.saop.cc/p/39994/) — 
 《梦幻的提尔纳诺》（日语：夢幻のティル・ナ・ノーグ）是由あざらしそふと＋１制作发行的一款Galgame，于2024年12月20日发售。
