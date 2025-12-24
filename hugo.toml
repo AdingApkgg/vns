@@ -88,67 +88,74 @@ pageRef = '/dls'
 weight = 10
 pre = "fa fa-download"
 
+[[menus.main]]
+identifier = "rank"
+name = '排行'
+pageRef = '/rank'
+weight = 11
+pre = "fa fa-ranking-star"
+
 [[menus.footer]]
 identifier = "teams"
 name = '团队'
 pageRef = '/teams'
-weight = 11
+weight = 12
 pre = "fa fa-people-group"
 
 [[menus.footer]]
 identifier = "cloud"
 name = '云盘'
 url = 'https://cloud.saop.cc/'
-weight = 12
+weight = 13
 pre = "fa fa-cloud"
 
 [[menus.footer]]
 identifier = "drive"
 name = '网盘'
 url = 'https://drive.saop.cc/'
-weight = 13
+weight = 14
 pre = "fa fa-hard-drive"
 
 [[menus.main]]
 identifier = "live"
 name = '云游'
 pageRef = '/live'
-weight = 14
+weight = 15
 pre = "fa fa-gamepad"
 
 [[menus.main]]
 identifier = "post"
 name = '投稿'
 pageRef = '/post'
-weight = 15
+weight = 16
 pre = "fa fa-pen"
 
 [[menus.footer]]
 identifier = "donate"
 name = '捐赠'
 pageRef = '/donate'
-weight = 16
+weight = 17
 pre = "fa fa-hand-holding-dollar"
 
 [[menus.footer]]
 identifier = "links"
 name = '友链'
 pageRef = '/links'
-weight = 17
+weight = 18
 pre = "fa fa-link"
 
 [[menus.footer]]
 identifier = "feedback"
 name = '问卷'
 pageRef = '/feedback'
-weight = 18
+weight = 19
 pre = "fa fa-file-lines"
 
 [[menus.footer]]
 identifier = "ads"
 name = '广告'
 pageRef = '/ads'
-weight = 19
+weight = 20
 pre = "fa fa-rectangle-ad"
 
 [markup.goldmark.renderer]
