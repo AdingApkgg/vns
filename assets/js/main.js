@@ -13,6 +13,7 @@ function initializePage() {
   langCode();
   initClipboard();
   fetchDLS();
+  initRankPage();
   quicklink.listen({ priority: true });
   endLoading();
 }
@@ -225,6 +226,7 @@ function shortcutKey() {
     c: "/comments/",
     l: "/links/",
     a: "/about/",
+    r: "/rank/",
     "/": "/search/",
   };
 
@@ -1419,3 +1421,202 @@ function fetchDLS() {
       });
   }
 }
+
+// 排行榜功能
+function initRankPage() {
+  if (!document.querySelector(".content.rank")) {
+    return;
+  }
+
+  let currentType = "views";
+  let currentDays = 30;
+
+  const rankContent = document.getElementById("rank-content");
+  const daysSelect = document.getElementById("days-select");
+  const tabs = document.querySelectorAll(".rank-tab");
+
+  // 切换标签
+  tabs.forEach((tab) => {
+    tab.addEventListener("click", () => {
+      tabs.forEach((t) => t.classList.remove("active"));
+      tab.classList.add("active");
+      currentType = tab.dataset.type;
+      fetchRankData();
+    });
+  });
+
+  // 切换时间范围
+  if (daysSelect) {
+    daysSelect.addEventListener("change", () => {
+      currentDays = parseInt(daysSelect.value);
+      fetchRankData();
+    });
+  }
+
+  // 获取排行榜数据
+  function fetchRankData() {
+    rankContent.innerHTML = '<div class="loading"><i class="fas fa-spinner fa-spin"></i> 加载中...</div>';
+
+    const apiUrl = `https://rp.30hb.cn/?target=https://inarigal.com/api/ranking/${currentType}?days=${currentDays}`;
+
+    fetch(apiUrl)
+      .then((response) => {
+        if (!response.ok) {
+          throw new Error("网络响应失败");
+        }
+        return response.json();
+      })
+      .then((result) => {
+        if (result.success && result.data) {
+          renderRankList(result.data);
+        } else {
+          throw new Error("数据格式错误");
+        }
+      })
+      .catch((error) => {
+        console.error("获取排行榜数据失败:", error);
+        rankContent.innerHTML =
+          '<div class="error"><i class="fas fa-exclamation-circle"></i> 加载数据失败，请稍后重试</div>';
+      });
+  }
+
+  // 渲染排行榜列表
+  function renderRankList(data) {
+    if (!data || data.length === 0) {
+      rankContent.innerHTML =
+        '<div class="no-data"><i class="fas fa-inbox"></i><p>暂无排行数据</p></div>';
+      return;
+    }
+
+    const listDiv = document.createElement("div");
+    listDiv.className = "rank-list";
+
+    data.forEach((item, index) => {
+      const rank = index + 1;
+      const itemDiv = document.createElement("div");
+      itemDiv.className = `rank-item ${rank <= 3 ? `top-${rank}` : ""}`;
+
+      // 创建头部容器（用于移动端布局）
+      const headerDiv = document.createElement("div");
+      headerDiv.className = "rank-header";
+
+      // 排名
+      const rankNumber = document.createElement("div");
+      rankNumber.className = "rank-number";
+      if (rank === 1) {
+        rankNumber.innerHTML = '<i class="fas fa-crown"></i>';
+      } else if (rank === 2) {
+        rankNumber.innerHTML = '<i class="fas fa-medal"></i>';
+      } else if (rank === 3) {
+        rankNumber.innerHTML = '<i class="fas fa-award"></i>';
+      } else {
+        rankNumber.textContent = rank;
+      }
+      headerDiv.appendChild(rankNumber);
+
+      // 封面
+      if (item.cover_url) {
+        const cover = document.createElement("img");
+        cover.className = "rank-cover";
+        cover.src = item.cover_url;
+        cover.alt = item.title_cn || item.title_jp || "封面";
+        cover.loading = "lazy";
+        headerDiv.appendChild(cover);
+      }
+
+      // 信息
+      const infoDiv = document.createElement("div");
+      infoDiv.className = "rank-info";
+
+      const titleLink = document.createElement("a");
+      titleLink.className = "rank-title";
+      
+      // 优先显示中文标题，如果没有则显示日文
+      const displayTitle = item.title_cn || item.title_jp || "未知标题";
+      titleLink.textContent = displayTitle;
+      
+      // 如果有vndb_id，生成VNDB链接
+      if (item.vndb_id) {
+        titleLink.href = `https://vndb.org/${item.vndb_id}`;
+        titleLink.target = "_blank";
+        titleLink.rel = "noopener noreferrer";
+      } else {
+        titleLink.style.cursor = "default";
+        titleLink.style.textDecoration = "none";
+      }
+      infoDiv.appendChild(titleLink);
+
+      const metaDiv = document.createElement("div");
+      metaDiv.className = "rank-meta";
+
+      // 如果有日文标题且不同于中文标题，显示日文标题
+      if (item.title_jp && item.title_jp !== item.title_cn) {
+        const jpTitle = document.createElement("span");
+        jpTitle.className = "meta-item";
+        jpTitle.innerHTML = `<i class="fas fa-language"></i> ${item.title_jp}`;
+        metaDiv.appendChild(jpTitle);
+      }
+
+      // 开发商
+      if (item.developer_name) {
+        const developer = document.createElement("span");
+        developer.className = "meta-item";
+        developer.innerHTML = `<i class="fas fa-building"></i> ${item.developer_name}`;
+        metaDiv.appendChild(developer);
+      }
+
+      // VNDB ID
+      if (item.vndb_id) {
+        const vndbId = document.createElement("span");
+        vndbId.className = "meta-item";
+        vndbId.innerHTML = `<i class="fas fa-database"></i> ${item.vndb_id}`;
+        metaDiv.appendChild(vndbId);
+      }
+
+      infoDiv.appendChild(metaDiv);
+      headerDiv.appendChild(infoDiv);
+      
+      itemDiv.appendChild(headerDiv);
+
+      // 数值
+      const valueDiv = document.createElement("div");
+      valueDiv.className = "rank-value";
+
+      const valueNumber = document.createElement("div");
+      valueNumber.className = "value-number";
+      
+      // 根据类型获取相应的数值
+      const value = currentType === "views" 
+        ? parseInt(item.scan_count) || 0
+        : parseInt(item.download_count) || 0;
+      
+      valueNumber.textContent = formatNumber(value);
+      valueDiv.appendChild(valueNumber);
+
+      const valueLabel = document.createElement("div");
+      valueLabel.className = "value-label";
+      valueLabel.textContent = currentType === "views" ? "浏览" : "下载";
+      valueDiv.appendChild(valueLabel);
+
+      itemDiv.appendChild(valueDiv);
+      listDiv.appendChild(itemDiv);
+    });
+
+    rankContent.innerHTML = "";
+    rankContent.appendChild(listDiv);
+  }
+
+  // 格式化数字
+  function formatNumber(num) {
+    if (num >= 10000) {
+      return (num / 10000).toFixed(1) + "万";
+    } else if (num >= 1000) {
+      return (num / 1000).toFixed(1) + "k";
+    }
+    return num.toString();
+  }
+
+  // 初始加载
+  fetchRankData();
+}
+
