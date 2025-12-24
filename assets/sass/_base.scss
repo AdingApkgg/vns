@@ -302,17 +302,10 @@ blockquote {
 }
 
 #waifu {
-  left: 100%;
-  transform: translate(-100%, 3px);
-  &:hover {
-    transform: translate(-100%, 0);
-  }
-  #waifu-tips {
-    right: 0px;
-  }
+  left: unset;
+  right: 0;
   #waifu-tool {
-    left: -200px;
-    transform: none;
+    right: unset;
   }
 }
 
