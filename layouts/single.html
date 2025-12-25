@@ -7,9 +7,24 @@
   </h1>
   {{ if not (eq .Params.postmeta false) }}{{ partial "post-meta.html" . }} {{
   end }} {{ if (and (in .TableOfContents "li") (not (eq .Params.toc false))) }}
-  {{ .TableOfContents }} {{ end }}
+  <!-- 右侧滑入的 TOC -->
+  <div class="toc-trigger" id="toc-trigger">
+    <i class="fas fa-list-ul"></i>
+  </div>
+  <div class="toc-overlay" id="toc-overlay"></div>
+  <div class="toc-sidebar" id="toc-sidebar">
+    <div class="toc-header">
+      <span><i class="fas fa-list-ul"></i> 文章目录</span>
+      <button class="toc-close" id="toc-close"><i class="fas fa-times"></i></button>
+    </div>
+    <div class="toc-content">
+      {{ .TableOfContents }}
+    </div>
+  </div>
+  {{ end }}
   
-  <!-- AI 感想生成区域 -->
+  {{ if eq .Section "p" }}
+  <!-- AI 感想生成区域 - 仅在 /p/ 下显示 -->
   <div class="ai-review-section" id="ai-review">
     <div class="ai-review-header">
       <i class="fas fa-robot"></i>
@@ -26,9 +41,10 @@
     </div>
     <div class="ai-review-footer">
       <i class="fas fa-circle-info"></i>
-      <span>由 Ollama 的 qwen3:8b 模型提供 AI 支持</span>
+      <span>由 Ollama 的 Qwen3 8B 模型提供 AI 支持</span>
     </div>
   </div>
+  {{ end }}
   
   <div class="content" data-pagefind-body>{{ .Content }}</div>
   {{ partial "terms.html" (dict "taxonomy" "categories" "page" .) }} {{ partial

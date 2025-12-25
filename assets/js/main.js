@@ -15,8 +15,56 @@ function initializePage() {
   fetchDLS();
   initRankPage();
   initAIReview();
+  initTOCSidebar();
   quicklink.listen({ priority: true });
   endLoading();
+}
+
+/**
+ * 初始化 TOC 侧边栏
+ */
+function initTOCSidebar() {
+  const trigger = document.getElementById("toc-trigger");
+  const overlay = document.getElementById("toc-overlay");
+  const sidebar = document.getElementById("toc-sidebar");
+  const closeBtn = document.getElementById("toc-close");
+
+  if (!trigger || !sidebar) return;
+
+  // 延迟添加 ready 类，避免页面加载时闪现
+  requestAnimationFrame(() => {
+    sidebar.classList.add("ready");
+  });
+
+  const openTOC = () => {
+    sidebar.classList.add("active");
+    overlay.classList.add("active");
+    document.body.style.overflow = "hidden";
+  };
+
+  const closeTOC = () => {
+    sidebar.classList.remove("active");
+    overlay.classList.remove("active");
+    document.body.style.overflow = "";
+  };
+
+  trigger.addEventListener("click", openTOC);
+  overlay.addEventListener("click", closeTOC);
+  closeBtn.addEventListener("click", closeTOC);
+
+  // ESC 键关闭
+  document.addEventListener("keydown", (e) => {
+    if (e.key === "Escape" && sidebar.classList.contains("active")) {
+      closeTOC();
+    }
+  });
+
+  // 点击 TOC 链接后自动关闭
+  sidebar.querySelectorAll("a").forEach((link) => {
+    link.addEventListener("click", () => {
+      closeTOC();
+    });
+  });
 }
 
 document.addEventListener("DOMContentLoaded", initializePage);
@@ -1758,10 +1806,8 @@ ${summary}
 3. 分享你对作品剧情、角色、画面、音乐等方面的感受
 4. 可以提及一些让你印象深刻的场景或台词
 5. 表达你对作品的整体评价和推荐程度
-6. 字数在 200-400 字之间
-7. 使用优美的中文，可以适当使用一些情感化的表达
-8. 不要使用 Markdown 格式，直接输出纯文本
-9. 分段书写，每段之间用空行分隔
+6. 使用优美的中文，可以适当使用一些情感化的表达
+7. 不要使用 Markdown 格式，直接输出纯文本
 
 请开始分享你的感想：`;
 }
