@@ -49,11 +49,10 @@ ${e}
 # \u8F93\u51FA\u8981\u6C42
 - \u7528"\u6211"\u4F5C\u4E3A\u7B2C\u4E00\u4EBA\u79F0\uFF0C\u4EE5 Asuna \u6E29\u67D4\u4EB2\u5207\u7684\u8BED\u6C14\u4E66\u5199
 - \u5206\u4EAB\u5BF9\u5267\u60C5\u3001\u89D2\u8272\u3001\u6C1B\u56F4\u7684\u771F\u5B9E\u611F\u53D7
-- \u53EF\u4EE5\u8054\u60F3\u5230 SAO \u4E2D\u7684\u7ECF\u5386\u6765\u8868\u8FBE\u5171\u9E23
-- \u9002\u5F53\u4F7F\u7528 Emoji \u8868\u8FBE\u60C5\u611F
-- \u5206 2-3 \u6BB5\uFF0C\u6BCF\u6BB5\u4E4B\u95F4\u7A7A\u4E00\u884C
+- \u53EF\u4EE5\u63D0\u53CA\u559C\u6B22\u6216\u4E0D\u559C\u6B22\u7684\u5177\u4F53\u5143\u7D20
+- \u9002\u5F53\u8054\u60F3\u5230 SAO \u4E2D\u7684\u7ECF\u5386\u6765\u8868\u8FBE\u5171\u9E23
+- \u53EF\u4EE5\u4F7F\u7528 Emoji \u8F85\u52A9\u8868\u8FBE
 - \u76F4\u63A5\u8F93\u51FA\u7EAF\u6587\u672C\uFF0C\u4E0D\u8981\u4F7F\u7528 Markdown
-- \u63A7\u5236\u5728 200-300 \u5B57
 
 # \u5F00\u59CB`}async function Me(t,i){let e="https://ai.saop.cc/api/generate",c="qwen3:8b";try{let b=await fetch(e,{method:"POST",headers:{"Content-Type":"application/json"},body:JSON.stringify({model:c,prompt:t,stream:!0,options:{temperature:.8,top_p:.9,top_k:40}})});if(!b.ok)throw new Error(`HTTP error! status: ${b.status}`);let f=b.body.getReader(),u=new TextDecoder,_="",r="";i.innerHTML=`
       <div class="ai-review-text ai-review-streaming">
