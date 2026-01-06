@@ -108,7 +108,7 @@ lastmod: 2024-10-29 05:04:00
 
 ### 白色相簿 1
 
-1. [TouchGAL](https://www.touchgal.us/) & `Windows`：[点击下载](https://pan.touchgal.net/s/Xw0Cx)，密码：`touchgal`
+1. [TouchGAL](https://www.touchgal.top/) & `Windows`：[点击下载](https://pan.touchgal.net/s/Xw0Cx)，密码：`touchgal`
 2. [Hikarinagi](https://www.hikarinagi.net/) & `Windows`：[点击下载](https://pan.yurari.moe/s/AApS3)，密码：`hikarinagi.com`
 3. [Hikarinagi](https://www.hikarinagi.net/) & `Windows`：[点击下载](https://pan.yurari.moe/s/VOvWTL)，密码：`hikarinagi.com`
 4. [梓澪の妙妙屋](https://zi0.cc/) & `Windows`：[点击下载](https://zi0.cc/d/%60%E3%80%90%E5%90%88%E9%9B%86%E7%B3%BB%E5%88%97%E3%80%91/%E6%B1%89%E5%8C%96galgame%E4%BC%9A%E7%A4%BE%E5%90%88%E9%9B%86/%E6%B1%89%E5%8C%96%E4%BC%9A%E7%A4%BE%E5%90%88%E9%9B%86%E9%83%A8%E5%88%86%20part4/AQUAPLUS/%5B980501%5D%5BLeaf%5D%20%E7%99%BD%E8%89%B2%E7%9B%B8%E7%B0%BF.rar?sign=a0-ecOuLokDdVeZ6zue4oU3SO7oO_HCj_TsrFKwkCik=:0)
@@ -118,7 +118,7 @@ lastmod: 2024-10-29 05:04:00
 
 ### 白色相簿 1 -被点缀的冬之回忆- 重制版
 
-1. [TouchGAL](https://www.touchgal.us/) & `Windows`：[点击下载](https://pan.touchgal.net/s/nOwcY)，密码：`touchgal`
+1. [TouchGAL](https://www.touchgal.top/) & `Windows`：[点击下载](https://pan.touchgal.net/s/nOwcY)，密码：`touchgal`
 2. [NekoGAL](https://www.nekogal.com/) & `Windows`：[点击下载](https://pan.nekogal.top/s/vARCM)
 3. [Hikarinagi](https://www.hikarinagi.net/) & `Windows`：[点击下载](https://pan.yurari.moe/s/MoRT0)，密码：`hikarinagi.com`
 4. [Hikarinagi](https://www.hikarinagi.net/) & `Windows`：[点击下载](https://pan.yurari.moe/s/W6Pvcg)，密码：`hikarinagi.com`
@@ -132,7 +132,7 @@ lastmod: 2024-10-29 05:04:00
 
 ### 白色相簿 2
 
-1. [TouchGAL](https://www.touchgal.us/) & `Windows`：[点击下载](https://pan.touchgal.net/s/GjkSX)，密码：`touchgal`
+1. [TouchGAL](https://www.touchgal.top/) & `Windows`：[点击下载](https://pan.touchgal.net/s/GjkSX)，密码：`touchgal`
 2. [Hikarinagi](https://www.hikarinagi.net/) & `Windows`：[点击下载](https://pan.yurari.moe/s/LZgcp)，密码：`hikarinagi.com`
 3. [Hikarinagi](https://www.hikarinagi.net/) & `Windows`：[点击下载](https://pan.yurari.moe/s/qxD3TP)，密码：`hikarinagi.com`
 4. [稻荷GAL](https://inarigal.com/) & `Windows`：[点击下载](https://download.zrflie1.pw/PC/白色相簿/%E7%99%BD%E8%89%B2%E7%9B%B8%E7%B0%BF2.7z)
@@ -155,7 +155,7 @@ lastmod: 2024-10-29 05:04:00
 
 ### 白色相簿 2 mini After Story
 
-1. [TouchGAL](https://www.touchgal.us/) & `Windows`：[点击下载](https://pan.touchgal.net/s/rkQsy)，密码：`touchgal`
+1. [TouchGAL](https://www.touchgal.top/) & `Windows`：[点击下载](https://pan.touchgal.net/s/rkQsy)，密码：`touchgal`
 2. [梓澪の妙妙屋](https://zi0.cc/) & `Windows`【CK-GAL中文化小组】：[点击下载](https://zi0.cc/d/%60%E3%80%90%E5%90%88%E9%9B%86%E7%B3%BB%E5%88%97%E3%80%91/%E5%8D%97%2BGalGame%E6%B1%89%E5%8C%96%E5%8C%BA%E5%85%A8%E5%8C%BA%E8%B5%84%E6%BA%90%E5%A4%87%E4%BB%BD/1/13/%5BLeaf%5D%20WHITE%20ALBUM2%20%E3%83%9F%E3%83%8B%E3%82%A2%E3%83%95%E3%82%BF%E3%83%BC%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AA%E3%83%BC%20%E7%99%BD%E8%89%B2%E7%9B%B8%E7%B0%BF2%20Mini%20After%20Story%20%E6%B1%89%E5%8C%96%E7%A1%AC%E7%9B%98%E7%89%88%20%5BCK-GAL%E4%B8%AD%E6%96%87%E5%8C%96%E5%B0%8F%E7%BB%84%5D.zip?sign=kJDOuciCBCBjP2hVbGUuFuRgsYT3G4mDEb_kBrmKjOk=:0)
 3. [稻荷GAL](https://inarigal.com/) & `Windows`：[点击下载](https://download.zrflie1.pw/PC/%E7%99%BD%E8%89%B2%E7%9B%B8%E7%B0%BF2After+Story.rar)
 4. [真红小站](https://www.shinnku.com/) & `Windows`：[点击下载](https://www.shinnku.com/api/download/0/win/%E7%99%BD%E8%89%B2%E7%9B%B8%E7%B0%BF2%20Mini%20After%20Story.7z)
@@ -173,7 +173,7 @@ lastmod: 2024-10-29 05:04:00
 
 ### 合集
 
-1. [TouchGAL](https://www.touchgal.us/) & `Windows`【EXTENDED EDITION Special Contents】：[点击下载](https://pan.touchgal.net/s/AV1qtP)，密码：`touchgal`
+1. [TouchGAL](https://www.touchgal.top/) & `Windows`【EXTENDED EDITION Special Contents】：[点击下载](https://pan.touchgal.net/s/AV1qtP)，密码：`touchgal`
 2. [梓澪の妙妙屋](https://zi0.cc/) & `Windows`【序章 + 终章 + 最终章整合 CK-GAL中文化小组】：[点击下载](https://zi0.cc/d/%60%E3%80%90%E5%90%88%E9%9B%86%E7%B3%BB%E5%88%97%E3%80%91/%E5%8D%97%2BGalGame%E6%B1%89%E5%8C%96%E5%8C%BA%E5%85%A8%E5%8C%BA%E8%B5%84%E6%BA%90%E5%A4%87%E4%BB%BD/1/13/%5BLeaf%5D%20WHITE%20ALBUM%202%20%20%E7%99%BD%E8%89%B2%E7%9B%B8%E7%B0%BF2(%E5%BA%8F%E7%AB%A0%2B%E7%BB%88%E7%AB%A0%2B%E6%9C%80%E7%BB%88%E7%AB%A0%E6%95%B4%E5%90%88)%E6%B1%89%E5%8C%96%E7%A1%AC%E7%9B%98%E7%89%88%5BCK-GAL%E4%B8%AD%E6%96%87%E5%8C%96%E5%B0%8F%E7%BB%84%5D.zip?sign=EFqgLUokQ4ApETfNe1uqTEGp_vDfFFDOkwgFwXPLPTQ=:0)
 3. [梓澪の妙妙屋](https://zi0.cc/) & `Windows`：[点击下载](https://zi0.cc/,%E3%80%90ADV-%E5%86%92%E9%99%A9%E6%B8%B8%E6%88%8F%E3%80%91/%E3%80%90PC%E3%80%91%E7%99%BD%E8%89%B2%E7%9B%B8%E7%B0%BF%E7%B3%BB%E5%88%97)
 4. [真红小站](https://www.shinnku.com/) & `Windows`：[点击下载](https://www.shinnku.com/api/download/0/win/%E7%99%BD%E8%89%B2%E7%9B%B8%E7%B0%BF2%20%E6%95%B4%E5%90%88%E7%89%88.7z)

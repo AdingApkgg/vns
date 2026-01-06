@@ -109,8 +109,8 @@ lastmod: 2024-11-19 05:26:30
 
 ## 分流
 
-1. [TouchGAL](https://www.touchgal.us/) & `Windows`：[点击下载](https://pan.touchgal.net/s/mjkSx)，密码：`touchgal`
-2. [TouchGAL](https://www.touchgal.us/) & `ONS`：[点击下载](https://pan.touchgal.net/s/O9xUW)，密码：`touchgal`
+1. [TouchGAL](https://www.touchgal.top/) & `Windows`：[点击下载](https://pan.touchgal.net/s/mjkSx)，密码：`touchgal`
+2. [TouchGAL](https://www.touchgal.top/) & `ONS`：[点击下载](https://pan.touchgal.net/s/O9xUW)，密码：`touchgal`
 3. [NekoGAL](https://www.nekogal.com/) & `Windows`：[点击下载](https://pan.nekogal.top/s/X5CJ)
 4. [NekoGAL](https://www.nekogal.com/) & `ONS`：[点击下载](https://pan.nekogal.top/s/wOiq)
 5. [Hikarinagi](https://www.hikarinagi.net/) & `Windows` + `ONS`：[点击下载](https://pan.yurari.moe/s/YEKCJ)，密码：`hikarinagi.com`

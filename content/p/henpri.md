@@ -65,7 +65,7 @@ lastmod: 2025-03-22 03:51:20
 
 ## 分流
 
-1. [TouchGAL](https://www.touchgal.us/) & `Windows`：[点击下载](https://pan.touchgal.net/s/barPh5)，密码：`touchgal`
+1. [TouchGAL](https://www.touchgal.top/) & `Windows`：[点击下载](https://pan.touchgal.net/s/barPh5)，密码：`touchgal`
 2. [稻荷GAL](https://inarigal.com/) & `Windows`：[点击下载](https://aozora-b2.zrflie.top/upfiles/jp/1741322906492/HENPRI.rar)
 3. [绮梦](https://acgs.one/) & `Windows`：[点击下载](https://game.acgs.one/game/332.html)，密码：`绮梦`
 4. [量子ACG](https://lzacg.org/) & `Windows`：[点击下载](https://lzacg.org/8907)，密码：`量子acg`、`lzacg.top`

@@ -89,8 +89,8 @@ lastmod: 2024-04-07 23:34:00
 
 ## 分流
 
-1. [TouchGAL](https://www.touchgal.us/) & `Windows`：[点击下载](https://pan.touchgal.net/s/7NxxTX)，密码：`touchgal`
-2. [TouchGAL](https://www.touchgal.us/) & `KRKR`：[点击下载](https://pan.touchgal.net/s/GjQ8cX)，密码：`touchgal`
+1. [TouchGAL](https://www.touchgal.top/) & `Windows`：[点击下载](https://pan.touchgal.net/s/7NxxTX)，密码：`touchgal`
+2. [TouchGAL](https://www.touchgal.top/) & `KRKR`：[点击下载](https://pan.touchgal.net/s/GjQ8cX)，密码：`touchgal`
 3. [稻荷GAL](https://inarigal.com/) & `Windows`：[点击下载](https://alpha.zrflie3.pw/PC-2/CLEAR%20RAVE/BUG%20SYSTEM/%E7%9C%9F%E7%88%B1%E7%9A%84%E7%99%BE%E5%90%88%E8%A2%AB%E6%9F%93%E6%88%90%E7%BA%A2%E8%89%B2.7z)
 4. [姬路白雪](https://pan.jlbx.xyz/) & `Windows`：[点击下载](https://pan.jlbx.xyz/?s=%E7%9C%9F%E7%88%B1%E7%99%BE%E5%90%88)，密码：终点
 5. [迷迭香写代码](https://rosmontis.com/) & `Windows`：[点击下载](https://drive.rosmontis.com/s/2QZSD)，密码：rosmontis，去掉 `.rosmontis` 后缀名再解压

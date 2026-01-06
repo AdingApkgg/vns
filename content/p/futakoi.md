@@ -84,8 +84,8 @@ lastmod: 2025-03-22 01:08:30
 
 ### 本篇
 
-1. [TouchGAL](https://www.touchgal.us/) & `Windows`：[点击下载](https://pan.touchgal.net/s/PDjFR)，密码：`touchgal`
-2. [TouchGAL](https://www.touchgal.us/) & `KRKR`：[点击下载](https://pan.touchgal.net/s/ZYrsa)，密码：`touchgal`
+1. [TouchGAL](https://www.touchgal.top/) & `Windows`：[点击下载](https://pan.touchgal.net/s/PDjFR)，密码：`touchgal`
+2. [TouchGAL](https://www.touchgal.top/) & `KRKR`：[点击下载](https://pan.touchgal.net/s/ZYrsa)，密码：`touchgal`
 3. [NekoGAL](https://www.nekogal.com/) & `Windows`：[点击下载](https://pan.nekogal.top/s/Km9cL)
 4. [Hikarinagi](https://www.hikarinagi.net/) & `Windows` + `KRKR`：[点击下载](https://pan.yurari.moe/s/79wTx)，密码：`hikarinagi.com`
 5. [Hikarinagi](https://www.hikarinagi.net/) & `Windows` + `KRKR`：[点击下载](https://pan.yurari.moe/s/2kOJsJ)，密码：`hikarinagi.com`
@@ -102,8 +102,8 @@ lastmod: 2025-03-22 01:08:30
 
 ### FD AS 1 瑠衣＆宮子 Mini After Story
 
-1. [TouchGAL](https://www.touchgal.us/) & `Windows`：[点击下载](https://pan.touchgal.net/s/ge2tL)，密码：`touchgal`
-2. [TouchGAL](https://www.touchgal.us/) & `KRKR`：[点击下载](https://pan.touchgal.net/s/WZpFZ)，密码：`touchgal`
+1. [TouchGAL](https://www.touchgal.top/) & `Windows`：[点击下载](https://pan.touchgal.net/s/ge2tL)，密码：`touchgal`
+2. [TouchGAL](https://www.touchgal.top/) & `KRKR`：[点击下载](https://pan.touchgal.net/s/WZpFZ)，密码：`touchgal`
 3. [Hikarinagi](https://www.hikarinagi.net/) & `Windows`：[点击下载](https://pan.yurari.moe/s/83lHZ)，密码：`hikarinagi.com`
 4. [Hikarinagi](https://www.hikarinagi.net/) & `Windows`：[点击下载](https://pan.yurari.moe/s/1wQ3cD)，密码：`hikarinagi.com`
 5. [梓澪の妙妙屋](https://zi0.cc/) & `Windows`：[点击下载](https://zi0.cc/d/%E5%90%88%E9%9B%86%E7%B3%BB%E5%88%97/%E5%8D%97%2BGalGame%E6%B1%89%E5%8C%96%E5%8C%BA%E5%85%A8%E5%8C%BA%E8%B5%84%E6%BA%90%E5%A4%87%E4%BB%BD/05/%5BASa%20Project%5D%20%E3%83%95%E3%82%BF%E3%83%9E%E3%82%BF%E6%81%8B%E6%84%9B%20%E7%91%A0%E8%A1%A3%EF%BC%86%E5%AE%AE%E5%AD%90%E3%83%9F%E3%83%8B%E3%82%A2%E3%83%95%E3%82%BF%E3%83%BC%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AA%E3%83%BC%20%E6%81%8B%E7%88%B1%E6%88%90%E5%8F%8CAS1%20%E7%91%A0%E8%A1%A3%EF%BC%86%E5%AE%AE%E5%AD%90%20%E6%B1%89%E5%8C%96%E7%A1%AC%E7%9B%98%E7%89%88%5B%E6%9C%80%E8%8B%B1%E4%BF%8A%E7%9A%84%E6%B8%A3%E7%94%B7%E6%B1%89%E5%8C%96%5D.zip?sign=sr89d_vcYwgYTlv4lqHNfgOibE8_CpA3EZWyqskzG3s=:0)
@@ -118,8 +118,8 @@ lastmod: 2025-03-22 01:08:30
 
 ### FD AS 2 結愛＆煌 Mini After Story
 
-1. [TouchGAL](https://www.touchgal.us/) & `Windows`：[点击下载](https://pan.touchgal.net/s/OqL8IW)，密码：`touchgal`
-2. [TouchGAL](https://www.touchgal.us/) & `KRKR`：[点击下载](https://pan.touchgal.net/s/a06iJ)，密码：`touchgal`
+1. [TouchGAL](https://www.touchgal.top/) & `Windows`：[点击下载](https://pan.touchgal.net/s/OqL8IW)，密码：`touchgal`
+2. [TouchGAL](https://www.touchgal.top/) & `KRKR`：[点击下载](https://pan.touchgal.net/s/a06iJ)，密码：`touchgal`
 3. [Hikarinagi](https://www.hikarinagi.net/) & `Windows`：[点击下载](https://pan.yurari.moe/s/99Pcg)，密码：`hikarinagi.com`
 4. [Hikarinagi](https://www.hikarinagi.net/) & `Windows`：[点击下载](https://pan.yurari.moe/s/Z6pvtV)，密码：`hikarinagi.com`
 5. [梓澪の妙妙屋](https://zi0.cc/) & `Windows`：[点击下载](https://zi0.cc/d/%E5%90%88%E9%9B%86%E7%B3%BB%E5%88%97/%E5%8D%97%2BGalGame%E6%B1%89%E5%8C%96%E5%8C%BA%E5%85%A8%E5%8C%BA%E8%B5%84%E6%BA%90%E5%A4%87%E4%BB%BD/01/%5BASa%20Project%5D%20%E3%83%95%E3%82%BF%E3%83%9E%E3%82%BF%E6%81%8B%E6%84%9B%20%E7%B5%90%E6%84%9B%EF%BC%86%E7%85%8C%E3%83%9F%E3%83%8B%E3%82%A2%E3%83%95%E3%82%BF%E3%83%BC%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AA%E3%83%BC%20%20%E6%81%8B%E7%88%B1%E6%88%90%E5%8F%8C%20AS2%20%E7%BB%93%E7%88%B1%EF%BC%86%E7%85%8C%20%E6%B1%89%E5%8C%96%E7%A1%AC%E7%9B%98%E7%89%88%5B%E6%9C%80%E8%8B%B1%E4%BF%8A%E7%9A%84%E5%A4%A7%E4%BD%AC%E6%B1%89%E5%8C%96%5D.zip?sign=fEXli-2IuKP5yReBi3w7IhfxgoGjygwaaR5S5GGYNrw=:0)

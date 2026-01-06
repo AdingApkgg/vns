@@ -68,7 +68,7 @@ lastmod: 2024-09-04 09:20:00
 
 ## 分流
 
-1. [TouchGAL](https://www.touchgal.us/) & `Windows`：[点击下载](https://pan.touchgal.net/s/dxVytb)，密码：`touchgal`
+1. [TouchGAL](https://www.touchgal.top/) & `Windows`：[点击下载](https://pan.touchgal.net/s/dxVytb)，密码：`touchgal`
 2. [绮梦](https://acgs.one/) & `Windows`：[点击下载](https://game.acgs.one/game/288.html)，密码：`绮梦`
 3. [稻荷GAL](https://inarigal.com/) & `Windows`：[点击下载](https://inarigal.com/detail/13619)
 4. [量子ACG](https://lzacg.org/) & `Windows`：[点击下载](https://lzacg.org/7781)，密码：`量子acg`、`lzacg.top`

@@ -73,7 +73,7 @@ lastmod: 2024-11-11 00:26:50
 
 ## 分流
 
-1. [TouchGAL](https://www.touchgal.us/) & `Windows`：[点击下载](https://pan.touchgal.net/s/D7aFx)，密码：`touchgal`
+1. [TouchGAL](https://www.touchgal.top/) & `Windows`：[点击下载](https://pan.touchgal.net/s/D7aFx)，密码：`touchgal`
 2. [Hikarinagi](https://www.hikarinagi.net/) & `Windows`：[点击下载](https://pan.yurari.moe/s/w2XSz)，密码：`hikarinagi.com`
 3. [Hikarinagi](https://www.hikarinagi.net/) & `Windows`：[点击下载](https://pan.yurari.moe/s/XDLAHy)，密码：`hikarinagi.com`
 4. [梓澪の妙妙屋](https://zi0.cc/) & `Windows`：[点击下载](https://zi0.cc/d/%60%E3%80%90%E5%90%88%E9%9B%86%E7%B3%BB%E5%88%97%E3%80%91/%E5%8D%97%2BGalGame%E6%B1%89%E5%8C%96%E5%8C%BA%E5%85%A8%E5%8C%BA%E8%B5%84%E6%BA%90%E5%A4%87%E4%BB%BD/1/13/%5BLiar-soft%5D%20Adabana%20Odd%20Tales%20%20%E5%BE%92%E8%8A%B1%E7%95%B0%E8%AD%9A%20%E6%B1%89%E5%8C%96%E7%A1%AC%E7%9B%98%E7%89%88%5B%E5%AE%98%E6%96%B9%E4%B8%AD%E6%96%87%5D.zip?sign=Jpdfbh0eeQXYmF56Ho1yy7vnXt2xQM9NTQG3eA0a8xY=:0)

@@ -69,8 +69,8 @@ lastmod: 2024-10-21 20:55:00
 
 ### 星之终途
 
-1. [TouchGAL](https://www.touchgal.us/) & `Windows`：[点击下载](https://pan.touchgal.net/s/AYhP)，密码：`touchgal`
-2. [TouchGAL](https://www.touchgal.us/) & `Tyranor`：[点击下载](https://pan.touchgal.net/s/5PAcE)，密码：`touchgal`
+1. [TouchGAL](https://www.touchgal.top/) & `Windows`：[点击下载](https://pan.touchgal.net/s/AYhP)，密码：`touchgal`
+2. [TouchGAL](https://www.touchgal.top/) & `Tyranor`：[点击下载](https://pan.touchgal.net/s/5PAcE)，密码：`touchgal`
 3. [NekoGAL](https://www.nekogal.com/) & `Windows`：[点击下载](https://pan.nekogal.top/s/eKKHG)
 4. [NekoGAL](https://www.nekogal.com/) & `Tyranor`：[点击下载](https://pan.nekogal.top/s/kvaHa)
 5. [Hikarinagi](https://www.hikarinagi.net/) & `Windows` + `Tyranor`：[点击下载](https://pan.yurari.moe/s/qDkFP)，密码：`hikarinagi.com`

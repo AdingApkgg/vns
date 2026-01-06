@@ -67,8 +67,8 @@ lastmod: 2024-07-31 03:56:40
 
 ## 分流
 
-1. [TouchGAL](https://www.touchgal.us/) & `Windows`：[点击下载](https://pan.touchgal.net/s/513tE)，密码：`touchgal`
-2. [TouchGAL](https://www.touchgal.us/) & `Android`：[点击下载](https://pan.touchgal.net/s/vp3SW)，密码：`touchgal`
+1. [TouchGAL](https://www.touchgal.top/) & `Windows`：[点击下载](https://pan.touchgal.net/s/513tE)，密码：`touchgal`
+2. [TouchGAL](https://www.touchgal.top/) & `Android`：[点击下载](https://pan.touchgal.net/s/vp3SW)，密码：`touchgal`
 3. [梓澪の妙妙屋](https://zi0.cc/) & `Windows`：[点击下载](https://zi0.cc/d/%60%E3%80%90%E5%90%88%E9%9B%86%E7%B3%BB%E5%88%97%E3%80%91/%E3%80%90PC%E3%80%91key%E7%A4%BE%E7%B3%BB%E5%88%97%E4%BD%9C%E5%93%81/AIR.zip?sign=I4OcKdBwhBFH97pOgMbW5iqhR9saxuqghi8t9TxUAx4=:0)
 4. [梓澪の妙妙屋](https://zi0.cc/) & `Windows`：[点击下载](https://zi0.cc/d/%60%E3%80%90%E5%90%88%E9%9B%86%E7%B3%BB%E5%88%97%E3%80%91/%E6%B1%89%E5%8C%96galgame%E4%BC%9A%E7%A4%BE%E5%90%88%E9%9B%86/%E6%B1%89%E5%8C%96%E4%BC%9A%E7%A4%BE%E5%90%88%E9%9B%86%E9%83%A8%E5%88%86%20part24/KEY/%E6%B1%89%E5%8C%96%E7%89%88/%5B000908%5D%5BKey%5D%20AIR.rar?sign=kIDVl6beX3jsCeWIDGtKoX1ydhqF8MkVuQJDftYJLHA=:0)
 5. [梓澪の妙妙屋](https://zi0.cc/) & `Windows`【R18】：[点击下载](https://zi0.cc/d/%60%E3%80%90%E5%90%88%E9%9B%86%E7%B3%BB%E5%88%97%E3%80%91/%E5%8D%97%2BGalGame%E6%B1%89%E5%8C%96%E5%8C%BA%E5%85%A8%E5%8C%BA%E8%B5%84%E6%BA%90%E5%A4%87%E4%BB%BD/1/12/%5BKEY%5D%20AIR%2018X%20%E7%89%88%20%20%E9%B8%9F%E4%B9%8B%E8%AF%97%2018X%E7%89%88%20%E6%B1%89%E5%8C%96%E7%A1%AC%E7%9B%98%E7%89%88%5BKeyFC%E6%B1%89%E5%8C%96%E7%BB%84%5D.zip?sign=VzjNT8JpXzYKwwXwbHDafdheCqTqtDbsAK4KPry6hlw=:0)

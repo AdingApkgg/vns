@@ -83,8 +83,8 @@ lastmod: 2025-10-06 01:00:00
 
 ### 本篇
 
-1.  [TouchGAL](https://www.touchgal.us/) & `Windows`：[点击下载](https://pan.touchgal.net/s/87wfg)，密码：`touchgal`
-2.  [TouchGAL](https://www.touchgal.us/) & `KRKR`：[点击下载](https://pan.touchgal.net/s/0r5ug)，密码：`touchgal`
+1.  [TouchGAL](https://www.touchgal.top/) & `Windows`：[点击下载](https://pan.touchgal.net/s/87wfg)，密码：`touchgal`
+2.  [TouchGAL](https://www.touchgal.top/) & `KRKR`：[点击下载](https://pan.touchgal.net/s/0r5ug)，密码：`touchgal`
 3.  [Hikarinagi](https://www.hikarinagi.net/) & `Windows` + `KRKR`：[点击下载](https://pan.yurari.moe/s/VQ9tL)，密码：`hikarinagi.com`
 4.  [Hikarinagi](https://www.hikarinagi.net/) & `Windows` + `KRKR`：[点击下载](https://pan.yurari.moe/s/9r33Fg)，密码：`hikarinagi.com`
 5.  [梓澪の妙妙屋](https://zi0.cc/) & `Windows`【官中】：[点击下载](https://zi0.cc/%E5%90%88%E9%9B%86%E7%B3%BB%E5%88%97/%E5%8D%97+GalGame%E6%B1%89%E5%8C%96%E5%8C%BA%E5%85%A8%E5%8C%BA%E8%B5%84%E6%BA%90%E5%A4%87%E4%BB%BD/04/[%E3%81%B1%E3%82%8C%E3%81%A3%E3%81%A8%E3%82%AF%E3%82%AA%E3%83%AA%E3%82%A2]%20%E3%82%AA%E3%83%88%E3%83%A1*%E3%83%89%E3%83%A1%E3%82%A4%E3%83%B3%20%20%E5%B0%91%E5%A5%B3*%E9%A2%86%E5%9F%9F%20%E6%B1%89%E5%8C%96%E7%A1%AC%E7%9B%98%E7%89%88[%E5%AE%98%E6%96%B9%E4%B8%AD%E6%96%87].zip)

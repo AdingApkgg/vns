@@ -51,7 +51,7 @@ lastmod: 2024-12-21 03:45:40
 
 ## 分流
 
-1. [TouchGAL](https://www.touchgal.us/) & `Windows`：[点击下载](https://pan.touchgal.net/s/RxqeC7)，密码：`touchgal`
+1. [TouchGAL](https://www.touchgal.top/) & `Windows`：[点击下载](https://pan.touchgal.net/s/RxqeC7)，密码：`touchgal`
 2. [真红小站](https://www.shinnku.com/) & `Windows`【绿茶汉化组v1.0.6】：[点击下载](https://www.shinnku.com/api/download/0/win/1room%20-%E5%AE%B6%E5%87%BA%E5%B0%91%E5%A5%B3/1room%20-%E5%AE%B6%E5%87%BA%E5%B0%91%E5%A5%B3v1.0.6(%E7%BB%BF%E8%8C%B6%E6%B1%89%E5%8C%96%E7%BB%84).7z)
 3. [真红小站](https://www.shinnku.com/) & `Windows`【4100977版v1.2.0】：[点击下载](https://www.shinnku.com/api/download/0/win/1room%20-%E5%AE%B6%E5%87%BA%E5%B0%91%E5%A5%B3/1room%20-%E5%AE%B6%E5%87%BA%E5%B0%91%E5%A5%B3v1.2.0(4100977%E7%89%88).7z)
 4. [真红小站](https://www.shinnku.com/) & `Windows`【官中1.2.3】：[点击下载](https://www.shinnku.com/api/download/0/win/1room%20-%E5%AE%B6%E5%87%BA%E5%B0%91%E5%A5%B3/1room%20-%E5%AE%B6%E5%87%BA%E5%B0%91%E5%A5%B3v1.2.3(%E5%AE%98%E4%B8%AD).7z)

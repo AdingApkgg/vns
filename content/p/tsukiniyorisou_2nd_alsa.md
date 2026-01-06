@@ -84,7 +84,7 @@ lastmod: 2024-04-21 00:56:00
 ## 分流
 
 1. [稻荷GAL](https://inarigal.com/) & `Windows`：[点击下载](https://inarigal.com/detail/274)
-2. [TouchGAL](https://www.touchgal.us/) & `Windows`：[点击下载](https://pan.touchgal.net/s/rn9kiy)，密码：`touchgal`
+2. [TouchGAL](https://www.touchgal.top/) & `Windows`：[点击下载](https://pan.touchgal.net/s/rn9kiy)，密码：`touchgal`
 3. [绮梦](https://acgs.one/) & `Windows`：[点击下载](https://acgs.one/down_html/?url=game/%E8%BF%91%E6%9C%88%E5%B0%91%E5%A5%B3%E7%9A%84%E7%A4%BC%E4%BB%AA2.2&name=%E8%BF%91%E6%9C%88%E5%B0%91%E5%A5%B3%E7%9A%84%E7%A4%BC%E4%BB%AA2.2)，密码：`acgs`、`绮梦`
 4. [真红小站](https://www.shinnku.com/) & `Windows`：[点击下载](https://www.shinnku.com/api/download/0/win/%E8%BF%91%E6%9C%88%E5%B0%91%E5%A5%B3%E7%9A%84%E7%A4%BC%E4%BB%AA2.2%20v1.1.7z)
 5. [量子ACG](https://lzacg.org/) & `Windows`：[点击下载](https://lzacg.org/3581)，密码：`量子acg`、`lzacg.top`

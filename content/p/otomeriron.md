@@ -98,8 +98,8 @@ lastmod: 2024-05-05 02:26:00
 3. [姬路白雪](https://pan.jlbx.xyz/) & `Windows` + `ONS`：[点击下载](https://pan.jlbx.xyz/?s=%E5%B0%91%E5%A5%B3%E7%90%86%E8%AE%BA%E5%8F%8A%E5%85%B6%E5%91%A8%E8%BE%B9)，密码：`终点`
 4. [烟郁Galgame](https://yanyugal.top/) & `ONS`：[点击下载](https://yanyugal.top/d/disk1/%E5%B0%8F%E5%B0%8F%E7%9A%84%E5%88%86%E4%BA%AB%EF%BC%88PC%EF%BC%86%E5%AE%89%E5%8D%93%EF%BC%89/%E5%AE%89%E5%8D%93/ons/%E8%BF%91%E6%9C%88%E5%B0%91%E5%A5%B3ons%E5%90%88%E9%9B%86/%E5%B0%91%E5%A5%B3%E7%90%86%E8%AE%BA%E5%8F%8A%E5%85%B6%E5%91%A8%E8%BE%B9.7z)，密码：`lumouweinb`、`烟郁频道`
 5. [迷迭香的博客](https://rosmontis.com/) & `Windows`：[点击下载](https://drive.rosmontis.com/s/63kt4)，密码：`rosmontis`，去掉 `.rosmontis` 后缀名再解压
-6. [TouchGAL](https://www.touchgal.us/) & `Windows`：[点击下载](https://pan.touchgal.net/s/6plfp)，密码：`touchgal`
-7. [TouchGAL](https://www.touchgal.us/) & `ONS`：[点击下载](https://pan.touchgal.net/s/P78uR)，密码：`touchgal`
+6. [TouchGAL](https://www.touchgal.top/) & `Windows`：[点击下载](https://pan.touchgal.net/s/6plfp)，密码：`touchgal`
+7. [TouchGAL](https://www.touchgal.top/) & `ONS`：[点击下载](https://pan.touchgal.net/s/P78uR)，密码：`touchgal`
 8. [绮梦](https://acgs.one/) & `Windows`：[点击下载](https://acgs.one/down_html/?url=game/%E5%B0%91%E5%A5%B3%E7%90%86%E8%AE%BA%E5%8F%8A%E5%85%B6%E5%91%A8%E8%BE%B9&name=%E5%B0%91%E5%A5%B3%E7%90%86%E8%AE%BA%E5%8F%8A%E5%85%B6%E5%91%A8%E8%BE%B9%20-%E5%B7%B4%E9%BB%8E%E5%AD%A6%E9%99%A2%E7%AF%87-)，密码：`acgs`、`绮梦`
 9. [真红小站](https://www.shinnku.com/) & `Windows`：[点击下载](https://www.shinnku.com/api/download/0/win/%E5%B0%91%E5%A5%B3%E7%90%86%E8%AE%BA%E5%8F%8A%E5%85%B6%E5%91%A8%E8%BE%B9.7z)
 10. [量子ACG](https://lzacg.org/) & `Windows`：[点击下载](https://lzacg.org/440)，密码：`量子acg`、`lzacg.top`

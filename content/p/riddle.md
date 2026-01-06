@@ -96,8 +96,8 @@ lastmod: 2024-07-22 02:05:00
 
 ## 分流
 
-1. [TouchGAL](https://www.touchgal.us/) & `Windows`：[点击下载](https://pan.touchgal.net/s/x1rSO)，密码：`touchgal`
-2. [TouchGAL](https://www.touchgal.us/) & `KRKR`：[点击下载](https://pan.touchgal.net/s/mlrUx)，密码：`touchgal`
+1. [TouchGAL](https://www.touchgal.top/) & `Windows`：[点击下载](https://pan.touchgal.net/s/x1rSO)，密码：`touchgal`
+2. [TouchGAL](https://www.touchgal.top/) & `KRKR`：[点击下载](https://pan.touchgal.net/s/mlrUx)，密码：`touchgal`
 3. [Koyso](https://koyso.com/) & `Windows`：[点击下载](https://koyso.com/game/879)
 4. [小鳥遊暁の会员制餐厅](https://t-satoru.top/) & `KRKR`：[点击下载](https://pan.t-satoru.top/d/ode5/Galgames/%E3%80%90%E8%87%AA%E5%B0%81%E5%8C%85%E3%80%91%E5%8E%9F%E5%88%9B%E4%BD%9C%E5%93%81/RJ/v3_KR_%E5%AE%98%E4%B8%AD%E5%BC%A5%E7%94%9F%E6%9C%88%E4%BB%A5%E5%8F%8A%E5%9F%BA%E6%9C%AC%E6%B2%A1%E6%B3%95%E7%9C%8B%E7%9A%84%E9%BB%98%E7%A4%BA_RIDDLE_JOKER_od.rar)，密码：`三司绫濑天下第一`
 5. [我的Galgame资源发布站](https://www.ttloli.com/) & `Windows`：[点击下载](https://www.ttloli.com/riddle-joker.html)，密码：`忧郁的弟弟`、`忧郁的loli`

@@ -84,7 +84,7 @@ lastmod: 2024-04-30 01:26:00
 
 1. [姬路白雪](https://pan.jlbx.xyz/) & `Windows`：[点击下载](https://pan.jlbx.xyz/?s=%E5%A5%B3%E8%A3%85%E5%AD%A6%E5%9B%AD%EF%BC%88%E5%A6%8A%EF%BC%89)，密码：`终点`
 2. [迷迭香的博客](https://rosmontis.com/) & `Windows`：[点击下载](https://drivez.rosmontis.com/s/Y9EUn)，密码：`rosmontis`，去掉 `.rosmontis` 后缀名再解压
-3. [TouchGAL](https://www.touchgal.us/) & `Windows` + `ONS`：[点击下载](https://pan.touchgal.net/s/mLoIx)，密码：`touchgal`
+3. [TouchGAL](https://www.touchgal.top/) & `Windows` + `ONS`：[点击下载](https://pan.touchgal.net/s/mLoIx)，密码：`touchgal`
 4. [梓澪の妙妙屋](https://zi0.cc/) & `ONS`：[点击下载](https://zi0.cc/d/%60%E3%80%90%E5%BD%92%20%E6%A1%A3%E3%80%91/%E3%80%90ONS%E5%90%88%E9%9B%86%E3%80%91/%5B%E8%84%B3%E5%86%85%E5%BD%BC%E5%A5%B3%5D%E5%A5%B3%E8%A3%85%E5%AD%A6%E5%9B%AD.7z?sign=mqa-x9IQ8jI8xdPVDDMhWlrV3mnYCRNie3nsWYn_a-o=:0)
 5. [绮梦](https://acgs.one/) & `Windows` + `ONS` + `Android`：[点击下载](https://acgs.one/down_html/?url=game/%E5%A5%B3%E8%A3%85%E5%AD%A6%E5%9B%AD/%E5%A6%8A&name=%E5%A5%B3%E8%A3%85%E5%AD%A6%E5%9B%AD/%E5%A6%8A)，密码：`绮梦`
 6. [真红小站](https://www.shinnku.com/) & `Windows`：[点击下载](https://www.shinnku.com/api/download/0/win/%E5%A5%B3%E8%A3%85%E5%AD%A6%E5%9B%AD%20%E5%A6%8A.7z)

@@ -74,8 +74,8 @@ lastmod: 2024-09-28 11:07:30
 
 ### 本篇
 
-1. [TouchGAL](https://www.touchgal.us/) & `Windows`【FHD Deluxe Edition】：[点击下载](https://pan.touchgal.net/s/yRlAIY)，密码：`touchgal`
-2. [TouchGAL](https://www.touchgal.us/) & `Windows`：[点击下载](https://pan.touchgal.net/s/bpPs5)，密码：`touchgal`
+1. [TouchGAL](https://www.touchgal.top/) & `Windows`【FHD Deluxe Edition】：[点击下载](https://pan.touchgal.net/s/yRlAIY)，密码：`touchgal`
+2. [TouchGAL](https://www.touchgal.top/) & `Windows`：[点击下载](https://pan.touchgal.net/s/bpPs5)，密码：`touchgal`
 3. [NekoGAL](https://www.nekogal.com/) & `Windows`：[点击下载](https://pan.nekogal.top/s/vDVtM)
 4. [Hikarinagi](https://www.hikarinagi.net/) & `Windows`：[点击下载](https://pan.yurari.moe/s/0AVSD)，密码：`hikarinagi.com`
 5. [Hikarinagi](https://www.hikarinagi.net/) & `Windows`：[点击下载](https://pan.yurari.moe/s/689nfA)，密码：`hikarinagi.com`

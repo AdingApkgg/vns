@@ -54,8 +54,8 @@ lastmod: 2024-10-25 03:41:20
 
 ## 分流
 
-1. [TouchGAL](https://www.touchgal.us/) & `Windows`：[点击下载](https://pan.touchgal.net/s/17GuX)，密码：`touchgal`
-2. [TouchGAL](https://www.touchgal.us/) & `KRKR`：[点击下载](https://pan.touchgal.net/s/Jk1ota)，密码：`touchgal`
+1. [TouchGAL](https://www.touchgal.top/) & `Windows`：[点击下载](https://pan.touchgal.net/s/17GuX)，密码：`touchgal`
+2. [TouchGAL](https://www.touchgal.top/) & `KRKR`：[点击下载](https://pan.touchgal.net/s/Jk1ota)，密码：`touchgal`
 3. [Hikarinagi](https://www.hikarinagi.net/) & `Windows`：[点击下载](https://pan.yurari.moe/s/lNrS5)，密码：`hikarinagi.com`
 4. [Hikarinagi](https://www.hikarinagi.net/) & `Windows`：[点击下载](https://pan.yurari.moe/s/QWgquE)，密码：`hikarinagi.com`
 5. [真红小站](https://www.shinnku.com/) & `Windows`：[点击下载](https://www.shinnku.com/api/download/0/win/%E4%B8%8E%E5%B0%8F%E8%90%9D%E8%8E%89%E7%9B%B8%E6%80%9D%E7%9B%B8%E7%88%B1%E7%9A%84%E7%94%9F%E6%B4%BB.7z)

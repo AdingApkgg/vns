@@ -94,8 +94,8 @@ lastmod: 2025-02-24 15:31:10
 
 ## 分流
 
-1. [TouchGAL](https://www.touchgal.us/) & `Windows`：[点击下载](https://pan.touchgal.net/s/yYjAUY)，密码：`touchgal`
-2. [TouchGAL](https://www.touchgal.us/) & `Tyranor`：[点击下载](https://pan.touchgal.net/s/N1A8tO)，密码：`touchgal`
+1. [TouchGAL](https://www.touchgal.top/) & `Windows`：[点击下载](https://pan.touchgal.net/s/yYjAUY)，密码：`touchgal`
+2. [TouchGAL](https://www.touchgal.top/) & `Tyranor`：[点击下载](https://pan.touchgal.net/s/N1A8tO)，密码：`touchgal`
 3. [梓澪の妙妙屋](https://zi0.cc/) & `Tyranor`：[点击下载](https://zi0.cc/d/%60%E3%80%90%E5%90%88%E9%9B%86%E7%B3%BB%E5%88%97%E3%80%91/%E5%8D%97%2BGalGame%E6%B1%89%E5%8C%96%E5%8C%BA%E5%85%A8%E5%8C%BA%E8%B5%84%E6%BA%90%E5%A4%87%E4%BB%BD/2/28/%5B%E3%81%BE%E3%81%A9%E3%81%9D%E3%81%B5%E3%81%A8%5D%20%E3%83%8F%E3%83%9F%E3%83%80%E3%82%B7%E3%82%AF%E3%83%AA%E3%82%A8%E3%82%A4%E3%83%86%E3%82%A3%E3%83%96%E5%87%B8%20%20%E7%81%B5%E6%84%9F%E6%BB%A1%E6%BA%A2%E7%9A%84%E7%94%9C%E8%9C%9C%E5%88%9B%E6%83%B3-%E5%87%B8%20%E6%B1%89%E5%8C%96%E7%A1%AC%E7%9B%98%E7%89%88%5B%E7%99%BD%E4%BA%95%E6%9C%A8%E5%AD%A6%E5%9B%AD%E6%B1%89%E5%8C%96%E7%BB%84%5D.zip?sign=hYWSPCRWaxEQuisBd-AopB1Y6tmeoH_u_FKS7DxJQrc=:0)
 4. [绮梦](https://acgs.one/) & `Windows` + `Tyranor`：[点击下载](https://game.acgs.one/game/6.html)，密码：`绮梦`
 5. [烟郁Galgame](https://yanyugal.top/) & `Windows`：[点击下载](https://yanyugal.top/disk1/%E5%B0%8F%E5%B0%8F%E7%9A%84%E5%88%86%E4%BA%AB%EF%BC%88PC%EF%BC%86%E5%AE%89%E5%8D%93%EF%BC%89/PC/galgame/%E5%AF%8C%E5%A9%86%E5%A6%B9fd%E6%B1%89%E5%8C%96/)，密码：`烟郁频道`、`lumouweinb`

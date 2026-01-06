@@ -70,7 +70,7 @@ lastmod: 2024-11-05 22:19:00
 
 ### 本篇
 
-1. [TouchGAL](https://www.touchgal.us/) & `Windows`：[点击下载](https://pan.touchgal.net/s/rrLsy)，密码：`touchgal`
+1. [TouchGAL](https://www.touchgal.top/) & `Windows`：[点击下载](https://pan.touchgal.net/s/rrLsy)，密码：`touchgal`
 2. [NekoGAL](https://www.nekogal.com/) & `Windows`：[点击下载](https://pan.nekogal.top/s/LGeTk)
 3. [Hikarinagi](https://www.hikarinagi.net/) & `Windows`：[点击下载](https://pan.yurari.moe/s/YM9TJ)，密码：`hikarinagi.com`
 4. [Hikarinagi](https://www.hikarinagi.net/) & `Windows`：[点击下载](https://pan.yurari.moe/s/lY07C5)，密码：`hikarinagi.com`
@@ -83,7 +83,7 @@ lastmod: 2024-11-05 22:19:00
 
 ### 番外
 
-1. [TouchGAL](https://www.touchgal.us/) & `Windows`：[点击下载](https://pan.touchgal.net/s/1bd2UX)，密码：`touchgal`
+1. [TouchGAL](https://www.touchgal.top/) & `Windows`：[点击下载](https://pan.touchgal.net/s/1bd2UX)，密码：`touchgal`
 2. [Hikarinagi](https://www.hikarinagi.net/) & `Windows`：[点击下载](https://pan.yurari.moe/s/ZWEfV)，密码：`hikarinagi.com`
 3. [Hikarinagi](https://www.hikarinagi.net/) & `Windows`：[点击下载](https://pan.yurari.moe/s/kRgrI6)，密码：`hikarinagi.com`
 4. [真红小站](https://www.shinnku.com/) & `Windows`：[点击下载](https://www.shinnku.com/api/download/0/win/%E5%AA%9A%E8%82%89%E4%B9%8B%E9%A6%99%E5%A4%96%E4%BC%A0.7z)

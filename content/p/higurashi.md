@@ -105,10 +105,10 @@ lastmod: 2024-09-17 21:42:30
 
 ## 分流
 
-1. [TouchGAL](https://www.touchgal.us/) & `Windows`【出题】：[点击下载](https://pan.touchgal.net/s/q52OIb)，密码：`touchgal`
-2. [TouchGAL](https://www.touchgal.us/) & `Windows`【解题】：[点击下载](https://pan.touchgal.net/s/kgjQcg)，密码：`touchgal`
-3. [TouchGAL](https://www.touchgal.us/) & `Windows`【礼】：[点击下载](https://pan.touchgal.net/s/nGboiY)，密码：`touchgal`
-4. [TouchGAL](https://www.touchgal.us/) & `Windows`【虚崩编】：[点击下载](https://pan.touchgal.net/s/BJBNsw)，密码：`touchgal`
+1. [TouchGAL](https://www.touchgal.top/) & `Windows`【出题】：[点击下载](https://pan.touchgal.net/s/q52OIb)，密码：`touchgal`
+2. [TouchGAL](https://www.touchgal.top/) & `Windows`【解题】：[点击下载](https://pan.touchgal.net/s/kgjQcg)，密码：`touchgal`
+3. [TouchGAL](https://www.touchgal.top/) & `Windows`【礼】：[点击下载](https://pan.touchgal.net/s/nGboiY)，密码：`touchgal`
+4. [TouchGAL](https://www.touchgal.top/) & `Windows`【虚崩编】：[点击下载](https://pan.touchgal.net/s/BJBNsw)，密码：`touchgal`
 5. [绮梦](https://acgs.one/) & `Windows` + `ONS`【出题 解题（原版与萌化）+ 礼】：[点击下载](https://game.acgs.one/game/230.html)，密码：`绮梦`
 6. [量子ACG](https://lzacg.org/) & `Windows`【鬼隐篇 礼 绵流篇 祟杀篇 暇溃篇 罪灭篇 目明篇 皆杀篇】：[点击下载](https://lzacg.org/7104)，密码：`量子acg`、`lzacg.top`
 7. [NekoGAL](https://www.nekogal.com/) & `Windows`【出题】：[点击下载](https://pan.nekogal.top/s/72ncw)

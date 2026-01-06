@@ -58,7 +58,7 @@ lastmod: 2024-05-02 18:19:00
 2. [姬路白雪](https://pan.jlbx.xyz/) & `Windows`：[点击下载](https://pan.jlbx.xyz/?s=muv-luv)，密码：`终点`
 3. [迷迭香的博客](https://rosmontis.com/) & `Windows` `v1`：[点击下载](https://drive.rosmontis.com/s/1qPUX)，密码：`rosmontis`，去掉 `.rosmontis` 后缀名再解压
 4. [迷迭香的博客](https://rosmontis.com/) & `Windows` `v2`：[点击下载](https://drive.rosmontis.com/s/Vx6FD)，密码：`rosmontis`，去掉 `.rosmontis` 后缀名再解压
-5. [TouchGAL](https://www.touchgal.us/) & `Windows`：[点击下载](https://pan.touchgal.net/s/ReXT7)，密码：`touchgal`
+5. [TouchGAL](https://www.touchgal.top/) & `Windows`：[点击下载](https://pan.touchgal.net/s/ReXT7)，密码：`touchgal`
 6. [绮梦](https://acgs.one/) & `Windows`：[点击下载](https://acgs.one/down_html/?url=game/Muv-Luv&name=Muv-Luv)，密码：`绮梦`
 7. [真红小站](https://www.shinnku.com/) & `Windows`：[点击下载](https://www.shinnku.com/api/download/0/win/Muv-Luv%20Alternative.7z)
 8. [量子ACG](https://lzacg.org/) & `Windows`：[点击下载](https://lzacg.org/6345)，密码：`量子acg`、`lzacg.top`

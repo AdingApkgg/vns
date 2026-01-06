@@ -94,7 +94,7 @@ Clover Day's是ALcot公司的第14部作品，不仅是做为该公司于PC平�
 
 ### 通常版
 
-1. [TouchGAL](https://www.touchgal.us/) & `Windows`：[点击下载](https://pan.touchgal.net/s/kg2nTg)，密码：`touchgal`
+1. [TouchGAL](https://www.touchgal.top/) & `Windows`：[点击下载](https://pan.touchgal.net/s/kg2nTg)，密码：`touchgal`
 2. [Koyso](https://koyso.com/) & `Windows`：[点击下载](https://koyso.com/game/557)
 3. [烟郁Galgame](https://yanyugal.top/) & `KRKR`：[点击下载](https://yanyugal.top/d/disk1/%E5%B0%8F%E5%B0%8F%E7%9A%84%E5%88%86%E4%BA%AB%EF%BC%88PC%EF%BC%86%E5%AE%89%E5%8D%93%EF%BC%89/%E5%AE%89%E5%8D%93/krkr/Clover%20Day%E2%80%99s.7z)，密码：`lumouweinb`、`烟郁频道`
 4. [梓澪の妙妙屋](https://zi0.cc/) & `Windows`：[点击下载](https://zi0.cc/d/%60%E3%80%90%E5%90%88%E9%9B%86%E7%B3%BB%E5%88%97%E3%80%91/%E5%8D%97%2BGalGame%E6%B1%89%E5%8C%96%E5%8C%BA%E5%85%A8%E5%8C%BA%E8%B5%84%E6%BA%90%E5%A4%87%E4%BB%BD/1/03/%5BALcot%5D%20Clover%20Day's%20%E6%B1%89%E5%8C%96%E7%A1%AC%E7%9B%98%E7%89%88%5B%E6%98%9F%E5%86%88%E5%9B%9B%E5%8F%B6%E8%8D%89%E8%B0%83%E5%85%BB%E4%B8%AD%E5%BF%83%5D.zip?sign=_3sT5g9_tHt1NlsGGZbKJF51x2jMGbtNXLFx2HIVqEY=:0)
@@ -109,8 +109,8 @@ Clover Day's是ALcot公司的第14部作品，不仅是做为该公司于PC平�
 
 ### 增强版
 
-1. [TouchGAL](https://www.touchgal.us/) & `Windows`：[点击下载](https://pan.touchgal.net/s/8DeUg)，密码：`touchgal`
-2. [TouchGAL](https://www.touchgal.us/) & `KRKR`：[点击下载](https://pan.touchgal.net/s/An8HP)，密码：`touchgal`
+1. [TouchGAL](https://www.touchgal.top/) & `Windows`：[点击下载](https://pan.touchgal.net/s/8DeUg)，密码：`touchgal`
+2. [TouchGAL](https://www.touchgal.top/) & `KRKR`：[点击下载](https://pan.touchgal.net/s/An8HP)，密码：`touchgal`
 3. [梓澪の妙妙屋](https://zi0.cc/) & `Windows`：[点击下载](https://zi0.cc/d/%60%E3%80%90%E5%90%88%E9%9B%86%E7%B3%BB%E5%88%97%E3%80%91/%E5%8D%97%2BGalGame%E6%B1%89%E5%8C%96%E5%8C%BA%E5%85%A8%E5%8C%BA%E8%B5%84%E6%BA%90%E5%A4%87%E4%BB%BD/1/03/%5BALcot%5D%20Clover%20Day%E2%80%99s%20Plus%20FHD%20%20%E5%B9%B8%E8%BF%90%E8%8D%89%E7%9A%84%E7%BA%A6%E5%AE%9A%20Plus%20FHD%20%E6%97%A0%E7%A0%81%E6%B1%89%E5%8C%96%E7%A1%AC%E7%9B%98%E7%89%88%5B%E5%AE%98%E6%96%B9%E7%AE%80%E7%B9%81%E4%B8%AD%E6%97%A5%E8%8B%B1%E6%96%87%5D.zip?sign=vsiWyzft2XfMq53EEm0_mI2HlpU3CFNqWQVeUIwxBT8=:0)
 4. [梓澪の妙妙屋](https://zi0.cc/) & `Windows`：[点击下载](https://zi0.cc/d/%60%E3%80%90%E5%90%88%E9%9B%86%E7%B3%BB%E5%88%97%E3%80%91/%E5%8D%97%2BGalGame%E6%B1%89%E5%8C%96%E5%8C%BA%E5%85%A8%E5%8C%BA%E8%B5%84%E6%BA%90%E5%A4%87%E4%BB%BD/1/03/%5BALcot%5D%20Clover%20Day%E2%80%99s%20Plus%20%20Clover%20Day%E2%80%99s%20Plus%20%E6%B1%89%E5%8C%96%E7%A1%AC%E7%9B%98%E7%89%88%5BX'moe%E6%B1%89%E5%8C%96%E7%BB%84%5D.zip?sign=QXFe9bV_U-4Ure2syIC7qwVkEGfhBc1xflfrdd-txUc=:0)
 5. [梓澪の妙妙屋](https://zi0.cc/) & `Windows`：[点击下载](https://zi0.cc/d/%60%E3%80%90%E5%90%88%E9%9B%86%E7%B3%BB%E5%88%97%E3%80%91/%E6%B1%89%E5%8C%96galgame%E4%BC%9A%E7%A4%BE%E5%90%88%E9%9B%86/%E6%B1%89%E5%8C%96%E4%BC%9A%E7%A4%BE%E5%90%88%E9%9B%86%E9%83%A8%E5%88%86%20part3/Alcot/%5B160624%5D%5BALcot%5D%20Clover%20Day%E2%80%99s%20Plus.rar?sign=KEHy8iB-M1ObXBbOYotvdl5KXhLbJwUnmOXHvj_YtcI=:0)

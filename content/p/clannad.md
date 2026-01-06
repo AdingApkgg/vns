@@ -64,8 +64,8 @@ lastmod: 2024-04-01 12:26:40
 6. [烟郁Galgame](https://yanyugal.top/) & `ONS`：[点击下载](https://yanyugal.top/d/disk1/%E5%B0%8F%E5%B0%8F%E7%9A%84%E5%88%86%E4%BA%AB%EF%BC%88PC%EF%BC%86%E5%AE%89%E5%8D%93%EF%BC%89/%E5%AE%89%E5%8D%93/ons/Clannad.7z)，密码：烟郁频道
 7. [姬路白雪](https://pan.jlbx.xyz/) & `ONS`：[点击下载](https://pan.jlbx.xyz/?s=CLANNAD.rar)，密码：终点
 8. [迷迭香写代码](https://rosmontis.com/) & `Windows`：[点击下载](https://drive.rosmontis.com/s/8r2UN)，密码：rosmontis，去掉 `.rosmontis` 后缀名再解压
-9. [TouchGAL](https://www.touchgal.us/) & `Windows`：[点击下载](https://pan.touchgal.net/s/weaHv)，密码：`touchgal`
-10. [TouchGAL](https://www.touchgal.us/) & `ONS`：[点击下载](https://pan.touchgal.net/s/ABOtP)，密码：`touchgal`
+9. [TouchGAL](https://www.touchgal.top/) & `Windows`：[点击下载](https://pan.touchgal.net/s/weaHv)，密码：`touchgal`
+10. [TouchGAL](https://www.touchgal.top/) & `ONS`：[点击下载](https://pan.touchgal.net/s/ABOtP)，密码：`touchgal`
 11. [绮梦](https://acgs.eu.org/) & `Windows` + `ONS`：[点击下载](https://acgs.eu.org/down_html/?url=game/Clannad&name=CLANNAD)，密码：绮梦、acgs
 12. [真红小站](https://www.shinnku.com/) & `Windows`【官中】：[点击下载](https://www.shinnku.com/api/download/0/win/CLANNAD/CLANNAD(%E5%AE%98%E4%B8%AD).7z)
 13. [真红小站](https://www.shinnku.com/) & `Windows`【汉化组】：[点击下载](https://www.shinnku.com/api/download/0/win/CLANNAD/CLANNAD(%E %B1%89%E5%8C%96%E7%BB%84).7z)

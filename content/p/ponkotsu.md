@@ -96,8 +96,8 @@ lastmod: 2025-10-06 00:53:40
 
 ### 本篇
 
-1.  [TouchGAL](https://www.touchgal.us/) & `Windows`：[点击下载](https://pan.touchgal.net/s/O1xSW)，密码：`touchgal`
-2.  [TouchGAL](https://www.touchgal.us/) & `KRKR`：[点击下载](https://pan.touchgal.net/s/qQmHb)，密码：`touchgal`
+1.  [TouchGAL](https://www.touchgal.top/) & `Windows`：[点击下载](https://pan.touchgal.net/s/O1xSW)，密码：`touchgal`
+2.  [TouchGAL](https://www.touchgal.top/) & `KRKR`：[点击下载](https://pan.touchgal.net/s/qQmHb)，密码：`touchgal`
 3.  [Hikarinagi](https://www.hikarinagi.net/) & `Windows`：[点击下载](https://pan.yurari.moe/s/4L0tQ)，密码：`hikarinagi.com`
 4.  [Hikarinagi](https://www.hikarinagi.net/) & `Windows`：[点击下载](https://pan.yurari.moe/s/1wVjtD)，密码：`hikarinagi.com`
 5.  [梓澪の妙妙屋](https://zi0.cc/) & `Windows`【官中】：[点击下载](https://zi0.cc/%E5%90%88%E9%9B%86%E7%B3%BB%E5%88%97/%E5%8D%97+GalGame%E6%B1%89%E5%8C%96%E5%8C%BA%E5%85%A8%E5%8C%BA%E8%B5%84%E6%BA%90%E5%A4%87%E4%BB%BD/04/[%E3%82%B9%E3%83%9F%E3%83%AC]%20%E5%83%95%E3%81%A8%E6%81%8B%E3%81%99%E3%82%8B%E3%83%9D%E3%83%B3%E3%82%B3%E3%83%84%E3%82%A2%E3%82%AF%E3%83%9E%20%20%E4%B8%8E%E6%88%91%E6%81%8B%E7%88%B1%E7%9A%84%E5%BA%9F%E6%9F%B4%E6%81%B6%E9%AD%94%20%E6%B1%89%E5%8C%96%E7%A1%AC%E7%9B%98%E7%89%88[%E5%AE%98%E6%96%B9%E4%B8%AD%E6%96%87].zip)
@@ -115,8 +115,8 @@ lastmod: 2025-10-06 00:53:40
 
 ### Fan Disc
 
-1.  [TouchGAL](https://www.touchgal.us/) & `Windows`：[点击下载](https://pan.touchgal.net/s/qwjTb)，密码：`touchgal`
-2.  [TouchGAL](https://www.touchgal.us/) & `KRKR`：[点击下载](https://pan.touchgal.net/s/y7DhY)，密码：`touchgal`
+1.  [TouchGAL](https://www.touchgal.top/) & `Windows`：[点击下载](https://pan.touchgal.net/s/qwjTb)，密码：`touchgal`
+2.  [TouchGAL](https://www.touchgal.top/) & `KRKR`：[点击下载](https://pan.touchgal.net/s/y7DhY)，密码：`touchgal`
 3.  [Hikarinagi](https://www.hikarinagi.net/) & `Windows`：[点击下载](https://pan.yurari.moe/s/5LZuQ)，密码：`hikarinagi.com`
 4.  [Hikarinagi](https://www.hikarinagi.net/) & `Windows`：[点击下载](https://pan.yurari.moe/s/Z6Z6fV)，密码：`hikarinagi.com`
 5.  [梓澪の妙妙屋](https://zi0.cc/) & `Windows`【官中】：[点击下载](https://zi0.cc/%E5%90%88%E9%9B%86%E7%B3%BB%E5%88%97/%E5%8D%97+GalGame%E6%B1%89%E5%8C%96%E5%8C%BA%E5%85%A8%E5%8C%BA%E8%B5%84%E6%BA%90%E5%A4%87%E4%BB%BD/04/[%E3%82%B9%E3%83%9F%E3%83%AC]%20%E5%83%95%E3%81%A8%E6%81%8B%E3%81%99%E3%82%8B%E3%83%9D%E3%83%B3%E3%82%B3%E3%83%84%E3%82%A2%E3%82%AF%E3%83%9E%E3%80%82%20%E3%81%99%E3%81%A3%E3%81%94%E3%81%84%E3%81%88%E3%81%A3%E3%81%A1%EF%BC%81%E4%B8%8E%E6%88%91%E6%81%8B%E7%88%B1%E7%9A%84%E5%BA%9F%E6%9F%B4%E6%81%B6%E9%AD%94%20FD%20R18%E6%B1%89%E5%8C%96%E7%A1%AC%E7%9B%98%E7%89%88[%E5%AE%98%E6%96%B9%E4%B8%AD%E6%96%87].zip)

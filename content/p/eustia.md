@@ -88,8 +88,8 @@ lastmod: 2024-04-19 23:51:00
 
 1. [稻荷GAL](https://inarigal.com/) & `Windows`：[点击下载](https://inarigal.com/detail/366)
 2. [稻荷GAL](https://inarigal.com/) & `Tyranor`：[点击下载](https://inarigal.com/detail/6025)
-3. [TouchGAL](https://www.touchgal.us/) & `Windows`：[点击下载](https://pan.touchgal.net/s/R1Bh7)，密码：`touchgal`
-4. [TouchGAL](https://www.touchgal.us/) & `Tyranor`：[点击下载](https://pan.touchgal.net/s/VWwcd)，密码：`touchgal`
+3. [TouchGAL](https://www.touchgal.top/) & `Windows`：[点击下载](https://pan.touchgal.net/s/R1Bh7)，密码：`touchgal`
+4. [TouchGAL](https://www.touchgal.top/) & `Tyranor`：[点击下载](https://pan.touchgal.net/s/VWwcd)，密码：`touchgal`
 5. [烟郁Galgame](https://yanyugal.top/) & `ONS`：[点击下载](https://yanyugal.top/d/disk1/%E5%B0%8F%E5%B0%8F%E7%9A%84%E5%88%86%E4%BA%AB%EF%BC%88PC%EF%BC%86%E5%AE%89%E5%8D%93%EF%BC%89/%E5%AE%89%E5%8D%93/ons/%E7%A7%BD%E7%BF%BC%E7%9A%84%E5%B0%A4%E6%96%AF%E8%92%82%E5%A8%85.7z)，密码：`烟郁频道`
 6. [姬路白雪](https://pan.jlbx.xyz/) & `ONS`：[点击下载](https://pan.jlbx.xyz/?s=%E7%A7%BD%E7%BF%BC%E7%9A%84%E5%B0%A4%E6%96%AF%E8%92%82%E5%A8%85)，密码：`终点`
 7. [梓澪の妙妙屋](https://zi0.cc/) & `Windows`：[点击下载](https://zi0.cc/.%E3%80%90%E5%A4%8F%E9%A3%8E%E3%80%91/.%E3%80%90%E5%A4%8F%E9%A3%8E-1%E3%80%91/AVG%EF%BC%88%E8%A7%86%E8%A7%89%E5%B0%8F%E8%AF%B4%EF%BC%89/%E3%80%90PC%E3%80%91/%E3%80%90PC%E3%80%91%E7%A7%BD%E7%BF%BC%E7%9A%84%E5%B0%A4%E6%96%AF%E8%92%82%E5%A8%85?from=search)

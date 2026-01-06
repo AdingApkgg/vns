@@ -83,7 +83,7 @@ Unlimited篇共有11个结局，对应御剑冥夜、榊千鹤、彩峰慧、珠
 1. [稻荷GAL](https://inarigal.com/) & `Windows`：[点击下载](https://inarigal.com/detail/9111)
 2. [姬路白雪](https://pan.jlbx.xyz/) & `Windows`：[点击下载](https://pan.jlbx.xyz/?s=muv-luv)，密码：`终点`
 3. [迷迭香的博客](https://rosmontis.com/) & `Windows`：[点击下载](https://drive.rosmontis.com/s/oegtr)，密码：`rosmontis`，去掉 `.rosmontis` 后缀名再解压
-4. [TouchGAL](https://www.touchgal.us/) & `Windows`：[点击下载](https://pan.touchgal.net/s/QAxlS6)，密码：`touchgal`，可使用 `Windows 10` 系统运行
+4. [TouchGAL](https://www.touchgal.top/) & `Windows`：[点击下载](https://pan.touchgal.net/s/QAxlS6)，密码：`touchgal`，可使用 `Windows 10` 系统运行
 5. [绮梦](https://acgs.one/) & `Windows`：[点击下载](https://acgs.one/down_html/?url=game/Muv-Luv&name=Muv-Luv)，密码：`绮梦`
 6. [真红小站](https://www.shinnku.com/) & `Windows`：[点击下载](https://www.shinnku.com/api/download/0/win/Muv-luv.7z)
 7. [量子ACG](https://lzacg.org/) & `Windows`：[点击下载](https://lzacg.org/6344)，密码：`量子acg`、`lzacg.top`

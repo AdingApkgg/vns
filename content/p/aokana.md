@@ -81,7 +81,7 @@ lastmod: 2024-10-27 03:13:40
 
 > 基本帮助请参阅公告：[点我跳转](/)
 
-- [TouchGAL](https://www.touchgal.us/) 【仅移动端问题】：
+- [TouchGAL](https://www.touchgal.top/) 【仅移动端问题】：
   - 直装版无CG鉴赏模式，移植版有全功能
   - 补丁使用方法：解压后把obb文件和游戏本体自带的obb放到一起
 - [真红小站](https://www.shinnku.com/) > [README.md](https://www.shinnku.com/api/download/0/win/%E8%8B%8D%E4%B9%8B%E5%BD%BC%E6%96%B9%E7%9A%84%E5%9B%9B%E9%87%8D%E5%A5%8F&%E8%8B%8D%E8%93%9D%E5%BD%BC%E7%AB%AF%E7%9A%84%E5%9B%9B%E9%87%8D%E5%A5%8F/README.md)
@@ -102,8 +102,8 @@ lastmod: 2024-10-27 03:13:40
 
 ### 本篇
 
-1. [TouchGAL](https://www.touchgal.us/) & `Windows`：[点击下载](https://pan.touchgal.net/s/VDNGId)，密码：`touchgal`
-2. [TouchGAL](https://www.touchgal.us/) & `Android`：[点击下载](https://pan.touchgal.net/s/XwYBsx)，密码：`touchgal`
+1. [TouchGAL](https://www.touchgal.top/) & `Windows`：[点击下载](https://pan.touchgal.net/s/VDNGId)，密码：`touchgal`
+2. [TouchGAL](https://www.touchgal.top/) & `Android`：[点击下载](https://pan.touchgal.net/s/XwYBsx)，密码：`touchgal`
 3. [NekoGAL](https://www.nekogal.com/) & `Windows`：[点击下载](https://pan.nekogal.top/s/wNOhq)
 4. [Hikarinagi](https://www.hikarinagi.net/) & `Windows` + `Android`【[琉璃花色工作室](https://www.shinku.xyz/)】：[点击下载](https://pan.yurari.moe/s/KZntv)，密码：`hikarinagi.com`
 5. [Hikarinagi](https://www.hikarinagi.net/) & `Windows` + `Android`【[琉璃花色工作室](https://www.shinku.xyz/)】：[点击下载](https://pan.yurari.moe/s/J6zlFm)，密码：`hikarinagi.com`
@@ -126,8 +126,8 @@ lastmod: 2024-10-27 03:13:40
 
 ### EXTRA1
 
-1. [TouchGAL](https://www.touchgal.us/) & `Windows`：[点击下载](https://pan.touchgal.net/s/g5VFL)，密码：`touchgal`
-2. [TouchGAL](https://www.touchgal.us/) & `Android`：[点击下载](https://pan.touchgal.net/s/gGx8CL)，密码：`touchgal`
+1. [TouchGAL](https://www.touchgal.top/) & `Windows`：[点击下载](https://pan.touchgal.net/s/g5VFL)，密码：`touchgal`
+2. [TouchGAL](https://www.touchgal.top/) & `Android`：[点击下载](https://pan.touchgal.net/s/gGx8CL)，密码：`touchgal`
 3. [NekoGAL](https://www.nekogal.com/) & `Windows`：[点击下载](https://pan.nekogal.top/s/dL5TM)
 4. [Hikarinagi](https://www.hikarinagi.net/) & `Windows` + `Android`【[青桔移植组](https://qingju.org/)】：[点击下载](https://pan.yurari.moe/s/L84Tp)，密码：`hikarinagi.com`
 5. [Hikarinagi](https://www.hikarinagi.net/) & `Windows` + `Android`【[青桔移植组](https://qingju.org/)】：[点击下载](https://pan.yurari.moe/s/G6zQCp)，密码：`hikarinagi.com`
@@ -141,8 +141,8 @@ lastmod: 2024-10-27 03:13:40
 
 ### EXTRA2
 
-1. [TouchGAL](https://www.touchgal.us/) & `Windows`：[点击下载](https://pan.touchgal.net/s/PyeVuR)，密码：`touchgal`
-2. [TouchGAL](https://www.touchgal.us/) & `Android`：[点击下载](https://pan.touchgal.net/s/7N3vCX)，密码：`touchgal`
+1. [TouchGAL](https://www.touchgal.top/) & `Windows`：[点击下载](https://pan.touchgal.net/s/PyeVuR)，密码：`touchgal`
+2. [TouchGAL](https://www.touchgal.top/) & `Android`：[点击下载](https://pan.touchgal.net/s/7N3vCX)，密码：`touchgal`
 3. [NekoGAL](https://www.nekogal.com/) & `Windows`：[点击下载](https://pan.nekogal.top/s/L5Rck)
 4. [Hikarinagi](https://www.hikarinagi.net/) & `Windows` + `Android`【[青桔移植组](https://qingju.org/)】：[点击下载](https://pan.yurari.moe/s/MQ3t0)，密码：`hikarinagi.com`
 5. [Hikarinagi](https://www.hikarinagi.net/) & `Windows` + `Android`【[青桔移植组](https://qingju.org/)】：[点击下载](https://pan.yurari.moe/s/ER1KhJ)，密码：`hikarinagi.com`

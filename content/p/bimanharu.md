@@ -65,8 +65,8 @@ lastmod: 2024-06-08 19:00:00
 
 ## 分流
 
-1. [TouchGAL](https://www.touchgal.us/) & `Windows`：[点击下载](https://pan.touchgal.net/s/XqWCx)，密码：`touchgal`
-2. [TouchGAL](https://www.touchgal.us/) & `ONS`：[点击下载](https://pan.touchgal.net/s/8xYXUg)，密码：`touchgal`
+1. [TouchGAL](https://www.touchgal.top/) & `Windows`：[点击下载](https://pan.touchgal.net/s/XqWCx)，密码：`touchgal`
+2. [TouchGAL](https://www.touchgal.top/) & `ONS`：[点击下载](https://pan.touchgal.net/s/8xYXUg)，密码：`touchgal`
 3. [梓澪の妙妙屋](https://zi0.cc/) & `Windows`：[点击下载](https://zi0.cc/.%E3%80%90%E5%A4%8F%E9%A3%8E%E3%80%91/.%E3%80%90%E5%A4%8F%E9%A3%8E-2%E3%80%91/.%E5%85%B6%E4%BB%96/%E3%80%90_PC%E7%A1%AC%E7%9B%98%E3%80%91%E7%BE%8E%E5%B0%91%E5%A5%B3%E4%B8%87%E5%8D%8E%E9%95%9C2_5%EF%BC%9A%E7%8C%AE%E7%BB%99%E6%9B%BE%E7%BB%8F%E6%98%AF%E5%B0%91%E5%A5%B3%E7%9A%84%E4%BD%A0_tar_zst.rar?from=search)
 4. [梓澪の妙妙屋](https://zi0.cc/) & `Android`：[点击下载](https://zi0.cc/d/%2C%E3%80%90ADV-%E5%86%92%E9%99%A9%E6%B8%B8%E6%88%8F%E3%80%91/%E3%80%90PC%2B%E5%AE%89%E5%8D%93%E3%80%91%E7%BE%8E%E5%B0%91%E5%A5%B3%E4%B8%87%E5%8D%8E%E9%95%9C%E7%B3%BB%E5%88%971-5/%E5%AE%89%E5%8D%93/2.5-%E7%BE%8E%E5%B0%91%E5%A5%B3%E4%B8%87%E5%8D%8E%E9%95%9C%20-%E7%8C%AE%E7%BB%99%E6%9B%BE%E7%BB%8F%E6%98%AF%E5%B0%91%E5%A5%B3%E7%9A%84%E4%BD%A0.apk?sign=TmpYEwbZXnTxPAdWGlcRHpbp0Whdvyf9JqBAV6nZ7JE=:0)
 5. [梓澪の妙妙屋](https://zi0.cc/) & `Android`：[点击下载](https://zi0.cc/d/%60%E3%80%90%E5%BD%92%20%E6%A1%A3%E3%80%91/%E3%80%90%E5%AE%89%E5%8D%93%E5%90%88%E9%9B%86%E3%80%91/005/%E7%BE%8E%E5%B0%91%E5%A5%B3%E4%B8%87%E5%8D%8E%E9%95%9C2.5.apk?sign=JmC2FYqkN8CMqGEie5OTa2esYGXpMDt3WAD8QBHNKYU=:0)

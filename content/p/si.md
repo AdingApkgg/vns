@@ -68,8 +68,8 @@ lastmod: 2025-02-24 15:52:30
 
 ## 分流
 
-1. [TouchGAL](https://www.touchgal.us/) & `Windows`：[点击下载](https://pan.touchgal.net/s/lxqF7)，密码：`touchgal`
-2. [TouchGAL](https://www.touchgal.us/) & `KRKR`：[点击下载](https://pan.touchgal.net/s/1y2SX)，密码：`touchgal`
+1. [TouchGAL](https://www.touchgal.top/) & `Windows`：[点击下载](https://pan.touchgal.net/s/lxqF7)，密码：`touchgal`
+2. [TouchGAL](https://www.touchgal.top/) & `KRKR`：[点击下载](https://pan.touchgal.net/s/1y2SX)，密码：`touchgal`
 3. [绮梦](https://acgs.eu.org/) & `Windows` + `KRKR` + `Android`：[点击下载](https://acgs.eu.org/down_html/?url=game/%E6%AD%BB%E9%A6%86&name=%E9%80%9D%E5%8E%BB%E7%9A%84%E4%BD%A0%E3%80%81%E4%BA%8E%E9%A6%86%E4%B8%AD%E8%90%8C%E7%94%9F%E7%9A%84%E6%86%8E%E6%81%B6)，密码：acgs
 4. [姬路白雪](https://pan.jlbx.xyz/) & `Windows` + `KRKR`：[点击下载](https://pan.jlbx.xyz/GalGame/gal%E7%BB%88%E7%82%B9%E8%B5%84%E6%BA%90%EF%BC%88%E5%AF%86%E7%A0%81%20%E7%BB%88%E7%82%B9%EF%BC%89/AB/%E6%BF%92%E6%AD%BB%E8%BD%AE%E5%9B%9E%E7%9A%84%E5%8D%BF%E4%BA%8E%E9%A6%86%E4%B8%AD%E8%90%8C%E7%94%9F%E7%9A%84%E6%86%8E%E6%81%B6)，密码：终点
 5. [姬路白雪](https://pan.jlbx.xyz/) & `Windows`：[点击下载](https://pan.jlbx.xyz/?s=%E6%AD%BB%E9%A6%86)，密码：终点

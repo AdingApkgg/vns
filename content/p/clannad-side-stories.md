@@ -52,6 +52,6 @@ lastmod: 2024-04-01 12:26:00
 1. [稻荷GAL](https://inarigal.com/) & `Windows`：[点击下载](https://sakustar.moe/download?post_id=11019&index=0&i=0)
 2. [梓澪の妙妙屋](https://zi0.cc/) & `Windows`：[点击下载](https://zi0.cc/d/.%E3%80%90%E5%A4%8F%E9%A3%8E%E3%80%91/.%E3%80%90%E5%A4%8F%E9%A3%8E-1%E3%80%91/AVG%EF%BC%88%E8%A7%86%E8%A7%89%E5%B0%8F%E8%AF%B4%EF%BC%89/.%E5%85%B6%E4%BB%96/%E3%80%90PC%E3%80%91CLANNAD%20Side%20Stories.7z?sign=j9bt3tzxuSyxN5zpajleBVRVFqc1GQ1pWlWCsRaliLI=:0)，密码：半夏
 3. [烟郁Galgame](https://yanyugal.top/) & `Windows`：[点击下载](https://yanyugal.top/d/disk1/%E5%B0%8F%E5%B0%8F%E7%9A%84%E5%88%86%E4%BA%AB%EF%BC%88PC%EF%BC%86%E5%AE%89%E5%8D%93%EF%BC%89/PC/galgame/%5B%E6%B1%89%E5%8C%96%5DCLANNAD%20Side%20Stories.7z)，密码：烟郁频道
-4. [TouchGAL](https://www.touchgal.us/) & `Windows`：[点击下载](https://pan.touchgal.net/s/0oOcg)，密码：`touchgal`
+4. [TouchGAL](https://www.touchgal.top/) & `Windows`：[点击下载](https://pan.touchgal.net/s/0oOcg)，密码：`touchgal`
 5. [绮梦](https://acgs.eu.org/) & `Windows`：[点击下载](https://acgs.eu.org/down_html/?url=game/CLANNAD%E8%A2%AB%E5%85%89%E5%AE%88%E6%9C%9B%E7%9D%80%E7%9A%84%E5%9D%A1%E9%81%93&name=%E5%85%89%E8%8A%92%E5%AE%88%E6%8A%A4%E7%9A%84%E5%B0%8F%E9%95%87)，密码：绮梦、acgs
 6. [真红小站](https://www.shinnku.com/) & `Windows`：[点击下载](https://www.shinnku.com/api/download/0/win/CLANNAD%E8%A2%AB%E5%85%89%E5%AE%88%E6%9C%9B%E7%9D%80%E7%9A%84%E5%9D%A1%E9%81%93.7z)

@@ -349,8 +349,8 @@ LP7年，兰斯一行在找圣女怪物的途中误入荷鲁斯的装置沉睡�
 
 ### 01 寻找小光
 
-1. [TouchGAL](https://www.touchgal.us/) & `Windows`：[点击下载](https://pan.touchgal.net/s/rnN9sy)，密码：`touchgal`
-2. [TouchGAL](https://www.touchgal.us/) & `Windows`【重制版】：[点击下载](https://pan.touchgal.net/s/oVvF2)，密码：`touchgal`
+1. [TouchGAL](https://www.touchgal.top/) & `Windows`：[点击下载](https://pan.touchgal.net/s/rnN9sy)，密码：`touchgal`
+2. [TouchGAL](https://www.touchgal.top/) & `Windows`【重制版】：[点击下载](https://pan.touchgal.net/s/oVvF2)，密码：`touchgal`
 3. [我的Galgame资源发布站](https://www.ttloli.com/) & `Windows`【重制版】：[点击下载](https://www.ttloli.com/lansi01-zhongzhiban.html)，密码：`忧郁的弟弟`、`忧郁的loli`
 4. [NekoGAL](https://www.nekogal.com/) & `Windows`【重制版】：[点击下载](https://pan.nekogal.top/s/AK4ul)
 5. [Hikarinagi](https://www.hikarinagi.net/) & `Windows`：[点击下载](https://pan.yurari.moe/s/pkrHN)，密码：`hikarinagi.com`
@@ -364,7 +364,7 @@ LP7年，兰斯一行在找圣女怪物的途中误入荷鲁斯的装置沉睡�
 
 ### 02 反叛的少女们
 
-1. [TouchGAL](https://www.touchgal.us/) & `Windows`：[点击下载](https://pan.touchgal.net/s/QQyt6)，密码：`touchgal`
+1. [TouchGAL](https://www.touchgal.top/) & `Windows`：[点击下载](https://pan.touchgal.net/s/QQyt6)，密码：`touchgal`
 2. [NekoGAL](https://www.nekogal.com/) & `Windows`：[点击下载](https://pan.nekogal.top/s/PkxcB)
 3. [Hikarinagi](https://www.hikarinagi.net/) & `Windows`：[点击下载](https://pan.yurari.moe/s/ojNIL)，密码：`hikarinagi.com`
 4. [Hikarinagi](https://www.hikarinagi.net/) & `Windows`：[点击下载](https://pan.yurari.moe/s/wpnJiz)，密码：`hikarinagi.com`
@@ -376,7 +376,7 @@ LP7年，兰斯一行在找圣女怪物的途中误入荷鲁斯的装置沉睡�
 
 ### 03 利萨斯陷落
 
-1. [TouchGAL](https://www.touchgal.us/) & `Windows`：[点击下载](https://pan.touchgal.net/s/eYXTx)，密码：`muko`、`touchgal`
+1. [TouchGAL](https://www.touchgal.top/) & `Windows`：[点击下载](https://pan.touchgal.net/s/eYXTx)，密码：`muko`、`touchgal`
 2. [NekoGAL](https://www.nekogal.com/) & `Windows`：[点击下载](https://pan.nekogal.top/s/XMzhJ)
 3. [Hikarinagi](https://www.hikarinagi.net/) & `Windows`：[点击下载](https://pan.yurari.moe/s/r9kI0)，密码：`hikarinagi.com`
 4. [Hikarinagi](https://www.hikarinagi.net/) & `Windows`：[点击下载](https://pan.yurari.moe/s/qxA3FP)，密码：`hikarinagi.com`
@@ -387,14 +387,14 @@ LP7年，兰斯一行在找圣女怪物的途中误入荷鲁斯的装置沉睡�
 
 ### 04 教团的遗产
 
-1. [TouchGAL](https://www.touchgal.us/) & `Windows`：[点击下载](https://pan.touchgal.net/s/gygpfL)，密码：`touchgal`
+1. [TouchGAL](https://www.touchgal.top/) & `Windows`：[点击下载](https://pan.touchgal.net/s/gygpfL)，密码：`touchgal`
 2. [NekoGAL](https://www.nekogal.com/) & `Windows`：[点击下载](https://pan.nekogal.top/s/7ZQFw)
 3. [Hikarinagi](https://www.hikarinagi.net/) & `Windows`：[点击下载](https://pan.yurari.moe/s/qxokTP)，密码：`hikarinagi.com`
 4. [梓澪の妙妙屋](https://zi0.cc/) & `Windows`：[点击下载](https://zi0.cc/d/%60%E3%80%90%E5%90%88%E9%9B%86%E7%B3%BB%E5%88%97%E3%80%91/%E5%8D%97%2BGalGame%E6%B1%89%E5%8C%96%E5%8C%BA%E5%85%A8%E5%8C%BA%E8%B5%84%E6%BA%90%E5%A4%87%E4%BB%BD/1/03/%5BALICESOFT%5D%20RanceIV%EF%BC%8D%E6%95%99%E5%9B%A3%E3%81%AE%E9%81%BA%E7%94%A3%EF%BC%8D%20%E5%85%B0%E6%96%AF%EF%BC%A9%EF%BC%B6%EF%BC%8D%E6%95%99%E5%9B%A2%E7%9A%84%E9%81%97%E4%BA%A7%EF%BC%8D%20%E6%B1%89%E5%8C%96%E7%A1%AC%E7%9B%98%E7%89%88%5B%E5%8D%A1%E6%8B%89%E4%BF%9D%E6%8A%A4%E5%8D%8F%E4%BC%9A%E6%B1%89%E5%8C%96%5D.zip?sign=PvIc2f96tngT34PDw496cAFg1au6aMCn6za2zqMkZzA=:0)
 
 ### 4.1 拯救制药厂
 
-1. [TouchGAL](https://www.touchgal.us/) & `Windows`：[点击下载](https://pan.touchgal.net/s/kaLTg)，密码：`touchgal`
+1. [TouchGAL](https://www.touchgal.top/) & `Windows`：[点击下载](https://pan.touchgal.net/s/kaLTg)，密码：`touchgal`
 2. [NekoGAL](https://www.nekogal.com/) & `Windows`：[点击下载](https://pan.nekogal.top/s/Ql2cG)
 3. [Hikarinagi](https://www.hikarinagi.net/) & `Windows`：[点击下载](https://pan.yurari.moe/s/rkpWu0)，密码：`hikarinagi.com`
 4. [真红小站](https://www.shinnku.com/) & `Windows`：[点击下载](https://www.shinnku.com/api/download/0/win/%E5%85%B0%E6%96%AF%204.1%EF%BD%9E%E6%8B%AF%E6%95%91%E5%88%B6%E8%8D%AF%E5%8E%82v1.01.7z)
@@ -404,7 +404,7 @@ LP7年，兰斯一行在找圣女怪物的途中误入荷鲁斯的装置沉睡�
 
 ### 4.2 天使组
 
-1. [TouchGAL](https://www.touchgal.us/) & `Windows`：[点击下载](https://pan.touchgal.net/s/nnJcY)，密码：`touchgal`
+1. [TouchGAL](https://www.touchgal.top/) & `Windows`：[点击下载](https://pan.touchgal.net/s/nnJcY)，密码：`touchgal`
 2. [NekoGAL](https://www.nekogal.com/) & `Windows`：[点击下载](https://pan.nekogal.top/s/mVzCn)
 3. [NekoGAL](https://www.nekogal.com/) & `Windows`：[点击下载](https://pan.nekogal.top/s/nLpu4)
 4. [Hikarinagi](https://www.hikarinagi.net/) & `Windows`：[点击下载](https://pan.yurari.moe/s/v2wMIj)，密码：`hikarinagi.com`
@@ -415,7 +415,7 @@ LP7年，兰斯一行在找圣女怪物的途中误入荷鲁斯的装置沉睡�
 
 ### 鬼畜王兰斯
 
-1. [TouchGAL](https://www.touchgal.us/) & `Windows`：[点击下载](https://pan.touchgal.net/s/Nj5CO)，密码：`touchgal`
+1. [TouchGAL](https://www.touchgal.top/) & `Windows`：[点击下载](https://pan.touchgal.net/s/Nj5CO)，密码：`touchgal`
 2. [NekoGAL](https://www.nekogal.com/) & `Windows`：[点击下载](https://pan.nekogal.top/s/qJ2te)
 3. [Hikarinagi](https://www.hikarinagi.net/) & `Windows`：[点击下载](https://pan.yurari.moe/s/M861S0)，密码：`hikarinagi.com`
 4. [真红小站](https://www.shinnku.com/) & `Windows`：[点击下载](https://www.shinnku.com/api/download/0/win/%E9%AC%BC%E7%95%9C%E7%8E%8B%E5%85%B0%E6%96%AF.7z)
@@ -423,7 +423,7 @@ LP7年，兰斯一行在找圣女怪物的途中误入荷鲁斯的装置沉睡�
 
 ### 5D 孤单的少女
 
-1. [TouchGAL](https://www.touchgal.us/) & `Windows`：[点击下载](https://pan.touchgal.net/s/JkkrSa)，密码：`touchgal`
+1. [TouchGAL](https://www.touchgal.top/) & `Windows`：[点击下载](https://pan.touchgal.net/s/JkkrSa)，密码：`touchgal`
 2. [NekoGAL](https://www.nekogal.com/) & `Windows`：[点击下载](https://pan.nekogal.top/s/DgPsN)
 3. [Hikarinagi](https://www.hikarinagi.net/) & `Windows`：[点击下载](https://pan.yurari.moe/s/wrmUz)，密码：`hikarinagi.com`
 4. [Hikarinagi](https://www.hikarinagi.net/) & `Windows`：[点击下载](https://pan.yurari.moe/s/o2AzuL)，密码：`hikarinagi.com`
@@ -434,7 +434,7 @@ LP7年，兰斯一行在找圣女怪物的途中误入荷鲁斯的装置沉睡�
 
 ### 06 赛斯崩坏
 
-1. [TouchGAL](https://www.touchgal.us/) & `Windows`：[点击下载](https://pan.touchgal.net/s/yd0IY)，密码：`touchgal`
+1. [TouchGAL](https://www.touchgal.top/) & `Windows`：[点击下载](https://pan.touchgal.net/s/yd0IY)，密码：`touchgal`
 2. [NekoGAL](https://www.nekogal.com/) & `Windows`：[点击下载](https://pan.nekogal.top/s/GzYsx)
 3. [Hikarinagi](https://www.hikarinagi.net/) & `Windows`：[点击下载](https://pan.yurari.moe/s/mYAHK)，密码：`hikarinagi.com`
 4. [Hikarinagi](https://www.hikarinagi.net/) & `Windows`：[点击下载](https://pan.yurari.moe/s/yPpVUz)，密码：`hikarinagi.com`
@@ -445,8 +445,8 @@ LP7年，兰斯一行在找圣女怪物的途中误入荷鲁斯的装置沉睡�
 
 ### 06 后日谈
 
-1. [TouchGAL](https://www.touchgal.us/) & `Windows`：[点击下载](https://pan.touchgal.net/s/yd0IY)，密码：`touchgal`
-2. [TouchGAL](https://www.touchgal.us/) & `Windows`：[点击下载](https://pan.touchgal.net/s/JlBqHa)，密码：`touchgal`
+1. [TouchGAL](https://www.touchgal.top/) & `Windows`：[点击下载](https://pan.touchgal.net/s/yd0IY)，密码：`touchgal`
+2. [TouchGAL](https://www.touchgal.top/) & `Windows`：[点击下载](https://pan.touchgal.net/s/JlBqHa)，密码：`touchgal`
 3. [Hikarinagi](https://www.hikarinagi.net/) & `Windows`：[点击下载](https://pan.yurari.moe/s/mYAHK)，密码：`hikarinagi.com`
 4. [Hikarinagi](https://www.hikarinagi.net/) & `Windows`：[点击下载](https://pan.yurari.moe/s/yPpVUz)，密码：`hikarinagi.com`
 5. [真红小站](https://www.shinnku.com/) & `Windows`：[点击下载](https://www.shinnku.com/api/download/0/win/%E5%85%B0%E6%96%AF06%20%E5%90%8E%E6%97%A5%E8%B0%88.7z)
@@ -456,7 +456,7 @@ LP7年，兰斯一行在找圣女怪物的途中误入荷鲁斯的装置沉睡�
 
 ### 战国兰斯
 
-1. [TouchGAL](https://www.touchgal.us/) & `Windows`：[点击下载](https://pan.touchgal.net/s/yQDCY)，密码：`muko`、`touchgal`
+1. [TouchGAL](https://www.touchgal.top/) & `Windows`：[点击下载](https://pan.touchgal.net/s/yQDCY)，密码：`muko`、`touchgal`
 2. [NekoGAL](https://www.nekogal.com/) & `Windows`：[点击下载](https://pan.nekogal.top/s/ZNmT0)
 3. [Hikarinagi](https://www.hikarinagi.net/) & `Windows`：[点击下载](https://pan.yurari.moe/s/o2mkuL)，密码：`hikarinagi.com`
 4. [真红小站](https://www.shinnku.com/) & `Windows`：[点击下载](https://www.shinnku.com/api/download/zd/0001-0500/[061215][ALICESOFT]%20%E5%85%B0%E6%96%AF07%20%E6%88%98%E5%9B%BD%E5%85%B0%E6%96%AF.rar)
@@ -469,7 +469,7 @@ LP7年，兰斯一行在找圣女怪物的途中误入荷鲁斯的装置沉睡�
 
 ### 战国兰斯 三个乱斩乱刺乱烧的家伙
 
-1. [TouchGAL](https://www.touchgal.us/) & `Windows`：[点击下载](https://pan.touchgal.net/s/GDlaiX)，密码：`touchgal`
+1. [TouchGAL](https://www.touchgal.top/) & `Windows`：[点击下载](https://pan.touchgal.net/s/GDlaiX)，密码：`touchgal`
 2. [NekoGAL](https://www.nekogal.com/) & `Windows`：[点击下载](https://pan.nekogal.top/s/aJmsp)
 3. [Hikarinagi](https://www.hikarinagi.net/) & `Windows`：[点击下载](https://pan.yurari.moe/s/ngDfq)，密码：`hikarinagi.com`
 4. [Hikarinagi](https://www.hikarinagi.net/) & `Windows`：[点击下载](https://pan.yurari.moe/s/xkoJh4)，密码：`hikarinagi.com`
@@ -478,7 +478,7 @@ LP7年，兰斯一行在找圣女怪物的途中误入荷鲁斯的装置沉睡�
 
 ### 08 Quest 无尽的任务
 
-1. [TouchGAL](https://www.touchgal.us/) & `Windows`：[点击下载](https://pan.touchgal.net/s/aojuJ)，密码：`muko`、`touchgal`
+1. [TouchGAL](https://www.touchgal.top/) & `Windows`：[点击下载](https://pan.touchgal.net/s/aojuJ)，密码：`muko`、`touchgal`
 2. [Hikarinagi](https://www.hikarinagi.net/) & `Windows`：[点击下载](https://pan.yurari.moe/s/vZgTj)，密码：`hikarinagi.com`
 3. [Hikarinagi](https://www.hikarinagi.net/) & `Windows`：[点击下载](https://pan.yurari.moe/s/pY91sN)，密码：`hikarinagi.com`
 4. [真红小站](https://www.shinnku.com/) & `Windows`：[点击下载](https://www.shinnku.com/api/download/0/win/%E5%85%B0%E6%96%AF08%20%E6%97%A0%E5%B0%BD%E7%9A%84%E4%BB%BB%E5%8A%A1.7z)
@@ -489,7 +489,7 @@ LP7年，兰斯一行在找圣女怪物的途中误入荷鲁斯的装置沉睡�
 
 ### 09 赫尔曼革命
 
-1. [TouchGAL](https://www.touchgal.us/) & `Windows`：[点击下载](https://pan.touchgal.net/s/YNlCa)，密码：`touchgal`
+1. [TouchGAL](https://www.touchgal.top/) & `Windows`：[点击下载](https://pan.touchgal.net/s/YNlCa)，密码：`touchgal`
 2. [NekoGAL](https://www.nekogal.com/) & `Windows`：[点击下载](https://pan.nekogal.top/s/RzOty)
 3. [Hikarinagi](https://www.hikarinagi.net/) & `Windows`：[点击下载](https://pan.yurari.moe/s/qZRIP)，密码：`hikarinagi.com`
 4. [Hikarinagi](https://www.hikarinagi.net/) & `Windows`：[点击下载](https://pan.yurari.moe/s/rkgwU0)，密码：`hikarinagi.com`
@@ -500,7 +500,7 @@ LP7年，兰斯一行在找圣女怪物的途中误入荷鲁斯的装置沉睡�
 
 ### 10 决战
 
-1. [TouchGAL](https://www.touchgal.us/) & `Windows`：[点击下载](https://pan.touchgal.net/s/RqRs7)，密码：`touchgal`
+1. [TouchGAL](https://www.touchgal.top/) & `Windows`：[点击下载](https://pan.touchgal.net/s/RqRs7)，密码：`touchgal`
 2. [NekoGAL](https://www.nekogal.com/) & `Windows`：[点击下载](https://pan.nekogal.top/s/EQ1he)
 3. [Hikarinagi](https://www.hikarinagi.net/) & `Windows`：[点击下载](https://pan.yurari.moe/s/pZ1fN)，密码：`hikarinagi.com`
 4. [Hikarinagi](https://www.hikarinagi.net/) & `Windows`：[点击下载](https://pan.yurari.moe/s/NkpLCr)，密码：`hikarinagi.com`
@@ -512,7 +512,7 @@ LP7年，兰斯一行在找圣女怪物的途中误入荷鲁斯的装置沉睡�
 
 ### 合集
 
-1. [TouchGAL](https://www.touchgal.us/) & `Windows`：[点击下载](https://pan.touchgal.net/search?keywords=%E5%85%B0%E6%96%AF)，密码：`touchgal`
+1. [TouchGAL](https://www.touchgal.top/) & `Windows`：[点击下载](https://pan.touchgal.net/search?keywords=%E5%85%B0%E6%96%AF)，密码：`touchgal`
 2. [NekoGAL](https://www.nekogal.com/) & `Windows`：[点击下载](https://pan.nekogal.top/search?keywords=%E5%85%B0%E6%96%AF)
 3. [绮梦](https://acgs.one/) & `Windows`：[点击下载](https://game.acgs.one/game/147.html)，密码：`acgs`、`绮梦`
 4. [姬路白雪](https://pan.jlbx.xyz/) & `Windows`：[点击下载](https://pan.jlbx.xyz/?s=%E5%85%B0%E6%96%AF)，密码：`终点`

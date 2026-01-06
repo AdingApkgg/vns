@@ -55,7 +55,7 @@ lastmod: 2024-05-16 23:40:00
 
 ## 分流
 
-1. [TouchGAL](https://www.touchgal.us/) & `Windows`：[点击下载](https://pan.touchgal.net/s/Qns6)，密码：`touchgal`
+1. [TouchGAL](https://www.touchgal.top/) & `Windows`：[点击下载](https://pan.touchgal.net/s/Qns6)，密码：`touchgal`
 2. [迷迭香的博客](https://rosmontis.com/) & `Windows`：[点击下载](https://drive.rosmontis.com/s/1gesX)，密码：`rosmontis`，去掉 `.rosmontis` 后缀名再解压
 3. [姬路白雪](https://pan.jlbx.xyz/) & `Windows`：[点击下载](https://pan.jlbx.xyz/?s=%E6%83%B3%E8%A6%81%E4%BC%A0%E8%BE%BE%E7%BB%99%E4%BD%A0%E7%9A%84%E7%88%B1%E6%81%8B)，密码：`终点`
 4. [稻荷GAL](https://inarigal.com/) & `Windows`：[点击下载](https://inarigal.com/detail/298)
