@@ -125,9 +125,9 @@ deploy:
   - type: git
     repository: https://github.com/AdingApkgg/gal-site.git
     branch: main
-  - type: cjh_google_url_submitter
-  - type: cjh_bing_url_submitter
-  - type: cjh_baidu_url_submitter
+  # - type: cjh_google_url_submitter
+  # - type: cjh_bing_url_submitter
+  # - type: cjh_baidu_url_submitter
 
 tag_generator:
   enable_index_page: false
