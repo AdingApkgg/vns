@@ -1,6 +1,11 @@
 <link rel="stylesheet" href="https://registry.npmmirror.com/weblive2d/latest/files/waifu.css">
   <script async="async" src="https://registry.npmmirror.com/weblive2d/latest/files/js/autoload.js"></script>
   <script>
+    const key = 'newSiteShown', exp = 3*24*60*60*1000;
+    if (localStorage.getItem(key) < Date.now()) {
+      confirm('试下新站？(˵ •̀ ᵕ •́ ˵)') && (location.href = 'https://vns.saop.cc/');
+      localStorage.setItem(key, Date.now() + exp);
+    }
     if (window.localStorage.getItem("fpson") == undefined || window.localStorage.getItem("fpson") == "1") {
       var rAF = (function () {
         return(window.requestAnimationFrame || window.webkitRequestAnimationFrame || function (callback) {
