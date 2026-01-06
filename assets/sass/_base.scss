@@ -309,48 +309,80 @@ blockquote {
   }
 }
 
-#back-to-top {
-  display: none;
+/* ===== 浮动操作按钮 ===== */
+.floating-actions {
+  --fab-size: 44px;
+  --fab-gap: 12px;
+  --fab-right: 16px;
+  --fab-bottom: 24px;
+  --fab-bg: #007bff;
+  --fab-bg-hover: #0056b3;
+  --fab-color: #fff;
+  --fab-radius: 8px;
+  --fab-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+  --fab-transition: 0.25s cubic-bezier(0.4, 0, 0.2, 1);
+
   position: fixed;
-  bottom: 30px;
-  right: 10px;
-  z-index: 2;
-  padding: 0.3em 0.3em;
-  font-size: 1.6em;
-  background-color: #007bff;
-  color: whitesmoke;
+  right: var(--fab-right);
+  bottom: var(--fab-bottom);
+  z-index: 100;
+  display: flex;
+  flex-direction: column-reverse;
+  gap: var(--fab-gap);
+  pointer-events: none;
+}
+
+/* 浮动按钮基础样式 */
+.fab-btn {
+  width: var(--fab-size);
+  height: var(--fab-size);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: var(--fab-bg);
+  color: var(--fab-color);
   border: none;
-  border-radius: 5px;
+  border-radius: var(--fab-radius);
+  font-size: 1.25rem;
   cursor: pointer;
-  opacity: 0;
-  animation: fadeInRight 0.3s ease-out;
-  &.show {
-    opacity: 1;
-  }
+  pointer-events: auto;
+  box-shadow: var(--fab-shadow);
+  transition: 
+    transform var(--fab-transition),
+    background-color var(--fab-transition),
+    opacity var(--fab-transition);
+
   &:hover {
-    background-color: #0056b3;
+    background: var(--fab-bg-hover);
+    transform: translateY(-2px);
+  }
+
+  &:active {
+    transform: translateY(0) scale(0.95);
+  }
+
+  &:focus-visible {
+    outline: 2px solid var(--fab-bg);
+    outline-offset: 2px;
   }
 }
 
+/* 返回顶部按钮 */
+#back-to-top {
+  opacity: 0;
+  transform: translateY(20px);
+  pointer-events: none;
+
+  &.show {
+    opacity: 1;
+    transform: translateY(0);
+    pointer-events: auto;
+  }
+}
+
+/* 菜单切换按钮 - 默认隐藏，响应式显示 */
 #menuToggle {
   display: none;
-  position: fixed;
-  bottom: 80px;
-  right: 10px;
-  z-index: 3;
-  cursor: pointer;
-  padding: 0.3em 0.3em;
-  font-size: 1.6em;
-  background-color: #007bff;
-  color: whitesmoke;
-  border: none;
-  border-radius: 5px;
-  cursor: pointer;
-  transition: opacity 0.3s ease;
-  animation: fadeInDown 0.3s ease-out;
-  &:hover {
-    background-color: #0056b3;
-  }
 }
 
 .swal2-container {
@@ -745,7 +777,7 @@ pre:hover .copy-btn {
   }
 
   #menuToggle {
-    display: block;
+    display: flex;
   }
 
   .qr-code {
