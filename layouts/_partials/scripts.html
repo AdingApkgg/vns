@@ -13,6 +13,7 @@
       new SwupParallelPlugin(),
       new SwupPreloadPlugin(),
       new SwupScrollPlugin(),
+      new SwupA11yPlugin(),
     ],
   });
 
@@ -20,10 +21,27 @@
     "https://meting.qjqq.cn/?server=:server&type=:type&id=:id&auth=:auth&r=:r";
 </script>
 {{ partialCached "head/js.html" . }}
-<button id="menuToggle" title="Menu Toggle"><i class="fa fa-bars"></i></button>
-<button id="back-to-top" title="Go to top">
-  <i class="fa fa-angles-up"></i>
-</button>
+<!-- 浮动操作按钮 -->
+<div class="floating-actions">
+  <button 
+    id="menuToggle" 
+    class="fab-btn" 
+    title="切换菜单" 
+    aria-label="切换导航菜单"
+    aria-expanded="false"
+    data-target="header"
+  >
+    <i class="fa fa-bars" aria-hidden="true"></i>
+  </button>
+  <button 
+    id="back-to-top" 
+    class="fab-btn" 
+    title="返回顶部" 
+    aria-label="返回页面顶部"
+  >
+    <i class="fa fa-angles-up" aria-hidden="true"></i>
+  </button>
+</div>
 <span id="fps"></span>
 <script
   src="https://registry.npmmirror.com/instant.page/latest/files/instantpage.js"

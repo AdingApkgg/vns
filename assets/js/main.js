@@ -98,37 +98,76 @@ function initTOCSidebar() {
   }
 }
 
+/**
+ * 页面加载状态管理
+ */
+const PageLoader = {
+  el: document.getElementById("loader"),
+  startTime: null,
+  minDuration: 500,
+
+  start() {
+    this.startTime = Date.now();
+    this.el.classList.remove("loading");
+  },
+
+  hide() {
+    document.body.style.overflow = "auto";
+    this.el.classList.add("loading");
+  },
+
+  end() {
+    if (!this.startTime) {
+      this.hide();
+      return;
+    }
+
+    const elapsed = Date.now() - this.startTime;
+    if (elapsed >= this.minDuration) {
+      this.startTime = null;
+      this.hide();
+    } else {
+      // 延迟到最小持续时间后再隐藏
+      const remaining = this.minDuration - elapsed;
+      this.startTime = null;
+      setTimeout(() => this.hide(), remaining);
+    }
+  },
+};
+
+// 兼容旧代码的别名
+const startLoading = () => PageLoader.start();
+const endLoading = () => PageLoader.end();
+
+PageLoader.el.addEventListener("click", endLoading);
+
+/**
+ * Swup 页面切换钩子
+ */
+const SwupHooks = {
+  init() {
+    // 页面切换动画开始时显示加载状态
+    swup.hooks.on("animation:out:start", () => {
+      PageLoader.start();
+    });
+
+    // 页面内容替换后执行
+    swup.hooks.on("content:replace", () => {
+      bszRe();
+      PageLoader.end();
+      initValine(); // 确保 DOM 替换后重新初始化评论
+    });
+
+    // 新页面视图加载后初始化页面功能
+    swup.hooks.on("page:view", () => {
+      initializePage();
+    });
+  },
+};
+
+// 初始化
 document.addEventListener("DOMContentLoaded", initializePage);
-
-swup.hooks.on("animation:out:start", () => {
-  startLoading();
-});
-
-swup.hooks.on("page:view", () => {
-  initializePage();
-});
-
-swup.hooks.on("content:replace", () => {
-  bszRe();
-  endLoading();
-});
-
-var time = null,
-  loaderEl = document.getElementById("loader"),
-  startLoading = () => {
-    (time = Date.now()), loaderEl.classList.remove("loading");
-  },
-  hideLoader = () => {
-    (document.body.style.overflow = "auto"), loader.classList.add("loading");
-  },
-  endLoading = () => {
-    time
-      ? 500 < Date.now() - time
-        ? ((time = null), hideLoader())
-        : (setTimeout(endLoading, 500 - (Date.now() - time)), (time = null))
-      : hideLoader();
-  };
-loaderEl.addEventListener("click", endLoading);
+SwupHooks.init();
 
 function mouseFirework() {
   firework({
@@ -183,38 +222,91 @@ function bszRe() {
   );
 }
 
+/**
+ * 导航栏控制
+ * 支持 data-target 属性指定目标元素
+ */
+const Navigation = {
+  header: null,
+  menuToggle: null,
+  fixedThreshold: 200,
+  isOpen: false,
+
+  init() {
+    this.menuToggle = document.getElementById("menuToggle");
+    if (!this.menuToggle) return;
+
+    // 从 data-target 获取目标元素，默认为 header
+    const targetSelector = this.menuToggle.dataset.target || "header";
+    this.header = document.querySelector(targetSelector);
+    if (!this.header) return;
+
+    this.menuToggle.addEventListener("click", () => this.toggle());
+    window.addEventListener("scroll", () => this.handleScroll(), { passive: true });
+
+    // ESC 键关闭菜单
+    document.addEventListener("keydown", (e) => {
+      if (e.key === "Escape" && this.isOpen) this.close();
+    });
+  },
+
+  toggle() {
+    this.isOpen = !this.isOpen;
+    this.header.classList.toggle("active", this.isOpen);
+    this.menuToggle.setAttribute("aria-expanded", this.isOpen);
+  },
+
+  close() {
+    this.isOpen = false;
+    this.header.classList.remove("active");
+    this.menuToggle.setAttribute("aria-expanded", "false");
+  },
+
+  handleScroll() {
+    const isFixed = window.scrollY > this.fixedThreshold;
+    this.header.classList.toggle("fixed", isFixed);
+  },
+};
+
+/**
+ * 返回顶部按钮
+ */
+const BackToTop = {
+  button: null,
+  showThreshold: 300,
+  isVisible: false,
+
+  init() {
+    this.button = document.getElementById("back-to-top");
+    if (!this.button) return;
+
+    this.button.addEventListener("click", () => this.scrollToTop());
+    window.addEventListener("scroll", () => this.handleScroll(), { passive: true });
+
+    // 初始状态检查
+    this.handleScroll();
+  },
+
+  handleScroll() {
+    const shouldShow = window.scrollY > this.showThreshold;
+    if (shouldShow === this.isVisible) return; // 避免重复操作
+
+    this.isVisible = shouldShow;
+    this.button.classList.toggle("show", shouldShow);
+  },
+
+  scrollToTop() {
+    window.scrollTo({ top: 0, behavior: "smooth" });
+  },
+};
+
+// 兼容旧代码的别名
 function initMenuToggle() {
-  const menuToggle = document.getElementById("menuToggle");
-  const targetElement = document.getElementsByTagName("header")[0];
-  menuToggle.addEventListener("click", function () {
-    targetElement.classList.toggle("active");
-  });
+  Navigation.init();
 }
 
 function initScrollEffects() {
-  const header = document.querySelector("header");
-  const backToTopButton = document.getElementById("back-to-top");
-  if (!header || !backToTopButton) return;
-  window.addEventListener("scroll", function () {
-    if (window.scrollY > 200) {
-      header.classList.add("fixed");
-    } else {
-      header.classList.remove("fixed");
-    }
-    if (window.scrollY > 300) {
-      backToTopButton.style.display = "block";
-      backToTopButton.classList.add("show");
-    } else {
-      backToTopButton.style.display = "none";
-      backToTopButton.classList.remove("show");
-    }
-  });
-  backToTopButton.addEventListener("click", function () {
-    window.scrollTo({
-      top: 0,
-      behavior: "smooth",
-    });
-  });
+  BackToTop.init();
 }
 
 function initSearch() {
@@ -397,227 +489,94 @@ function initClipboard() {
   }
 }
 
-function initValine() {
-  new Valine({
-    el: "#vcomments",
-    appId: "BnlZFCN5ghutLVVEX0el3pz3-MdYXbMMI",
-    appKey: "OvpvXLKwajI2qYE4XsNMokpW",
-    path: window.location.pathname,
-    serverURLs: "https://valine.saop.cc",
-    placeholder:
-      "昵称栏输入 QQ 号即可获取头像与邮箱..\n评论支持标准的 Markdown 全语法~",
-    avatar_cdn: "https://weavatar.com/avatar/",
-    pageSize: 20,
-    visitor: false,
-    comment_count: false,
-    highlight: true,
-    recordIP: true,
-    emojiCDN: "//twikoo-magic.oss-cn-hangzhou.aliyuncs.com/",
-    emojiMaps: {
-      "QQ-OK": "QQ/OK.gif",
-      "QQ-aini": "QQ/aini.gif",
-      "QQ-aixin": "QQ/aixin.gif",
-      "QQ-aoman": "QQ/aoman.gif",
-      "QQ-baiyan": "QQ/baiyan.gif",
-      "QQ-bangbangtang": "QQ/bangbangtang.gif",
-      "QQ-baojin": "QQ/baojin.gif",
-      "QQ-baoquan": "QQ/baoquan.gif",
-      "QQ-bishi": "QQ/bishi.gif",
-      "QQ-bizui": "QQ/bizui.gif",
-      "QQ-cahan": "QQ/cahan.gif",
-      "QQ-caidao": "QQ/caidao.gif",
-      "QQ-chi": "QQ/chi.gif",
-      "QQ-ciya": "QQ/ciya.gif",
-      "QQ-dabing": "QQ/dabing.gif",
-      "QQ-daku": "QQ/daku.gif",
-      "QQ-dan": "QQ/dan.gif",
-      "QQ-deyi": "QQ/deyi.gif",
-      "QQ-doge": "QQ/doge.gif",
-      "QQ-fadai": "QQ/fadai.gif",
-      "QQ-fanu": "QQ/fanu.gif",
-      "QQ-fendou": "QQ/fendou.gif",
-      "QQ-ganga": "QQ/ganga.gif",
-      "QQ-gouyin": "QQ/gouyin.gif",
-      "QQ-guzhang": "QQ/guzhang.gif",
-      "QQ-haixiu": "QQ/haixiu.gif",
-      "QQ-hanxiao": "QQ/hanxiao.gif",
-      "QQ-haobang": "QQ/haobang.gif",
-      "QQ-haqian": "QQ/haqian.gif",
-      "QQ-hecai": "QQ/hecai.gif",
-      "QQ-hexie": "QQ/hexie.gif",
-      "QQ-huaixiao": "QQ/huaixiao.gif",
-      "QQ-jie": "QQ/jie.gif",
-      "QQ-jingkong": "QQ/jingkong.gif",
-      "QQ-jingxi": "QQ/jingxi.gif",
-      "QQ-jingya": "QQ/jingya.gif",
-      "QQ-juhua": "QQ/juhua.gif",
-      "QQ-keai": "QQ/keai.gif",
-      "QQ-kelian": "QQ/kelian.gif",
-      "QQ-koubi": "QQ/koubi.gif",
-      "QQ-ku": "QQ/ku.gif",
-      "QQ-kuaikule": "QQ/kuaikule.gif",
-      "QQ-kulou": "QQ/kulou.gif",
-      "QQ-kun": "QQ/kun.gif",
-      "QQ-lanqiu": "QQ/lanqiu.gif",
-      "QQ-leiben": "QQ/leiben.gif",
-      "QQ-lenghan": "QQ/lenghan.gif",
-      "QQ-liuhan": "QQ/liuhan.gif",
-      "QQ-liulei": "QQ/liulei.gif",
-      "QQ-nanguo": "QQ/nanguo.gif",
-      "QQ-penxue": "QQ/penxue.gif",
-      "QQ-piezui": "QQ/piezui.gif",
-      "QQ-pijiu": "QQ/pijiu.gif",
-      "QQ-qiang": "QQ/qiang.gif",
-      "QQ-qiaoda": "QQ/qiaoda.gif",
-      "QQ-qinqin": "QQ/qinqin.gif",
-      "QQ-qiudale": "QQ/qiudale.gif",
-      "QQ-quantou": "QQ/quantou.gif",
-      "QQ-saorao": "QQ/saorao.gif",
-      "QQ-se": "QQ/se.gif",
-      "QQ-shengli": "QQ/shengli.gif",
-      "QQ-shouqiang": "QQ/shouqiang.gif",
-      "QQ-shuai": "QQ/shuai.gif",
-      "QQ-shui": "QQ/shui.gif",
-      "QQ-tiaopi": "QQ/tiaopi.gif",
-      "QQ-touxiao": "QQ/touxiao.gif",
-      "QQ-tu": "QQ/tu.gif",
-      "QQ-tuosai": "QQ/tuosai.gif",
-      "QQ-weiqu": "QQ/weiqu.gif",
-      "QQ-weixiao": "QQ/weixiao.gif",
-      "QQ-woshou": "QQ/woshou.gif",
-      "QQ-wozuimei": "QQ/wozuimei.gif",
-      "QQ-wunai": "QQ/wunai.gif",
-      "QQ-xia": "QQ/xia.gif",
-      "QQ-xiaojiujie": "QQ/xiaojiujie.gif",
-      "QQ-xiaoku": "QQ/xiaoku.gif",
-      "QQ-xiaoyanger": "QQ/xiaoyanger.gif",
-      "QQ-xieyanxiao": "QQ/xieyanxiao.gif",
-      "QQ-xigua": "QQ/xigua.gif",
-      "QQ-xu": "QQ/xu.gif",
-      "QQ-yangtuo": "QQ/yangtuo.gif",
-      "QQ-yinxian": "QQ/yinxian.gif",
-      "QQ-yiwen": "QQ/yiwen.gif",
-      "QQ-youhengheng": "QQ/youhengheng.gif",
-      "QQ-youling": "QQ/youling.gif",
-      "QQ-yun": "QQ/yun.gif",
-      "QQ-zaijian": "QQ/zaijian.gif",
-      "QQ-zhayanjian": "QQ/zhayanjian.gif",
-      "QQ-zhemo": "QQ/zhemo.gif",
-      "QQ-zhouma": "QQ/zhouma.gif",
-      "QQ-zhuakuang": "QQ/zhuakuang.gif",
-      "QQ-zuohengheng": "QQ/zuohengheng.gif",
-      "贴吧新表情-image_emoticon": "Tieba-New/image_emoticon.png",
-      "贴吧新表情-image_emoticon10": "Tieba-New/image_emoticon10.png",
-      "贴吧新表情-image_emoticon100": "Tieba-New/image_emoticon100.png",
-      "贴吧新表情-image_emoticon101": "Tieba-New/image_emoticon101.png",
-      "贴吧新表情-image_emoticon102": "Tieba-New/image_emoticon102.png",
-      "贴吧新表情-image_emoticon103": "Tieba-New/image_emoticon103.png",
-      "贴吧新表情-image_emoticon104": "Tieba-New/image_emoticon104.png",
-      "贴吧新表情-image_emoticon105": "Tieba-New/image_emoticon105.png",
-      "贴吧新表情-image_emoticon106": "Tieba-New/image_emoticon106.png",
-      "贴吧新表情-image_emoticon107": "Tieba-New/image_emoticon107.png",
-      "贴吧新表情-image_emoticon108": "Tieba-New/image_emoticon108.png",
-      "贴吧新表情-image_emoticon109": "Tieba-New/image_emoticon109.png",
-      "贴吧新表情-image_emoticon11": "Tieba-New/image_emoticon11.png",
-      "贴吧新表情-image_emoticon110": "Tieba-New/image_emoticon110.png",
-      "贴吧新表情-image_emoticon111": "Tieba-New/image_emoticon111.png",
-      "贴吧新表情-image_emoticon112": "Tieba-New/image_emoticon112.png",
-      "贴吧新表情-image_emoticon113": "Tieba-New/image_emoticon113.png",
-      "贴吧新表情-image_emoticon114": "Tieba-New/image_emoticon114.png",
-      "贴吧新表情-image_emoticon115": "Tieba-New/image_emoticon115.png",
-      "贴吧新表情-image_emoticon116": "Tieba-New/image_emoticon116.png",
-      "贴吧新表情-image_emoticon117": "Tieba-New/image_emoticon117.png",
-      "贴吧新表情-image_emoticon118": "Tieba-New/image_emoticon118.png",
-      "贴吧新表情-image_emoticon119": "Tieba-New/image_emoticon119.png",
-      "贴吧新表情-image_emoticon12": "Tieba-New/image_emoticon12.png",
-      "贴吧新表情-image_emoticon120": "Tieba-New/image_emoticon120.png",
-      "贴吧新表情-image_emoticon121": "Tieba-New/image_emoticon121.png",
-      "贴吧新表情-image_emoticon122": "Tieba-New/image_emoticon122.png",
-      "贴吧新表情-image_emoticon123": "Tieba-New/image_emoticon123.png",
-      "贴吧新表情-image_emoticon124": "Tieba-New/image_emoticon124.png",
-      "贴吧新表情-image_emoticon13": "Tieba-New/image_emoticon13.png",
-      "贴吧新表情-image_emoticon14": "Tieba-New/image_emoticon14.png",
-      "贴吧新表情-image_emoticon15": "Tieba-New/image_emoticon15.png",
-      "贴吧新表情-image_emoticon16": "Tieba-New/image_emoticon16.png",
-      "贴吧新表情-image_emoticon17": "Tieba-New/image_emoticon17.png",
-      "贴吧新表情-image_emoticon18": "Tieba-New/image_emoticon18.png",
-      "贴吧新表情-image_emoticon19": "Tieba-New/image_emoticon19.png",
-      "贴吧新表情-image_emoticon2": "Tieba-New/image_emoticon2.png",
-      "贴吧新表情-image_emoticon20": "Tieba-New/image_emoticon20.png",
-      "贴吧新表情-image_emoticon21": "Tieba-New/image_emoticon21.png",
-      "贴吧新表情-image_emoticon22": "Tieba-New/image_emoticon22.png",
-      "贴吧新表情-image_emoticon23": "Tieba-New/image_emoticon23.png",
-      "贴吧新表情-image_emoticon24": "Tieba-New/image_emoticon24.png",
-      "贴吧新表情-image_emoticon25": "Tieba-New/image_emoticon25.png",
-      "贴吧新表情-image_emoticon26": "Tieba-New/image_emoticon26.png",
-      "贴吧新表情-image_emoticon27": "Tieba-New/image_emoticon27.png",
-      "贴吧新表情-image_emoticon28": "Tieba-New/image_emoticon28.png",
-      "贴吧新表情-image_emoticon29": "Tieba-New/image_emoticon29.png",
-      "贴吧新表情-image_emoticon3": "Tieba-New/image_emoticon3.png",
-      "贴吧新表情-image_emoticon30": "Tieba-New/image_emoticon30.png",
-      "贴吧新表情-image_emoticon31": "Tieba-New/image_emoticon31.png",
-      "贴吧新表情-image_emoticon32": "Tieba-New/image_emoticon32.png",
-      "贴吧新表情-image_emoticon33": "Tieba-New/image_emoticon33.png",
-      "贴吧新表情-image_emoticon34": "Tieba-New/image_emoticon34.png",
-      "贴吧新表情-image_emoticon35": "Tieba-New/image_emoticon35.png",
-      "贴吧新表情-image_emoticon36": "Tieba-New/image_emoticon36.png",
-      "贴吧新表情-image_emoticon37": "Tieba-New/image_emoticon37.png",
-      "贴吧新表情-image_emoticon38": "Tieba-New/image_emoticon38.png",
-      "贴吧新表情-image_emoticon39": "Tieba-New/image_emoticon39.png",
-      "贴吧新表情-image_emoticon4": "Tieba-New/image_emoticon4.png",
-      "贴吧新表情-image_emoticon40": "Tieba-New/image_emoticon40.png",
-      "贴吧新表情-image_emoticon41": "Tieba-New/image_emoticon41.png",
-      "贴吧新表情-image_emoticon42": "Tieba-New/image_emoticon42.png",
-      "贴吧新表情-image_emoticon43": "Tieba-New/image_emoticon43.png",
-      "贴吧新表情-image_emoticon44": "Tieba-New/image_emoticon44.png",
-      "贴吧新表情-image_emoticon45": "Tieba-New/image_emoticon45.png",
-      "贴吧新表情-image_emoticon46": "Tieba-New/image_emoticon46.png",
-      "贴吧新表情-image_emoticon47": "Tieba-New/image_emoticon47.png",
-      "贴吧新表情-image_emoticon48": "Tieba-New/image_emoticon48.png",
-      "贴吧新表情-image_emoticon49": "Tieba-New/image_emoticon49.png",
-      "贴吧新表情-image_emoticon5": "Tieba-New/image_emoticon5.png",
-      "贴吧新表情-image_emoticon50": "Tieba-New/image_emoticon50.png",
-      "贴吧新表情-image_emoticon6": "Tieba-New/image_emoticon6.png",
-      "贴吧新表情-image_emoticon66": "Tieba-New/image_emoticon66.png",
-      "贴吧新表情-image_emoticon67": "Tieba-New/image_emoticon67.png",
-      "贴吧新表情-image_emoticon68": "Tieba-New/image_emoticon68.png",
-      "贴吧新表情-image_emoticon69": "Tieba-New/image_emoticon69.png",
-      "贴吧新表情-image_emoticon7": "Tieba-New/image_emoticon7.png",
-      "贴吧新表情-image_emoticon70": "Tieba-New/image_emoticon70.png",
-      "贴吧新表情-image_emoticon71": "Tieba-New/image_emoticon71.png",
-      "贴吧新表情-image_emoticon72": "Tieba-New/image_emoticon72.png",
-      "贴吧新表情-image_emoticon73": "Tieba-New/image_emoticon73.png",
-      "贴吧新表情-image_emoticon74": "Tieba-New/image_emoticon74.png",
-      "贴吧新表情-image_emoticon75": "Tieba-New/image_emoticon75.png",
-      "贴吧新表情-image_emoticon76": "Tieba-New/image_emoticon76.png",
-      "贴吧新表情-image_emoticon77": "Tieba-New/image_emoticon77.png",
-      "贴吧新表情-image_emoticon78": "Tieba-New/image_emoticon78.png",
-      "贴吧新表情-image_emoticon79": "Tieba-New/image_emoticon79.png",
-      "贴吧新表情-image_emoticon8": "Tieba-New/image_emoticon8.png",
-      "贴吧新表情-image_emoticon80": "Tieba-New/image_emoticon80.png",
-      "贴吧新表情-image_emoticon81": "Tieba-New/image_emoticon81.png",
-      "贴吧新表情-image_emoticon82": "Tieba-New/image_emoticon82.png",
-      "贴吧新表情-image_emoticon83": "Tieba-New/image_emoticon83.png",
-      "贴吧新表情-image_emoticon84": "Tieba-New/image_emoticon84.png",
-      "贴吧新表情-image_emoticon85": "Tieba-New/image_emoticon85.png",
-      "贴吧新表情-image_emoticon86": "Tieba-New/image_emoticon86.png",
-      "贴吧新表情-image_emoticon87": "Tieba-New/image_emoticon87.png",
-      "贴吧新表情-image_emoticon88": "Tieba-New/image_emoticon88.png",
-      "贴吧新表情-image_emoticon89": "Tieba-New/image_emoticon89.png",
-      "贴吧新表情-image_emoticon9": "Tieba-New/image_emoticon9.png",
-      "贴吧新表情-image_emoticon90": "Tieba-New/image_emoticon90.png",
-      "贴吧新表情-image_emoticon91": "Tieba-New/image_emoticon91.png",
-      "贴吧新表情-image_emoticon92": "Tieba-New/image_emoticon92.png",
-      "贴吧新表情-image_emoticon93": "Tieba-New/image_emoticon93.png",
-      "贴吧新表情-image_emoticon94": "Tieba-New/image_emoticon94.png",
-      "贴吧新表情-image_emoticon95": "Tieba-New/image_emoticon95.png",
-      "贴吧新表情-image_emoticon96": "Tieba-New/image_emoticon96.png",
-      "贴吧新表情-image_emoticon97": "Tieba-New/image_emoticon97.png",
-      "贴吧新表情-image_emoticon98": "Tieba-New/image_emoticon98.png",
-      "贴吧新表情-image_emoticon99": "Tieba-New/image_emoticon99.png",
-    },
-    enableQQ: true,
+/**
+ * Valine 评论系统配置
+ */
+const VALINE_CONFIG = {
+  appId: "BnlZFCN5ghutLVVEX0el3pz3-MdYXbMMI",
+  appKey: "OvpvXLKwajI2qYE4XsNMokpW",
+  serverURLs: "https://valine.saop.cc",
+  placeholder:
+    "昵称栏输入 QQ 号即可获取头像与邮箱..\n评论支持标准的 Markdown 全语法~",
+  avatar_cdn: "https://weavatar.com/avatar/",
+  emojiCDN: "//twikoo-magic.oss-cn-hangzhou.aliyuncs.com/",
+  pageSize: 20,
+  visitor: false,
+  comment_count: false,
+  highlight: true,
+  recordIP: true,
+  enableQQ: true,
+};
+
+/**
+ * 生成表情映射
+ */
+const VALINE_EMOJI_MAPS = (() => {
+  const maps = {};
+
+  // QQ 表情
+  const qqEmojis = [
+    "OK", "aini", "aixin", "aoman", "baiyan", "bangbangtang", "baojin",
+    "baoquan", "bishi", "bizui", "cahan", "caidao", "chi", "ciya", "dabing",
+    "daku", "dan", "deyi", "doge", "fadai", "fanu", "fendou", "ganga",
+    "gouyin", "guzhang", "haixiu", "hanxiao", "haobang", "haqian", "hecai",
+    "hexie", "huaixiao", "jie", "jingkong", "jingxi", "jingya", "juhua",
+    "keai", "kelian", "koubi", "ku", "kuaikule", "kulou", "kun", "lanqiu",
+    "leiben", "lenghan", "liuhan", "liulei", "nanguo", "penxue", "piezui",
+    "pijiu", "qiang", "qiaoda", "qinqin", "qiudale", "quantou", "saorao",
+    "se", "shengli", "shouqiang", "shuai", "shui", "tiaopi", "touxiao",
+    "tu", "tuosai", "weiqu", "weixiao", "woshou", "wozuimei", "wunai",
+    "xia", "xiaojiujie", "xiaoku", "xiaoyanger", "xieyanxiao", "xigua",
+    "xu", "yangtuo", "yinxian", "yiwen", "youhengheng", "youling", "yun",
+    "zaijian", "zhayanjian", "zhemo", "zhouma", "zhuakuang", "zuohengheng",
+  ];
+  qqEmojis.forEach((name) => {
+    maps[`QQ-${name}`] = `QQ/${name}.gif`;
   });
+
+  // 贴吧表情 (1-50, 66-124)
+  maps["贴吧新表情-image_emoticon"] = "Tieba-New/image_emoticon.png";
+  const tiebaRanges = [
+    [2, 50],
+    [66, 124],
+  ];
+  tiebaRanges.forEach(([start, end]) => {
+    for (let i = start; i <= end; i++) {
+      maps[`贴吧新表情-image_emoticon${i}`] = `Tieba-New/image_emoticon${i}.png`;
+    }
+  });
+
+  return maps;
+})();
+
+// Valine 初始化防抖定时器
+let valineInitTimer = null;
+
+/**
+ * 初始化 Valine 评论系统
+ * 使用防抖机制避免 swup 页面切换时多次调用
+ */
+function initValine() {
+  // 清除之前的定时器，防止重复初始化
+  if (valineInitTimer) {
+    clearTimeout(valineInitTimer);
+  }
+
+  // 延迟执行，确保 swup 页面切换后 DOM 完全准备好
+  valineInitTimer = setTimeout(() => {
+    const vcommentsEl = document.getElementById("vcomments");
+    if (!vcommentsEl) return;
+
+    // 清空之前的内容，确保 swup 页面切换后能重新初始化
+    vcommentsEl.innerHTML = "";
+
+    new Valine({
+      el: "#vcomments",
+      path: window.location.pathname,
+      emojiMaps: VALINE_EMOJI_MAPS,
+      ...VALINE_CONFIG,
+    });
+  }, 500);
 }
 
 function highlightText(text, query) {
@@ -694,28 +653,28 @@ observer.observe(document, {
 
 function lunar() {
   var lunarInfo = [
-      19416, 19168, 42352, 21717, 53856, 55632, 91476, 22176, 39632, 21970,
-      19168, 42422, 42192, 53840, 119381, 46400, 54944, 44450, 38320, 84343,
-      18800, 42160, 46261, 27216, 27968, 109396, 11104, 38256, 21234, 18800,
-      25958, 54432, 59984, 28309, 23248, 11104, 100067, 37600, 116951, 51536,
-      54432, 120998, 46416, 22176, 107956, 9680, 37584, 53938, 43344, 46423,
-      27808, 46416, 86869, 19872, 42416, 83315, 21168, 43432, 59728, 27296,
-      44710, 43856, 19296, 43748, 42352, 21088, 62051, 55632, 23383, 22176,
-      38608, 19925, 19152, 42192, 54484, 53840, 54616, 46400, 46752, 103846,
-      38320, 18864, 43380, 42160, 45690, 27216, 27968, 44870, 43872, 38256,
-      19189, 18800, 25776, 29859, 59984, 27480, 23232, 43872, 38613, 37600,
-      51552, 55636, 54432, 55888, 30034, 22176, 43959, 9680, 37584, 51893,
-      43344, 46240, 47780, 44368, 21977, 19360, 42416, 86390, 21168, 43312,
-      31060, 27296, 44368, 23378, 19296, 42726, 42208, 53856, 60005, 54576,
-      23200, 30371, 38608, 19195, 19152, 42192, 118966, 53840, 54560, 56645,
-      46496, 22224, 21938, 18864, 42359, 42160, 43600, 111189, 27936, 44448,
-      84835, 37744, 18936, 18800, 25776, 92326, 59984, 27424, 108228, 43744,
-      41696, 53987, 51552, 54615, 54432, 55888, 23893, 22176, 42704, 21972,
-      21200, 43448, 43344, 46240, 46758, 44368, 21920, 43940, 42416, 21168,
-      45683, 26928, 29495, 27296, 44368, 84821, 19296, 42352, 21732, 53600,
-      59752, 54560, 55968, 92838, 22224, 19168, 43476, 41680, 53584, 62034,
-      54560,
-    ],
+    19416, 19168, 42352, 21717, 53856, 55632, 91476, 22176, 39632, 21970,
+    19168, 42422, 42192, 53840, 119381, 46400, 54944, 44450, 38320, 84343,
+    18800, 42160, 46261, 27216, 27968, 109396, 11104, 38256, 21234, 18800,
+    25958, 54432, 59984, 28309, 23248, 11104, 100067, 37600, 116951, 51536,
+    54432, 120998, 46416, 22176, 107956, 9680, 37584, 53938, 43344, 46423,
+    27808, 46416, 86869, 19872, 42416, 83315, 21168, 43432, 59728, 27296,
+    44710, 43856, 19296, 43748, 42352, 21088, 62051, 55632, 23383, 22176,
+    38608, 19925, 19152, 42192, 54484, 53840, 54616, 46400, 46752, 103846,
+    38320, 18864, 43380, 42160, 45690, 27216, 27968, 44870, 43872, 38256,
+    19189, 18800, 25776, 29859, 59984, 27480, 23232, 43872, 38613, 37600,
+    51552, 55636, 54432, 55888, 30034, 22176, 43959, 9680, 37584, 51893,
+    43344, 46240, 47780, 44368, 21977, 19360, 42416, 86390, 21168, 43312,
+    31060, 27296, 44368, 23378, 19296, 42726, 42208, 53856, 60005, 54576,
+    23200, 30371, 38608, 19195, 19152, 42192, 118966, 53840, 54560, 56645,
+    46496, 22224, 21938, 18864, 42359, 42160, 43600, 111189, 27936, 44448,
+    84835, 37744, 18936, 18800, 25776, 92326, 59984, 27424, 108228, 43744,
+    41696, 53987, 51552, 54615, 54432, 55888, 23893, 22176, 42704, 21972,
+    21200, 43448, 43344, 46240, 46758, 44368, 21920, 43940, 42416, 21168,
+    45683, 26928, 29495, 27296, 44368, 84821, 19296, 42352, 21732, 53600,
+    59752, 54560, 55968, 92838, 22224, 19168, 43476, 41680, 53584, 62034,
+    54560,
+  ],
     solarMonth = [31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31],
     Gan = ["甲", "乙", "丙", "丁", "戊", "己", "庚", "辛", "壬", "癸"],
     Zhi = [
@@ -1031,7 +990,7 @@ function lunar() {
     return (
       "魔羯水瓶双鱼白羊金牛双子巨蟹狮子处女天秤天蝎射手魔羯".substr(
         2 * b -
-          (f < [20, 19, 21, 21, 21, 22, 23, 23, 23, 23, 22, 22][b - 1] ? 2 : 0),
+        (f < [20, 19, 21, 21, 21, 22, 23, 23, 23, 23, 22, 22][b - 1] ? 2 : 0),
         2
       ) + "座"
     );
@@ -1159,8 +1118,8 @@ function lunar() {
     y === c && ((M = !0), (T = solarTerm[2 * f - 2])),
       m === c && ((M = !0), (T = solarTerm[2 * f - 1]));
     var I = toGanZhi(
-        Date.UTC(b, g, 1, 0, 0, 0, 0) / 864e5 + 25567 + 10 + c - 1
-      ),
+      Date.UTC(b, g, 1, 0, 0, 0, 0) / 864e5 + 25567 + 10 + c - 1
+    ),
       C = toAstro(f, c);
     return {
       lYear: l,
@@ -1230,8 +1189,8 @@ function lunar() {
     if (sessionStorage.getItem("isPopupWindow") != "1") {
       Swal.fire(
         "今天是九一八事变" +
-          (y - 1931).toString() +
-          "周年纪念日\n🪔勿忘国耻，振兴中华🪔"
+        (y - 1931).toString() +
+        "周年纪念日\n🪔勿忘国耻，振兴中华🪔"
       );
       sessionStorage.setItem("isPopupWindow", "1");
     }
@@ -1243,8 +1202,8 @@ function lunar() {
     if (sessionStorage.getItem("isPopupWindow") != "1") {
       Swal.fire(
         "今天是卢沟桥事变" +
-          (y - 1937).toString() +
-          "周年纪念日\n🪔勿忘国耻，振兴中华🪔"
+        (y - 1937).toString() +
+        "周年纪念日\n🪔勿忘国耻，振兴中华🪔"
       );
       sessionStorage.setItem("isPopupWindow", "1");
     }
@@ -1256,8 +1215,8 @@ function lunar() {
     if (sessionStorage.getItem("isPopupWindow") != "1") {
       Swal.fire(
         "今天是南京大屠杀" +
-          (y - 1937).toString() +
-          "周年纪念日\n🪔勿忘国耻，振兴中华🪔"
+        (y - 1937).toString() +
+        "周年纪念日\n🪔勿忘国耻，振兴中华🪔"
       );
       sessionStorage.setItem("isPopupWindow", "1");
     }
