@@ -141,7 +141,7 @@ https://tmblr.co/ZWIqQi22aQ_0M
 
 ## 分流
 
-1. [TouchGAL](https://www.touchgal.us/) & `Windows` + `Android`：[点击下载](https://pan.touchgal.net/s/oW3RT2)，密码：`touchgal`
+1. [TouchGAL](https://www.touchgal.top/) & `Windows` + `Android`：[点击下载](https://pan.touchgal.net/s/oW3RT2)，密码：`touchgal`
 2. [绮梦](https://acgs.one/) & `Windows` + `Android`：[点击下载](https://game.acgs.one/game/96.html)，密码：`acgs`、`绮梦`
 3. [梓澪の妙妙屋](https://zi0.cc/) & `Windows` + `Android`：[点击下载](https://zi0.cc/%60%E3%80%90%E5%90%88%E9%9B%86%E7%B3%BB%E5%88%97%E3%80%91/%E3%80%90PC+%E5%AE%89%E5%8D%93%E3%80%91%E5%B8%8C%E5%B0%94%E8%96%87%E6%95%B4%E5%90%88)
 4. [梓澪の妙妙屋](https://zi0.cc/) & `Windows`：[点击下载](https://zi0.cc/d/.%E3%80%90%E8%8E%B1%E8%8C%B5%E3%80%91/.%E3%80%90%E8%8E%B1%E8%8C%B5-2%E3%80%91/SLG/%E3%80%90%E7%94%B5%E8%84%91%E3%80%91%E5%85%BB%E6%88%90SLG%E6%B1%89%E5%8C%96%E5%8A%A8%E6%80%81_%E5%A5%B4%E9%9A%B6%E5%B0%91%E5%A5%B3%E5%B8%8C%E5%B0%94%E8%96%87_V3_0.7z?sign=yhnLRj05r180H7fyCKZZb2fZyCx4jBWH2Tq8ZZBZ0MU=:0)，密码：`莱茵`

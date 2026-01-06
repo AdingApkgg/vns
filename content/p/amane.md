@@ -63,7 +63,7 @@ Happy End 到底是什么呢？
 
 ## 分流
 
-1. [TouchGAL](https://www.touchgal.us/) & `Windows`：[点击下载](https://pan.touchgal.net/s/7NbvFX)，密码：`touchgal`
+1. [TouchGAL](https://www.touchgal.top/) & `Windows`：[点击下载](https://pan.touchgal.net/s/7NbvFX)，密码：`touchgal`
 2. [稻荷GAL](https://inarigal.com/) & `Windows`：[点击下载](https://sakustar.moe/download?post_id=3303&index=0&i=0)
 3. [天使二次元](https://www.tianshie.com/) & `Windows`：[点击下载](https://drive.google.com/file/d/1cUgmmb7SaLtxVutNYk1K9YadB01Ds2j_/view?usp=sharing)，密码：tiangal
 4. [姬路白雪](https://pan.jlbx.xyz/) & `KRKR`：[点击下载](https://pan.jlbx.xyz/?s=%E9%9B%A8%E9%9F%B3Switch)，密码：书想工作室

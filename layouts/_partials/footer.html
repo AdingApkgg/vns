@@ -1,6 +1,6 @@
 <p>
   {{ range .Site.Menus.footer }}
-  <a href="{{ .URL }}" id="item-{{ .Identifier }}"
+  <a href="{{ .URL }}" id="item-{{ .Identifier }}"{{ if hasPrefix .URL "http" }} target="_blank" rel="noopener noreferrer"{{ end }}
     ><i class="{{ .Pre }}"></i>&nbsp;{{ .Name }}</a
   >
   {{ end }}

@@ -77,7 +77,7 @@ lastmod: 2024-04-22 21:02:00
 
 ## 分流
 
-1. [TouchGAL](https://www.touchgal.us/) & `Windows`：[点击下载](https://pan.touchgal.net/s/Ax9hP)，密码：`touchgal`
+1. [TouchGAL](https://www.touchgal.top/) & `Windows`：[点击下载](https://pan.touchgal.net/s/Ax9hP)，密码：`touchgal`
 2. [稻荷GAL](https://inarigal.com/) & `Windows`：[点击下载](https://alpha.galpan.xyz/PC/%E7%BE%8E%E5%A5%BD%E7%9A%84%E6%AF%8F%E4%B8%80%E5%A4%A9.zip)
 3. [迷迭香写代码](https://rosmontis.com/) & `Windows`：[点击下载](https://drive.rosmontis.com/s/vN2s3)，密码：`rosmontis`，去掉 `.rosmontis` 后缀名再解压
 4. [烟郁Galgame](https://yanyugal.top/) & `Windows`：[点击下载](https://yanyugal.top/disk1/%E5%B0%8F%E5%B0%8F%E7%9A%84%E5%88%86%E4%BA%AB%EF%BC%88PC%EF%BC%86%E5%AE%89%E5%8D%93%EF%BC%89/PC/galgame/%E7%B4%A0%E6%99%B4%E6%97%A5HD)，密码：`烟郁频道`、`lumouweinb`

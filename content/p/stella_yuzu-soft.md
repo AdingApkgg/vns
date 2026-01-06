@@ -122,8 +122,8 @@ lastmod: 2024-11-17 07:20:20
 
 ## 分流
 
-1. [TouchGAL](https://www.touchgal.us/) & `Windows`：[点击下载](https://pan.touchgal.net/s/e3Fx)，密码：`touchgal`
-2. [TouchGAL](https://www.touchgal.us/) & `KRKR`：[点击下载](https://pan.touchgal.net/s/3RWI7)，密码：`touchgal`、仅汉化文本，`UI` 未汉化
+1. [TouchGAL](https://www.touchgal.top/) & `Windows`：[点击下载](https://pan.touchgal.net/s/e3Fx)，密码：`touchgal`
+2. [TouchGAL](https://www.touchgal.top/) & `KRKR`：[点击下载](https://pan.touchgal.net/s/3RWI7)，密码：`touchgal`、仅汉化文本，`UI` 未汉化
 3. [Koyso](https://koyso.com/) & `Windows`：[点击下载](https://koyso.com/game/436)
 4. [绮梦](https://acgs.one/) & `Windows` + `KRKR`：[点击下载](https://game.acgs.one/game/25.html)，密码：`acgs`、`绮梦`
 5. [真红小站](https://www.shinnku.com/) & `Windows`：[点击下载](https://www.shinnku.com/api/download/0/krkr/%E6%98%9F%E5%85%89%E5%92%96%E5%95%A1%E9%A6%86%E4%B8%8E%E6%AD%BB%E7%A5%9E%E4%B9%8B%E8%9D%B6.7z)

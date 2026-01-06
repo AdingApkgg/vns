@@ -111,8 +111,8 @@ lastmod: 2024-07-17 07:19:30
 
 ## 分流
 
-1. [TouchGAL](https://www.touchgal.us/) & `Windows`：[点击下载](https://pan.touchgal.net/s/Wp3FZ)，密码：`touchgal`
-2. [TouchGAL](https://www.touchgal.us/) & `KRKR`：[点击下载](https://pan.touchgal.net/s/BXZiw)，密码：`touchgal`
+1. [TouchGAL](https://www.touchgal.top/) & `Windows`：[点击下载](https://pan.touchgal.net/s/Wp3FZ)，密码：`touchgal`
+2. [TouchGAL](https://www.touchgal.top/) & `KRKR`：[点击下载](https://pan.touchgal.net/s/BXZiw)，密码：`touchgal`
 3. [真红小站](https://www.shinnku.com/) & `Windows`：[点击下载](https://www.shinnku.com/api/download/zd/2023/[230428][%E3%82%86%E3%81%9A%E3%82%BD%E3%83%95%E3%83%88]%20%E5%A4%A9%E4%BD%BF%E2%98%86%E9%A8%92%E3%80%85%20RE-BOOT%EF%BC%81.rar)
 4. [小鳥遊暁の会员制餐厅](https://t-satoru.top/) & `KRKR`：[点击下载](https://pan.t-satoru.top/d/ode5/Galgames/%E3%80%90%E8%87%AA%E5%B0%81%E5%8C%85%E3%80%91%E5%8E%9F%E5%88%9B%E4%BD%9C%E5%93%81/%E5%A4%A9%E4%BD%BF%E9%AA%9A%E9%AA%9A/KR_GPT-REBOOT_%E5%A4%A9%E4%BD%BF%E9%AA%9A%E9%AA%9A_008383d_od.rar)，密码：`三司绫濑天下第一`
 5. [烟郁Galgame](https://yanyugal.top/) & `KRKR`：[点击下载](https://yanyugal.top/d/disk1/%E5%B0%8F%E5%B0%8F%E7%9A%84%E5%88%86%E4%BA%AB%EF%BC%88PC%EF%BC%86%E5%AE%89%E5%8D%93%EF%BC%89/%E5%AE%89%E5%8D%93/krkr/%E6%9F%9A%E5%AD%90%E7%A4%BE/%E2%80%8B%E5%A4%A9%E4%BD%BF%E2%98%86%E7%BA%B7%E6%89%B0%20RE-BOOT%E2%80%8B!.7z)，密码：`lumouweinb`、`烟郁频道`

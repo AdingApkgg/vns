@@ -82,8 +82,8 @@ lastmod: 2025-07-21T03:20:20+08:00
 
 ## 分流
 
-1.  [TouchGAL](https://www.touchgal.us/) & `Windows`：[点击下载](https://pan.touchgal.net/s/lrBC7)，密码：`touchgal`
-2.  [TouchGAL](https://www.touchgal.us/) & `KRKR`：[点击下载](https://pan.touchgal.net/s/3o1T7)，密码：`touchgal`
+1.  [TouchGAL](https://www.touchgal.top/) & `Windows`：[点击下载](https://pan.touchgal.net/s/lrBC7)，密码：`touchgal`
+2.  [TouchGAL](https://www.touchgal.top/) & `KRKR`：[点击下载](https://pan.touchgal.net/s/3o1T7)，密码：`touchgal`
 3.  [Hikarinagi](https://www.hikarinagi.net/) & `Windows` + `KRKR`：[点击下载](https://pan.yurari.moe/s/xozT4)，密码：`hikarinagi.com`
 4.  [Hikarinagi](https://www.hikarinagi.net/) & `Windows` + `KRKR`：[点击下载](https://pan.yurari.moe/s/QW7lHE)，密码：`hikarinagi.com`
 5.  [梓澪の妙妙屋](https://zi0.cc/) & `Windows`：[点击下载](https://zi0.cc/d/%E5%90%88%E9%9B%86%E7%B3%BB%E5%88%97/%E5%8D%97%2BGalGame%E6%B1%89%E5%8C%96%E5%8C%BA%E5%85%A8%E5%8C%BA%E8%B5%84%E6%BA%90%E5%A4%87%E4%BB%BD/05/%5BHULOTTE%5D%E4%BF%BA%E3%81%AE%E7%9E%B3%E3%81%A7%E4%B8%B8%E8%A3%B8%EF%BC%81%20%E4%B8%8D%E5%8F%AF%E7%9F%A5%E3%81%AA%E6%9C%AA%E6%9D%A5%E3%81%A8%E8%A6%96%E9%80%8F%E3%81%8B%E3%81%99%E9%81%8B%E5%91%BD%E6%88%91%E7%9A%84%E7%9C%BC%E7%9D%9B%E8%83%BD%E7%9C%8B%E5%85%89%E5%85%89%EF%BC%81%E4%B8%8D%E5%8F%AF%E7%9F%A5%E7%9A%84%E6%9C%AA%E6%9D%A5%E4%B8%8E%E9%80%8F%E8%A7%86%E7%9A%84%E5%91%BD%E8%BF%90%20V1.01%E6%AD%A3%E5%BC%8F%E5%85%A8%E7%BA%BF%E6%B1%89%E5%8C%96%E7%A1%AC%E7%9B%98%E7%89%88%5B%E6%9C%80%E8%8B%B1%E4%BF%8A%E7%9A%84%E8%89%B2%E7%8B%BC%E6%B1%89%E5%8C%96%5D.zip?sign=XA_sibCZ-y4PR4LtiGvPUkc3aKaBtt5uMbzrrl8LB3Q=:0)

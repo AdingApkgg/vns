@@ -5,7 +5,7 @@
   <h2>{{ .Site.Title }}</h2>
   <p>{{ .Site.Params.subtitle }}</p>
   {{ range .Site.Menus.main }}
-  <a href="{{ .URL }}" id="item-{{ .Identifier }}"
+  <a href="{{ .URL }}" id="item-{{ .Identifier }}"{{ if hasPrefix .URL "http" }} target="_blank" rel="noopener noreferrer"{{ end }}
     ><i class="{{ .Pre }}"></i>&nbsp;{{ .Name }}</a
   >
   {{ end }} {{ with images.QR $.Permalink (dict "level" "low" "scale" 2

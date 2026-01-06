@@ -73,7 +73,7 @@ lastmod: 2024-05-25 01:50:00
 
 ## 分流
 
-1. [TouchGAL](https://www.touchgal.us/) & `Windows`：[点击下载](https://pan.touchgal.net/s/LdRHZ)，密码：`touchgal`
+1. [TouchGAL](https://www.touchgal.top/) & `Windows`：[点击下载](https://pan.touchgal.net/s/LdRHZ)，密码：`touchgal`
 2. [姬路白雪](https://pan.jlbx.xyz/) & `Windows`：[点击下载](https://pan.jlbx.xyz/?s=%E8%99%AB%E7%88%B1%E5%B0%91%E5%A5%B3)，密码：`终点`
 3. [烟郁Galgame](https://yanyugal.top/) & `Windows`：[点击下载](https://yanyugal.top/d/disk1/%5B%E4%BC%9A%E7%A4%BE%5D%5B%E5%90%88%E9%9B%86%5DGalgame/%E5%8D%81%E4%BA%8C%E9%AD%94%E5%99%A8/%E8%99%AB%E7%88%B1%E5%B0%91%E5%A5%B3.7z)，密码：`烟郁频道`、`lumouweinb`
 4. [真红小站](https://www.shinnku.com/) & `Windows`：[点击下载](https://www.shinnku.com/api/download/0/win/%E8%99%AB%E7%88%B1%E5%B0%91%E5%A5%B3%20%E5%B9%BC%E8%99%AB%E7%AF%87.7z)

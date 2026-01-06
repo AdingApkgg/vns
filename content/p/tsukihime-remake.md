@@ -69,5 +69,5 @@ lastmod: 2024-07-31 01:45:00
 
 ## 分流
 
-1. [TouchGAL](https://www.touchgal.us/) & `Windows`：[点击下载](https://pan.touchgal.net/s/DprwSx)，密码：`tsukihime3`、`touchgal`
+1. [TouchGAL](https://www.touchgal.top/) & `Windows`：[点击下载](https://pan.touchgal.net/s/DprwSx)，密码：`tsukihime3`、`touchgal`
 2. [稻荷GAL](https://inarigal.com/) & `Windows`：[点击下载](https://inarigal.com/detail/8298)

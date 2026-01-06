@@ -67,7 +67,7 @@ lastmod: 2024-04-30 00:09:00
 2. [稻荷GAL](https://inarigal.com/) & `ONS`：[点击下载](https://inarigal.com/detail/2804)
 3. [姬路白雪](https://pan.jlbx.xyz/) & `Windows` + `ONS`：[点击下载](https://pan.jlbx.xyz/?s=%E5%A5%B3%E8%A3%85%E6%B5%B7%E5%B3%A1)，密码：`终点`
 4. [迷迭香的博客](https://rosmontis.com/) & `Windows`：[点击下载](https://azure-drive.rosmontis.com/s/Bn0Cq)，提取码：`w8m52k`，解压码：`rosmontis`
-5. [TouchGAL](https://www.touchgal.us/) & `Windows` + `ONS`：[点击下载](https://pan.touchgal.net/s/v39uW)，密码：`touchgal`
+5. [TouchGAL](https://www.touchgal.top/) & `Windows` + `ONS`：[点击下载](https://pan.touchgal.net/s/v39uW)，密码：`touchgal`
 6. [梓澪の妙妙屋](https://zi0.cc/) & `Windows`：[点击下载](https://zi0.cc/d/%60%E3%80%90%E5%90%88%E9%9B%86%E7%B3%BB%E5%88%97%E3%80%91/%E6%B1%89%E5%8C%96galgame%E4%BC%9A%E7%A4%BE%E5%90%88%E9%9B%86/%E6%B1%89%E5%8C%96%E4%BC%9A%E7%A4%BE%E5%90%88%E9%9B%86%E9%83%A8%E5%88%86%20part5/Base%20Unit/%5B130531%5D%5B%E8%84%B3%E5%86%85%E5%BD%BC%E5%A5%B3%5D%20%E5%A5%B3%E8%A3%85%E6%B5%B7%E5%B3%A1.rar?sign=C8R8J3qy-x58-AMy8LSxIAsDy4grxHJkBvp0B6xg8oY=:0)
 7. [梓澪の妙妙屋](https://zi0.cc/) & `ONS`：[点击下载](https://zi0.cc/d/%60%E3%80%90%E5%BD%92%20%E6%A1%A3%E3%80%91/%E3%80%90ONS%E5%90%88%E9%9B%86%E3%80%91/%5B%E8%84%B3%E5%86%85%E5%BD%BC%E5%A5%B3%5D%E5%A5%B3%E8%A3%85%E6%B5%B7%E5%B3%A1.7z?sign=hz6auvGZ8mcHsqDwa5uuzgN0cLX4lBOJ_wxXDUOkcN8=:0)
 8. [真红小站](https://www.shinnku.com/) & `Windows`：[点击下载](https://www.shinnku.com/api/download/0/win/%E5%A5%B3%E8%A3%85%E6%B5%B7%E5%B3%A1.7z)

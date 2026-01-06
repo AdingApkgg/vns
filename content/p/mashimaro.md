@@ -89,7 +89,7 @@ author: WTY
 
 ## 分流
 
-1. [TouchGAL](https://www.touchgal.us/) & `Windows`：[点击下载](https://pan.touchgal.net/s/ZrIa)，密码：`touchgal`
+1. [TouchGAL](https://www.touchgal.top/) & `Windows`：[点击下载](https://pan.touchgal.net/s/ZrIa)，密码：`touchgal`
 2. [Hikarinagi](https://www.hikarinagi.net/) & `Windows`：[点击下载](https://pan.yurari.moe/s/KkxHv)，密码：`hikarinagi.com`
 3. [Hikarinagi](https://www.hikarinagi.net/) & `Windows`：[点击下载](https://pan.yurari.moe/s/KP8Uv)，密码：`hikarinagi.com`
 4. [真红小站](https://www.shinnku.com/) & `Windows`：[点击下载](https://www.shinnku.com/api/download/0/win/%E5%9B%9E%E5%AE%B6%E4%B9%8B%E5%89%8D%E7%9A%84%E6%A3%89%E8%8A%B1%E7%B3%96.7z)

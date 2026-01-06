@@ -46,7 +46,7 @@ lastmod: 2024-11-27 01:56:42
 
 ## 分流
 
-1. [TouchGAL](https://www.touchgal.us/) & `Windows`：[点击下载](https://pan.touchgal.net/s/pj8UD)，密码：`touchgal`
+1. [TouchGAL](https://www.touchgal.top/) & `Windows`：[点击下载](https://pan.touchgal.net/s/pj8UD)，密码：`touchgal`
 2. [Hikarinagi](https://www.hikarinagi.net/) & `Windows`：[点击下载](https://pan.yurari.moe/s/Z6RgfV)，密码：`hikarinagi.com`
 3. [梓澪の妙妙屋](https://zi0.cc/) & `Windows`【天邈汉化 v0.7】：[点击下载](https://zi0.cc/d/%60%E3%80%90%E5%90%88%E9%9B%86%E7%B3%BB%E5%88%97%E3%80%91/%E5%8D%97%2BGalGame%E6%B1%89%E5%8C%96%E5%8C%BA%E5%85%A8%E5%8C%BA%E8%B5%84%E6%BA%90%E5%A4%87%E4%BB%BD/1/12/%5BKEMCO%5D%E4%BA%BA%E7%8B%BC%E6%9D%91%E4%B9%8B%E8%B0%9C%E3%83%AC%E3%82%A4%E3%82%B8%E3%83%B3%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%20v0.7%E6%B1%89%E5%8C%96%E7%89%88%20%5B%E5%A4%A9%E9%82%88%E6%B1%89%E5%8C%96%5D.zip?sign=-1wKg8pY8AoVcboFfCdubaENyaWzH2xI-T3UHp0sl-w=:0)
 4. [绮梦](https://acgs.one/) & `Windows`：[点击下载](https://game.acgs.one/game/102.html)，密码：`acgs`、`绮梦`

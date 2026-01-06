@@ -81,8 +81,8 @@ lastmod: 2025-04-01 05:00:00
 
 ## 分流
 
-1. [TouchGAL](https://www.touchgal.us/) & `Windows`：[点击下载](https://pan.touchgal.net/s/PXEjTR)，密码：`touchgal`
-2. [TouchGAL](https://www.touchgal.us/) & `Tyranor`：[点击下载](https://pan.touchgal.net/s/jVq2c9)，密码：`touchgal`
+1. [TouchGAL](https://www.touchgal.top/) & `Windows`：[点击下载](https://pan.touchgal.net/s/PXEjTR)，密码：`touchgal`
+2. [TouchGAL](https://www.touchgal.top/) & `Tyranor`：[点击下载](https://pan.touchgal.net/s/jVq2c9)，密码：`touchgal`
 3. [Hikarinagi](https://www.hikarinagi.net/) & `Windows`：[点击下载](https://pan.yurari.moe/s/WBocg)，密码：`hikarinagi.com`
 4. [Hikarinagi](https://www.hikarinagi.net/) & `Windows`：[点击下载](https://pan.yurari.moe/s/0l5HD)，密码：`hikarinagi.com`
 5. [梓澪の妙妙屋](https://zi0.cc/) & `Windows`【FHD Edition 无码 官中日英】：[点击下载](https://zi0.cc/d/%E5%90%88%E9%9B%86%E7%B3%BB%E5%88%97/%E6%B1%89%E5%8C%96galgame%E5%90%88%E9%9B%86/2024/12/%5BSAGA%20PLANETS%5D%20%E3%81%AF%E3%81%A4%E3%82%86%E3%81%8D%E3%81%95%E3%81%8F%E3%82%89%20FHD%20Edition%20%E5%88%9D%E9%9B%AA%E6%A8%B1%20%5B%E6%97%A0%E7%A0%81%5D%20%5B%E5%AE%98%E6%96%B9%E4%B8%AD%E6%97%A5%E8%8B%B1%E6%96%87%5D.zip?sign=k0sMZtJq5BJ-WFDcTUEr8H8YqBJc-86QUqsBsrvVvrg=:0)

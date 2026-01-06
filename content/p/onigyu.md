@@ -99,8 +99,8 @@ Tips：在游戏主界面 Extra - CG - Scene Repaly 中可以切换妹妹视角(
 2. [稻荷GAL](https://inarigal.com/) & `KRKR`2：[点击下载](https://sakustar.moe/download?post_id=4517&index=0&i=0)
 3. [姬路白雪](https://jlbx.xyz/) & `Windows` + `KRKR`3：[点击下载](https://pan.jlbx.xyz/?s=%E5%93%A5%E5%93%A5%EF%BC%8C%E6%97%A9%E4%B8%8A%E8%B5%B7%E5%BA%8A%E4%B9%8B%E5%89%8D%E9%83%BD%E8%A6%81%E6%8A%B1%E7%B4%A7%E6%88%91%E5%93%A6%EF%BC%81)，密码：终点
 4. [梓澪の妙妙屋](https://zi0.cc/) & `KRKR`4：[点击下载](https://zi0.cc/d/%60%E3%80%90%E5%BD%92%20%E6%A1%A3%E3%80%91/%E3%80%90KRKR%E5%90%88%E9%9B%86%E3%80%91/1/%E5%93%A5%E5%93%A5%EF%BC%8C%E6%97%A9%E4%B8%8A%E8%B5%B7%E5%BA%8A%E4%B9%8B%E5%89%8D%E9%83%BD%E8%A6%81%E6%8A%B1%E7%B4%A7%E6%88%91%E5%93%A6%EF%BC%81.exe?sign=O0nIyRmd6ibQPG4bgyGtMAzLDLPoJAHXXGVW7ElNGJ8=:0)，一级解压密码：91白嫖网、二级解压密码：书想工作室
-5. [TouchGAL](https://www.touchgal.us/) & `Windows`：[点击下载](https://pan.touchgal.net/s/qoetb)，密码：`touchgal`
-6. [TouchGAL](https://www.touchgal.us/) & `KRKR`：[点击下载](https://pan.touchgal.net/s/5QGCE)，密码：`touchgal`
+5. [TouchGAL](https://www.touchgal.top/) & `Windows`：[点击下载](https://pan.touchgal.net/s/qoetb)，密码：`touchgal`
+6. [TouchGAL](https://www.touchgal.top/) & `KRKR`：[点击下载](https://pan.touchgal.net/s/5QGCE)，密码：`touchgal`
 7. [绮梦](https://acgs.eu.org/) & `Windows` + `KRKR`：[点击下载](https://acgs.eu.org/down_html/?url=game/%E5%93%A5%E5%93%A5%E6%97%A9%E4%B8%8A%E8%B5%B7%E5%BA%8A%E4%B9%8B%E5%89%8D%E9%83%BD%E8%A6%81%E6%8A%B1%E7%B4%A7%E6%88%91%E5%93%A6&name=%E5%93%A5%E5%93%A5%EF%BC%8C%E6%97%A9%E4%B8%8A%E8%B5%B7%E5%BA%8A%E4%B9%8B%E5%89%8D%E9%83%BD%E8%A6%81%E6%8A%B1%E7%B4%A7%E6%88%91%E5%93%A6%EF%BC%81)，密码：绮梦
 8. [真红小站](https://www.shinnku.com/) & `Windows`：[点击下载](https://www.shinnku.com/api/download/0/win/%E5%93%A5%E5%93%A5,%E6%97%A9%E4%B8%8A%E8%B5%B7%E5%BA%8A%E4%B9%8B%E5%89%8D%E9%83%BD%E8%A6%81%E6%8A%B1%E7%B4%A7%E6%88%91%E5%93%A6%EF%BC%81.7z)
 9. [真红小站](https://www.shinnku.com/) & `KRKR`：[点击下载](https://www.shinnku.com/api/download/0/krkr/%E5%93%A5%E5%93%A5%EF%BC%8C%E6%97%A9%E4%B8%8A%E8%B5%B7%E5%BA%8A%E4%B9%8B%E5%89%8D%E9%83%BD%E8%A6%81%E6%8A%B1%E7%B4%A7%E6%88%91%E5%93%A6%EF%BC%81.7z)

@@ -71,8 +71,8 @@ lastmod: 2024-04-16 00:43:00
 5. [小鳥遊暁の会员制餐厅](https://t-satoru.top/) & `ONS`：[点击下载](https://pan.t-satoru.top/d/ode5/Galgames/%E3%80%90%E8%87%AA%E5%B0%81%E5%8C%85%E3%80%91%E5%8E%9F%E5%88%9B%E4%BD%9C%E5%93%81/%E8%BF%91%E6%9C%88%E7%B3%BB%E5%88%97/ONS_KIDFansClub_%E8%BF%91%E6%9C%88%E5%B0%91%E5%A5%B3%E7%9A%84%E7%A4%BC%E4%BB%AA.rar)，密码：`三司绫濑天下第一`
 6. [烟郁Galgame](https://yanyugal.top/) & `ONS`：[点击下载](https://yanyugal.top/d/disk1/%E5%B0%8F%E5%B0%8F%E7%9A%84%E5%88%86%E4%BA%AB%EF%BC%88PC%EF%BC%86%E5%AE%89%E5%8D%93%EF%BC%89/%E5%AE%89%E5%8D%93/ons/%E8%BF%91%E6%9C%88%E5%B0%91%E5%A5%B3ons%E5%90%88%E9%9B%86/%E8%BF%91%E6%9C%88%E5%B0%91%E5%A5%B3%E7%9A%84%E7%A4%BC%E4%BB%AA.7z)，密码：`烟郁频道`
 7. [迷迭香写代码](https://rosmontis.com/) & `Windows`：[点击下载](https://drive.rosmontis.com/s/WnAF7)，密码：`rosmontis`，去掉 `.rosmontis` 后缀名再解压
-8. [TouchGAL](https://www.touchgal.us/) & `Windows`：[点击下载](https://pan.touchgal.net/s/9prib)，密码：`touchgal`
-9. [TouchGAL](https://www.touchgal.us/) & `ONS`：[点击下载](https://pan.touchgal.net/s/L0BCZ)，密码：`touchgal`
+8. [TouchGAL](https://www.touchgal.top/) & `Windows`：[点击下载](https://pan.touchgal.net/s/9prib)，密码：`touchgal`
+9. [TouchGAL](https://www.touchgal.top/) & `ONS`：[点击下载](https://pan.touchgal.net/s/L0BCZ)，密码：`touchgal`
 10. [梓澪の妙妙屋](https://zi0.cc/) & `Windows`【官中】：[点击下载](https://zi0.cc/d/%2C%E3%80%90ADV-%E5%86%92%E9%99%A9%E6%B8%B8%E6%88%8F%E3%80%91/%E3%80%90PC%E3%80%91%E8%BF%91%E6%9C%88%E5%B0%91%E5%A5%B3%E7%9A%84%E7%A4%BC%E4%BB%AA/%E5%AE%98%E4%B8%AD/Tsukiniyorisou.zip?sign=G2LAkhwsI1GDW8qjqUmi2bwwA77QQUBHPK1XlKSr-nE=:0)
 11. [梓澪の妙妙屋](https://zi0.cc/) & `Windows`【汉化】：[点击下载](https://zi0.cc/d/%2C%E3%80%90ADV-%E5%86%92%E9%99%A9%E6%B8%B8%E6%88%8F%E3%80%91/%E3%80%90PC%E3%80%91%E8%BF%91%E6%9C%88%E5%B0%91%E5%A5%B3%E7%9A%84%E7%A4%BC%E4%BB%AA/%E6%B1%89%E5%8C%96/jinyue.zip?sign=sN146tHCG3DdKB8bP5kFyDN_aTsurv37y9v12daEasg=:0)
 12. [绮梦](https://acgs.eu.org/) & `Windows`：[点击下载](https://acgs.one/down_html/?url=game/%E8%BF%91%E6%9C%88%E5%B0%91%E5%A5%B3%E7%9A%84%E7%A4%BC%E4%BB%AA&name=%E8%BF%91%E6%9C%88%E5%B0%91%E5%A5%B3%E7%9A%84%E7%A4%BC%E4%BB%AA)，密码：`acgs`、`绮梦`

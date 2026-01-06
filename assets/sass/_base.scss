@@ -357,17 +357,6 @@ blockquote {
   backdrop-filter: blur(8px);
 }
 
-.pagefind-ui {
-  form {
-    input,
-    button,
-    div * {
-      background: var(--bg-color) !important;
-      color: var(--text-color) !important;
-    }
-  }
-}
-
 .post-meta {
   font-size: 0.9rem;
   color: #666;
@@ -434,8 +423,7 @@ blockquote {
 .toc-trigger {
   position: fixed;
   right: 0;
-  top: 50%;
-  transform: translateY(-50%);
+  top: 20%;
   width: 36px;
   height: 64px;
   background: var(--toc-bg);
@@ -448,17 +436,17 @@ blockquote {
   transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
   box-shadow: -2px 0 12px rgba(0, 0, 0, 0.15);
   backdrop-filter: blur(10px);
-  
+
   i {
     font-size: 16px;
     color: var(--text-color);
     transition: transform 0.3s ease;
   }
-  
+
   &:hover {
     width: 44px;
     background: var(--link-color);
-    
+
     i {
       color: #fff;
       transform: scale(1.1);
@@ -476,7 +464,7 @@ blockquote {
   z-index: 1001;
   transition: all 0.3s ease;
   backdrop-filter: blur(2px);
-  
+
   &.active {
     opacity: 1;
     visibility: visible;
@@ -497,11 +485,11 @@ blockquote {
   display: flex;
   flex-direction: column;
   visibility: hidden;
-  
+
   &.ready {
     transition: right 0.35s cubic-bezier(0.4, 0, 0.2, 1), visibility 0s 0.35s;
   }
-  
+
   &.active {
     right: 0;
     visibility: visible;
@@ -517,12 +505,12 @@ blockquote {
   padding: 16px 20px;
   border-bottom: 1px solid var(--border-color);
   background: var(--toc-bg);
-  
+
   span {
     font-size: 16px;
     font-weight: 600;
     color: var(--text-color);
-    
+
     i {
       margin-right: 8px;
       color: var(--link-color);
@@ -542,65 +530,123 @@ blockquote {
   align-items: center;
   justify-content: center;
   transition: all 0.2s ease;
-  
+
   i {
     font-size: 16px;
     color: var(--text-color);
   }
-  
+
   &:hover {
     background: var(--red-1);
-    
+
     i {
       color: #fff;
     }
   }
 }
 
-/* TOC 内容区域 */
+/* TOC 内容区域 - 基于折叠的层级显示 */
 .toc-content {
   flex: 1;
   overflow-y: auto;
   padding: 16px;
-  
+
   #TableOfContents {
     max-width: 100%;
     background: transparent;
     border-radius: 0;
     padding: 0;
     overflow: visible;
-    
-    ul {
+
+    ul,
+    ol {
       list-style: none;
       padding-left: 0;
       margin: 0;
-      
-      ul {
-        padding-left: 16px;
-        margin-top: 6px;
-      }
     }
-    
-    li {
+
+    /* 嵌套子列表 - 默认折叠 */
+    li > ul,
+    li > ol {
+      max-height: 0;
+      overflow: hidden;
+      transition: max-height 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+      background: rgba(var(--link-color-rgb, 100, 149, 237), 0.05);
+      border-radius: 6px;
       margin: 4px 0;
-      
-      a {
-        display: block;
-        padding: 8px 12px;
+    }
+
+    /* 展开状态 */
+    li.open > ul,
+    li.open > ol {
+      max-height: 1000px;
+    }
+
+    li {
+      margin: 2px 0;
+
+      > a {
+        display: flex;
+        align-items: center;
+        padding: 10px 12px;
         color: var(--text-color);
         text-decoration: none;
         border-radius: 6px;
         font-size: 14px;
-        line-height: 1.5;
+        line-height: 1.4;
         transition: all 0.2s ease;
-        border-left: 3px solid transparent;
-        
+        position: relative;
+
         &:hover {
           background: var(--toc-bg);
           color: var(--link-color);
-          border-left-color: var(--link-color);
-          transform: translateX(4px);
         }
+      }
+
+      /* 有子项的父级 */
+      &.has-children > a {
+        cursor: pointer;
+
+        &::after {
+          content: "";
+          width: 6px;
+          height: 6px;
+          border-right: 2px solid currentColor;
+          border-bottom: 2px solid currentColor;
+          transform: rotate(-45deg);
+          margin-left: auto;
+          opacity: 0.6;
+          transition: transform 0.3s ease;
+        }
+      }
+
+      /* 展开时箭头旋转 */
+      &.has-children.open > a::after {
+        transform: rotate(45deg);
+      }
+
+      /* 子项样式 - 用背景和图标区分 */
+      ul li > a,
+      ol li > a {
+        padding-left: 20px;
+        font-size: 13px;
+        opacity: 0.9;
+
+        &::before {
+          content: "·";
+          margin-right: 8px;
+          color: var(--link-color);
+        }
+      }
+
+      /* 更深层级 */
+      ul ul li > a,
+      ul ol li > a,
+      ol ul li > a,
+      ol ol li > a {
+        padding-left: 32px;
+        font-size: 12px;
+        opacity: 0.8;
       }
     }
   }
@@ -618,7 +664,7 @@ blockquote {
 .toc-content::-webkit-scrollbar-thumb {
   background: var(--border-color);
   border-radius: 3px;
-  
+
   &:hover {
     background: var(--link-color);
   }
@@ -629,12 +675,12 @@ blockquote {
   .toc-trigger {
     width: 32px;
     height: 56px;
-    
+
     i {
       font-size: 14px;
     }
   }
-  
+
   .toc-sidebar {
     width: 300px;
   }

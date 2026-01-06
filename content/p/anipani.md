@@ -63,7 +63,7 @@ lastmod: 2025-10-06 04:56:00
 
 ## 分流
 
-1.  [TouchGAL](https://www.touchgal.us/) & `Windows`：[点击下载](https://pan.touchgal.net/s/nZEIY)，密码：`touchgal`
+1.  [TouchGAL](https://www.touchgal.top/) & `Windows`：[点击下载](https://pan.touchgal.net/s/nZEIY)，密码：`touchgal`
 2.  [Hikarinagi](https://www.hikarinagi.net/) & `Windows`：[点击下载](https://pan.yurari.moe/s/wpVMUz)，密码：`hikarinagi.com`
 3.  [Hikarinagi](https://www.hikarinagi.net/) & `Windows`：[点击下载](https://pan.yurari.moe/s/8WWCZ)，密码：`hikarinagi.com`
 4.  [梓澪の妙妙屋](https://zi0.cc/) & `Windows`：[点击下载](https://zi0.cc/%E5%90%88%E9%9B%86%E7%B3%BB%E5%88%97/%E5%8D%97+GalGame%E6%B1%89%E5%8C%96%E5%8C%BA%E5%85%A8%E5%8C%BA%E8%B5%84%E6%BA%90%E5%A4%87%E4%BB%BD/02/[QUINCE%20SOFT]%20%E3%81%82%E3%81%AB%E3%81%BE%E3%82%8B%E2%98%86%E3%81%B1%E3%81%AB%E3%81%A3%E3%81%8F%20%20Animal%E2%98%86Panic%20%20V2.0%E5%85%A8%E7%BA%BF%E6%9C%80%E7%BB%88%E6%B1%89%E5%8C%96%E7%A1%AC%E7%9B%98%E7%89%88[%E8%99%9A%E7%A9%BA%E5%8F%9B%E9%80%86%E5%B8%9D%E9%BE%99%E4%B8%AA%E4%BA%BA%E6%B1%89%E5%8C%96].zip)

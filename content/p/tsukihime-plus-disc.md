@@ -53,7 +53,7 @@ lastmod: 2024-07-31 01:00:00
 
 1. [稻荷GAL](https://inarigal.com/) & `ONS`：[点击下载](https://inarigal.com/detail/624)
 2. [姬路白雪](https://pan.jlbx.xyz/) & `Windows` + `ONS`：[点击下载](https://pan.jlbx.xyz/?s=%E6%9C%88%E5%A7%AC)，密码：`终点`
-3. [TouchGAL](https://www.touchgal.us/) & `Windows`：[点击下载](https://pan.touchgal.net/s/gGndcL)，密码：`touchgal`
+3. [TouchGAL](https://www.touchgal.top/) & `Windows`：[点击下载](https://pan.touchgal.net/s/gGndcL)，密码：`touchgal`
 4. [梓澪の妙妙屋](https://zi0.cc/) & `ONS`：[点击下载](https://zi0.cc/d/%60%E3%80%90%E5%BD%92%20%E6%A1%A3%E3%80%91/%E3%80%90ONS%E5%90%88%E9%9B%86%E3%80%91/%5BTYPE-MOON%5D%E6%9C%88%E5%A7%AC%20PLUS%2BDISC.7z?sign=MaY16PcHLtFMCcIC2hulLNuAML5OHyVtd2f77xM9Aas=:0)
 5. [绮梦](https://acgs.one/) & `Windows` + `ONS`：[点击下载](https://game.acgs.one/game/215.html)，密码：`绮梦`
 6. [真红小站](https://www.shinnku.com/) & `Windows`：[点击下载](https://www.shinnku.com/api/download/0/win/%E6%9C%88%E5%A7%ACPLUS+DISC.7z)

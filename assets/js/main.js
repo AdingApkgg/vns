@@ -59,12 +59,43 @@ function initTOCSidebar() {
     }
   });
 
-  // 点击 TOC 链接后自动关闭
-  sidebar.querySelectorAll("a").forEach((link) => {
-    link.addEventListener("click", () => {
-      closeTOC();
+  // 初始化折叠功能
+  const toc = sidebar.querySelector("#TableOfContents");
+  if (toc) {
+    // 标记有子项的 li（支持 ul 和 ol）
+    toc.querySelectorAll("li").forEach((li) => {
+      const childList = li.querySelector(":scope > ul, :scope > ol");
+      if (childList) {
+        li.classList.add("has-children");
+
+        // 点击父项时切换折叠状态
+        const link = li.querySelector(":scope > a");
+        if (link) {
+          link.addEventListener("click", (e) => {
+            // 如果有子项，先切换折叠状态
+            e.preventDefault();
+            li.classList.toggle("open");
+          });
+        }
+      } else {
+        // 没有子项的链接，点击后关闭 TOC
+        const link = li.querySelector("a");
+        if (link) {
+          link.addEventListener("click", () => {
+            closeTOC();
+          });
+        }
+      }
     });
-  });
+
+    // 默认展开第一级（支持 ul 和 ol）
+    const firstLevel = toc.querySelector(
+      ":scope > ul > li.has-children, :scope > ol > li.has-children"
+    );
+    if (firstLevel) {
+      firstLevel.classList.add("open");
+    }
+  }
 }
 
 document.addEventListener("DOMContentLoaded", initializePage);
@@ -102,51 +133,36 @@ loaderEl.addEventListener("click", endLoading);
 function mouseFirework() {
   firework({
     excludeElements: [],
-    "particles": [
+    particles: [
       {
-        "shape": "circle",
-        "move": [
-          "emit"
-        ],
-        "easing": "easeOutExpo",
-        "colors": [
+        shape: "circle",
+        move: ["emit"],
+        easing: "easeOutExpo",
+        colors: [
           "rgba(255,182,185,.9)",
           "rgba(250,227,217,.9)",
           "rgba(187,222,214,.9)",
-          "rgba(138,198,209,.9)"
+          "rgba(138,198,209,.9)",
         ],
-        "number": 30,
-        "duration": [
-          1200,
-          1800
-        ],
-        "shapeOptions": {
-          "radius": [
-            16,
-            32
-          ]
-        }
+        number: 30,
+        duration: [1200, 1800],
+        shapeOptions: {
+          radius: [16, 32],
+        },
       },
       {
-        "shape": "circle",
-        "move": [
-          "diffuse"
-        ],
-        "easing": "easeOutExpo",
-        "colors": [
-          "#FFF"
-        ],
-        "number": 1,
-        "duration": [
-          1200,
-          1800
-        ],
-        "shapeOptions": {
-          "radius": 20,
-          "alpha": 0.5,
-          "lineWidth": 6
-        }
-      }
+        shape: "circle",
+        move: ["diffuse"],
+        easing: "easeOutExpo",
+        colors: ["#FFF"],
+        number: 1,
+        duration: [1200, 1800],
+        shapeOptions: {
+          radius: 20,
+          alpha: 0.5,
+          lineWidth: 6,
+        },
+      },
     ],
   });
 }
@@ -203,7 +219,13 @@ function initScrollEffects() {
 
 function initSearch() {
   if (document.querySelector("#search")) {
-    new PagefindUI({ element: "#search", showSubResults: false });
+    new PagefindUI({
+      element: "#search",
+      pageSize: 10,
+      showSubResults: true,
+      resetStyles: false,
+      autofocus: true,
+    });
   }
 }
 
@@ -672,28 +694,28 @@ observer.observe(document, {
 
 function lunar() {
   var lunarInfo = [
-    19416, 19168, 42352, 21717, 53856, 55632, 91476, 22176, 39632, 21970,
-    19168, 42422, 42192, 53840, 119381, 46400, 54944, 44450, 38320, 84343,
-    18800, 42160, 46261, 27216, 27968, 109396, 11104, 38256, 21234, 18800,
-    25958, 54432, 59984, 28309, 23248, 11104, 100067, 37600, 116951, 51536,
-    54432, 120998, 46416, 22176, 107956, 9680, 37584, 53938, 43344, 46423,
-    27808, 46416, 86869, 19872, 42416, 83315, 21168, 43432, 59728, 27296,
-    44710, 43856, 19296, 43748, 42352, 21088, 62051, 55632, 23383, 22176,
-    38608, 19925, 19152, 42192, 54484, 53840, 54616, 46400, 46752, 103846,
-    38320, 18864, 43380, 42160, 45690, 27216, 27968, 44870, 43872, 38256,
-    19189, 18800, 25776, 29859, 59984, 27480, 23232, 43872, 38613, 37600,
-    51552, 55636, 54432, 55888, 30034, 22176, 43959, 9680, 37584, 51893,
-    43344, 46240, 47780, 44368, 21977, 19360, 42416, 86390, 21168, 43312,
-    31060, 27296, 44368, 23378, 19296, 42726, 42208, 53856, 60005, 54576,
-    23200, 30371, 38608, 19195, 19152, 42192, 118966, 53840, 54560, 56645,
-    46496, 22224, 21938, 18864, 42359, 42160, 43600, 111189, 27936, 44448,
-    84835, 37744, 18936, 18800, 25776, 92326, 59984, 27424, 108228, 43744,
-    41696, 53987, 51552, 54615, 54432, 55888, 23893, 22176, 42704, 21972,
-    21200, 43448, 43344, 46240, 46758, 44368, 21920, 43940, 42416, 21168,
-    45683, 26928, 29495, 27296, 44368, 84821, 19296, 42352, 21732, 53600,
-    59752, 54560, 55968, 92838, 22224, 19168, 43476, 41680, 53584, 62034,
-    54560,
-  ],
+      19416, 19168, 42352, 21717, 53856, 55632, 91476, 22176, 39632, 21970,
+      19168, 42422, 42192, 53840, 119381, 46400, 54944, 44450, 38320, 84343,
+      18800, 42160, 46261, 27216, 27968, 109396, 11104, 38256, 21234, 18800,
+      25958, 54432, 59984, 28309, 23248, 11104, 100067, 37600, 116951, 51536,
+      54432, 120998, 46416, 22176, 107956, 9680, 37584, 53938, 43344, 46423,
+      27808, 46416, 86869, 19872, 42416, 83315, 21168, 43432, 59728, 27296,
+      44710, 43856, 19296, 43748, 42352, 21088, 62051, 55632, 23383, 22176,
+      38608, 19925, 19152, 42192, 54484, 53840, 54616, 46400, 46752, 103846,
+      38320, 18864, 43380, 42160, 45690, 27216, 27968, 44870, 43872, 38256,
+      19189, 18800, 25776, 29859, 59984, 27480, 23232, 43872, 38613, 37600,
+      51552, 55636, 54432, 55888, 30034, 22176, 43959, 9680, 37584, 51893,
+      43344, 46240, 47780, 44368, 21977, 19360, 42416, 86390, 21168, 43312,
+      31060, 27296, 44368, 23378, 19296, 42726, 42208, 53856, 60005, 54576,
+      23200, 30371, 38608, 19195, 19152, 42192, 118966, 53840, 54560, 56645,
+      46496, 22224, 21938, 18864, 42359, 42160, 43600, 111189, 27936, 44448,
+      84835, 37744, 18936, 18800, 25776, 92326, 59984, 27424, 108228, 43744,
+      41696, 53987, 51552, 54615, 54432, 55888, 23893, 22176, 42704, 21972,
+      21200, 43448, 43344, 46240, 46758, 44368, 21920, 43940, 42416, 21168,
+      45683, 26928, 29495, 27296, 44368, 84821, 19296, 42352, 21732, 53600,
+      59752, 54560, 55968, 92838, 22224, 19168, 43476, 41680, 53584, 62034,
+      54560,
+    ],
     solarMonth = [31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31],
     Gan = ["甲", "乙", "丙", "丁", "戊", "己", "庚", "辛", "壬", "癸"],
     Zhi = [
@@ -1009,7 +1031,7 @@ function lunar() {
     return (
       "魔羯水瓶双鱼白羊金牛双子巨蟹狮子处女天秤天蝎射手魔羯".substr(
         2 * b -
-        (f < [20, 19, 21, 21, 21, 22, 23, 23, 23, 23, 22, 22][b - 1] ? 2 : 0),
+          (f < [20, 19, 21, 21, 21, 22, 23, 23, 23, 23, 22, 22][b - 1] ? 2 : 0),
         2
       ) + "座"
     );
@@ -1137,8 +1159,8 @@ function lunar() {
     y === c && ((M = !0), (T = solarTerm[2 * f - 2])),
       m === c && ((M = !0), (T = solarTerm[2 * f - 1]));
     var I = toGanZhi(
-      Date.UTC(b, g, 1, 0, 0, 0, 0) / 864e5 + 25567 + 10 + c - 1
-    ),
+        Date.UTC(b, g, 1, 0, 0, 0, 0) / 864e5 + 25567 + 10 + c - 1
+      ),
       C = toAstro(f, c);
     return {
       lYear: l,
@@ -1208,8 +1230,8 @@ function lunar() {
     if (sessionStorage.getItem("isPopupWindow") != "1") {
       Swal.fire(
         "今天是九一八事变" +
-        (y - 1931).toString() +
-        "周年纪念日\n🪔勿忘国耻，振兴中华🪔"
+          (y - 1931).toString() +
+          "周年纪念日\n🪔勿忘国耻，振兴中华🪔"
       );
       sessionStorage.setItem("isPopupWindow", "1");
     }
@@ -1221,8 +1243,8 @@ function lunar() {
     if (sessionStorage.getItem("isPopupWindow") != "1") {
       Swal.fire(
         "今天是卢沟桥事变" +
-        (y - 1937).toString() +
-        "周年纪念日\n🪔勿忘国耻，振兴中华🪔"
+          (y - 1937).toString() +
+          "周年纪念日\n🪔勿忘国耻，振兴中华🪔"
       );
       sessionStorage.setItem("isPopupWindow", "1");
     }
@@ -1234,8 +1256,8 @@ function lunar() {
     if (sessionStorage.getItem("isPopupWindow") != "1") {
       Swal.fire(
         "今天是南京大屠杀" +
-        (y - 1937).toString() +
-        "周年纪念日\n🪔勿忘国耻，振兴中华🪔"
+          (y - 1937).toString() +
+          "周年纪念日\n🪔勿忘国耻，振兴中华🪔"
       );
       sessionStorage.setItem("isPopupWindow", "1");
     }
@@ -1522,7 +1544,8 @@ function initRankPage() {
 
   // 获取排行榜数据
   function fetchRankData() {
-    rankContent.innerHTML = '<div class="loading"><i class="fas fa-spinner fa-spin"></i> 加载中...</div>';
+    rankContent.innerHTML =
+      '<div class="loading"><i class="fas fa-spinner fa-spin"></i> 加载中...</div>';
 
     const apiUrl = `https://rp.30hb.cn/?target=https://inarigal.com/api/ranking/${currentType}?days=${currentDays}`;
 
@@ -1653,9 +1676,10 @@ function initRankPage() {
       valueNumber.className = "value-number";
 
       // 根据类型获取相应的数值
-      const value = currentType === "views"
-        ? parseInt(item.scan_count) || 0
-        : parseInt(item.download_count) || 0;
+      const value =
+        currentType === "views"
+          ? parseInt(item.scan_count) || 0
+          : parseInt(item.download_count) || 0;
 
       valueNumber.textContent = formatNumber(value);
       valueDiv.appendChild(valueNumber);
@@ -1709,8 +1733,9 @@ function initAIReview() {
   const articleTitle =
     document.querySelector("article h1")?.textContent.trim() || "未知作品";
   const articleContent =
-    document.querySelector(".content[data-pagefind-body]")?.textContent.trim() ||
-    "";
+    document
+      .querySelector(".content[data-pagefind-body]")
+      ?.textContent.trim() || "";
 
   // 隐藏生成按钮，显示重新生成按钮
   if (generateBtn) {
