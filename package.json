@@ -36,6 +36,7 @@
     "hexo-server": "^3.0.0",
     "hexo-swpp": "^3.3.7",
     "hexo-theme-next": "^8.27.0",
+    "hexo-util": "^4.0.0",
     "highlight.js": "^11.11.1",
     "js-yaml": "^4.1.1",
     "markdown-it-named-headings": "^1.1.0",

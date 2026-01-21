@@ -80,6 +80,9 @@ importers:
       hexo-theme-next:
         specifier: ^8.27.0
         version: 8.27.0
+      hexo-util:
+        specifier: ^4.0.0
+        version: 4.0.0
       highlight.js:
         specifier: ^11.11.1
         version: 11.11.1

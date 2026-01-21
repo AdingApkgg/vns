@@ -1,5 +1,6 @@
 onlyBuiltDependencies:
   - ejs
+  - fsevents
   - gifsicle
   - hexo-util
   - highlight.js
