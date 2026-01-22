@@ -30,6 +30,17 @@ html.is-animating .transition-fade {
   transform: translateY(10px) scale(0.98);
 }
 
+/* Swup Progress Plugin 进度条样式 */
+.swup-progress-bar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 3px;
+  background: linear-gradient(90deg, var(--link-color), #ff6b6b);
+  box-shadow: 0 0 10px var(--link-color);
+  z-index: 9999;
+}
+
 header {
   position: fixed;
   width: 126px;
@@ -152,19 +163,6 @@ li {
     border-radius: 3px;
     padding: 2px 4px;
     overflow-wrap: break-word;
-  }
-}
-
-.article-main {
-  .fancybox img,
-  video,
-  iframe {
-    max-width: calc(100% + 2em);
-    margin: 0 -1em;
-    display: block;
-    position: relative;
-    left: calc(50% + 1em);
-    transform: translateX(-50%);
   }
 }
 
@@ -387,6 +385,39 @@ blockquote {
 
 .swal2-container {
   backdrop-filter: blur(8px);
+}
+
+/* ===== 图片缩放 (medium-zoom) ===== */
+.image-zoom {
+  margin: 1.5em 0;
+  text-align: center;
+
+  img {
+    max-width: 100%;
+    height: auto;
+    cursor: zoom-in;
+    transition: transform 0.2s ease;
+
+    &:hover {
+      transform: scale(1.02);
+    }
+  }
+
+  figcaption {
+    margin-top: 0.5em;
+    font-size: 0.875em;
+    color: #666;
+    font-style: italic;
+  }
+}
+
+/* medium-zoom 遮罩层背景 */
+.medium-zoom-overlay {
+  z-index: 999;
+}
+
+.medium-zoom-image--opened {
+  z-index: 1000;
 }
 
 .post-meta {

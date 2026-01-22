@@ -1,4 +1,10 @@
-<a class="fancybox" href="{{ .Destination | relURL | safeURL }}" itemscope itemtype="http://schema.org/ImageObject"
-    itemprop="url" data-fancybox="default" title="{{ .Text }}" data-caption="{{ .Text }}"><img
-        data-src="{{ .Destination | relURL | safeURL }}" alt="{{ .Text }}"
-        src="{{ .Destination | relURL | safeURL }}"></a>
+<figure class="image-zoom" itemscope itemtype="http://schema.org/ImageObject">
+  <img
+    data-src="{{ .Destination | relURL | safeURL }}"
+    alt="{{ .Text }}"
+    src="{{ .Destination | relURL | safeURL }}"
+    data-zoomable
+    itemprop="contentUrl"
+  />
+  {{ with .Text }}<figcaption>{{ . }}</figcaption>{{ end }}
+</figure>
