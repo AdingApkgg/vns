@@ -1,23 +1,27 @@
 function initializePage() {
-  initGalPopup();
-  initMenuToggle();
-  lunar();
-  initScrollEffects();
-  initLozad();
-  mouseFirework();
-  Fancybox.bind("[data-fancybox]");
-  rv();
-  initValine();
-  initSearch();
-  shortcutKey();
-  langCode();
-  initClipboard();
-  fetchDLS();
-  initRankPage();
-  initAIReview();
-  initTOCSidebar();
-  quicklink.listen({ priority: true });
-  endLoading();
+  try {
+    initGalPopup();
+    initMenuToggle();
+    lunar();
+    initScrollEffects();
+    initLozad();
+    mouseFirework();
+    initMediumZoom();
+    rv();
+    initValine();
+    initSearch();
+    shortcutKey();
+    langCode();
+    initClipboard();
+    fetchDLS();
+    initRankPage();
+    initAIReview();
+    initTOCSidebar();
+  } catch (e) {
+    console.error("initializePage error:", e);
+  } finally {
+    endLoading();
+  }
 }
 
 /**
@@ -102,44 +106,78 @@ function initTOCSidebar() {
  * 页面加载状态管理
  */
 const PageLoader = {
-  el: document.getElementById("loader"),
+  el: null,
   startTime: null,
   minDuration: 500,
+  _hideTimerId: null,
+
+  getEl() {
+    if (!this.el) {
+      this.el = document.getElementById("loader");
+    }
+    return this.el;
+  },
 
   start() {
+    // 取消之前的延迟隐藏定时器
+    if (this._hideTimerId) {
+      clearTimeout(this._hideTimerId);
+      this._hideTimerId = null;
+    }
     this.startTime = Date.now();
-    this.el.classList.remove("loading");
+    var el = this.getEl();
+    if (el) {
+      el.classList.remove("loading");
+    }
   },
 
   hide() {
     document.body.style.overflow = "auto";
-    this.el.classList.add("loading");
+    var el = this.getEl();
+    if (el) {
+      el.classList.add("loading");
+    }
   },
 
   end() {
+    // 如果已经有延迟隐藏在进行中，不重复处理
+    if (this._hideTimerId) {
+      return;
+    }
+
     if (!this.startTime) {
       this.hide();
       return;
     }
 
-    const elapsed = Date.now() - this.startTime;
+    var elapsed = Date.now() - this.startTime;
+    this.startTime = null;
+
     if (elapsed >= this.minDuration) {
-      this.startTime = null;
       this.hide();
     } else {
       // 延迟到最小持续时间后再隐藏
-      const remaining = this.minDuration - elapsed;
-      this.startTime = null;
-      setTimeout(() => this.hide(), remaining);
+      var remaining = this.minDuration - elapsed;
+      var self = this;
+      this._hideTimerId = setTimeout(function() {
+        self._hideTimerId = null;
+        self.hide();
+      }, remaining);
     }
   },
 };
 
 // 兼容旧代码的别名
-const startLoading = () => PageLoader.start();
-const endLoading = () => PageLoader.end();
+function startLoading() { PageLoader.start(); }
+function endLoading() { PageLoader.end(); }
 
-PageLoader.el.addEventListener("click", endLoading);
+// 初始化 loader 点击事件
+(function() {
+  var el = document.getElementById("loader");
+  if (el) {
+    el.addEventListener("click", endLoading);
+  }
+})();
 
 /**
  * Swup 页面切换钩子
@@ -155,7 +193,6 @@ const SwupHooks = {
     swup.hooks.on("content:replace", () => {
       bszRe();
       PageLoader.end();
-      initValine(); // 确保 DOM 替换后重新初始化评论
     });
 
     // 新页面视图加载后初始化页面功能
@@ -212,6 +249,25 @@ function initLozad() {
   observerLozad.observe();
 }
 
+/**
+ * 初始化 medium-zoom 图片缩放
+ */
+function initMediumZoom() {
+  if (typeof mediumZoom === "undefined") return;
+  
+  // 销毁之前的实例（如果存在）
+  if (window._mediumZoomInstance) {
+    window._mediumZoomInstance.detach();
+  }
+  
+  // 创建新实例
+  window._mediumZoomInstance = mediumZoom("[data-zoomable]", {
+    margin: 24,
+    background: "rgba(0, 0, 0, 0.9)",
+    scrollOffset: 40,
+  });
+}
+
 function bszRe() {
   bszCaller.fetch(
     "//busuanzi.ibruce.info/busuanzi?jsonpCallback=BusuanziCallback",
@@ -231,23 +287,39 @@ const Navigation = {
   menuToggle: null,
   fixedThreshold: 200,
   isOpen: false,
+  _scrollInitialized: false,
 
   init() {
-    this.menuToggle = document.getElementById("menuToggle");
-    if (!this.menuToggle) return;
+    var newMenuToggle = document.getElementById("menuToggle");
+    if (!newMenuToggle) return;
 
     // 从 data-target 获取目标元素，默认为 header
-    const targetSelector = this.menuToggle.dataset.target || "header";
-    this.header = document.querySelector(targetSelector);
-    if (!this.header) return;
+    var targetSelector = newMenuToggle.dataset.target || "header";
+    var newHeader = document.querySelector(targetSelector);
+    if (!newHeader) return;
 
-    this.menuToggle.addEventListener("click", () => this.toggle());
-    window.addEventListener("scroll", () => this.handleScroll(), { passive: true });
+    this.menuToggle = newMenuToggle;
+    this.header = newHeader;
 
-    // ESC 键关闭菜单
-    document.addEventListener("keydown", (e) => {
-      if (e.key === "Escape" && this.isOpen) this.close();
-    });
+    // 使用 data 属性标记是否已绑定事件，避免重复绑定
+    if (!this.menuToggle._navBound) {
+      var self = this;
+      this.menuToggle.addEventListener("click", function() { self.toggle(); });
+      this.menuToggle._navBound = true;
+    }
+    
+    // scroll 和 keydown 事件只需要绑定一次
+    if (!this._scrollInitialized) {
+      var self = this;
+      window.addEventListener("scroll", function() { self.handleScroll(); }, { passive: true });
+      
+      // ESC 键关闭菜单
+      document.addEventListener("keydown", function(e) {
+        if (e.key === "Escape" && self.isOpen) self.close();
+      });
+      
+      this._scrollInitialized = true;
+    }
   },
 
   toggle() {
@@ -263,7 +335,8 @@ const Navigation = {
   },
 
   handleScroll() {
-    const isFixed = window.scrollY > this.fixedThreshold;
+    if (!this.header) return;
+    var isFixed = window.scrollY > this.fixedThreshold;
     this.header.classList.toggle("fixed", isFixed);
   },
 };
@@ -310,14 +383,29 @@ function initScrollEffects() {
 }
 
 function initSearch() {
-  if (document.querySelector("#search")) {
-    new PagefindUI({
+  var searchContainer = document.querySelector("#search");
+  if (searchContainer) {
+    var pagefind = new PagefindUI({
       element: "#search",
       pageSize: 10,
       showSubResults: true,
       resetStyles: false,
-      autofocus: true,
     });
+    
+    // 支持 URL 参数直接搜索，如 /search/?q=keyword
+    var urlParams = new URLSearchParams(window.location.search);
+    var query = urlParams.get("q");
+    if (query) {
+      // 延迟确保 PagefindUI 完全初始化
+      setTimeout(function() {
+        var searchInput = searchContainer.querySelector(".pagefind-ui__search-input");
+        if (searchInput) {
+          searchInput.value = query;
+          // 触发 input 事件让 PagefindUI 执行搜索
+          searchInput.dispatchEvent(new Event("input", { bubbles: true }));
+        }
+      }, 100);
+    }
   }
 }
 
@@ -476,14 +564,14 @@ function initClipboard() {
         const btn = document.createElement("button");
         btn.className = "copy-btn";
         btn.dataset.clipboardText = code.textContent.trim();
-        btn.innerHTML = "📋";
+        btn.innerHTML = '<i class="fa-regular fa-copy"></i>';
         code.parentNode.style.position = "relative";
         code.parentNode.appendChild(btn);
       });
 
       new ClipboardJS(".copy-btn").on("success", (e) => {
-        e.trigger.innerHTML = "✓";
-        setTimeout(() => (e.trigger.innerHTML = "📋"), 1500);
+        e.trigger.innerHTML = '<i class="fa-solid fa-check"></i>';
+        setTimeout(() => (e.trigger.innerHTML = '<i class="fa-regular fa-copy"></i>'), 1500);
       });
     })();
   }
