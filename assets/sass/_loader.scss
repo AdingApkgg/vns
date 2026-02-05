@@ -1,24 +1,38 @@
 #loader {
+  position: fixed;
+  inset: 0;
+  width: 100vw;
+  height: 100vh;
+  height: 100dvh;
+  z-index: 1000;
   .loading-bg {
-    position: fixed;
+    position: absolute;
+    top: 0;
+    bottom: 0;
     z-index: 1000;
-    width: 50%;
-    height: 100%;
+    width: 50vw;
+    height: 100vh;
+    height: 100dvh;
     background-color: #ffffffe6;
     transition: 0.2s;
     backdrop-filter: blur(8px);
+  }
+  .loading-left-bg {
+    left: 0;
   }
   .loading-right-bg {
     right: 0;
   }
   .spinner-box {
-    position: fixed;
+    position: absolute;
+    inset: 0;
     z-index: 1001;
     display: flex;
     justify-content: center;
     align-items: center;
-    width: 100%;
+    width: 100vw;
     height: 100vh;
+    height: 100dvh;
     opacity: 1;
     transition: 0.5s;
     .loading-taichi {
@@ -38,6 +52,7 @@
     }
   }
   &.loading {
+    pointer-events: none;
     .loading-left-bg {
       transform: translate(-100%);
     }
