@@ -1829,8 +1829,8 @@ async function generateReview(title, content, container) {
     // 构造 prompt
     const prompt = buildPrompt(title, content);
 
-    // 调用 Ollama API
-    const review = await callOllamaAPI(prompt, container);
+    // 调用 AI API
+    const review = await callAIAPI(prompt, container);
 
     if (review) {
       // 显示生成的感想
@@ -1865,8 +1865,7 @@ function buildPrompt(title, content) {
   // 提取文章摘要（限制长度）
   const summary = content.substring(0, 800);
 
-  return `/no_think
-# 角色设定
+  return `# 角色设定
 你是结城明日奈（Asuna），来自《刀剑神域》的温柔坚强的女剑士。你同时也是一位热爱 Galgame 的资深玩家，喜欢在游戏中寻找感动人心的故事。
 
 # 任务
@@ -1887,32 +1886,35 @@ ${summary}
 }
 
 /**
- * 调用 Ollama API（流式输出）
+ * 调用 AI API（OpenAI 兼容格式，流式输出）
  * @param {string} prompt - 提示词
  * @param {HTMLElement} container - 显示容器
  * @returns {Promise<string>} 生成的感想
  */
-async function callOllamaAPI(prompt, container) {
-  // Ollama API 配置
-  const OLLAMA_URL = "https://ai.saop.cc/api/generate";
-  const MODEL = "qwen3:8b"; // 可以根据需要更改模型
+async function callAIAPI(prompt, container) {
+  // One API 配置（硅基流动 Qwen 2.5 32B Instruct）
+  const API_URL = "https://ai.searchgal.top/v1/chat/completions";
+  const API_KEY = "sk-dlamYMLcndbINqk83b1f26D1A8B047F9A661CaF8448a642f";
+  const MODEL = "Qwen/Qwen2.5-32B-Instruct";
 
   try {
-    const response = await fetch(OLLAMA_URL, {
+    const response = await fetch(API_URL, {
       method: "POST",
       headers: {
         "Content-Type": "application/json",
+        "Authorization": `Bearer ${API_KEY}`,
       },
-      // credentials: 'include', // 如果需要发送 cookies
       body: JSON.stringify({
         model: MODEL,
-        prompt: prompt,
+        messages: [
+          {
+            role: "user",
+            content: prompt,
+          },
+        ],
         stream: true,
-        options: {
-          temperature: 0.8,
-          top_p: 0.9,
-          top_k: 40,
-        },
+        temperature: 0.8,
+        top_p: 0.9,
       }),
     });
 
@@ -1920,7 +1922,7 @@ async function callOllamaAPI(prompt, container) {
       throw new Error(`HTTP error! status: ${response.status}`);
     }
 
-    // 处理流式响应
+    // 处理 SSE 流式响应
     const reader = response.body.getReader();
     const decoder = new TextDecoder();
     let fullText = "";
@@ -1943,25 +1945,30 @@ async function callOllamaAPI(prompt, container) {
         break;
       }
 
-      // 解码并处理数据
+      // 解码并处理 SSE 数据
       buffer += decoder.decode(value, { stream: true });
       const lines = buffer.split("\n");
       buffer = lines.pop() || "";
 
       for (const line of lines) {
-        if (line.trim()) {
-          try {
-            const data = JSON.parse(line);
-            if (data.response) {
-              fullText += data.response;
-              streamingText.textContent = fullText;
+        const trimmed = line.trim();
+        if (!trimmed || !trimmed.startsWith("data: ")) continue;
 
-              // 自动滚动到底部
-              container.scrollTop = container.scrollHeight;
-            }
-          } catch (e) {
-            console.warn("解析 JSON 失败:", e);
+        const dataStr = trimmed.slice(6);
+        if (dataStr === "[DONE]") break;
+
+        try {
+          const data = JSON.parse(dataStr);
+          const content = data.choices?.[0]?.delta?.content;
+          if (content) {
+            fullText += content;
+            streamingText.textContent = fullText;
+
+            // 自动滚动到底部
+            container.scrollTop = container.scrollHeight;
           }
+        } catch (e) {
+          console.warn("解析 SSE 数据失败:", e);
         }
       }
     }
@@ -1976,7 +1983,7 @@ async function callOllamaAPI(prompt, container) {
   } catch (error) {
     if (error.message.includes("Failed to fetch")) {
       throw new Error(
-        "无法连接到 Ollama 服务，请确保 Ollama 正在运行（http://localhost:11434）"
+        "无法连接到 AI 服务，请检查网络连接"
       );
     }
     throw error;
