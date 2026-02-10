@@ -47,6 +47,18 @@
   {{ end }}
   
   <div class="content" data-pagefind-body>{{ .Content }}</div>
+
+  {{ if eq .Section "p" }}
+  <!-- SearchGal 一键搜索按钮 -->
+  {{ $parts := split .Title "／" }}
+  {{ $searchQuery := index $parts 0 }}
+  <div class="searchgal-btn-wrapper">
+    <a class="searchgal-btn" href="https://www.searchgal.top/?s={{ urlquery $searchQuery }}" target="_blank" rel="noopener noreferrer">
+      <i class="fas fa-globe"></i> 点我立即聚搜全网资源
+    </a>
+  </div>
+  {{ end }}
+
   {{ partial "terms.html" (dict "taxonomy" "categories" "page" .) }} {{ partial
   "terms.html" (dict "taxonomy" "tags" "page" .) }}
 </article>
