@@ -1,0 +1,51 @@
+// ==========================================
+// SearchGal 一键搜索按钮样式
+// ==========================================
+
+.searchgal-btn-wrapper {
+  display: flex;
+  justify-content: center;
+  margin: 28px 0 20px;
+}
+
+.searchgal-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  padding: 12px 28px;
+  background: linear-gradient(135deg, #ff1493, #ff69b4);
+  color: #fff !important;
+  border: none;
+  border-radius: 50px;
+  font-size: 1.05rem;
+  font-weight: 600;
+  text-decoration: none !important;
+  cursor: pointer;
+  box-shadow: 0 4px 15px rgba(255, 20, 147, 0.35);
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  letter-spacing: 0.5px;
+
+  i {
+    font-size: 1.1rem;
+  }
+
+  &:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 6px 20px rgba(255, 20, 147, 0.5);
+    opacity: 1 !important;
+    background: linear-gradient(135deg, #e0117f, #ff1493);
+  }
+
+  &:active {
+    transform: translateY(-1px);
+    box-shadow: 0 3px 10px rgba(255, 20, 147, 0.35);
+  }
+}
+
+// 响应式
+@media (max-width: 768px) {
+  .searchgal-btn {
+    padding: 10px 22px;
+    font-size: 0.95rem;
+  }
+}
