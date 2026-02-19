@@ -109,7 +109,11 @@ const PageLoader = {
   el: null,
   startTime: null,
   minDuration: 500,
+  closeDuration: 200,
+  minCloseProgress: 160,
+  phase: "closed",
   _hideTimerId: null,
+  _closeTimerId: null,
 
   getEl() {
     if (!this.el) {
@@ -124,14 +128,33 @@ const PageLoader = {
       clearTimeout(this._hideTimerId);
       this._hideTimerId = null;
     }
+    if (this._closeTimerId) {
+      clearTimeout(this._closeTimerId);
+      this._closeTimerId = null;
+    }
     this.startTime = Date.now();
+    this.phase = "closing";
     var el = this.getEl();
     if (el) {
       el.classList.remove("loading");
     }
+
+    var self = this;
+    this._closeTimerId = setTimeout(function () {
+      self._closeTimerId = null;
+      if (self.phase === "closing") {
+        self.phase = "closed";
+      }
+    }, this.closeDuration);
   },
 
   hide() {
+    if (this._closeTimerId) {
+      clearTimeout(this._closeTimerId);
+      this._closeTimerId = null;
+    }
+    this.startTime = null;
+    this.phase = "opened";
     document.body.style.overflow = "auto";
     var el = this.getEl();
     if (el) {
@@ -141,7 +164,7 @@ const PageLoader = {
 
   end() {
     // 如果已经有延迟隐藏在进行中，不重复处理
-    if (this._hideTimerId) {
+    if (this._hideTimerId && this.phase !== "closing") {
       return;
     }
 
@@ -150,8 +173,25 @@ const PageLoader = {
       return;
     }
 
+    // 关门中已经加载完成：从当前位置反向开门
+    if (this.phase === "closing") {
+      var closingElapsed = Date.now() - this.startTime;
+      if (closingElapsed >= this.minCloseProgress) {
+        this.hide();
+      } else {
+        var self = this;
+        this._hideTimerId = setTimeout(function () {
+          self._hideTimerId = null;
+          // 若期间又进入了新的 start，不执行本次开门
+          if (self.phase === "closing") {
+            self.hide();
+          }
+        }, this.minCloseProgress - closingElapsed);
+      }
+      return;
+    }
+
     var elapsed = Date.now() - this.startTime;
-    this.startTime = null;
 
     if (elapsed >= this.minDuration) {
       this.hide();
@@ -159,7 +199,7 @@ const PageLoader = {
       // 延迟到最小持续时间后再隐藏
       var remaining = this.minDuration - elapsed;
       var self = this;
-      this._hideTimerId = setTimeout(function() {
+      this._hideTimerId = setTimeout(function () {
         self._hideTimerId = null;
         self.hide();
       }, remaining);
@@ -172,7 +212,7 @@ function startLoading() { PageLoader.start(); }
 function endLoading() { PageLoader.end(); }
 
 // 初始化 loader 点击事件
-(function() {
+(function () {
   var el = document.getElementById("loader");
   if (el) {
     el.addEventListener("click", endLoading);
@@ -254,12 +294,12 @@ function initLozad() {
  */
 function initMediumZoom() {
   if (typeof mediumZoom === "undefined") return;
-  
+
   // 销毁之前的实例（如果存在）
   if (window._mediumZoomInstance) {
     window._mediumZoomInstance.detach();
   }
-  
+
   // 创建新实例
   window._mediumZoomInstance = mediumZoom("[data-zoomable]", {
     margin: 24,
@@ -304,20 +344,20 @@ const Navigation = {
     // 使用 data 属性标记是否已绑定事件，避免重复绑定
     if (!this.menuToggle._navBound) {
       var self = this;
-      this.menuToggle.addEventListener("click", function() { self.toggle(); });
+      this.menuToggle.addEventListener("click", function () { self.toggle(); });
       this.menuToggle._navBound = true;
     }
-    
+
     // scroll 和 keydown 事件只需要绑定一次
     if (!this._scrollInitialized) {
       var self = this;
-      window.addEventListener("scroll", function() { self.handleScroll(); }, { passive: true });
-      
+      window.addEventListener("scroll", function () { self.handleScroll(); }, { passive: true });
+
       // ESC 键关闭菜单
-      document.addEventListener("keydown", function(e) {
+      document.addEventListener("keydown", function (e) {
         if (e.key === "Escape" && self.isOpen) self.close();
       });
-      
+
       this._scrollInitialized = true;
     }
   },
@@ -391,13 +431,13 @@ function initSearch() {
       showSubResults: true,
       resetStyles: false,
     });
-    
+
     // 支持 URL 参数直接搜索，如 /search/?q=keyword
     var urlParams = new URLSearchParams(window.location.search);
     var query = urlParams.get("q");
     if (query) {
       // 延迟确保 PagefindUI 完全初始化
-      setTimeout(function() {
+      setTimeout(function () {
         var searchInput = searchContainer.querySelector(".pagefind-ui__search-input");
         if (searchInput) {
           searchInput.value = query;
