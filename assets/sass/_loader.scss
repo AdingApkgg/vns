@@ -14,7 +14,10 @@
     height: 100vh;
     height: 100dvh;
     background-color: #ffffffe6;
-    transition: 0.2s;
+    transition:
+      transform var(--loader-door-duration, 0.32s) ease-in-out,
+      background-color 0.2s ease,
+      backdrop-filter 0.2s ease;
     backdrop-filter: blur(8px);
   }
   .loading-left-bg {

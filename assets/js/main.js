@@ -17,6 +17,7 @@ function initializePage() {
     initRankPage();
     initAIReview();
     initTOCSidebar();
+    initPostSubmissionForm();
   } catch (e) {
     console.error("initializePage error:", e);
   } finally {
@@ -94,7 +95,7 @@ function initTOCSidebar() {
 
     // 默认展开第一级（支持 ul 和 ol）
     const firstLevel = toc.querySelector(
-      ":scope > ul > li.has-children, :scope > ol > li.has-children"
+      ":scope > ul > li.has-children, :scope > ol > li.has-children",
     );
     if (firstLevel) {
       firstLevel.classList.add("open");
@@ -109,11 +110,12 @@ const PageLoader = {
   el: null,
   startTime: null,
   minDuration: 500,
-  closeDuration: 200,
-  minCloseProgress: 160,
+  closeDuration: 320,
+  minCloseProgress: 180,
   phase: "closed",
   _hideTimerId: null,
   _closeTimerId: null,
+  _doorDurationTimerId: null,
 
   getEl() {
     if (!this.el) {
@@ -132,10 +134,15 @@ const PageLoader = {
       clearTimeout(this._closeTimerId);
       this._closeTimerId = null;
     }
+    if (this._doorDurationTimerId) {
+      clearTimeout(this._doorDurationTimerId);
+      this._doorDurationTimerId = null;
+    }
     this.startTime = Date.now();
     this.phase = "closing";
     var el = this.getEl();
     if (el) {
+      el.style.removeProperty("--loader-door-duration");
       el.classList.remove("loading");
     }
 
@@ -148,18 +155,44 @@ const PageLoader = {
     }, this.closeDuration);
   },
 
-  hide() {
+  hide(doorDurationMs) {
     if (this._closeTimerId) {
       clearTimeout(this._closeTimerId);
       this._closeTimerId = null;
+    }
+    if (this._doorDurationTimerId) {
+      clearTimeout(this._doorDurationTimerId);
+      this._doorDurationTimerId = null;
     }
     this.startTime = null;
     this.phase = "opened";
     document.body.style.overflow = "auto";
     var el = this.getEl();
     if (el) {
+      if (typeof doorDurationMs === "number") {
+        var appliedDoorDuration = Math.max(180, Math.round(doorDurationMs));
+        el.style.setProperty(
+          "--loader-door-duration",
+          appliedDoorDuration + "ms",
+        );
+        var self = this;
+        this._doorDurationTimerId = setTimeout(function () {
+          self._doorDurationTimerId = null;
+          var cur = self.getEl();
+          if (cur) {
+            cur.style.removeProperty("--loader-door-duration");
+          }
+        }, appliedDoorDuration + 40);
+      } else {
+        el.style.removeProperty("--loader-door-duration");
+      }
       el.classList.add("loading");
     }
+  },
+
+  hideFromClosingElapsed(closingElapsed) {
+    var ratio = Math.min(1, Math.max(0, closingElapsed / this.closeDuration));
+    this.hide(this.closeDuration * ratio);
   },
 
   end() {
@@ -177,14 +210,14 @@ const PageLoader = {
     if (this.phase === "closing") {
       var closingElapsed = Date.now() - this.startTime;
       if (closingElapsed >= this.minCloseProgress) {
-        this.hide();
+        this.hideFromClosingElapsed(closingElapsed);
       } else {
         var self = this;
         this._hideTimerId = setTimeout(function () {
           self._hideTimerId = null;
           // 若期间又进入了新的 start，不执行本次开门
           if (self.phase === "closing") {
-            self.hide();
+            self.hideFromClosingElapsed(Date.now() - self.startTime);
           }
         }, this.minCloseProgress - closingElapsed);
       }
@@ -208,8 +241,12 @@ const PageLoader = {
 };
 
 // 兼容旧代码的别名
-function startLoading() { PageLoader.start(); }
-function endLoading() { PageLoader.end(); }
+function startLoading() {
+  PageLoader.start();
+}
+function endLoading() {
+  PageLoader.end();
+}
 
 // 初始化 loader 点击事件
 (function () {
@@ -227,6 +264,11 @@ const SwupHooks = {
     // 页面切换动画开始时显示加载状态
     swup.hooks.on("animation:out:start", () => {
       PageLoader.start();
+    });
+
+    // 新页面资源加载完成（早于 content:replace）时，尽早触发开门逻辑
+    swup.hooks.on("page:load", () => {
+      PageLoader.end();
     });
 
     // 页面内容替换后执行
@@ -314,7 +356,7 @@ function bszRe() {
     function (a) {
       bszTag.texts(a);
       bszTag.shows();
-    }
+    },
   );
 }
 
@@ -344,14 +386,22 @@ const Navigation = {
     // 使用 data 属性标记是否已绑定事件，避免重复绑定
     if (!this.menuToggle._navBound) {
       var self = this;
-      this.menuToggle.addEventListener("click", function () { self.toggle(); });
+      this.menuToggle.addEventListener("click", function () {
+        self.toggle();
+      });
       this.menuToggle._navBound = true;
     }
 
     // scroll 和 keydown 事件只需要绑定一次
     if (!this._scrollInitialized) {
       var self = this;
-      window.addEventListener("scroll", function () { self.handleScroll(); }, { passive: true });
+      window.addEventListener(
+        "scroll",
+        function () {
+          self.handleScroll();
+        },
+        { passive: true },
+      );
 
       // ESC 键关闭菜单
       document.addEventListener("keydown", function (e) {
@@ -394,7 +444,9 @@ const BackToTop = {
     if (!this.button) return;
 
     this.button.addEventListener("click", () => this.scrollToTop());
-    window.addEventListener("scroll", () => this.handleScroll(), { passive: true });
+    window.addEventListener("scroll", () => this.handleScroll(), {
+      passive: true,
+    });
 
     // 初始状态检查
     this.handleScroll();
@@ -438,7 +490,9 @@ function initSearch() {
     if (query) {
       // 延迟确保 PagefindUI 完全初始化
       setTimeout(function () {
-        var searchInput = searchContainer.querySelector(".pagefind-ui__search-input");
+        var searchInput = searchContainer.querySelector(
+          ".pagefind-ui__search-input",
+        );
         if (searchInput) {
           searchInput.value = query;
           // 触发 input 事件让 PagefindUI 执行搜索
@@ -472,6 +526,154 @@ function initGalPopup() {
   } else {
     document.getElementById("caution").style.display = "none";
   }
+}
+
+function initPostSubmissionForm() {
+  const form = document.getElementById("resource-submit-form");
+  const tip = document.getElementById("post-submit-tip");
+  if (!form || form.dataset.bound === "1") return;
+  form.dataset.bound = "1";
+  const resourceList = document.getElementById("post-resource-list");
+  const addResourceBtn = document.getElementById("post-add-resource");
+
+  const setTip = (message, type) => {
+    if (!tip) return;
+    tip.textContent = message || "";
+    tip.classList.remove("is-error", "is-success");
+    if (type) tip.classList.add(type);
+  };
+
+  const splitList = (value) =>
+    (value || "")
+      .split(/[\n,，]/)
+      .map((item) => item.trim())
+      .filter(Boolean);
+
+  const buildDownloadItems = (resources) =>
+    resources.map((item, idx) => {
+      const passText = item.password ? `，密码：\`${item.password}\`` : "";
+      return `${idx + 1}. ${item.site} & \`${item.platform}\`：[点击下载](${item.url})${passText}`;
+    });
+
+  const createResourceRow = () => {
+    const row = document.createElement("div");
+    row.className = "post-submit__resource-item";
+    row.innerHTML = `
+      <input type="text" name="resourceSite" placeholder="站点名（如：TouchGAL）" />
+      <input type="text" name="resourcePlatform" placeholder="平台（如：Windows / ONS）" />
+      <input type="url" name="resourceUrl" placeholder="下载链接（https://...）" />
+      <input type="text" name="resourcePassword" placeholder="密码（选填）" />
+      <button type="button" class="post-submit__remove-row" aria-label="删除这一条">删除</button>
+    `;
+    bindRemoveAction(row);
+    return row;
+  };
+
+  const clearResourceRow = (row) => {
+    row.querySelectorAll("input").forEach((input) => {
+      input.value = "";
+    });
+  };
+
+  const bindRemoveAction = (row) => {
+    const removeBtn = row.querySelector(".post-submit__remove-row");
+    if (!removeBtn || removeBtn.dataset.bound === "1") return;
+    removeBtn.dataset.bound = "1";
+    removeBtn.addEventListener("click", () => {
+      if (!resourceList) return;
+      const rows = resourceList.querySelectorAll(".post-submit__resource-item");
+      if (rows.length <= 1) {
+        clearResourceRow(row);
+        return;
+      }
+      row.remove();
+    });
+  };
+
+  const collectResources = () => {
+    if (!resourceList) return [];
+    const rows = Array.from(
+      resourceList.querySelectorAll(".post-submit__resource-item"),
+    );
+    return rows
+      .map((row) => ({
+        site: row.querySelector('[name="resourceSite"]')?.value.trim() || "",
+        platform:
+          row.querySelector('[name="resourcePlatform"]')?.value.trim() || "",
+        url: row.querySelector('[name="resourceUrl"]')?.value.trim() || "",
+        password:
+          row.querySelector('[name="resourcePassword"]')?.value.trim() || "",
+      }))
+      .filter(
+        (item) => item.site || item.platform || item.url || item.password,
+      );
+  };
+
+  if (resourceList) {
+    resourceList
+      .querySelectorAll(".post-submit__resource-item")
+      .forEach((row) => bindRemoveAction(row));
+  }
+
+  if (addResourceBtn && resourceList) {
+    addResourceBtn.addEventListener("click", () => {
+      const row = createResourceRow();
+      resourceList.appendChild(row);
+      const firstInput = row.querySelector('[name="resourceSite"]');
+      if (firstInput) firstInput.focus();
+    });
+  }
+
+  form.addEventListener("submit", (event) => {
+    event.preventDefault();
+
+    const title = form.postTitle?.value.trim() || "";
+    const categories = splitList(form.categories?.value.trim() || "");
+    const nickname = form.nickname?.value.trim() || "";
+    const content = form.content?.value.trim() || "";
+    const contact = form.contact?.value.trim() || "";
+    const resources = collectResources();
+    const validResources = resources.filter(
+      (item) => item.site && item.platform && item.url,
+    );
+
+    if (
+      !title ||
+      categories.length === 0 ||
+      !nickname ||
+      validResources.length === 0
+    ) {
+      setTip(
+        "请先填写必填项：作品名称、分类、投稿人昵称、至少一条完整分流。",
+        "is-error",
+      );
+      return;
+    }
+
+    const bodyLines = [
+      "资源投稿信息如下：",
+      "",
+      `作品名称：${title}`,
+      `分类：${categories.join(" / ")}`,
+      `投稿人昵称：${nickname}`,
+      `投稿人联系方式：${contact || "未填写"}`,
+      "",
+      "## 分流",
+      "",
+      ...buildDownloadItems(validResources),
+      "",
+      "## 投稿补充",
+      "",
+      content || "无",
+    ];
+
+    const subject = `资源投稿《${title}》`;
+    const body = bodyLines.join("\n");
+
+    const mailto = `mailto:i@saop.cc?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
+    setTip("正在拉起邮箱客户端...", "is-success");
+    window.location.href = mailto;
+  });
 }
 
 function displayResults(results) {
@@ -611,7 +813,10 @@ function initClipboard() {
 
       new ClipboardJS(".copy-btn").on("success", (e) => {
         e.trigger.innerHTML = '<i class="fa-solid fa-check"></i>';
-        setTimeout(() => (e.trigger.innerHTML = '<i class="fa-regular fa-copy"></i>'), 1500);
+        setTimeout(
+          () => (e.trigger.innerHTML = '<i class="fa-regular fa-copy"></i>'),
+          1500,
+        );
       });
     })();
   }
@@ -644,19 +849,98 @@ const VALINE_EMOJI_MAPS = (() => {
 
   // QQ 表情
   const qqEmojis = [
-    "OK", "aini", "aixin", "aoman", "baiyan", "bangbangtang", "baojin",
-    "baoquan", "bishi", "bizui", "cahan", "caidao", "chi", "ciya", "dabing",
-    "daku", "dan", "deyi", "doge", "fadai", "fanu", "fendou", "ganga",
-    "gouyin", "guzhang", "haixiu", "hanxiao", "haobang", "haqian", "hecai",
-    "hexie", "huaixiao", "jie", "jingkong", "jingxi", "jingya", "juhua",
-    "keai", "kelian", "koubi", "ku", "kuaikule", "kulou", "kun", "lanqiu",
-    "leiben", "lenghan", "liuhan", "liulei", "nanguo", "penxue", "piezui",
-    "pijiu", "qiang", "qiaoda", "qinqin", "qiudale", "quantou", "saorao",
-    "se", "shengli", "shouqiang", "shuai", "shui", "tiaopi", "touxiao",
-    "tu", "tuosai", "weiqu", "weixiao", "woshou", "wozuimei", "wunai",
-    "xia", "xiaojiujie", "xiaoku", "xiaoyanger", "xieyanxiao", "xigua",
-    "xu", "yangtuo", "yinxian", "yiwen", "youhengheng", "youling", "yun",
-    "zaijian", "zhayanjian", "zhemo", "zhouma", "zhuakuang", "zuohengheng",
+    "OK",
+    "aini",
+    "aixin",
+    "aoman",
+    "baiyan",
+    "bangbangtang",
+    "baojin",
+    "baoquan",
+    "bishi",
+    "bizui",
+    "cahan",
+    "caidao",
+    "chi",
+    "ciya",
+    "dabing",
+    "daku",
+    "dan",
+    "deyi",
+    "doge",
+    "fadai",
+    "fanu",
+    "fendou",
+    "ganga",
+    "gouyin",
+    "guzhang",
+    "haixiu",
+    "hanxiao",
+    "haobang",
+    "haqian",
+    "hecai",
+    "hexie",
+    "huaixiao",
+    "jie",
+    "jingkong",
+    "jingxi",
+    "jingya",
+    "juhua",
+    "keai",
+    "kelian",
+    "koubi",
+    "ku",
+    "kuaikule",
+    "kulou",
+    "kun",
+    "lanqiu",
+    "leiben",
+    "lenghan",
+    "liuhan",
+    "liulei",
+    "nanguo",
+    "penxue",
+    "piezui",
+    "pijiu",
+    "qiang",
+    "qiaoda",
+    "qinqin",
+    "qiudale",
+    "quantou",
+    "saorao",
+    "se",
+    "shengli",
+    "shouqiang",
+    "shuai",
+    "shui",
+    "tiaopi",
+    "touxiao",
+    "tu",
+    "tuosai",
+    "weiqu",
+    "weixiao",
+    "woshou",
+    "wozuimei",
+    "wunai",
+    "xia",
+    "xiaojiujie",
+    "xiaoku",
+    "xiaoyanger",
+    "xieyanxiao",
+    "xigua",
+    "xu",
+    "yangtuo",
+    "yinxian",
+    "yiwen",
+    "youhengheng",
+    "youling",
+    "yun",
+    "zaijian",
+    "zhayanjian",
+    "zhemo",
+    "zhouma",
+    "zhuakuang",
+    "zuohengheng",
   ];
   qqEmojis.forEach((name) => {
     maps[`QQ-${name}`] = `QQ/${name}.gif`;
@@ -670,7 +954,8 @@ const VALINE_EMOJI_MAPS = (() => {
   ];
   tiebaRanges.forEach(([start, end]) => {
     for (let i = start; i <= end; i++) {
-      maps[`贴吧新表情-image_emoticon${i}`] = `Tieba-New/image_emoticon${i}.png`;
+      maps[`贴吧新表情-image_emoticon${i}`] =
+        `Tieba-New/image_emoticon${i}.png`;
     }
   });
 
@@ -710,7 +995,7 @@ function initValine() {
 function highlightText(text, query) {
   return text.replace(
     new RegExp(query, "gi"),
-    (match) => `<span class="highlight">${match}</span>`
+    (match) => `<span class="highlight">${match}</span>`,
   );
 }
 
@@ -781,28 +1066,28 @@ observer.observe(document, {
 
 function lunar() {
   var lunarInfo = [
-    19416, 19168, 42352, 21717, 53856, 55632, 91476, 22176, 39632, 21970,
-    19168, 42422, 42192, 53840, 119381, 46400, 54944, 44450, 38320, 84343,
-    18800, 42160, 46261, 27216, 27968, 109396, 11104, 38256, 21234, 18800,
-    25958, 54432, 59984, 28309, 23248, 11104, 100067, 37600, 116951, 51536,
-    54432, 120998, 46416, 22176, 107956, 9680, 37584, 53938, 43344, 46423,
-    27808, 46416, 86869, 19872, 42416, 83315, 21168, 43432, 59728, 27296,
-    44710, 43856, 19296, 43748, 42352, 21088, 62051, 55632, 23383, 22176,
-    38608, 19925, 19152, 42192, 54484, 53840, 54616, 46400, 46752, 103846,
-    38320, 18864, 43380, 42160, 45690, 27216, 27968, 44870, 43872, 38256,
-    19189, 18800, 25776, 29859, 59984, 27480, 23232, 43872, 38613, 37600,
-    51552, 55636, 54432, 55888, 30034, 22176, 43959, 9680, 37584, 51893,
-    43344, 46240, 47780, 44368, 21977, 19360, 42416, 86390, 21168, 43312,
-    31060, 27296, 44368, 23378, 19296, 42726, 42208, 53856, 60005, 54576,
-    23200, 30371, 38608, 19195, 19152, 42192, 118966, 53840, 54560, 56645,
-    46496, 22224, 21938, 18864, 42359, 42160, 43600, 111189, 27936, 44448,
-    84835, 37744, 18936, 18800, 25776, 92326, 59984, 27424, 108228, 43744,
-    41696, 53987, 51552, 54615, 54432, 55888, 23893, 22176, 42704, 21972,
-    21200, 43448, 43344, 46240, 46758, 44368, 21920, 43940, 42416, 21168,
-    45683, 26928, 29495, 27296, 44368, 84821, 19296, 42352, 21732, 53600,
-    59752, 54560, 55968, 92838, 22224, 19168, 43476, 41680, 53584, 62034,
-    54560,
-  ],
+      19416, 19168, 42352, 21717, 53856, 55632, 91476, 22176, 39632, 21970,
+      19168, 42422, 42192, 53840, 119381, 46400, 54944, 44450, 38320, 84343,
+      18800, 42160, 46261, 27216, 27968, 109396, 11104, 38256, 21234, 18800,
+      25958, 54432, 59984, 28309, 23248, 11104, 100067, 37600, 116951, 51536,
+      54432, 120998, 46416, 22176, 107956, 9680, 37584, 53938, 43344, 46423,
+      27808, 46416, 86869, 19872, 42416, 83315, 21168, 43432, 59728, 27296,
+      44710, 43856, 19296, 43748, 42352, 21088, 62051, 55632, 23383, 22176,
+      38608, 19925, 19152, 42192, 54484, 53840, 54616, 46400, 46752, 103846,
+      38320, 18864, 43380, 42160, 45690, 27216, 27968, 44870, 43872, 38256,
+      19189, 18800, 25776, 29859, 59984, 27480, 23232, 43872, 38613, 37600,
+      51552, 55636, 54432, 55888, 30034, 22176, 43959, 9680, 37584, 51893,
+      43344, 46240, 47780, 44368, 21977, 19360, 42416, 86390, 21168, 43312,
+      31060, 27296, 44368, 23378, 19296, 42726, 42208, 53856, 60005, 54576,
+      23200, 30371, 38608, 19195, 19152, 42192, 118966, 53840, 54560, 56645,
+      46496, 22224, 21938, 18864, 42359, 42160, 43600, 111189, 27936, 44448,
+      84835, 37744, 18936, 18800, 25776, 92326, 59984, 27424, 108228, 43744,
+      41696, 53987, 51552, 54615, 54432, 55888, 23893, 22176, 42704, 21972,
+      21200, 43448, 43344, 46240, 46758, 44368, 21920, 43940, 42416, 21168,
+      45683, 26928, 29495, 27296, 44368, 84821, 19296, 42352, 21732, 53600,
+      59752, 54560, 55968, 92838, 22224, 19168, 43476, 41680, 53584, 62034,
+      54560,
+    ],
     solarMonth = [31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31],
     Gan = ["甲", "乙", "丙", "丁", "戊", "己", "庚", "辛", "壬", "癸"],
     Zhi = [
@@ -1111,15 +1396,15 @@ function lunar() {
   function toGanZhiYear(b) {
     var f = (b - 3) % 10,
       c = (b - 3) % 12;
-    return 0 === f && (f = 10), 0 === c && (c = 12), Gan[f - 1] + Zhi[c - 1];
+    return (0 === f && (f = 10), 0 === c && (c = 12), Gan[f - 1] + Zhi[c - 1]);
   }
 
   function toAstro(b, f) {
     return (
       "魔羯水瓶双鱼白羊金牛双子巨蟹狮子处女天秤天蝎射手魔羯".substr(
         2 * b -
-        (f < [20, 19, 21, 21, 21, 22, 23, 23, 23, 23, 22, 22][b - 1] ? 2 : 0),
-        2
+          (f < [20, 19, 21, 21, 21, 22, 23, 23, 23, 23, 22, 22][b - 1] ? 2 : 0),
+        2,
       ) + "座"
     );
   }
@@ -1188,7 +1473,7 @@ function lunar() {
         f = "三十";
         break;
       default:
-        (f = nStr2[Math.floor(b / 10)]), (f += nStr1[b % 10]);
+        ((f = nStr2[Math.floor(b / 10)]), (f += nStr1[b % 10]));
     }
     return f;
   }
@@ -1204,9 +1489,9 @@ function lunar() {
       a,
       r = null,
       t = 0;
-    (b = (r = b ? new Date(b, parseInt(f) - 1, c) : new Date()).getFullYear()),
+    ((b = (r = b ? new Date(b, parseInt(f) - 1, c) : new Date()).getFullYear()),
       (f = r.getMonth() + 1),
-      (c = r.getDate());
+      (c = r.getDate()));
     var d =
       (Date.UTC(r.getFullYear(), r.getMonth(), r.getDate()) -
         Date.UTC(1900, 0, 31)) /
@@ -1226,13 +1511,13 @@ function lunar() {
     a = leapMonth(e);
     var i = !1;
     for (e = 1; e < 13 && d > 0; e++)
-      a > 0 && e === a + 1 && !1 === i
+      (a > 0 && e === a + 1 && !1 === i
         ? (--e, (i = !0), (t = leapDays(l)))
         : (t = monthDays(l, e)),
         !0 === i && e === a + 1 && (i = !1),
-        (d -= t);
-    0 === d && a > 0 && e === a + 1 && (i ? (i = !1) : ((i = !0), --e)),
-      d < 0 && ((d += t), --e);
+        (d -= t));
+    (0 === d && a > 0 && e === a + 1 && (i ? (i = !1) : ((i = !0), --e)),
+      d < 0 && ((d += t), --e));
     var h = e,
       D = d + 1,
       g = f - 1,
@@ -1243,11 +1528,11 @@ function lunar() {
     c >= y && (p = toGanZhi(12 * (b - 1900) + f + 12));
     var M = !1,
       T = null;
-    y === c && ((M = !0), (T = solarTerm[2 * f - 2])),
-      m === c && ((M = !0), (T = solarTerm[2 * f - 1]));
+    (y === c && ((M = !0), (T = solarTerm[2 * f - 2])),
+      m === c && ((M = !0), (T = solarTerm[2 * f - 1])));
     var I = toGanZhi(
-      Date.UTC(b, g, 1, 0, 0, 0, 0) / 864e5 + 25567 + 10 + c - 1
-    ),
+        Date.UTC(b, g, 1, 0, 0, 0, 0) / 864e5 + 25567 + 10 + c - 1,
+      ),
       C = toAstro(f, c);
     return {
       lYear: l,
@@ -1289,16 +1574,16 @@ function lunar() {
       var n = 0,
         s = !1;
       for (d = 1; d < f; d++)
-        (n = leapMonth(b)),
+        ((n = leapMonth(b)),
           s || (n <= d && n > 0 && ((t += leapDays(b)), (s = !0))),
-          (t += monthDays(b, d));
+          (t += monthDays(b, d)));
       e && (t += a);
       var u = Date.UTC(1900, 1, 30, 0, 0, 0),
         o = new Date(864e5 * (t + c - 31) + u);
       return solar2lunar(
         o.getUTCFullYear(),
         o.getUTCMonth() + 1,
-        o.getUTCDate()
+        o.getUTCDate(),
       );
     },
   };
@@ -1317,8 +1602,8 @@ function lunar() {
     if (sessionStorage.getItem("isPopupWindow") != "1") {
       Swal.fire(
         "今天是九一八事变" +
-        (y - 1931).toString() +
-        "周年纪念日\n🪔勿忘国耻，振兴中华🪔"
+          (y - 1931).toString() +
+          "周年纪念日\n🪔勿忘国耻，振兴中华🪔",
       );
       sessionStorage.setItem("isPopupWindow", "1");
     }
@@ -1330,8 +1615,8 @@ function lunar() {
     if (sessionStorage.getItem("isPopupWindow") != "1") {
       Swal.fire(
         "今天是卢沟桥事变" +
-        (y - 1937).toString() +
-        "周年纪念日\n🪔勿忘国耻，振兴中华🪔"
+          (y - 1937).toString() +
+          "周年纪念日\n🪔勿忘国耻，振兴中华🪔",
       );
       sessionStorage.setItem("isPopupWindow", "1");
     }
@@ -1343,8 +1628,8 @@ function lunar() {
     if (sessionStorage.getItem("isPopupWindow") != "1") {
       Swal.fire(
         "今天是南京大屠杀" +
-        (y - 1937).toString() +
-        "周年纪念日\n🪔勿忘国耻，振兴中华🪔"
+          (y - 1937).toString() +
+          "周年纪念日\n🪔勿忘国耻，振兴中华🪔",
       );
       sessionStorage.setItem("isPopupWindow", "1");
     }
@@ -1942,7 +2227,7 @@ async function callAIAPI(prompt, container) {
       method: "POST",
       headers: {
         "Content-Type": "application/json",
-        "Authorization": `Bearer ${API_KEY}`,
+        Authorization: `Bearer ${API_KEY}`,
       },
       body: JSON.stringify({
         model: MODEL,
@@ -2022,9 +2307,7 @@ async function callAIAPI(prompt, container) {
     return fullText;
   } catch (error) {
     if (error.message.includes("Failed to fetch")) {
-      throw new Error(
-        "无法连接到 AI 服务，请检查网络连接"
-      );
+      throw new Error("无法连接到 AI 服务，请检查网络连接");
     }
     throw error;
   }
