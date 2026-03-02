@@ -1616,90 +1616,67 @@ function lunar() {
     },
   };
 
-  // 节日弹窗
+  // 节日弹窗 - 每个节日每天只弹一次（localStorage 持久化）
   var d = new Date();
   m = d.getMonth() + 1;
   dd = d.getDate();
   y = d.getFullYear();
+  var popupKey = "popup_" + y + "-" + m + "-" + dd;
+
+  function showHolidayPopup(msg) {
+    if (localStorage.getItem(popupKey)) return;
+    Swal.fire(msg);
+    localStorage.setItem(popupKey, "1");
+  }
+
+  function setMemorialStyle() {
+    document
+      .getElementsByTagName("html")[0]
+      .setAttribute("style", "filter: grayscale(60%);");
+  }
 
   // 公祭日
   if (m == 9 && dd == 18) {
-    document
-      .getElementsByTagName("html")[0]
-      .setAttribute("style", "filter: grayscale(60%);");
-    if (sessionStorage.getItem("isPopupWindow") != "1") {
-      Swal.fire(
-        "今天是九一八事变" +
-          (y - 1931).toString() +
-          "周年纪念日\n🪔勿忘国耻，振兴中华🪔",
-      );
-      sessionStorage.setItem("isPopupWindow", "1");
-    }
+    setMemorialStyle();
+    showHolidayPopup(
+      "今天是九一八事变" +
+        (y - 1931).toString() +
+        "周年纪念日\n🪔勿忘国耻，振兴中华🪔",
+    );
   }
   if (m == 7 && dd == 7) {
-    document
-      .getElementsByTagName("html")[0]
-      .setAttribute("style", "filter: grayscale(60%);");
-    if (sessionStorage.getItem("isPopupWindow") != "1") {
-      Swal.fire(
-        "今天是卢沟桥事变" +
-          (y - 1937).toString() +
-          "周年纪念日\n🪔勿忘国耻，振兴中华🪔",
-      );
-      sessionStorage.setItem("isPopupWindow", "1");
-    }
+    setMemorialStyle();
+    showHolidayPopup(
+      "今天是卢沟桥事变" +
+        (y - 1937).toString() +
+        "周年纪念日\n🪔勿忘国耻，振兴中华🪔",
+    );
   }
   if (m == 12 && dd == 13) {
-    document
-      .getElementsByTagName("html")[0]
-      .setAttribute("style", "filter: grayscale(60%);");
-    if (sessionStorage.getItem("isPopupWindow") != "1") {
-      Swal.fire(
-        "今天是南京大屠杀" +
-          (y - 1937).toString() +
-          "周年纪念日\n🪔勿忘国耻，振兴中华🪔",
-      );
-      sessionStorage.setItem("isPopupWindow", "1");
-    }
+    setMemorialStyle();
+    showHolidayPopup(
+      "今天是南京大屠杀" +
+        (y - 1937).toString() +
+        "周年纪念日\n🪔勿忘国耻，振兴中华🪔",
+    );
   }
   if (m == 8 && dd == 14) {
-    document
-      .getElementsByTagName("html")[0]
-      .setAttribute("style", "filter: grayscale(60%);");
-    if (sessionStorage.getItem("isPopupWindow") != "1") {
-      Swal.fire("今天是世界慰安妇纪念日\n🪔勿忘国耻，振兴中华🪔");
-      sessionStorage.setItem("isPopupWindow", "1");
-    }
+    setMemorialStyle();
+    showHolidayPopup("今天是世界慰安妇纪念日\n🪔勿忘国耻，振兴中华🪔");
   }
 
   // 节假日
   if (m == 10 && dd <= 3) {
-    //国庆节
-    if (sessionStorage.getItem("isPopupWindow") != "1") {
-      Swal.fire("祝祖国" + (y - 1949).toString() + "岁生日快乐！");
-      sessionStorage.setItem("isPopupWindow", "1");
-    }
+    showHolidayPopup("祝祖国" + (y - 1949).toString() + "岁生日快乐！");
   }
   if (m == 8 && dd == 15) {
-    //搞来玩的，小日子投降
-    if (sessionStorage.getItem("isPopupWindow") != "1") {
-      Swal.fire("小日子已经投降" + (y - 1945).toString() + "年了😃");
-      sessionStorage.setItem("isPopupWindow", "1");
-    }
+    showHolidayPopup("小日子已经投降" + (y - 1945).toString() + "年了😃");
   }
   if (m == 1 && dd == 1) {
-    //元旦节
-    if (sessionStorage.getItem("isPopupWindow") != "1") {
-      Swal.fire(y.toString() + "年元旦快乐！🎉");
-      sessionStorage.setItem("isPopupWindow", "1");
-    }
+    showHolidayPopup(y.toString() + "年元旦快乐！🎉");
   }
   if (m == 3 && dd == 8) {
-    //妇女节
-    if (sessionStorage.getItem("isPopupWindow") != "1") {
-      Swal.fire("各位女神们，妇女节快乐！👩");
-      sessionStorage.setItem("isPopupWindow", "1");
-    }
+    showHolidayPopup("各位女神们，妇女节快乐！👩");
   }
   l = [
     "非常抱歉，因为不可控原因，博客将于明天停止运营！",
@@ -1712,53 +1689,25 @@ function lunar() {
     "你喜欢的人跟别人跑了！",
   ];
   if (m == 4 && dd == 1) {
-    //愚人节，随机谎话
-    if (sessionStorage.getItem("isPopupWindow") != "1") {
-      Swal.fire(l[Math.floor(Math.random() * l.length)]);
-      sessionStorage.setItem("isPopupWindow", "1");
-    }
+    showHolidayPopup(l[Math.floor(Math.random() * l.length)]);
   }
   if (m == 5 && dd == 1) {
-    //劳动节
-    if (sessionStorage.getItem("isPopupWindow") != "1") {
-      Swal.fire("劳动节快乐\n为各行各业辛勤工作的人们致敬！");
-      sessionStorage.setItem("isPopupWindow", "1");
-    }
+    showHolidayPopup("劳动节快乐\n为各行各业辛勤工作的人们致敬！");
   }
   if (m == 5 && dd == 4) {
-    //青年节
-    if (sessionStorage.getItem("isPopupWindow") != "1") {
-      Swal.fire("青年节快乐\n青春不是回忆逝去,而是把握现在！");
-      sessionStorage.setItem("isPopupWindow", "1");
-    }
+    showHolidayPopup("青年节快乐\n青春不是回忆逝去,而是把握现在！");
   }
   if (m == 5 && dd == 20) {
-    //520
-    if (sessionStorage.getItem("isPopupWindow") != "1") {
-      Swal.fire("今年是520情人节\n快和你喜欢的人一起过吧！💑");
-      sessionStorage.setItem("isPopupWindow", "1");
-    }
+    showHolidayPopup("今年是520情人节\n快和你喜欢的人一起过吧！💑");
   }
   if (m == 7 && dd == 1) {
-    //建党节
-    if (sessionStorage.getItem("isPopupWindow") != "1") {
-      Swal.fire("祝中国共产党" + (y - 1921).toString() + "岁生日快乐！");
-      sessionStorage.setItem("isPopupWindow", "1");
-    }
+    showHolidayPopup("祝中国共产党" + (y - 1921).toString() + "岁生日快乐！");
   }
   if (m == 9 && dd == 10) {
-    //教师节
-    if (sessionStorage.getItem("isPopupWindow") != "1") {
-      Swal.fire("各位老师们教师节快乐！👩‍🏫");
-      sessionStorage.setItem("isPopupWindow", "1");
-    }
+    showHolidayPopup("各位老师们教师节快乐！👩‍🏫");
   }
   if (m == 12 && dd == 25) {
-    //圣诞节
-    if (sessionStorage.getItem("isPopupWindow") != "1") {
-      Swal.fire("圣诞节快乐！🎄");
-      sessionStorage.setItem("isPopupWindow", "1");
-    }
+    showHolidayPopup("圣诞节快乐！🎄");
   }
 
   //传统节日部分
@@ -1768,22 +1717,14 @@ function lunar() {
     (y == 2024 && m == 4 && dd == 4) ||
     (y == 2025 && m == 4 && dd == 4)
   ) {
-    //清明节
-    if (sessionStorage.getItem("isPopupWindow") != "1") {
-      Swal.fire("清明时节雨纷纷,一束鲜花祭故人💐");
-      sessionStorage.setItem("isPopupWindow", "1");
-    }
+    showHolidayPopup("清明时节雨纷纷,一束鲜花祭故人💐");
   }
   if (
     (y == 2023 && m == 12 && dd == 22) ||
     (y == 2024 && m == 12 && dd == 21) ||
     (y == 2025 && m == 12 && dd == 21)
   ) {
-    //冬至
-    if (sessionStorage.getItem("isPopupWindow") != "1") {
-      Swal.fire("冬至快乐\n快吃上一碗热热的汤圆和饺子吧🧆");
-      sessionStorage.setItem("isPopupWindow", "1");
-    }
+    showHolidayPopup("冬至快乐\n快吃上一碗热热的汤圆和饺子吧🧆");
   }
 
   var lunar = calendarFormatter.solar2lunar();
@@ -1800,46 +1741,22 @@ function lunar() {
     (lunar["IMonthCn"] == "腊月" && lunar["IDayCn"] == "三十") ||
     (lunar["IMonthCn"] == "腊月" && lunar["IDayCn"] == "廿九")
   ) {
-    //春节，本来只有大年三十到初六，但是有时候除夕是大年二十九，所以也加上了
-    if (sessionStorage.getItem("isPopupWindow") != "1") {
-      Swal.fire(y.toString() + "年新年快乐\n🎊祝你心想事成，诸事顺利🎊");
-      sessionStorage.setItem("isPopupWindow", "1");
-    }
+    showHolidayPopup(y.toString() + "年新年快乐\n🎊祝你心想事成，诸事顺利🎊");
   }
   if (lunar["IMonthCn"] == "正月" && lunar["IDayCn"] == "十五") {
-    //元宵节
-    if (sessionStorage.getItem("isPopupWindow") != "1") {
-      Swal.fire("元宵节快乐\n送你一个大大的灯笼🧅");
-      sessionStorage.setItem("isPopupWindow", "1");
-    }
+    showHolidayPopup("元宵节快乐\n送你一个大大的灯笼🧅");
   }
   if (lunar["IMonthCn"] == "五月" && lunar["IDayCn"] == "初五") {
-    //端午节
-    if (sessionStorage.getItem("isPopupWindow") != "1") {
-      Swal.fire("端午节快乐\n请你吃一条粽子🍙");
-      sessionStorage.setItem("isPopupWindow", "1");
-    }
+    showHolidayPopup("端午节快乐\n请你吃一条粽子🍙");
   }
   if (lunar["IMonthCn"] == "七月" && lunar["IDayCn"] == "初七") {
-    //七夕节
-    if (sessionStorage.getItem("isPopupWindow") != "1") {
-      Swal.fire("七夕节快乐\n黄昏后,柳梢头,牛郎织女来碰头");
-      sessionStorage.setItem("isPopupWindow", "1");
-    }
+    showHolidayPopup("七夕节快乐\n黄昏后,柳梢头,牛郎织女来碰头");
   }
   if (lunar["IMonthCn"] == "八月" && lunar["IDayCn"] == "十五") {
-    //中秋节
-    if (sessionStorage.getItem("isPopupWindow") != "1") {
-      Swal.fire("中秋节快乐\n请你吃一块月饼🍪");
-      sessionStorage.setItem("isPopupWindow", "1");
-    }
+    showHolidayPopup("中秋节快乐\n请你吃一块月饼🍪");
   }
   if (lunar["IMonthCn"] == "九月" && lunar["IDayCn"] == "初九") {
-    //重阳节
-    if (sessionStorage.getItem("isPopupWindow") != "1") {
-      Swal.fire("重阳节快乐\n独在异乡为异客，每逢佳节倍思亲");
-      sessionStorage.setItem("isPopupWindow", "1");
-    }
+    showHolidayPopup("重阳节快乐\n独在异乡为异客，每逢佳节倍思亲");
   }
 }
 

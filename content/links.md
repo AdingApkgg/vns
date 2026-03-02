@@ -13,7 +13,7 @@ layout = "links"
     "site": "VNS",
     "desc": "Visual Novel",
     "url": "https://gal.saop.cc",
-    "logo": "https://gal.saop.cc/images/logo.svg"
+    "logo": "https://gal.saop.cc/img/logo.svg"
 }
 ```
 

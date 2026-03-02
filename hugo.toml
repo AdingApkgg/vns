@@ -158,6 +158,13 @@ pageRef = '/ads'
 weight = 20
 pre = "fa fa-rectangle-ad"
 
+[[menus.footer]]
+identifier = "old"
+name = '旧站'
+url = 'https://old.gal.saop.cc/'
+weight = 21
+pre = "fa fa-box-archive"
+
 [markup.goldmark.renderer]
 unsafe = true
 hardWraps = true
