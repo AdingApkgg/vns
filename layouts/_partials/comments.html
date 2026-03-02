@@ -1,0 +1,7 @@
+{{ if .Site.Params.comments.enabled }} {{- if and .Site.Params.comments.enabled
+(eq .Site.Params.comments.provider "valine") -}} {{ $valine :=
+.Site.Params.comments.valine }}
+<div class="comments">
+  <div id="vcomments" class="comment"></div>
+</div>
+{{- end -}} {{ end }}

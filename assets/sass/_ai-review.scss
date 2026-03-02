@@ -1,0 +1,306 @@
+// ==========================================
+// AI 感想组件样式
+// ==========================================
+
+.ai-review-section {
+  background: var(--content-bg);
+  border: 2px solid var(--border-color);
+  border-radius: 12px;
+  padding: 20px;
+  margin: 25px 0;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+  transition: all 0.3s ease;
+
+  &:hover {
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  }
+}
+
+.ai-review-header {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin-bottom: 16px;
+  padding-bottom: 12px;
+  border-bottom: 2px dashed var(--border-color);
+
+  i.fa-robot {
+    font-size: 24px;
+    color: var(--link-color);
+    animation: float 3s ease-in-out infinite;
+  }
+
+  .ai-review-title {
+    font-size: 1.2rem;
+    font-weight: 600;
+    color: var(--text-color);
+    flex: 1;
+  }
+
+  button {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    padding: 8px 16px;
+    background: linear-gradient(135deg, var(--link-color), var(--link-hover-color));
+    color: white;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 0.9rem;
+    font-weight: 500;
+    transition: all 0.3s ease;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.15);
+
+    &:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+    }
+
+    &:active {
+      transform: translateY(0);
+    }
+
+    i {
+      font-size: 0.9rem;
+    }
+  }
+
+  .ai-review-regenerate {
+    background: linear-gradient(135deg, #f39c12, #e67e22);
+  }
+}
+
+.ai-review-content {
+  min-height: 120px;
+  max-height: 600px;
+  overflow-y: auto;
+  padding: 16px;
+  background: var(--body-bg);
+  border-radius: 8px;
+  line-height: 1.8;
+  font-size: 1rem;
+
+  &::-webkit-scrollbar {
+    width: 6px;
+  }
+
+  &::-webkit-scrollbar-track {
+    background: var(--border-color);
+    border-radius: 3px;
+  }
+
+  &::-webkit-scrollbar-thumb {
+    background: var(--link-color);
+    border-radius: 3px;
+
+    &:hover {
+      background: var(--link-hover-color);
+    }
+  }
+}
+
+.ai-review-placeholder {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 40px 20px;
+  text-align: center;
+  color: var(--meta-color);
+
+  i {
+    font-size: 48px;
+    margin-bottom: 16px;
+    opacity: 0.6;
+    animation: pulse 2s ease-in-out infinite;
+  }
+
+  p {
+    font-size: 1rem;
+    margin: 0;
+  }
+}
+
+.ai-review-loading {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 40px 20px;
+  text-align: center;
+  color: var(--link-color);
+
+  i {
+    font-size: 48px;
+    margin-bottom: 16px;
+  }
+
+  p {
+    font-size: 1rem;
+    margin: 0;
+  }
+}
+
+.ai-review-error {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 40px 20px;
+  text-align: center;
+  color: #e74c3c;
+
+  i {
+    font-size: 48px;
+    margin-bottom: 16px;
+  }
+
+  p {
+    font-size: 1rem;
+    margin: 8px 0;
+    font-weight: 500;
+  }
+
+  small {
+    font-size: 0.85rem;
+    color: var(--meta-color);
+    margin-top: 8px;
+  }
+}
+
+.ai-review-text {
+  color: var(--text-color);
+  
+  p {
+    margin: 0 0 16px 0;
+    text-indent: 2em;
+    line-height: 1.8;
+
+    &:last-child {
+      margin-bottom: 0;
+    }
+  }
+
+  &.ai-review-streaming {
+    position: relative;
+
+    .streaming-cursor {
+      display: inline-block;
+      margin-left: 2px;
+      color: var(--link-color);
+      animation: blink 1s step-end infinite;
+    }
+  }
+}
+
+.ai-review-footer {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-top: 12px;
+  padding-top: 12px;
+  border-top: 1px solid var(--border-color);
+  font-size: 0.85rem;
+  color: var(--meta-color);
+
+  i {
+    font-size: 0.9rem;
+  }
+}
+
+// 动画
+@keyframes float {
+  0%, 100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-6px);
+  }
+}
+
+@keyframes pulse {
+  0%, 100% {
+    opacity: 0.6;
+    transform: scale(1);
+  }
+  50% {
+    opacity: 1;
+    transform: scale(1.05);
+  }
+}
+
+@keyframes blink {
+  0%, 50% {
+    opacity: 1;
+  }
+  51%, 100% {
+    opacity: 0;
+  }
+}
+
+// 响应式设计
+@media (max-width: 768px) {
+  .ai-review-section {
+    padding: 16px;
+    margin: 20px 0;
+  }
+
+  .ai-review-header {
+    flex-wrap: wrap;
+    gap: 10px;
+
+    .ai-review-title {
+      font-size: 1.1rem;
+    }
+
+    button {
+      font-size: 0.85rem;
+      padding: 6px 12px;
+    }
+  }
+
+  .ai-review-content {
+    font-size: 0.95rem;
+    padding: 12px;
+  }
+
+  .ai-review-placeholder,
+  .ai-review-loading,
+  .ai-review-error {
+    padding: 30px 15px;
+
+    i {
+      font-size: 36px;
+    }
+
+    p {
+      font-size: 0.9rem;
+    }
+  }
+}
+
+@media (max-width: 480px) {
+  .ai-review-header {
+    i.fa-robot {
+      font-size: 20px;
+    }
+
+    .ai-review-title {
+      font-size: 1rem;
+      width: 100%;
+    }
+
+    button {
+      flex: 1;
+      justify-content: center;
+      font-size: 0.8rem;
+      padding: 6px 10px;
+    }
+  }
+
+  .ai-review-text p {
+    text-indent: 0;
+  }
+}
+

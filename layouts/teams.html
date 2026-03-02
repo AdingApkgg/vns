@@ -1,0 +1,32 @@
+{{ define "main" }}
+<article class="article-main">
+  {{ partial "h1.html" . }}
+  {{ .Content }}
+  <div class="content teams">
+    {{ $defaultAuthor := .Site.Params.ogImage | absURL }} {{ range
+    .Site.Data.teams }}
+    <div class="item">
+      {{ if .avatar }}
+      <img src="{{ .avatar | absURL }}" alt="{{ .author }}" title="{{ .author }}" />
+      {{ else }}
+      <img src="{{ $defaultAuthor }}" alt="{{ .author }}" title="{{ .author }}" />
+      {{ end }}
+      <section>
+        <p>
+          {{ if .url }}
+          <a href="{{ .url }}" target="_blank"><strong>{{ .author }}</strong></a>
+          {{ else }} {{ if .author }}
+          <strong>{{ .author }}</strong>
+          {{ else }}
+          <strong>null</strong>
+          {{ end }} {{ end }}
+        </p>
+        {{ if .desc }}
+        <p>{{ .desc }}</p>
+        {{ end }}
+      </section>
+    </div>
+    {{ end }}
+  </div>
+</article>
+{{ end }}

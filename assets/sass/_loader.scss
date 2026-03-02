@@ -1,0 +1,89 @@
+#loader {
+  position: fixed;
+  inset: 0;
+  width: 100vw;
+  height: 100vh;
+  height: 100dvh;
+  z-index: 1000;
+  .loading-bg {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    z-index: 1000;
+    width: 50vw;
+    height: 100vh;
+    height: 100dvh;
+    background-color: #ffffffe6;
+    transition:
+      transform var(--loader-door-duration, 0.32s) ease-in-out,
+      background-color 0.2s ease,
+      backdrop-filter 0.2s ease;
+    backdrop-filter: blur(8px);
+  }
+  .loading-left-bg {
+    left: 0;
+  }
+  .loading-right-bg {
+    right: 0;
+  }
+  .spinner-box {
+    position: absolute;
+    inset: 0;
+    z-index: 1001;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 100vh;
+    height: 100dvh;
+    opacity: 1;
+    transition: 0.5s;
+    .loading-taichi {
+      opacity: 0.8;
+    }
+    .rotate {
+      animation: rotate-all 2s linear infinite;
+    }
+    .loading-word {
+      position: absolute;
+      color: var(--red-1, #ff5252);
+      top: calc(50% + 110px);
+      left: 50%;
+      transform: translate(-50%, -50%);
+      font: 700 1.2rem WenKai, Mulish, "Noto Serif SC", -apple-system,
+        PingFang SC, Microsoft YaHei, "sans-serif";
+    }
+  }
+  &.loading {
+    pointer-events: none;
+    .loading-left-bg {
+      transform: translate(-100%);
+    }
+    .loading-right-bg {
+      transform: translate(100%);
+    }
+    .spinner-box {
+      opacity: 0;
+      visibility: hidden;
+    }
+  }
+}
+
+@keyframes rotate-all {
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@media (prefers-color-scheme: dark) {
+  #loader {
+    .loading-bg {
+      background-color: #252525e6;
+    }
+    .spinner-box {
+      .loading-word {
+        color: var(--red-1, #ff5252);
+      }
+    }
+  }
+}

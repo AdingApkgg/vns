@@ -1,0 +1,19 @@
+{{ define "main" }}
+<article class="article-main">
+  {{ partial "h1.html" . }}
+  {{ if not (eq .Params.postmeta false) }}{{ partial "post-meta.html" . }} {{
+  end }}
+  <div class="content">{{ .Content }}</div>
+  {{ $paginator := .Paginate (where .Site.RegularPages "Type" "docs") }} {{
+  range $paginator.Pages.ByLastmod.Reverse.ByWeight }}
+  <section>
+    <article>
+      <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a><sup class="busuanzi_value_page_pv" data-bsz-href="{{ .Permalink }}"></sup></h2>
+      {{ partial "post-meta.html" . }} {{ .Summary }}
+    </article>
+  </section>
+  {{ end }} {{ partial "pagination.html" . }} {{ $articles := where
+  .Site.RegularPages "Type" "docs" }}
+  <p class="articles-len">总共有 {{ len $articles }} 篇文档</p>
+</article>
+{{ end }}

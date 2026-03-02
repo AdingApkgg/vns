@@ -1,9 +1,64 @@
 {{ define "main" }}
 <article class="article-main">
-  <h1>{{ .Title }}</h1>
-  {{ if not (eq .Params.postmeta false) }} {{ partial "post-meta.html" . }} {{
-  end }} {{ if in .TableOfContents "li" }} {{ .TableOfContents }} {{ end }}
-  <div class="content">{{ .Content }}</div>
+  <h1 data-pagefind-body>
+    <i class="fas fa-hashtag"></i>&nbsp;{{ .Title }}<sup id="busuanzi_value_page_pv"></sup><a class="post-edit-link"
+      href="{{ .Site.Params.contentEdit }}{{ with .File }}{{ .Path }}{{ end }}"
+      rel="external nofollow noreferrer" title="编辑" target="_blank"><i class="fas fa-pencil-alt"></i></a>
+  </h1>
+  {{ if not (eq .Params.postmeta false) }}{{ partial "post-meta.html" . }} {{
+  end }} {{ if (and (in .TableOfContents "li") (not (eq .Params.toc false))) }}
+  <!-- 右侧滑入的 TOC -->
+  <div class="toc-trigger" id="toc-trigger">
+    <i class="fas fa-list-ul"></i>
+  </div>
+  <div class="toc-overlay" id="toc-overlay"></div>
+  <div class="toc-sidebar" id="toc-sidebar">
+    <div class="toc-header">
+      <span><i class="fas fa-list-ul"></i> 文章目录</span>
+      <button class="toc-close" id="toc-close"><i class="fas fa-times"></i></button>
+    </div>
+    <div class="toc-content">
+      {{ .TableOfContents }}
+    </div>
+  </div>
+  {{ end }}
+  
+  {{ if eq .Section "p" }}
+  <!-- AI 感想生成区域 - 仅在 /p/ 下显示 -->
+  <div class="ai-review-section" id="ai-review">
+    <div class="ai-review-header">
+      <i class="fas fa-robot"></i>
+      <span class="ai-review-title">Asuna 的游玩感想</span>
+      <button class="ai-review-regenerate" id="regenerate-review" style="display: none;">
+        <i class="fas fa-redo"></i> 重新生成
+      </button>
+    </div>
+    <div class="ai-review-content" id="ai-review-content">
+      <div class="ai-review-loading">
+        <i class="fas fa-spinner fa-spin"></i>
+        <p>Asuna 正在思考中...</p>
+      </div>
+    </div>
+    <div class="ai-review-footer">
+      <i class="fas fa-circle-info"></i>
+      <span>由 <a href="https://github.com/songquanpeng/one-api" target="_blank" rel="noopener noreferrer">One API</a> 和 <a href="https://siliconflow.cn/" target="_blank" rel="noopener noreferrer">硅基流动</a> 的 <a href="https://huggingface.co/Qwen/Qwen2.5-32B-Instruct" target="_blank" rel="noopener noreferrer">Qwen 2.5 32B Instruct</a> 模型提供 AI 支持！</span>
+    </div>
+  </div>
+  {{ end }}
+  
+  <div class="content" data-pagefind-body>{{ .Content }}</div>
+
+  {{ if eq .Section "p" }}
+  <!-- SearchGal 一键搜索按钮 -->
+  {{ $parts := split .Title "／" }}
+  {{ $searchQuery := index $parts 0 }}
+  <div class="searchgal-btn-wrapper">
+    <a class="searchgal-btn" href="https://www.searchgal.top/?s={{ urlquery $searchQuery }}" target="_blank" rel="noopener noreferrer">
+      <i class="fas fa-globe"></i> 点我立即聚搜全网资源
+    </a>
+  </div>
+  {{ end }}
+
   {{ partial "terms.html" (dict "taxonomy" "categories" "page" .) }} {{ partial
   "terms.html" (dict "taxonomy" "tags" "page" .) }}
 </article>

@@ -1,10 +1,12 @@
 {{ define "main" }}
 <article class="article-main">
-  <h1>{{ i18n $.Data.Plural }}</h1>
+  <h1>
+    <i class="fa fa-hashtag"></i>&nbsp;{{ i18n $.Data.Plural }}<sup id="busuanzi_value_page_pv"></sup>
+  </h1>
   <ul class="taxonomy">
     {{ range .Data.Terms }}
     <li>
-      <a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a>
+      <a href="{{ .Page.Permalink }}">{{ .Page.Name }}</a>
       <span>{{ .Count }}</span>
     </li>
     {{ end }}

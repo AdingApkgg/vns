@@ -1,0 +1,36 @@
+{{ define "main" }}
+<article class="article-main">
+  {{ partial "h1.html" . }} {{ .Content }}
+  <div class="content links">
+    {{ $defaultsite := .Site.Params.ogImage | absURL }} {{ range
+    .Site.Data.links }}
+    <div class="item">
+      {{ if .logo }}
+      <img src="{{ .logo | absURL }}" alt="{{ .site }}" title="{{ .site }}" />
+      {{ else }}
+      <img src="{{ $defaultsite }}" alt="{{ .site }}" title="{{ .site }}" />
+      {{ end }}
+      <section>
+        <p>
+          {{ if .url }}
+          <a
+            href="{{ .url }}"
+            target="_blank"
+            rel="noopener external nofollow noreferrer"
+            ><strong>{{ .site }}</strong></a
+          >
+          {{ else }} {{ if .site }}
+          <strong>{{ .site }}</strong>
+          {{ else }}
+          <strong>null</strong>
+          {{ end }} {{ end }}
+        </p>
+        {{ if .desc }}
+        <p>{{ .desc }}</p>
+        {{ end }}
+      </section>
+    </div>
+    {{ end }}
+  </div>
+</article>
+{{ end }}

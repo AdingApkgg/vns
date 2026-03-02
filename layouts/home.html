@@ -1,14 +1,30 @@
 {{ define "main" }}
 <article class="article-main">
-  <h1>{{ .Title }}</h1>
+  <section>
+    <p>
+    <div class="image-zoom">
+      <img data-src="https://api.illlights.com/v1/img" alt="Random Image" src="https://api.illlights.com/v1/img"
+        data-zoomable />
+    </div>
+    <h1>
+      <i class="fas fa-hashtag"></i>&nbsp;{{ .Title }}<sup id="busuanzi_value_page_pv"></sup>
+      <a class="post-edit-link" href="{{ .Site.Params.contentEdit }}{{ with .File }}{{ .Path }}{{ end }}"
+        rel="external nofollow noreferrer" title="编辑" target="_blank"><i class="fas fa-pencil-alt"></i></a>
+    </h1>
+    </p>
+  </section>
   {{ .Content }} {{ $paginator := .Paginate (where .Site.RegularPages "Type"
-  "p") }} {{ range $paginator.Pages }}
-  <article>
-    <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
-    {{ partial "post-meta.html" . }} {{ .Summary }} {{ partial "terms.html"
-    (dict "taxonomy" "categories" "page" .) }} {{ partial "terms.html" (dict
-    "taxonomy" "tags" "page" .) }}
-  </article>
-  {{ end }} {{ partial "pagination.html" . }}
+  "p") }} {{ range $paginator.Pages.ByLastmod.Reverse.ByWeight }}
+  <section>
+    <article>
+      <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a><sup class="busuanzi_value_page_pv" data-bsz-href="{{ .Permalink }}"></sup></h2>
+      {{ partial "post-meta.html" . }} {{ .Summary }} {{ partial "terms.html"
+      (dict "taxonomy" "categories" "page" .) }} {{ partial "terms.html" (dict
+      "taxonomy" "tags" "page" .) }}
+    </article>
+  </section>
+  {{ end }} {{ partial "pagination.html" . }} {{ $articles := where
+  .Site.RegularPages "Type" "p" }}
+  <p class="articles-len">总共有 {{ len $articles }} 部资源</p>
 </article>
 {{ end }}

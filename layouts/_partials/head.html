@@ -1,0 +1,97 @@
+{{ hugo.Generator }}
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="preconnect" href="https://registry.npmmirror.com/" crossorigin />
+<link rel="dns-prefetch" href="https://registry.npmmirror.com/" />
+{{ with .Site.Params.bszAPI }}<link rel="dns-prefetch" href="{{ . }}" />
+<meta name="bsz-api" content="{{ . }}" />{{ end }}
+<title>
+  {{ if .IsHome }}{{ site.Title }}{{ else }}{{ printf "%s | %s" .Title
+  site.Title }}{{ end }}
+</title>
+<meta property="og:title" content="{{ .Title }}" />
+<meta
+  property="og:description"
+  content="{{ .Summary | default .Site.Params.description }}"
+/>
+<meta property="og:type" content="website" />
+<meta property="og:url" content="{{ .Permalink }}" />
+<meta property="og:image" content="{{ .Site.Params.ogImage | absURL }}" />
+<meta property="og:site_name" content="{{ .Site.Title }}" />
+<link rel="manifest" href="{{ .Site.BaseURL }}manifest.json" />
+<link
+  rel="alternate"
+  type="application/rss+xml"
+  href="{{ .Site.BaseURL }}index.xml"
+  title="{{ .Site.Title }}"
+/>
+<link rel="stylesheet" href="/css/normalize.css" fetchpriority="high" />
+<link
+  rel="stylesheet"
+  href="https://registry.npmmirror.com/weblive2d/latest/files/waifu.css"
+  fetchpriority="low"
+/>
+{{ partialCached "head/css.html" . }}
+<script>
+  if (/MSIE|Trident/.test(window.navigator.userAgent)) {
+    alert("抱歉，本站不支持 IE 浏览器，请用 Chrome 访问。");
+    window.location.href =
+      "https://support.dmeng.net/upgrade-your-browser.html?referrer=" +
+      encodeURIComponent(window.location.href);
+  }
+</script>
+<script
+  src="/js/Swup.umd.js"
+  fetchpriority="high"
+></script>
+<script
+  src="https://registry.npmmirror.com/@swup/parallel-plugin/latest/files/dist/index.umd.js"
+  fetchpriority="high"
+></script>
+<script
+  src="https://registry.npmmirror.com/@swup/preload-plugin/latest/files/dist/index.umd.js"
+  fetchpriority="high"
+></script>
+<script
+  src="https://registry.npmmirror.com/@swup/scroll-plugin/latest/files/dist/index.umd.js"
+  fetchpriority="high"
+></script>
+<script
+  src="https://registry.npmmirror.com/@swup/a11y-plugin/latest/files/dist/index.umd.js"
+  fetchpriority="high"
+></script>
+<script
+  src="https://registry.npmmirror.com/@swup/head-plugin/latest/files/dist/index.umd.js"
+  fetchpriority="high"
+></script>
+<script
+  src="https://registry.npmmirror.com/@swup/body-class-plugin/latest/files/dist/index.umd.js"
+  fetchpriority="high"
+></script>
+<script
+  async
+  src="https://registry.npmmirror.com/lozad/latest/files/dist/lozad.min.js"
+  fetchpriority="high"
+></script>
+<link
+  rel="stylesheet"
+  href="https://registry.npmmirror.com/@fortawesome/fontawesome-free/latest/files/css/all.min.css"
+  fetchpriority="high"
+/>
+<link
+  rel="stylesheet"
+  href="https://registry.npmmirror.com/animate.css/latest/files/animate.min.css"
+  fetchpriority="high"
+/>
+<script
+  src="https://registry.npmmirror.com/sweetalert2/latest/files/dist/sweetalert2.all.min.js"
+  fetchpriority="high"
+></script>
+<script src="https://registry.npmmirror.com/clipboard/latest/files/dist/clipboard.min.js"></script>
+<script
+  src="https://registry.npmmirror.com/@swup/progress-plugin/latest/files/dist/index.umd.js"
+  fetchpriority="high"
+></script>
+<script src="/pagefind/pagefind-ui.js" fetchpriority="high"></script>
+<script src="//registry.npmmirror.com/leancloud-storage/latest/files/dist/av-min.js"></script>
+<script src="//registry.npmmirror.com/valine/latest/files/dist/Valine.min.js"></script>

@@ -1,107 +1,707 @@
-document.addEventListener("DOMContentLoaded", () => {
-  initGalPopup();
-  lunar();
-  initDarkMode();
-  initScrollEffects();
-  initMediumZoom();
-});
-
-document.addEventListener("pjax:complete", () => {
-  quicklink.listen({ priority: true });
-  initGalPopup();
-  lunar();
-  initDarkMode();
-  initScrollEffects();
-  initMediumZoom();
-});
-
-function initDarkMode() {
-  const themeToggle = document.getElementById("theme-toggle");
-  const currentTheme = localStorage.getItem("theme") || "light";
-  document.documentElement.setAttribute("data-theme", currentTheme);
-  if (themeToggle) {
-    themeToggle.addEventListener("click", () => {
-      const newTheme =
-        document.documentElement.getAttribute("data-theme") === "dark"
-          ? "light"
-          : "dark";
-      document.documentElement.setAttribute("data-theme", newTheme);
-      localStorage.setItem("theme", newTheme);
-    });
+function initializePage() {
+  try {
+    initGalPopup();
+    initMenuToggle();
+    lunar();
+    initScrollEffects();
+    initLozad();
+    mouseFirework();
+    initMediumZoom();
+    rv();
+    initValine();
+    initSearch();
+    shortcutKey();
+    langCode();
+    initClipboard();
+    fetchDLS();
+    initRankPage();
+    initAIReview();
+    initTOCSidebar();
+    initPostSubmissionForm();
+  } catch (e) {
+    console.error("initializePage error:", e);
+  } finally {
+    endLoading();
   }
+}
+
+/**
+ * 初始化 TOC 侧边栏
+ */
+function initTOCSidebar() {
+  const trigger = document.getElementById("toc-trigger");
+  const overlay = document.getElementById("toc-overlay");
+  const sidebar = document.getElementById("toc-sidebar");
+  const closeBtn = document.getElementById("toc-close");
+
+  if (!trigger || !sidebar) return;
+
+  // 延迟添加 ready 类，避免页面加载时闪现
+  requestAnimationFrame(() => {
+    sidebar.classList.add("ready");
+  });
+
+  const openTOC = () => {
+    sidebar.classList.add("active");
+    overlay.classList.add("active");
+    document.body.style.overflow = "hidden";
+  };
+
+  const closeTOC = () => {
+    sidebar.classList.remove("active");
+    overlay.classList.remove("active");
+    document.body.style.overflow = "";
+  };
+
+  trigger.addEventListener("click", openTOC);
+  overlay.addEventListener("click", closeTOC);
+  closeBtn.addEventListener("click", closeTOC);
+
+  // ESC 键关闭
+  document.addEventListener("keydown", (e) => {
+    if (e.key === "Escape" && sidebar.classList.contains("active")) {
+      closeTOC();
+    }
+  });
+
+  // 初始化折叠功能
+  const toc = sidebar.querySelector("#TableOfContents");
+  if (toc) {
+    // 标记有子项的 li（支持 ul 和 ol）
+    toc.querySelectorAll("li").forEach((li) => {
+      const childList = li.querySelector(":scope > ul, :scope > ol");
+      if (childList) {
+        li.classList.add("has-children");
+
+        // 点击父项时切换折叠状态
+        const link = li.querySelector(":scope > a");
+        if (link) {
+          link.addEventListener("click", (e) => {
+            // 如果有子项，先切换折叠状态
+            e.preventDefault();
+            li.classList.toggle("open");
+          });
+        }
+      } else {
+        // 没有子项的链接，点击后关闭 TOC
+        const link = li.querySelector("a");
+        if (link) {
+          link.addEventListener("click", () => {
+            closeTOC();
+          });
+        }
+      }
+    });
+
+    // 默认展开第一级（支持 ul 和 ol）
+    const firstLevel = toc.querySelector(
+      ":scope > ul > li.has-children, :scope > ol > li.has-children",
+    );
+    if (firstLevel) {
+      firstLevel.classList.add("open");
+    }
+  }
+}
+
+/**
+ * 页面加载状态管理
+ */
+const PageLoader = {
+  el: null,
+  startTime: null,
+  minDuration: 500,
+  closeDuration: 320,
+  minCloseProgress: 180,
+  phase: "closed",
+  _hideTimerId: null,
+  _closeTimerId: null,
+  _doorDurationTimerId: null,
+
+  getEl() {
+    if (!this.el) {
+      this.el = document.getElementById("loader");
+    }
+    return this.el;
+  },
+
+  start() {
+    // 取消之前的延迟隐藏定时器
+    if (this._hideTimerId) {
+      clearTimeout(this._hideTimerId);
+      this._hideTimerId = null;
+    }
+    if (this._closeTimerId) {
+      clearTimeout(this._closeTimerId);
+      this._closeTimerId = null;
+    }
+    if (this._doorDurationTimerId) {
+      clearTimeout(this._doorDurationTimerId);
+      this._doorDurationTimerId = null;
+    }
+    this.startTime = Date.now();
+    this.phase = "closing";
+    var el = this.getEl();
+    if (el) {
+      el.style.removeProperty("--loader-door-duration");
+      el.classList.remove("loading");
+    }
+
+    var self = this;
+    this._closeTimerId = setTimeout(function () {
+      self._closeTimerId = null;
+      if (self.phase === "closing") {
+        self.phase = "closed";
+      }
+    }, this.closeDuration);
+  },
+
+  hide(doorDurationMs) {
+    if (this._closeTimerId) {
+      clearTimeout(this._closeTimerId);
+      this._closeTimerId = null;
+    }
+    if (this._doorDurationTimerId) {
+      clearTimeout(this._doorDurationTimerId);
+      this._doorDurationTimerId = null;
+    }
+    this.startTime = null;
+    this.phase = "opened";
+    document.body.style.overflow = "auto";
+    var el = this.getEl();
+    if (el) {
+      if (typeof doorDurationMs === "number") {
+        var appliedDoorDuration = Math.max(180, Math.round(doorDurationMs));
+        el.style.setProperty(
+          "--loader-door-duration",
+          appliedDoorDuration + "ms",
+        );
+        var self = this;
+        this._doorDurationTimerId = setTimeout(function () {
+          self._doorDurationTimerId = null;
+          var cur = self.getEl();
+          if (cur) {
+            cur.style.removeProperty("--loader-door-duration");
+          }
+        }, appliedDoorDuration + 40);
+      } else {
+        el.style.removeProperty("--loader-door-duration");
+      }
+      el.classList.add("loading");
+    }
+  },
+
+  hideFromClosingElapsed(closingElapsed) {
+    var ratio = Math.min(1, Math.max(0, closingElapsed / this.closeDuration));
+    this.hide(this.closeDuration * ratio);
+  },
+
+  end() {
+    // 如果已经有延迟隐藏在进行中，不重复处理
+    if (this._hideTimerId && this.phase !== "closing") {
+      return;
+    }
+
+    if (!this.startTime) {
+      this.hide();
+      return;
+    }
+
+    // 关门中已经加载完成：从当前位置反向开门
+    if (this.phase === "closing") {
+      var closingElapsed = Date.now() - this.startTime;
+      if (closingElapsed >= this.minCloseProgress) {
+        this.hideFromClosingElapsed(closingElapsed);
+      } else {
+        var self = this;
+        this._hideTimerId = setTimeout(function () {
+          self._hideTimerId = null;
+          // 若期间又进入了新的 start，不执行本次开门
+          if (self.phase === "closing") {
+            self.hideFromClosingElapsed(Date.now() - self.startTime);
+          }
+        }, this.minCloseProgress - closingElapsed);
+      }
+      return;
+    }
+
+    var elapsed = Date.now() - this.startTime;
+
+    if (elapsed >= this.minDuration) {
+      this.hide();
+    } else {
+      // 延迟到最小持续时间后再隐藏
+      var remaining = this.minDuration - elapsed;
+      var self = this;
+      this._hideTimerId = setTimeout(function () {
+        self._hideTimerId = null;
+        self.hide();
+      }, remaining);
+    }
+  },
+};
+
+// 兼容旧代码的别名
+function startLoading() {
+  PageLoader.start();
+}
+function endLoading() {
+  PageLoader.end();
+}
+
+// 初始化 loader 点击事件
+(function () {
+  var el = document.getElementById("loader");
+  if (el) {
+    el.addEventListener("click", endLoading);
+  }
+})();
+
+/**
+ * Swup 页面切换钩子
+ */
+const SwupHooks = {
+  init() {
+    // 页面切换动画开始时显示加载状态
+    swup.hooks.on("animation:out:start", () => {
+      PageLoader.start();
+    });
+
+    // 新页面资源加载完成（早于 content:replace）时，尽早触发开门逻辑
+    swup.hooks.on("page:load", () => {
+      PageLoader.end();
+    });
+
+    // 页面内容替换后执行
+    swup.hooks.on("content:replace", () => {
+      bszRe();
+      PageLoader.end();
+    });
+
+    // 新页面视图加载后初始化页面功能
+    swup.hooks.on("page:view", () => {
+      initializePage();
+    });
+  },
+};
+
+// 初始化
+document.addEventListener("DOMContentLoaded", () => {
+  initializePage();
+  bszRe();
+});
+SwupHooks.init();
+
+function mouseFirework() {
+  firework({
+    excludeElements: [],
+    particles: [
+      {
+        shape: "circle",
+        move: ["emit"],
+        easing: "easeOutExpo",
+        colors: [
+          "rgba(255,182,185,.9)",
+          "rgba(250,227,217,.9)",
+          "rgba(187,222,214,.9)",
+          "rgba(138,198,209,.9)",
+        ],
+        number: 30,
+        duration: [1200, 1800],
+        shapeOptions: {
+          radius: [16, 32],
+        },
+      },
+      {
+        shape: "circle",
+        move: ["diffuse"],
+        easing: "easeOutExpo",
+        colors: ["#FFF"],
+        number: 1,
+        duration: [1200, 1800],
+        shapeOptions: {
+          radius: 20,
+          alpha: 0.5,
+          lineWidth: 6,
+        },
+      },
+    ],
+  });
+}
+
+function initLozad() {
+  const el = document.querySelectorAll("img");
+  const observerLozad = lozad(el);
+  observerLozad.observe();
+}
+
+/**
+ * 初始化 medium-zoom 图片缩放
+ */
+function initMediumZoom() {
+  if (typeof mediumZoom === "undefined") return;
+
+  // 销毁之前的实例（如果存在）
+  if (window._mediumZoomInstance) {
+    window._mediumZoomInstance.detach();
+  }
+
+  // 创建新实例
+  window._mediumZoomInstance = mediumZoom("[data-zoomable]", {
+    margin: 24,
+    background: "rgba(0, 0, 0, 0.9)",
+    scrollOffset: 40,
+  });
+}
+
+function bszRe() {
+  var bszAPI =
+    document.querySelector('meta[name="bsz-api"]')?.content;
+  if (!bszAPI) return;
+
+  fetch(bszAPI, {
+    method: "POST",
+    credentials: "include",
+    headers: { "x-bsz-referer": location.href },
+  })
+    .then((r) => r.json())
+    .then(({ success, data }) => {
+      if (!success) return;
+      const set = (id, val) => {
+        const el = document.getElementById(id);
+        if (el) el.textContent = val;
+      };
+      set("busuanzi_value_site_pv", data.site_pv);
+      set("busuanzi_value_site_uv", data.site_uv);
+      set("busuanzi_value_page_pv", data.page_pv);
+    })
+    .catch(() => {});
+
+  document.querySelectorAll("[data-bsz-href]").forEach((el) => {
+    fetch(bszAPI, {
+      headers: { "x-bsz-referer": el.dataset.bszHref },
+    })
+      .then((r) => r.json())
+      .then(({ success, data }) => {
+        if (success) el.textContent = data.page_pv;
+      })
+      .catch(() => {});
+  });
+}
+
+/**
+ * 导航栏控制
+ * 支持 data-target 属性指定目标元素
+ */
+const Navigation = {
+  header: null,
+  menuToggle: null,
+  fixedThreshold: 200,
+  isOpen: false,
+  _scrollInitialized: false,
+
+  init() {
+    var newMenuToggle = document.getElementById("menuToggle");
+    if (!newMenuToggle) return;
+
+    // 从 data-target 获取目标元素，默认为 header
+    var targetSelector = newMenuToggle.dataset.target || "header";
+    var newHeader = document.querySelector(targetSelector);
+    if (!newHeader) return;
+
+    this.menuToggle = newMenuToggle;
+    this.header = newHeader;
+
+    // 使用 data 属性标记是否已绑定事件，避免重复绑定
+    if (!this.menuToggle._navBound) {
+      var self = this;
+      this.menuToggle.addEventListener("click", function () {
+        self.toggle();
+      });
+      this.menuToggle._navBound = true;
+    }
+
+    // scroll 和 keydown 事件只需要绑定一次
+    if (!this._scrollInitialized) {
+      var self = this;
+      window.addEventListener(
+        "scroll",
+        function () {
+          self.handleScroll();
+        },
+        { passive: true },
+      );
+
+      // ESC 键关闭菜单
+      document.addEventListener("keydown", function (e) {
+        if (e.key === "Escape" && self.isOpen) self.close();
+      });
+
+      this._scrollInitialized = true;
+    }
+  },
+
+  toggle() {
+    this.isOpen = !this.isOpen;
+    this.header.classList.toggle("active", this.isOpen);
+    this.menuToggle.setAttribute("aria-expanded", this.isOpen);
+  },
+
+  close() {
+    this.isOpen = false;
+    this.header.classList.remove("active");
+    this.menuToggle.setAttribute("aria-expanded", "false");
+  },
+
+  handleScroll() {
+    if (!this.header) return;
+    var isFixed = window.scrollY > this.fixedThreshold;
+    this.header.classList.toggle("fixed", isFixed);
+  },
+};
+
+/**
+ * 返回顶部按钮
+ */
+const BackToTop = {
+  button: null,
+  showThreshold: 300,
+  isVisible: false,
+
+  init() {
+    this.button = document.getElementById("back-to-top");
+    if (!this.button) return;
+
+    this.button.addEventListener("click", () => this.scrollToTop());
+    window.addEventListener("scroll", () => this.handleScroll(), {
+      passive: true,
+    });
+
+    // 初始状态检查
+    this.handleScroll();
+  },
+
+  handleScroll() {
+    const shouldShow = window.scrollY > this.showThreshold;
+    if (shouldShow === this.isVisible) return; // 避免重复操作
+
+    this.isVisible = shouldShow;
+    this.button.classList.toggle("show", shouldShow);
+  },
+
+  scrollToTop() {
+    window.scrollTo({ top: 0, behavior: "smooth" });
+  },
+};
+
+// 兼容旧代码的别名
+function initMenuToggle() {
+  Navigation.init();
 }
 
 function initScrollEffects() {
-  const header = document.querySelector("header");
-  const backToTopButton = document.getElementById("back-to-top");
-  if (!header || !backToTopButton) return;
-  window.addEventListener("scroll", function () {
-    if (window.scrollY > 200) {
-      header.classList.add("fixed");
-    } else {
-      header.classList.remove("fixed");
-    }
-    if (window.scrollY > 300) {
-      backToTopButton.style.display = "block";
-      backToTopButton.classList.add("show");
-    } else {
-      backToTopButton.style.display = "none";
-      backToTopButton.classList.remove("show");
-    }
-  });
-  backToTopButton.addEventListener("click", function () {
-    window.scrollTo({
-      top: 0,
-      behavior: "smooth",
-    });
-  });
+  BackToTop.init();
 }
 
-function initMediumZoom() {
-  mediumZoom(".zoomable", {
-    margin: 0,
-    background: "transparent",
-    scrollOffset: 20,
-  });
+function initSearch() {
+  var searchContainer = document.querySelector("#search");
+  if (searchContainer) {
+    var pagefind = new PagefindUI({
+      element: "#search",
+      pageSize: 10,
+      showSubResults: true,
+      resetStyles: false,
+    });
+
+    // 支持 URL 参数直接搜索，如 /search/?q=keyword
+    var urlParams = new URLSearchParams(window.location.search);
+    var query = urlParams.get("q");
+    if (query) {
+      // 延迟确保 PagefindUI 完全初始化
+      setTimeout(function () {
+        var searchInput = searchContainer.querySelector(
+          ".pagefind-ui__search-input",
+        );
+        if (searchInput) {
+          searchInput.value = query;
+          // 触发 input 事件让 PagefindUI 执行搜索
+          searchInput.dispatchEvent(new Event("input", { bubbles: true }));
+        }
+      }, 100);
+    }
+  }
 }
 
 function initGalPopup() {
-  const tAgeVerification = document.getElementById("tAgeVerification");
-  if (!tAgeVerification) {
-    console.error("Age verification translations not found");
-    return;
-  }
-  const text =
-    tAgeVerification.dataset.text ||
-    "本サイトは18歳以上の方を対象としています。<br>あなたは18歳以上ですか？";
-  const yes = tAgeVerification.dataset.yes || "はい";
-  const no = tAgeVerification.dataset.no || "いいえ";
-  const locationHref = tAgeVerification.dataset.url;
-
   const ageVerificationTime = localStorage.getItem("ageVerificationTime");
-  const oneWeek = 3 * 24 * 60 * 60 * 1000;
+  const oneWeek = 7 * 24 * 60 * 60 * 1000;
   const now = new Date().getTime();
   if (!ageVerificationTime || now - parseInt(ageVerificationTime) > oneWeek) {
-    Swal.fire({
-      text: text,
-      icon: "warning",
-      showConfirmButton: true,
-      confirmButtonText: yes,
-      showDenyButton: true,
-      denyButtonText: no,
-      reverseButtons: true,
-      allowOutsideClick: false,
-      allowEscapeKey: false,
-      color: "var(--text-color)",
-      background: "var(--bg-color)",
-    }).then((result) => {
-      if (result.isConfirmed) {
-        localStorage.setItem("ageVerificationTime", now.toString());
-      } else {
-        window.location.href = locationHref;
+    document.getElementById("caution").style.display = "block";
+    const cautionYes = document.querySelector("#caution .btn-yes");
+    const cautionNo = document.querySelector("#caution .btn-no");
+    cautionYes.addEventListener("click", function () {
+      localStorage.setItem("ageVerificationTime", now.toString());
+      document.getElementById("caution").style.display = "none";
+      setTimeout(function () {
+        const sukiAudio = new Audio("/media/suki.mp3");
+        sukiAudio.play();
+      }, 500);
+    });
+    cautionNo.addEventListener("click", function () {
+      window.location.href =
+        "//player.bilibili.com/player.html?bvid=BV1GJ411x7h7";
+    });
+  } else {
+    document.getElementById("caution").style.display = "none";
+  }
+}
+
+function initPostSubmissionForm() {
+  const form = document.getElementById("resource-submit-form");
+  const tip = document.getElementById("post-submit-tip");
+  if (!form || form.dataset.bound === "1") return;
+  form.dataset.bound = "1";
+  const resourceList = document.getElementById("post-resource-list");
+  const addResourceBtn = document.getElementById("post-add-resource");
+
+  const setTip = (message, type) => {
+    if (!tip) return;
+    tip.textContent = message || "";
+    tip.classList.remove("is-error", "is-success");
+    if (type) tip.classList.add(type);
+  };
+
+  const splitList = (value) =>
+    (value || "")
+      .split(/[\n,，]/)
+      .map((item) => item.trim())
+      .filter(Boolean);
+
+  const buildDownloadItems = (resources) =>
+    resources.map((item, idx) => {
+      const passText = item.password ? `，密码：\`${item.password}\`` : "";
+      return `${idx + 1}. ${item.site} & \`${item.platform}\`：[点击下载](${item.url})${passText}`;
+    });
+
+  const createResourceRow = () => {
+    const row = document.createElement("div");
+    row.className = "post-submit__resource-item";
+    row.innerHTML = `
+      <input type="text" name="resourceSite" placeholder="站点名（如：TouchGAL）" />
+      <input type="text" name="resourcePlatform" placeholder="平台（如：Windows / ONS）" />
+      <input type="url" name="resourceUrl" placeholder="下载链接（https://...）" />
+      <input type="text" name="resourcePassword" placeholder="密码（选填）" />
+      <button type="button" class="post-submit__remove-row" aria-label="删除这一条">删除</button>
+    `;
+    bindRemoveAction(row);
+    return row;
+  };
+
+  const clearResourceRow = (row) => {
+    row.querySelectorAll("input").forEach((input) => {
+      input.value = "";
+    });
+  };
+
+  const bindRemoveAction = (row) => {
+    const removeBtn = row.querySelector(".post-submit__remove-row");
+    if (!removeBtn || removeBtn.dataset.bound === "1") return;
+    removeBtn.dataset.bound = "1";
+    removeBtn.addEventListener("click", () => {
+      if (!resourceList) return;
+      const rows = resourceList.querySelectorAll(".post-submit__resource-item");
+      if (rows.length <= 1) {
+        clearResourceRow(row);
+        return;
       }
+      row.remove();
+    });
+  };
+
+  const collectResources = () => {
+    if (!resourceList) return [];
+    const rows = Array.from(
+      resourceList.querySelectorAll(".post-submit__resource-item"),
+    );
+    return rows
+      .map((row) => ({
+        site: row.querySelector('[name="resourceSite"]')?.value.trim() || "",
+        platform:
+          row.querySelector('[name="resourcePlatform"]')?.value.trim() || "",
+        url: row.querySelector('[name="resourceUrl"]')?.value.trim() || "",
+        password:
+          row.querySelector('[name="resourcePassword"]')?.value.trim() || "",
+      }))
+      .filter(
+        (item) => item.site || item.platform || item.url || item.password,
+      );
+  };
+
+  if (resourceList) {
+    resourceList
+      .querySelectorAll(".post-submit__resource-item")
+      .forEach((row) => bindRemoveAction(row));
+  }
+
+  if (addResourceBtn && resourceList) {
+    addResourceBtn.addEventListener("click", () => {
+      const row = createResourceRow();
+      resourceList.appendChild(row);
+      const firstInput = row.querySelector('[name="resourceSite"]');
+      if (firstInput) firstInput.focus();
     });
   }
+
+  form.addEventListener("submit", (event) => {
+    event.preventDefault();
+
+    const title = form.postTitle?.value.trim() || "";
+    const categories = splitList(form.categories?.value.trim() || "");
+    const nickname = form.nickname?.value.trim() || "";
+    const content = form.content?.value.trim() || "";
+    const contact = form.contact?.value.trim() || "";
+    const resources = collectResources();
+    const validResources = resources.filter(
+      (item) => item.site && item.platform && item.url,
+    );
+
+    if (
+      !title ||
+      categories.length === 0 ||
+      !nickname ||
+      validResources.length === 0
+    ) {
+      setTip(
+        "请先填写必填项：作品名称、分类、投稿人昵称、至少一条完整分流。",
+        "is-error",
+      );
+      return;
+    }
+
+    const bodyLines = [
+      "资源投稿信息如下：",
+      "",
+      `作品名称：${title}`,
+      `分类：${categories.join(" / ")}`,
+      `投稿人昵称：${nickname}`,
+      `投稿人联系方式：${contact || "未填写"}`,
+      "",
+      "## 分流",
+      "",
+      ...buildDownloadItems(validResources),
+      "",
+      "## 投稿补充",
+      "",
+      content || "无",
+    ];
+
+    const subject = `资源投稿《${title}》`;
+    const body = bodyLines.join("\n");
+
+    const mailto = `mailto:i@saop.cc?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
+    setTip("正在拉起邮箱客户端...", "is-success");
+    window.location.href = mailto;
+  });
 }
 
 function displayResults(results) {
@@ -122,10 +722,308 @@ function displayResults(results) {
   searchResults.appendChild(ul);
 }
 
+function rv() {
+  const randomLink = document.querySelector("#item-random");
+  if (randomLink) {
+    randomLink.addEventListener("click", (e) => {
+      e.preventDefault();
+      fetch("/p/index.xml")
+        .then((response) => {
+          if (!response.ok) throw new Error("Failed to fetch index.xml");
+          return response.text();
+        })
+        .then((xmlText) => {
+          const parser = new DOMParser();
+          const xmlDoc = parser.parseFromString(xmlText, "text/xml");
+          const links = xmlDoc.getElementsByTagName("link");
+          const posts = Array.from(links)
+            .map((link) => link.textContent)
+            .filter((url) => url !== "{{ .Site.BaseURL }}");
+
+          if (!posts || posts.length === 0) {
+            document.body.innerHTML =
+              "<p>No random pages found. Please try again.</p>";
+            return;
+          }
+          const randomUrl = posts[Math.floor(Math.random() * posts.length)];
+          swup.navigate(randomUrl);
+        })
+        .catch((error) => {
+          document.body.innerHTML =
+            "<p>Error loading random page. Please try again.</p>";
+        });
+    });
+  }
+}
+
+function shortcutKey() {
+  const routes = {
+    h: "/",
+    d: "/docs/",
+    t: "/tags/",
+    p: "/platforms/",
+    c: "/comments/",
+    l: "/links/",
+    a: "/about/",
+    r: "/rank/",
+    "/": "/search/",
+  };
+
+  const pressed = new Set();
+  let triggered = false;
+
+  document.addEventListener("keydown", (e) => {
+    const el = e.target;
+
+    if (
+      el.tagName === "INPUT" ||
+      el.tagName === "TEXTAREA" ||
+      el.isContentEditable
+    ) {
+      return;
+    }
+
+    const key = e.key.toLowerCase();
+    pressed.add(key);
+
+    if (triggered) return;
+
+    if (pressed.has("v") && key !== "v" && routes[key]) {
+      e.preventDefault();
+
+      triggered = true;
+
+      const target = routes[key];
+      if (window.location.pathname !== target) {
+        swup.navigate(target);
+      }
+    }
+  });
+
+  document.addEventListener("keyup", (e) => {
+    pressed.delete(e.key.toLowerCase());
+
+    triggered = false;
+  });
+}
+
+function langCode() {
+  document.querySelectorAll(".highlight pre code").forEach((block) => {
+    const lang = block.getAttribute("data-lang") || "code";
+    const corner = document.createElement("span");
+    corner.textContent = lang;
+    corner.style = `
+    position: absolute;
+    bottom: 8px; right: 32px;
+    font-size: 12px;
+    color: #89b4fa;
+    font-family: monospace;
+    pointer-events: none;
+    z-index: 1;
+  `;
+    block.parentElement.style.position = "relative";
+    block.parentElement.appendChild(corner);
+  });
+}
+
+function initClipboard() {
+  const highlightDiv = document.querySelector("div.highlight");
+  if (highlightDiv) {
+    (() => {
+      document.querySelectorAll("pre code").forEach((code) => {
+        const btn = document.createElement("button");
+        btn.className = "copy-btn";
+        btn.dataset.clipboardText = code.textContent.trim();
+        btn.innerHTML = '<i class="fa-regular fa-copy"></i>';
+        code.parentNode.style.position = "relative";
+        code.parentNode.appendChild(btn);
+      });
+
+      new ClipboardJS(".copy-btn").on("success", (e) => {
+        e.trigger.innerHTML = '<i class="fa-solid fa-check"></i>';
+        setTimeout(
+          () => (e.trigger.innerHTML = '<i class="fa-regular fa-copy"></i>'),
+          1500,
+        );
+      });
+    })();
+  }
+}
+
+/**
+ * Valine 评论系统配置
+ */
+const VALINE_CONFIG = {
+  appId: "BnlZFCN5ghutLVVEX0el3pz3-MdYXbMMI",
+  appKey: "OvpvXLKwajI2qYE4XsNMokpW",
+  serverURLs: "https://valine.saop.cc",
+  placeholder:
+    "昵称栏输入 QQ 号即可获取头像与邮箱..\n评论支持标准的 Markdown 全语法~",
+  avatar_cdn: "https://weavatar.com/avatar/",
+  emojiCDN: "//twikoo-magic.oss-cn-hangzhou.aliyuncs.com/",
+  pageSize: 20,
+  visitor: false,
+  comment_count: false,
+  highlight: true,
+  recordIP: true,
+  enableQQ: true,
+};
+
+/**
+ * 生成表情映射
+ */
+const VALINE_EMOJI_MAPS = (() => {
+  const maps = {};
+
+  // QQ 表情
+  const qqEmojis = [
+    "OK",
+    "aini",
+    "aixin",
+    "aoman",
+    "baiyan",
+    "bangbangtang",
+    "baojin",
+    "baoquan",
+    "bishi",
+    "bizui",
+    "cahan",
+    "caidao",
+    "chi",
+    "ciya",
+    "dabing",
+    "daku",
+    "dan",
+    "deyi",
+    "doge",
+    "fadai",
+    "fanu",
+    "fendou",
+    "ganga",
+    "gouyin",
+    "guzhang",
+    "haixiu",
+    "hanxiao",
+    "haobang",
+    "haqian",
+    "hecai",
+    "hexie",
+    "huaixiao",
+    "jie",
+    "jingkong",
+    "jingxi",
+    "jingya",
+    "juhua",
+    "keai",
+    "kelian",
+    "koubi",
+    "ku",
+    "kuaikule",
+    "kulou",
+    "kun",
+    "lanqiu",
+    "leiben",
+    "lenghan",
+    "liuhan",
+    "liulei",
+    "nanguo",
+    "penxue",
+    "piezui",
+    "pijiu",
+    "qiang",
+    "qiaoda",
+    "qinqin",
+    "qiudale",
+    "quantou",
+    "saorao",
+    "se",
+    "shengli",
+    "shouqiang",
+    "shuai",
+    "shui",
+    "tiaopi",
+    "touxiao",
+    "tu",
+    "tuosai",
+    "weiqu",
+    "weixiao",
+    "woshou",
+    "wozuimei",
+    "wunai",
+    "xia",
+    "xiaojiujie",
+    "xiaoku",
+    "xiaoyanger",
+    "xieyanxiao",
+    "xigua",
+    "xu",
+    "yangtuo",
+    "yinxian",
+    "yiwen",
+    "youhengheng",
+    "youling",
+    "yun",
+    "zaijian",
+    "zhayanjian",
+    "zhemo",
+    "zhouma",
+    "zhuakuang",
+    "zuohengheng",
+  ];
+  qqEmojis.forEach((name) => {
+    maps[`QQ-${name}`] = `QQ/${name}.gif`;
+  });
+
+  // 贴吧表情 (1-50, 66-124)
+  maps["贴吧新表情-image_emoticon"] = "Tieba-New/image_emoticon.png";
+  const tiebaRanges = [
+    [2, 50],
+    [66, 124],
+  ];
+  tiebaRanges.forEach(([start, end]) => {
+    for (let i = start; i <= end; i++) {
+      maps[`贴吧新表情-image_emoticon${i}`] =
+        `Tieba-New/image_emoticon${i}.png`;
+    }
+  });
+
+  return maps;
+})();
+
+// Valine 初始化防抖定时器
+let valineInitTimer = null;
+
+/**
+ * 初始化 Valine 评论系统
+ * 使用防抖机制避免 swup 页面切换时多次调用
+ */
+function initValine() {
+  // 清除之前的定时器，防止重复初始化
+  if (valineInitTimer) {
+    clearTimeout(valineInitTimer);
+  }
+
+  // 延迟执行，确保 swup 页面切换后 DOM 完全准备好
+  valineInitTimer = setTimeout(() => {
+    const vcommentsEl = document.getElementById("vcomments");
+    if (!vcommentsEl) return;
+
+    // 清空之前的内容，确保 swup 页面切换后能重新初始化
+    vcommentsEl.innerHTML = "";
+
+    new Valine({
+      el: "#vcomments",
+      path: window.location.pathname,
+      emojiMaps: VALINE_EMOJI_MAPS,
+      ...VALINE_CONFIG,
+    });
+  }, 500);
+}
+
 function highlightText(text, query) {
   return text.replace(
     new RegExp(query, "gi"),
-    (match) => `<span class="highlight">${match}</span>`
+    (match) => `<span class="highlight">${match}</span>`,
   );
 }
 
@@ -526,7 +1424,7 @@ function lunar() {
   function toGanZhiYear(b) {
     var f = (b - 3) % 10,
       c = (b - 3) % 12;
-    return 0 === f && (f = 10), 0 === c && (c = 12), Gan[f - 1] + Zhi[c - 1];
+    return (0 === f && (f = 10), 0 === c && (c = 12), Gan[f - 1] + Zhi[c - 1]);
   }
 
   function toAstro(b, f) {
@@ -534,7 +1432,7 @@ function lunar() {
       "魔羯水瓶双鱼白羊金牛双子巨蟹狮子处女天秤天蝎射手魔羯".substr(
         2 * b -
           (f < [20, 19, 21, 21, 21, 22, 23, 23, 23, 23, 22, 22][b - 1] ? 2 : 0),
-        2
+        2,
       ) + "座"
     );
   }
@@ -603,7 +1501,7 @@ function lunar() {
         f = "三十";
         break;
       default:
-        (f = nStr2[Math.floor(b / 10)]), (f += nStr1[b % 10]);
+        ((f = nStr2[Math.floor(b / 10)]), (f += nStr1[b % 10]));
     }
     return f;
   }
@@ -619,9 +1517,9 @@ function lunar() {
       a,
       r = null,
       t = 0;
-    (b = (r = b ? new Date(b, parseInt(f) - 1, c) : new Date()).getFullYear()),
+    ((b = (r = b ? new Date(b, parseInt(f) - 1, c) : new Date()).getFullYear()),
       (f = r.getMonth() + 1),
-      (c = r.getDate());
+      (c = r.getDate()));
     var d =
       (Date.UTC(r.getFullYear(), r.getMonth(), r.getDate()) -
         Date.UTC(1900, 0, 31)) /
@@ -641,13 +1539,13 @@ function lunar() {
     a = leapMonth(e);
     var i = !1;
     for (e = 1; e < 13 && d > 0; e++)
-      a > 0 && e === a + 1 && !1 === i
+      (a > 0 && e === a + 1 && !1 === i
         ? (--e, (i = !0), (t = leapDays(l)))
         : (t = monthDays(l, e)),
         !0 === i && e === a + 1 && (i = !1),
-        (d -= t);
-    0 === d && a > 0 && e === a + 1 && (i ? (i = !1) : ((i = !0), --e)),
-      d < 0 && ((d += t), --e);
+        (d -= t));
+    (0 === d && a > 0 && e === a + 1 && (i ? (i = !1) : ((i = !0), --e)),
+      d < 0 && ((d += t), --e));
     var h = e,
       D = d + 1,
       g = f - 1,
@@ -658,10 +1556,10 @@ function lunar() {
     c >= y && (p = toGanZhi(12 * (b - 1900) + f + 12));
     var M = !1,
       T = null;
-    y === c && ((M = !0), (T = solarTerm[2 * f - 2])),
-      m === c && ((M = !0), (T = solarTerm[2 * f - 1]));
+    (y === c && ((M = !0), (T = solarTerm[2 * f - 2])),
+      m === c && ((M = !0), (T = solarTerm[2 * f - 1])));
     var I = toGanZhi(
-        Date.UTC(b, g, 1, 0, 0, 0, 0) / 864e5 + 25567 + 10 + c - 1
+        Date.UTC(b, g, 1, 0, 0, 0, 0) / 864e5 + 25567 + 10 + c - 1,
       ),
       C = toAstro(f, c);
     return {
@@ -704,16 +1602,16 @@ function lunar() {
       var n = 0,
         s = !1;
       for (d = 1; d < f; d++)
-        (n = leapMonth(b)),
+        ((n = leapMonth(b)),
           s || (n <= d && n > 0 && ((t += leapDays(b)), (s = !0))),
-          (t += monthDays(b, d));
+          (t += monthDays(b, d)));
       e && (t += a);
       var u = Date.UTC(1900, 1, 30, 0, 0, 0),
         o = new Date(864e5 * (t + c - 31) + u);
       return solar2lunar(
         o.getUTCFullYear(),
         o.getUTCMonth() + 1,
-        o.getUTCDate()
+        o.getUTCDate(),
       );
     },
   };
@@ -733,7 +1631,7 @@ function lunar() {
       Swal.fire(
         "今天是九一八事变" +
           (y - 1931).toString() +
-          "周年纪念日\n🪔勿忘国耻，振兴中华🪔"
+          "周年纪念日\n🪔勿忘国耻，振兴中华🪔",
       );
       sessionStorage.setItem("isPopupWindow", "1");
     }
@@ -746,7 +1644,7 @@ function lunar() {
       Swal.fire(
         "今天是卢沟桥事变" +
           (y - 1937).toString() +
-          "周年纪念日\n🪔勿忘国耻，振兴中华🪔"
+          "周年纪念日\n🪔勿忘国耻，振兴中华🪔",
       );
       sessionStorage.setItem("isPopupWindow", "1");
     }
@@ -759,7 +1657,7 @@ function lunar() {
       Swal.fire(
         "今天是南京大屠杀" +
           (y - 1937).toString() +
-          "周年纪念日\n🪔勿忘国耻，振兴中华🪔"
+          "周年纪念日\n🪔勿忘国耻，振兴中华🪔",
       );
       sessionStorage.setItem("isPopupWindow", "1");
     }
@@ -942,5 +1840,559 @@ function lunar() {
       Swal.fire("重阳节快乐\n独在异乡为异客，每逢佳节倍思亲");
       sessionStorage.setItem("isPopupWindow", "1");
     }
+  }
+}
+
+function fetchDLS() {
+  if (document.querySelector(".content.dls")) {
+    const jsonUrl =
+      "https://ghfast.top/https://raw.githubusercontent.com/AdingApkgg/vns/refs/heads/dev/data/dls.json";
+
+    fetch(jsonUrl)
+      .then((response) => {
+        if (!response.ok) {
+          throw new Error("网络响应失败");
+        }
+        return response.json();
+      })
+      .then((data) => {
+        const contentDiv = document.getElementById("content");
+        contentDiv.innerHTML = "";
+        data.forEach((item) => {
+          const itemDiv = document.createElement("div");
+          itemDiv.className = "item";
+
+          const cover = document.createElement("img");
+          cover.className = "cover";
+          cover.src = item.cover;
+          cover.alt = item.title;
+          cover.title = item.title;
+          itemDiv.appendChild(cover);
+
+          const title = document.createElement("h2");
+          title.className = "title";
+          title.textContent = item.title;
+          itemDiv.appendChild(title);
+
+          const company = document.createElement("span");
+          company.className = "company";
+          company.textContent = item.company;
+          itemDiv.appendChild(company);
+
+          const platforms = document.createElement("p");
+          platforms.className = "platforms";
+          platforms.textContent = `${item.platforms.join("、")}`;
+          itemDiv.appendChild(platforms);
+
+          const downloads = document.createElement("p");
+          downloads.className = "downloads";
+          item.downloads.forEach((download) => {
+            const button = document.createElement("button");
+            button.className = "download-button";
+            button.textContent = `${download.provider}`;
+            button.onclick = () => window.open(download.url, "_blank");
+            downloads.appendChild(button);
+          });
+          itemDiv.appendChild(downloads);
+
+          const author = document.createElement("span");
+          author.className = "author";
+          author.textContent = `编辑者：${item.author}`;
+          itemDiv.appendChild(author);
+
+          contentDiv.appendChild(itemDiv);
+        });
+      })
+      .catch((error) => {
+        console.error("获取数据失败:", error);
+        document.getElementById("content").textContent =
+          "加载数据失败，请稍后重试。";
+      });
+  }
+}
+
+// 排行榜功能
+function initRankPage() {
+  if (!document.querySelector(".content.rank")) {
+    return;
+  }
+
+  let currentType = "views";
+  let currentDays = 30;
+
+  const rankContent = document.getElementById("rank-content");
+  const daysSelect = document.getElementById("days-select");
+  const tabs = document.querySelectorAll(".rank-tab");
+
+  // 切换标签
+  tabs.forEach((tab) => {
+    tab.addEventListener("click", () => {
+      tabs.forEach((t) => t.classList.remove("active"));
+      tab.classList.add("active");
+      currentType = tab.dataset.type;
+      fetchRankData();
+    });
+  });
+
+  // 切换时间范围
+  if (daysSelect) {
+    daysSelect.addEventListener("change", () => {
+      currentDays = parseInt(daysSelect.value);
+      fetchRankData();
+    });
+  }
+
+  // 获取排行榜数据
+  function fetchRankData() {
+    rankContent.innerHTML =
+      '<div class="loading"><i class="fas fa-spinner fa-spin"></i> 加载中...</div>';
+
+    const apiUrl = `https://rp.30hb.cn/?target=https://inarigal.com/api/ranking/${currentType}?days=${currentDays}`;
+
+    fetch(apiUrl)
+      .then((response) => {
+        if (!response.ok) {
+          throw new Error("网络响应失败");
+        }
+        return response.json();
+      })
+      .then((result) => {
+        if (result.success && result.data) {
+          renderRankList(result.data);
+        } else {
+          throw new Error("数据格式错误");
+        }
+      })
+      .catch((error) => {
+        console.error("获取排行榜数据失败:", error);
+        rankContent.innerHTML =
+          '<div class="error"><i class="fas fa-exclamation-circle"></i> 加载数据失败，请稍后重试</div>';
+      });
+  }
+
+  // 渲染排行榜列表
+  function renderRankList(data) {
+    if (!data || data.length === 0) {
+      rankContent.innerHTML =
+        '<div class="no-data"><i class="fas fa-inbox"></i><p>暂无排行数据</p></div>';
+      return;
+    }
+
+    const listDiv = document.createElement("div");
+    listDiv.className = "rank-list";
+
+    data.forEach((item, index) => {
+      const rank = index + 1;
+      const itemDiv = document.createElement("div");
+      itemDiv.className = `rank-item ${rank <= 3 ? `top-${rank}` : ""}`;
+
+      // 创建头部容器（用于移动端布局）
+      const headerDiv = document.createElement("div");
+      headerDiv.className = "rank-header";
+
+      // 排名
+      const rankNumber = document.createElement("div");
+      rankNumber.className = "rank-number";
+      if (rank === 1) {
+        rankNumber.innerHTML = '<i class="fas fa-crown"></i>';
+      } else if (rank === 2) {
+        rankNumber.innerHTML = '<i class="fas fa-medal"></i>';
+      } else if (rank === 3) {
+        rankNumber.innerHTML = '<i class="fas fa-award"></i>';
+      } else {
+        rankNumber.textContent = rank;
+      }
+      headerDiv.appendChild(rankNumber);
+
+      // 封面
+      if (item.cover_url) {
+        const cover = document.createElement("img");
+        cover.className = "rank-cover";
+        cover.src = item.cover_url;
+        cover.alt = item.title_cn || item.title_jp || "封面";
+        cover.loading = "lazy";
+        headerDiv.appendChild(cover);
+      }
+
+      // 信息
+      const infoDiv = document.createElement("div");
+      infoDiv.className = "rank-info";
+
+      const titleLink = document.createElement("a");
+      titleLink.className = "rank-title";
+
+      // 优先显示中文标题，如果没有则显示日文
+      const displayTitle = item.title_cn || item.title_jp || "未知标题";
+      titleLink.textContent = displayTitle;
+
+      // 如果有vndb_id，生成VNDB链接
+      if (item.vndb_id) {
+        titleLink.href = `https://vndb.org/${item.vndb_id}`;
+        titleLink.target = "_blank";
+        titleLink.rel = "noopener noreferrer";
+      } else {
+        titleLink.style.cursor = "default";
+        titleLink.style.textDecoration = "none";
+      }
+      infoDiv.appendChild(titleLink);
+
+      const metaDiv = document.createElement("div");
+      metaDiv.className = "rank-meta";
+
+      // 如果有日文标题且不同于中文标题，显示日文标题
+      if (item.title_jp && item.title_jp !== item.title_cn) {
+        const jpTitle = document.createElement("span");
+        jpTitle.className = "meta-item";
+        jpTitle.innerHTML = `<i class="fas fa-language"></i> ${item.title_jp}`;
+        metaDiv.appendChild(jpTitle);
+      }
+
+      // 开发商
+      if (item.developer_name) {
+        const developer = document.createElement("span");
+        developer.className = "meta-item";
+        developer.innerHTML = `<i class="fas fa-building"></i> ${item.developer_name}`;
+        metaDiv.appendChild(developer);
+      }
+
+      // VNDB ID
+      if (item.vndb_id) {
+        const vndbId = document.createElement("span");
+        vndbId.className = "meta-item";
+        vndbId.innerHTML = `<i class="fas fa-database"></i> ${item.vndb_id}`;
+        metaDiv.appendChild(vndbId);
+      }
+
+      infoDiv.appendChild(metaDiv);
+      headerDiv.appendChild(infoDiv);
+
+      itemDiv.appendChild(headerDiv);
+
+      // 数值
+      const valueDiv = document.createElement("div");
+      valueDiv.className = "rank-value";
+
+      const valueNumber = document.createElement("div");
+      valueNumber.className = "value-number";
+
+      // 根据类型获取相应的数值
+      const value =
+        currentType === "views"
+          ? parseInt(item.scan_count) || 0
+          : parseInt(item.download_count) || 0;
+
+      valueNumber.textContent = formatNumber(value);
+      valueDiv.appendChild(valueNumber);
+
+      const valueLabel = document.createElement("div");
+      valueLabel.className = "value-label";
+      valueLabel.textContent = currentType === "views" ? "浏览" : "下载";
+      valueDiv.appendChild(valueLabel);
+
+      itemDiv.appendChild(valueDiv);
+      listDiv.appendChild(itemDiv);
+    });
+
+    rankContent.innerHTML = "";
+    rankContent.appendChild(listDiv);
+  }
+
+  // 格式化数字
+  function formatNumber(num) {
+    if (num >= 10000) {
+      return (num / 10000).toFixed(1) + "万";
+    } else if (num >= 1000) {
+      return (num / 1000).toFixed(1) + "k";
+    }
+    return num.toString();
+  }
+
+  // 初始加载
+  fetchRankData();
+}
+
+// ==========================================
+// AI 感想生成功能
+// ==========================================
+
+/**
+ * 初始化 AI 感想功能
+ */
+function initAIReview() {
+  // 检查是否在文章页面
+  const reviewSection = document.getElementById("ai-review");
+  if (!reviewSection) {
+    return;
+  }
+
+  const generateBtn = document.getElementById("generate-review");
+  const regenerateBtn = document.getElementById("regenerate-review");
+  const reviewContent = document.getElementById("ai-review-content");
+
+  // 获取文章信息
+  const articleTitle =
+    document.querySelector("article h1")?.textContent.trim() || "未知作品";
+  const articleContent =
+    document
+      .querySelector(".content[data-pagefind-body]")
+      ?.textContent.trim() || "";
+
+  // 隐藏生成按钮，显示重新生成按钮
+  if (generateBtn) {
+    generateBtn.style.display = "none";
+  }
+  if (regenerateBtn) {
+    regenerateBtn.style.display = "inline-flex";
+  }
+
+  // 重新生成按钮点击事件
+  if (regenerateBtn) {
+    regenerateBtn.addEventListener("click", () => {
+      generateReview(articleTitle, articleContent, reviewContent);
+    });
+  }
+
+  // 检查是否有缓存的感想
+  const cachedReview = getCachedReview(articleTitle);
+  if (cachedReview) {
+    // 有缓存，直接显示
+    reviewContent.innerHTML = cachedReview;
+  } else {
+    // 没有缓存，自动生成
+    generateReview(articleTitle, articleContent, reviewContent);
+  }
+}
+
+/**
+ * 生成 AI 感想
+ * @param {string} title - 文章标题
+ * @param {string} content - 文章内容
+ * @param {HTMLElement} container - 显示容器
+ */
+async function generateReview(title, content, container) {
+  // 显示加载状态
+  container.innerHTML = `
+    <div class="ai-review-loading">
+      <i class="fas fa-spinner fa-spin"></i>
+      <p>Asuna 正在思考中...</p>
+    </div>
+  `;
+
+  try {
+    // 构造 prompt
+    const prompt = buildPrompt(title, content);
+
+    // 调用 AI API
+    const review = await callAIAPI(prompt, container);
+
+    if (review) {
+      // 显示生成的感想
+      container.innerHTML = `
+        <div class="ai-review-text">
+          ${formatReview(review)}
+        </div>
+      `;
+
+      // 缓存感想
+      cacheReview(title, container.innerHTML);
+    }
+  } catch (error) {
+    console.error("生成感想失败:", error);
+    container.innerHTML = `
+      <div class="ai-review-error">
+        <i class="fas fa-exclamation-triangle"></i>
+        <p>生成感想时出错了，请稍后重试~</p>
+        <small>${error.message}</small>
+      </div>
+    `;
+  }
+}
+
+/**
+ * 构建 prompt
+ * @param {string} title - 文章标题
+ * @param {string} content - 文章内容
+ * @returns {string} prompt
+ */
+function buildPrompt(title, content) {
+  // 提取文章摘要（限制长度）
+  const summary = content.substring(0, 800);
+
+  return `# 角色设定
+你是结城明日奈（Asuna），来自《刀剑神域》的温柔坚强的女剑士。你同时也是一位热爱 Galgame 的资深玩家，喜欢在游戏中寻找感动人心的故事。
+
+# 任务
+为《${title}》写一段游玩感想。
+
+# 作品简介
+${summary}
+
+# 输出要求
+- 用"我"作为第一人称，以 Asuna 温柔亲切的语气书写
+- 分享对剧情、角色、氛围的真实感受
+- 可以提及喜欢或不喜欢的具体元素
+- 适当联想到 SAO 中的经历来表达共鸣
+- 可以使用 Emoji 辅助表达
+- 直接输出纯文本，不要使用 Markdown
+
+# 开始`;
+}
+
+/**
+ * 调用 AI API（OpenAI 兼容格式，流式输出）
+ * @param {string} prompt - 提示词
+ * @param {HTMLElement} container - 显示容器
+ * @returns {Promise<string>} 生成的感想
+ */
+async function callAIAPI(prompt, container) {
+  // One API 配置（硅基流动 Qwen 2.5 32B Instruct）
+  const API_URL = "https://ai.searchgal.top/v1/chat/completions";
+  const API_KEY = "sk-dlamYMLcndbINqk83b1f26D1A8B047F9A661CaF8448a642f";
+  const MODEL = "Qwen/Qwen2.5-32B-Instruct";
+
+  try {
+    const response = await fetch(API_URL, {
+      method: "POST",
+      headers: {
+        "Content-Type": "application/json",
+        Authorization: `Bearer ${API_KEY}`,
+      },
+      body: JSON.stringify({
+        model: MODEL,
+        messages: [
+          {
+            role: "user",
+            content: prompt,
+          },
+        ],
+        stream: true,
+        temperature: 0.8,
+        top_p: 0.9,
+      }),
+    });
+
+    if (!response.ok) {
+      throw new Error(`HTTP error! status: ${response.status}`);
+    }
+
+    // 处理 SSE 流式响应
+    const reader = response.body.getReader();
+    const decoder = new TextDecoder();
+    let fullText = "";
+    let buffer = "";
+
+    // 显示流式输出容器
+    container.innerHTML = `
+      <div class="ai-review-text ai-review-streaming">
+        <div class="streaming-text"></div>
+        <span class="streaming-cursor">▊</span>
+      </div>
+    `;
+
+    const streamingText = container.querySelector(".streaming-text");
+
+    while (true) {
+      const { done, value } = await reader.read();
+
+      if (done) {
+        break;
+      }
+
+      // 解码并处理 SSE 数据
+      buffer += decoder.decode(value, { stream: true });
+      const lines = buffer.split("\n");
+      buffer = lines.pop() || "";
+
+      for (const line of lines) {
+        const trimmed = line.trim();
+        if (!trimmed || !trimmed.startsWith("data: ")) continue;
+
+        const dataStr = trimmed.slice(6);
+        if (dataStr === "[DONE]") break;
+
+        try {
+          const data = JSON.parse(dataStr);
+          const content = data.choices?.[0]?.delta?.content;
+          if (content) {
+            fullText += content;
+            streamingText.textContent = fullText;
+
+            // 自动滚动到底部
+            container.scrollTop = container.scrollHeight;
+          }
+        } catch (e) {
+          console.warn("解析 SSE 数据失败:", e);
+        }
+      }
+    }
+
+    // 移除光标
+    const cursor = container.querySelector(".streaming-cursor");
+    if (cursor) {
+      cursor.remove();
+    }
+
+    return fullText;
+  } catch (error) {
+    if (error.message.includes("Failed to fetch")) {
+      throw new Error("无法连接到 AI 服务，请检查网络连接");
+    }
+    throw error;
+  }
+}
+
+/**
+ * 格式化感想文本
+ * @param {string} text - 原始文本
+ * @returns {string} 格式化后的 HTML
+ */
+function formatReview(text) {
+  // 将文本按段落分割
+  const paragraphs = text
+    .split(/\n\n+/)
+    .map((p) => p.trim())
+    .filter((p) => p.length > 0);
+
+  // 转换为 HTML 段落
+  return paragraphs.map((p) => `<p>${escapeHtml(p)}</p>`).join("");
+}
+
+/**
+ * 转义 HTML 特殊字符
+ * @param {string} text - 原始文本
+ * @returns {string} 转义后的文本
+ */
+function escapeHtml(text) {
+  const div = document.createElement("div");
+  div.textContent = text;
+  return div.innerHTML;
+}
+
+/**
+ * 缓存感想到 localStorage
+ * @param {string} title - 文章标题
+ * @param {string} content - 感想内容
+ */
+function cacheReview(title, content) {
+  try {
+    const cacheKey = `ai-review-${encodeURIComponent(title)}`;
+    localStorage.setItem(cacheKey, content);
+  } catch (e) {
+    console.warn("缓存感想失败:", e);
+  }
+}
+
+/**
+ * 从 localStorage 获取缓存的感想
+ * @param {string} title - 文章标题
+ * @returns {string|null} 缓存的感想内容
+ */
+function getCachedReview(title) {
+  try {
+    const cacheKey = `ai-review-${encodeURIComponent(title)}`;
+    return localStorage.getItem(cacheKey);
+  } catch (e) {
+    console.warn("读取缓存失败:", e);
+    return null;
   }
 }

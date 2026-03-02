@@ -1,248 +1,169 @@
-baseURL = 'https://vns.saop.cc/'
-languageCode = 'zh'
+baseURL = 'https://gal.saop.cc/'
 defaultContentLanguage = "zh"
 defaultContentLanguageInSubdir = false
 title = 'VNS'
+timezone = "Asia/Shanghai"
+enableRobotsTXT = true
 
-[module]
-[module.hugoVersion]
-extended = true
-min = "0.148.2"
-
-[caches]
-[caches.assets]
-dir = ':resourceDir/_gen'
-maxAge = -1
-[caches.getcsv]
-dir = ':cacheDir/:project'
-maxAge = -1
-[caches.getjson]
-dir = ':cacheDir/:project'
-maxAge = -1
-[caches.getresource]
-dir = ':cacheDir/:project'
-maxAge = -1
-[caches.images]
-dir = ':cacheDir/images'
-maxAge = -1
-[caches.misc]
-dir = ':cacheDir/:project'
-maxAge = -1
-[caches.modules]
-dir = ':cacheDir/modules'
-maxAge = -1
-
-[languages]
-[languages.zh]
-contentDir = 'content/zh'
+contentDir = "content"
 languageName = "简体中文"
 languageDirection = "ltr"
 languageCode = "zh"
 hasCJKLanguage = true
 weight = 1
-[[languages.zh.menus.main]]
-identifier = "oldsite"
-name = '旧站'
-url = 'https://gal.saop.cc/'
+
+[[menus.main]]
+identifier = "guide"
+name = '演示'
+pageRef = '/guide'
+weight = -1
+pre = "fa fa-film"
+
+[[menus.main]]
+identifier = "multi-search"
+name = '聚搜'
+url = 'https://searchgal.top/'
 weight = 1
-[[languages.zh.menus.main]]
+pre = "fa fa-hexagon-nodes"
+
+[[menus.main]]
+identifier = "random"
+name = '随机'
+weight = 2
+pre = "fa fa-shuffle"
+
+[[menus.main]]
 identifier = "home"
 name = '首页'
 pageRef = '/'
-weight = 2
-[[languages.zh.menus.main]]
-identifier = "archives"
-name = '归档'
-pageRef = '/archives'
 weight = 3
-[[languages.zh.menus.main]]
-identifier = "categories"
-name = '分类'
-pageRef = '/categories'
+pre = "fa fa-house"
+
+[[menus.main]]
+identifier = "search"
+name = '搜索'
+pageRef = '/search'
 weight = 4
-[[languages.zh.menus.main]]
+pre = "fa fa-search"
+
+[[menus.main]]
+identifier = "platforms"
+name = '平台'
+pageRef = '/platforms'
+weight = 5
+pre = "fas fa-layer-group"
+
+[[menus.main]]
 identifier = "tags"
 name = '标签'
 pageRef = '/tags'
-weight = 5
-[[languages.zh.menus.main]]
+weight = 6
+pre = "fa fa-tags"
+
+[[menus.footer]]
 identifier = "about"
 name = '关于'
 pageRef = '/about'
-weight = 6
-[[languages.zh.menus.main]]
+weight = 7
+pre = "fa fa-circle-info"
+
+[[menus.main]]
 identifier = "docs"
 name = '文档'
 pageRef = '/docs'
-weight = 7
-[[languages.zh.menus.main]]
+weight = 8
+pre = "fa fa-file-lines"
+
+[[menus.main]]
 identifier = "comments"
 name = '留言'
 pageRef = '/comments'
-weight = 8
-[[languages.zh.menus.main]]
-identifier = "data"
-name = '分流'
-pageRef = '/data'
 weight = 9
-[[languages.zh.menus.main]]
-identifier = "staff"
-name = '成员'
-pageRef = '/staff'
+pre = "fa fa-comment-dots"
+
+[[menus.main]]
+identifier = "dls"
+name = '下载'
+pageRef = '/dls'
 weight = 10
-[[languages.zh.menus.main]]
+pre = "fa fa-download"
+
+[[menus.main]]
+identifier = "rank"
+name = '排行'
+pageRef = '/rank'
+weight = 11
+pre = "fa fa-ranking-star"
+
+[[menus.footer]]
+identifier = "teams"
+name = '团队'
+pageRef = '/teams'
+weight = 12
+pre = "fa fa-people-group"
+
+[[menus.footer]]
 identifier = "cloud"
 name = '云盘'
 url = 'https://cloud.saop.cc/'
-weight = 11
-[[languages.zh.menus.main]]
+weight = 13
+pre = "fa fa-cloud"
+
+[[menus.footer]]
 identifier = "drive"
 name = '网盘'
 url = 'https://drive.saop.cc/'
-weight = 12
+weight = 14
+pre = "fa fa-hard-drive"
 
-[languages.ja]
-contentDir = 'content/ja'
-languageName = "日本語"
-languageDirection = "ltr"
-languageCode = "ja"
-hasCJKLanguage = true
-weight = 2
-[[languages.ja.menus.main]]
-identifier = "oldsite"
-name = '旧サイト'
-url = 'https://gal.saop.cc/'
-weight = 1
-[[languages.ja.menus.main]]
-identifier = "home"
-name = 'ホームページ'
-pageRef = '/'
-weight = 2
-[[languages.ja.menus.main]]
-identifier = "archives"
-name = 'アーカイブ'
-pageRef = '/archives'
-weight = 3
-[[languages.ja.menus.main]]
-identifier = "categories"
-name = 'カテゴリー'
-pageRef = '/categories'
-weight = 4
-[[languages.ja.menus.main]]
-identifier = "tags"
-name = 'タグ'
-pageRef = '/tags'
-weight = 5
-[[languages.ja.menus.main]]
-identifier = "about"
-name = 'このサイトについて'
-pageRef = '/about'
-weight = 6
-[[languages.ja.menus.main]]
-identifier = "docs"
-name = '書類'
-pageRef = '/docs'
-weight = 7
-[[languages.ja.menus.main]]
-identifier = "comments"
-name = 'メッセージ'
-pageRef = '/comments'
-weight = 8
-[[languages.ja.menus.main]]
-identifier = "data"
-name = '分流'
-pageRef = '/data'
-weight = 9
-[[languages.ja.menus.main]]
-identifier = "staff"
-name = 'メンバー'
-pageRef = '/staff'
-weight = 10
-[[languages.ja.menus.main]]
-identifier = "cloud"
-name = 'クラウド'
-url = 'https://cloud.saop.cc/'
-weight = 11
-[[languages.ja.menus.main]]
-identifier = "drive"
-name = 'ネットディスク'
-url = 'https://drive.saop.cc/'
-weight = 12
+[[menus.main]]
+identifier = "live"
+name = '云游'
+pageRef = '/live'
+weight = 15
+pre = "fa fa-gamepad"
 
-[languages.en]
-contentDir = 'content/en'
-languageName = "English"
-languageDirection = "ltr"
-languageCode = "en"
-weight = 3
-[[languages.en.menus.main]]
-identifier = "oldsite"
-name = 'OldSite'
-url = 'https://gal.saop.cc/'
-weight = 1
-[[languages.en.menus.main]]
-identifier = "home"
-name = 'Home'
-pageRef = '/'
-weight = 2
-[[languages.en.menus.main]]
-identifier = "archives"
-name = 'Archives'
-pageRef = '/archives'
-weight = 3
-[[languages.en.menus.main]]
-identifier = "categories"
-name = 'Categories'
-pageRef = '/categories'
-weight = 4
-[[languages.en.menus.main]]
-identifier = "tags"
-name = 'Tags'
-pageRef = '/tags'
-weight = 5
-[[languages.en.menus.main]]
-identifier = "about"
-name = 'About'
-pageRef = '/about'
-weight = 6
-[[languages.en.menus.main]]
-identifier = "docs"
-name = 'Docs'
-pageRef = '/docs'
-weight = 7
-[[languages.en.menus.main]]
-identifier = "comments"
-name = 'Comments'
-pageRef = '/comments'
-weight = 8
-[[languages.en.menus.main]]
-identifier = "data"
-name = 'Mirrors'
-pageRef = '/data'
-weight = 9
-[[languages.en.menus.main]]
-identifier = "staff"
-name = 'Team'
-pageRef = '/staff'
-weight = 10
-[[languages.en.menus.main]]
-identifier = "cloud"
-name = 'Cloud'
-url = 'https://cloud.saop.cc/'
-weight = 11
-[[languages.en.menus.main]]
-identifier = "drive"
-name = 'Drive'
-url = 'https://drive.saop.cc/'
-weight = 12
+[[menus.main]]
+identifier = "post"
+name = '投稿'
+pageRef = '/post'
+weight = 16
+pre = "fa fa-pen"
 
-[markup]
-defaultMarkdownHandler = "goldmark"
+[[menus.footer]]
+identifier = "donate"
+name = '捐赠'
+pageRef = '/donate'
+weight = 17
+pre = "fa fa-hand-holding-dollar"
+
+[[menus.footer]]
+identifier = "links"
+name = '友链'
+pageRef = '/links'
+weight = 18
+pre = "fa fa-link"
+
+[[menus.footer]]
+identifier = "feedback"
+name = '问卷'
+pageRef = '/feedback'
+weight = 19
+pre = "fa fa-file-lines"
+
+[[menus.footer]]
+identifier = "ads"
+name = '广告'
+pageRef = '/ads'
+weight = 20
+pre = "fa fa-rectangle-ad"
+
 [markup.goldmark.renderer]
 unsafe = true
+hardWraps = true
 [markup.goldmark.extensions.cjk]
-eastAsianLineBreaks = true
 enable = true
+eastAsianLineBreaks = true
 escapedSpace = true
 [markup.tableOfContents]
 startLevel = 2
@@ -250,11 +171,16 @@ endLevel = 4
 ordered = true
 
 [params]
+subtitle = 'Visual Novel'
+description = "Visual Novel"
 summaryLength = 100
 date_format = "1970年01月01日"
 mainSections = ["p"]
 defaultAuthor = "Asuna"
 ogImage = "img/logo.svg"
+logo = "/img/logo.svg"
+contentEdit = "https://github.com/AdingApkgg/vns/edit/dev/content/"
+bszAPI = "https://bsz.saop.cc/api"
 
 paginate = 10
 paginatePath = "page"
@@ -274,16 +200,15 @@ enabled = true
 enabled = true
 provider = "valine"
 
-[params.comments.valine]
-appId = "BnlZFCN5ghutLVVEX0el3pz3-MdYXbMMI"
-appKey = "OvpvXLKwajI2qYE4XsNMokpW"
-serverURLs = "https://valine.saop.cc"
-placeholder = "昵称栏输入 QQ 号即可获取头像与邮箱..\n评论支持标准的 Markdown 全语法~"
-avatar_cdn = "https://weavatar.com/avatar/"
-pageSize = 20
-visitor = false
-comment_count = false
-highlight = true
-recordIP = true
-emojiCDN = "//twikoo-magic.oss-cn-hangzhou.aliyuncs.com/"
-enableQQ = true
+[mediaTypes]
+[mediaTypes."text/llms"]
+suffixes = ["txt"]
+
+[outputFormats.LLMS]
+mediaType = "text/llms"
+baseName = "llms"
+isPlainText = true
+permalinkable = false
+
+[outputs]
+home = ["HTML", "RSS", "LLMS"]

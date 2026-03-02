@@ -1,4 +1,9 @@
-.history/
-public/
-resources/
+.deploy_git
+.history
+public
+resources
+.DS_Store
 .hugo_build.lock
+node_modules
+db.json
+package-lock.json

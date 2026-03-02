@@ -1,0 +1,11 @@
+{{ $options := dict
+"targetPath" "css/style.css"
+"transpiler" "dartsass"
+}}
+{{- with resources.Get "sass/style.scss" | toCSS $options }} {{- if eq hugo.Environment
+"development" }}
+<link rel="stylesheet" href="{{ .RelPermalink }}" fetchpriority="high" />
+{{- else }} {{- with . | minify | fingerprint }}
+<link rel="stylesheet" href="{{ .RelPermalink }}" fetchpriority="high" integrity="{{ .Data.Integrity }}"
+  crossorigin="anonymous" />
+{{- end }} {{- end }} {{- end }}
