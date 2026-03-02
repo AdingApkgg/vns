@@ -1,19 +1,14 @@
 {
   "redirects": [
     {
-      "source": "/(.*)",
-      "destination": "https://gal.saop.cc/$1",
+      "source": "/:path(.*)",
+      "has": [{ "type": "host", "value": "vns.saop.cc" }],
+      "destination": "https://gal.saop.cc/:path",
       "statusCode": 301
     }
   ],
   "routes": [
-    {
-      "handle": "filesystem"
-    },
-    {
-      "src": "/(.*)",
-      "status": 404,
-      "dest": "/404"
-    }
+    { "handle": "filesystem" },
+    { "src": "/(.*)", "status": 404, "dest": "/404" }
   ]
 }
