@@ -121,6 +121,11 @@ main {
   }
   h2 {
     border-bottom: 1px solid #e0e0e0;
+    sup {
+      font-size: 0.5em;
+      color: #666;
+      margin-left: 0.2em;
+    }
   }
   h3 {
     border-bottom: 1px dotted #e0e0e0;
