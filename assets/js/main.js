@@ -1846,7 +1846,7 @@ function lunar() {
 function fetchDLS() {
   if (document.querySelector(".content.dls")) {
     const jsonUrl =
-      "https://ghfast.top/https://raw.githubusercontent.com/AdingApkgg/vns/refs/heads/dev/data/dls.json";
+      "https://ghfast.top/https://raw.githubusercontent.com/AdingApkgg/vns/refs/heads/main/data/dls.json";
 
     fetch(jsonUrl)
       .then((response) => {
