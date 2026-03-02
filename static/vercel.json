@@ -1,6 +1,19 @@
 {
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "destination": "https://gal.saop.cc/$1",
+      "statusCode": 301
+    }
+  ],
   "routes": [
-    { "handle": "filesystem" },
-    { "src": "/(.*)", "status": 404, "dest": "/404" }
+    {
+      "handle": "filesystem"
+    },
+    {
+      "src": "/(.*)",
+      "status": 404,
+      "dest": "/404"
+    }
   ]
 }
