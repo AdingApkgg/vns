@@ -285,7 +285,10 @@ const SwupHooks = {
 };
 
 // 初始化
-document.addEventListener("DOMContentLoaded", initializePage);
+document.addEventListener("DOMContentLoaded", () => {
+  initializePage();
+  bszRe();
+});
 SwupHooks.init();
 
 function mouseFirework() {
@@ -351,13 +354,38 @@ function initMediumZoom() {
 }
 
 function bszRe() {
-  bszCaller.fetch(
-    "//busuanzi.ibruce.info/busuanzi?jsonpCallback=BusuanziCallback",
-    function (a) {
-      bszTag.texts(a);
-      bszTag.shows();
-    },
-  );
+  var bszAPI =
+    document.querySelector('meta[name="bsz-api"]')?.content;
+  if (!bszAPI) return;
+
+  fetch(bszAPI, {
+    method: "POST",
+    credentials: "include",
+    headers: { "x-bsz-referer": location.href },
+  })
+    .then((r) => r.json())
+    .then(({ success, data }) => {
+      if (!success) return;
+      const set = (id, val) => {
+        const el = document.getElementById(id);
+        if (el) el.textContent = val;
+      };
+      set("busuanzi_value_site_pv", data.site_pv);
+      set("busuanzi_value_site_uv", data.site_uv);
+      set("busuanzi_value_page_pv", data.page_pv);
+    })
+    .catch(() => {});
+
+  document.querySelectorAll("[data-bsz-href]").forEach((el) => {
+    fetch(bszAPI, {
+      headers: { "x-bsz-referer": el.dataset.bszHref },
+    })
+      .then((r) => r.json())
+      .then(({ success, data }) => {
+        if (success) el.textContent = data.page_pv;
+      })
+      .catch(() => {});
+  });
 }
 
 /**

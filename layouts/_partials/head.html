@@ -3,7 +3,8 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 <link rel="preconnect" href="https://registry.npmmirror.com/" crossorigin />
 <link rel="dns-prefetch" href="https://registry.npmmirror.com/" />
-<link rel="dns-prefetch" href="https://busuanzi.ibruce.info/" />
+{{ with .Site.Params.bszAPI }}<link rel="dns-prefetch" href="{{ . }}" />
+<meta name="bsz-api" content="{{ . }}" />{{ end }}
 <title>
   {{ if .IsHome }}{{ site.Title }}{{ else }}{{ printf "%s | %s" .Title
   site.Title }}{{ end }}
@@ -39,11 +40,6 @@
       encodeURIComponent(window.location.href);
   }
 </script>
-<script
-  async
-  src="https://registry.npmmirror.com/js-asuna/latest/files/js/bsz.pure.mini.js"
-  fetchpriority="high"
-></script>
 <script
   src="/js/Swup.umd.js"
   fetchpriority="high"

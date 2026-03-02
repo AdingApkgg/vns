@@ -180,6 +180,7 @@ defaultAuthor = "Asuna"
 ogImage = "img/logo.svg"
 logo = "/img/logo.svg"
 contentEdit = "https://github.com/AdingApkgg/vns/edit/dev/content/"
+bszAPI = "https://bsz.saop.cc/api"
 
 paginate = 10
 paginatePath = "page"

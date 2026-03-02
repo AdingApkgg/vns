@@ -17,7 +17,7 @@
   "p") }} {{ range $paginator.Pages.ByLastmod.Reverse.ByWeight }}
   <section>
     <article>
-      <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
+      <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a><sup class="busuanzi_value_page_pv" data-bsz-href="{{ .Permalink }}"></sup></h2>
       {{ partial "post-meta.html" . }} {{ .Summary }} {{ partial "terms.html"
       (dict "taxonomy" "categories" "page" .) }} {{ partial "terms.html" (dict
       "taxonomy" "tags" "page" .) }}
