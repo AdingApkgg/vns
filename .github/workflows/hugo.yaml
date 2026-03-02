@@ -3,7 +3,7 @@ name: Deploy Hugo site to gh-pages branch
 on:
   push:
     branches:
-      - dev
+      - main
 
   workflow_dispatch:
 
