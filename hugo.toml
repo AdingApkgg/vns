@@ -203,6 +203,8 @@ provider = "valine"
 [mediaTypes]
 [mediaTypes."text/llms"]
 suffixes = ["txt"]
+[mediaTypes."text/javascript"]
+suffixes = ["js"]
 
 [outputFormats.LLMS]
 mediaType = "text/llms"
@@ -210,5 +212,11 @@ baseName = "llms"
 isPlainText = true
 permalinkable = false
 
+[outputFormats.SW]
+mediaType = "text/javascript"
+baseName = "sw"
+isPlainText = true
+permalinkable = false
+
 [outputs]
-home = ["HTML", "RSS", "LLMS"]
+home = ["HTML", "RSS", "LLMS", "SW"]
