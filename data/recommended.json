@@ -1,0 +1,62 @@
+[
+  {
+    "site": "vndb",
+    "desc": "视觉小说数据库",
+    "url": "https://vndb.org/",
+    "logo": "/img/links/vndb.avif"
+  },
+  {
+    "site": "ErogameScape",
+    "desc": "エロゲー批評空間",
+    "url": "https://erogamescape.org/",
+    "logo": "/img/links/erogamescape.avif"
+  },
+  {
+    "site": "维基百科",
+    "desc": "自由的百科全书",
+    "url": "https://wikipedia.org/",
+    "logo": "/img/links/wikipedia.avif"
+  },
+  {
+    "site": "萌娘百科",
+    "desc": "万物皆可萌的百科全书",
+    "url": "https://moegirl.org.cn/",
+    "logo": "/img/links/moegirl.avif"
+  },
+  {
+    "site": "Bangumi 番组计划",
+    "desc": "动画、漫画、游戏、音乐、日剧、三次元",
+    "url": "https://bgm.tv/",
+    "logo": "/img/links/bangumi.avif"
+  },
+  {
+    "site": "2DFan",
+    "desc": "Galgame 中文社区",
+    "url": "https://2dfan.com/",
+    "logo": "/img/links/2dfan.avif"
+  },
+  {
+    "site": "鲲 Galgame 论坛",
+    "desc": "综合性 Galgame 论坛",
+    "url": "https://kungal.com/",
+    "logo": "/img/links/kungal.avif"
+  },
+  {
+    "site": "月幕Galgame",
+    "desc": "Galgame 资料库",
+    "url": "https://www.ymgal.games/",
+    "logo": "/img/links/ymgal.avif"
+  },
+  {
+    "site": "Galgame 聚合搜索",
+    "desc": "多站聚合搜索引擎",
+    "url": "https://www.searchgal.top/",
+    "logo": "/img/links/searchgal.svg"
+  },
+  {
+    "site": "TouchGAL",
+    "desc": "一站式Galgame文化社区！",
+    "url": "https://www.touchgal.top/",
+    "logo": "/img/links/touchgal.avif"
+  }
+]

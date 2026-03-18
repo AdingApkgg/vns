@@ -27,19 +27,7 @@
           if (!newWorker) return;
           newWorker.addEventListener('statechange', function () {
             if (newWorker.state === 'installed' && navigator.serviceWorker.controller) {
-              Swal.fire({
-                title: '站点已更新',
-                text: '发现新版本，刷新以获取最新内容',
-                icon: 'info',
-                showCancelButton: true,
-                confirmButtonText: '刷新',
-                cancelButtonText: '稍后',
-                confirmButtonColor: '#4dabf7',
-              }).then(function (result) {
-                if (result.isConfirmed && reg.waiting) {
-                  reg.waiting.postMessage({ type: 'SKIP_WAITING' });
-                }
-              });
+              newWorker.postMessage({ type: 'SKIP_WAITING' });
             }
           });
         });

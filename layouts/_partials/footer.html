@@ -19,6 +19,9 @@
   >
 </p>
 <p>
+  <i class="fa fa-clock"></i>&nbsp;距今已艰难运行了&nbsp;<span id="timeDate"></span><span id="times"></span>
+</p>
+<p>
   使用
   <a target="_blank" href="https://gohugo.io/">hugo{{ hugo.Version }}</a> 和
   <a target="_blank" href="https://go.dev/">{{ hugo.GoVersion }}</a> 构建
@@ -29,3 +32,22 @@
     >null</span
   >
 </p>
+<script>
+  (function () {
+    var start = new Date("2024/01/27 21:52:00").getTime();
+    function update() {
+      var diff = Date.now() - start;
+      var d = Math.floor(diff / 86400000);
+      var h = Math.floor((diff % 86400000) / 3600000);
+      var m = Math.floor((diff % 3600000) / 60000);
+      var s = Math.floor((diff % 60000) / 1000);
+      document.getElementById("timeDate").textContent = d + "\u00a0天\u00a0";
+      document.getElementById("times").textContent =
+        String(h).padStart(2, "0") + "\u00a0小时\u00a0" +
+        String(m).padStart(2, "0") + "\u00a0分\u00a0" +
+        String(s).padStart(2, "0") + "\u00a0秒";
+    }
+    update();
+    setInterval(update, 1000);
+  })();
+</script>
