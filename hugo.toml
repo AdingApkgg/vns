@@ -6,9 +6,9 @@ timezone = "Asia/Shanghai"
 enableRobotsTXT = true
 
 contentDir = "content"
-languageName = "简体中文"
-languageDirection = "ltr"
-languageCode = "zh"
+label = "简体中文"
+direction = "ltr"
+locale = "zh"
 hasCJKLanguage = true
 weight = 1
 
@@ -189,8 +189,9 @@ logo = "/img/logo.svg"
 contentEdit = "https://github.com/AdingApkgg/vns/edit/dev/content/"
 bszAPI = "https://bsz.saop.cc/api"
 
-paginate = 10
-paginatePath = "page"
+[pagination]
+pagerSize = 10
+path = "page"
 
 [permalinks]
 categories = "/categories/:title/"

@@ -4,7 +4,7 @@
   {{ .Content }}
   <div class="content teams">
     {{ $defaultAuthor := .Site.Params.ogImage | absURL }} {{ range
-    .Site.Data.teams }}
+    hugo.Data.teams }}
     <div class="item">
       {{ if .avatar }}
       <img src="{{ .avatar | absURL }}" alt="{{ .author }}" title="{{ .author }}" />
