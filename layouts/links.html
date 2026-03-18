@@ -1,90 +1,60 @@
 {{ define "main" }}
 <article class="article-main">
   {{ partial "h1.html" . }} {{ .Content }}
-  <div class="links-tabs">
-    <button class="links-tab active" data-tab="friends"><i class="fa fa-link"></i> 友链</button>
-    <button class="links-tab" data-tab="blogroll"><i class="fa fa-compass"></i> 导航</button>
-  </div>
-  <div class="links-tab-content active" id="tab-friends">
-    {{ with hugo.Data.recommended }}
-    <h2><i class="fa fa-star"></i> 推荐站点</h2>
-    <div class="content links">
-      {{ $defaultsite := $.Site.Params.ogImage | absURL }}
-      {{ range . }}
-      <div class="item">
-        {{ if .logo }}
-        <img src="{{ .logo | absURL }}" alt="{{ .site }}" title="{{ .site }}" />
-        {{ else }}
-        <img src="{{ $defaultsite }}" alt="{{ .site }}" title="{{ .site }}" />
-        {{ end }}
-        <section>
-          <p>
-            <a
-              href="{{ .url }}"
-              target="_blank"
-              rel="noopener external nofollow noreferrer"
-              ><strong>{{ .site }}</strong></a
-            >
-          </p>
-          {{ if .desc }}
-          <p>{{ .desc }}</p>
-          {{ end }}
-        </section>
-      </div>
-      {{ end }}
-    </div>
-    {{ end }}
-    <h2><i class="fa fa-link"></i> 友情链接</h2>
-    <div class="content links">
-      {{ $defaultsite := .Site.Params.ogImage | absURL }} {{ range
-      hugo.Data.links }}
-      <div class="item">
-        {{ if .logo }}
-        <img src="{{ .logo | absURL }}" alt="{{ .site }}" title="{{ .site }}" />
-        {{ else }}
-        <img src="{{ $defaultsite }}" alt="{{ .site }}" title="{{ .site }}" />
-        {{ end }}
-        <section>
-          <p>
-            {{ if .url }}
-            <a
-              href="{{ .url }}"
-              target="_blank"
-              rel="noopener external nofollow noreferrer"
-              ><strong>{{ .site }}</strong></a
-            >
-            {{ else }} {{ if .site }}
-            <strong>{{ .site }}</strong>
-            {{ else }}
-            <strong>null</strong>
-            {{ end }} {{ end }}
-          </p>
-          {{ if .desc }}
-          <p>{{ .desc }}</p>
-          {{ end }}
-        </section>
-      </div>
-      {{ end }}
-    </div>
-  </div>
-  <div class="links-tab-content" id="tab-blogroll">
+
+  {{ with hugo.Data.blogroll }}
+  <div class="links-section">
+    <h2><i class="fa fa-compass"></i> 推荐链接</h2>
     <ul class="blogroll-list">
-      {{ range hugo.Data.blogroll }}
+      {{ range . }}
       <li class="blogroll-item">
         <a href="{{ .url }}" target="_blank" rel="noopener external nofollow noreferrer">{{ .name }}</a>
       </li>
       {{ end }}
     </ul>
   </div>
+  {{ end }}
+
+  {{ with hugo.Data.recommended }}
+  <div class="links-section">
+    <h2><i class="fa fa-star"></i> 推荐站点</h2>
+    <div class="links-grid">
+      {{ $defaultsite := $.Site.Params.ogImage | absURL }}
+      {{ range . }}
+      <a class="link-card" href="{{ .url }}" target="_blank" rel="noopener external nofollow noreferrer">
+        {{ if .logo }}
+        <img src="{{ .logo | absURL }}" alt="{{ .site }}" loading="lazy" />
+        {{ else }}
+        <img src="{{ $defaultsite }}" alt="{{ .site }}" loading="lazy" />
+        {{ end }}
+        <div class="link-info">
+          <strong>{{ .site }}</strong>
+          {{ with .desc }}<span>{{ . }}</span>{{ end }}
+        </div>
+      </a>
+      {{ end }}
+    </div>
+  </div>
+  {{ end }}
+
+  <div class="links-section">
+    <h2><i class="fa fa-link"></i> 友情链接</h2>
+    <div class="links-grid">
+      {{ $defaultsite := .Site.Params.ogImage | absURL }}
+      {{ range hugo.Data.links }}
+      <a class="link-card" {{ if .url }}href="{{ .url }}" target="_blank" rel="noopener external nofollow noreferrer"{{ end }}>
+        {{ if .logo }}
+        <img src="{{ .logo | absURL }}" alt="{{ .site }}" loading="lazy" />
+        {{ else }}
+        <img src="{{ $defaultsite }}" alt="{{ .site }}" loading="lazy" />
+        {{ end }}
+        <div class="link-info">
+          <strong>{{ .site | default "null" }}</strong>
+          {{ with .desc }}<span>{{ . }}</span>{{ end }}
+        </div>
+      </a>
+      {{ end }}
+    </div>
+  </div>
 </article>
-<script>
-  document.querySelectorAll('.links-tab').forEach(function(tab) {
-    tab.addEventListener('click', function() {
-      document.querySelectorAll('.links-tab').forEach(function(t) { t.classList.remove('active'); });
-      document.querySelectorAll('.links-tab-content').forEach(function(c) { c.classList.remove('active'); });
-      tab.classList.add('active');
-      document.getElementById('tab-' + tab.dataset.tab).classList.add('active');
-    });
-  });
-</script>
 {{ end }}
