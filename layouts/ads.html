@@ -1,0 +1,26 @@
+{{ define "main" }}
+<article class="article-main">
+  {{ partial "h1.html" . }}
+  <div class="ads-disclaimer">
+    <i class="fa fa-triangle-exclamation"></i>
+    使用以下广告服务出现任何问题皆与站长责任无关；站长只是赚点佣金用于魔法补魔开销，请经过慎重考虑后再使用！如出现问题请找对应广告服务商的客服支持询问。
+  </div>
+  {{ .Content }}
+  <div class="content ads">
+    {{ $defaultsite := .Site.Params.ogImage | absURL }}
+    {{ range hugo.Data.ads }}
+    <a class="ad-card" href="{{ .url }}" target="_blank" rel="noopener external nofollow noreferrer">
+      {{ if .logo }}
+      <img src="{{ .logo }}" alt="{{ .name }}" loading="lazy" />
+      {{ else }}
+      <div class="ad-icon"><i class="fa fa-bolt"></i></div>
+      {{ end }}
+      <div class="ad-info">
+        <strong>{{ .name }}</strong>
+        {{ with .desc }}<span>{{ . }}</span>{{ end }}
+      </div>
+    </a>
+    {{ end }}
+  </div>
+</article>
+{{ end }}
