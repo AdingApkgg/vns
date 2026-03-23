@@ -25,18 +25,36 @@ body {
   color: var(--text-color);
 }
 
-html.is-changing .transition-fade {
-  transition:
-    opacity 0.3s ease-out,
-    transform 0.3s ease-out;
-  opacity: 1;
-  transform: translateY(0) scale(1);
-  will-change: opacity, transform;
+.swup-parallel {
+  display: grid;
+  overflow: hidden;
+  max-width: 1000px;
+  min-height: 100vh;
+  margin: 0 auto;
+  padding: 1em;
+  border-radius: 4px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  background-color: var(--bg-color);
+  color: var(--text-color);
+
+  > .transition-fade {
+    grid-area: 1 / 1;
+  }
 }
 
-html.is-animating .transition-fade {
+html.is-changing .transition-fade {
+  transition: transform 0.3s ease-out, opacity 0.3s ease-out;
+}
+
+.transition-fade.is-previous-container {
   opacity: 0;
-  transform: translateY(10px) scale(0.98);
+  transform: translateY(-30px);
+  pointer-events: none;
+}
+
+.transition-fade.is-next-container {
+  opacity: 0;
+  transform: translateY(30px);
 }
 
 /* Swup Progress Plugin 进度条样式 */
@@ -173,16 +191,6 @@ header {
 }
 
 main {
-  max-width: 1000px;
-  min-height: 100vh;
-  margin: 0 auto;
-  padding: 1em;
-  border-top: none;
-  border-bottom: none;
-  border-radius: 4px;
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-  background-color: var(--bg-color);
-  color: var(--text-color);
   h1 {
     font-size: 2em;
     sup {
