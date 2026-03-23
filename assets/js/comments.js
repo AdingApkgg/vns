@@ -22,7 +22,10 @@ function initCommentTabs() {
   var tabs = document.querySelectorAll(".comment-tab");
   if (!tabs.length) return;
 
-  artalkInstance = null;
+  if (artalkInstance) {
+    artalkInstance.destroy();
+    artalkInstance = null;
+  }
 
   tabs.forEach(function (tab) {
     if (tab._tabBound) return;
