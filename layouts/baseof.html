@@ -9,7 +9,10 @@
   {{ partial "loader.html" . }}
   {{ partial "ageVerification.html" . }}
   <noscript>请启用 JavaScript</noscript>
-  <main id="swup" class="transition-fade">{{ block "main" . }}{{ end }}</main>
+  <div class="swup-parallel">
+    <main id="swup" class="transition-fade">{{ block "main" . }}{{ end }}</main>
+  </div>
+  <div class="nav-overlay" id="navOverlay"></div>
   <header>{{ partial "header.html" . }}</header>
   <footer>{{ partial "footer.html" . }}</footer>
   {{ partial "scripts.html" . }}

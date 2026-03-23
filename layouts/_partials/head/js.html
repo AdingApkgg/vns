@@ -1,12 +1,19 @@
-{{- with resources.Get "js/main.js" }} {{- if eq hugo.Environment "development"
-}} {{- with . | js.Build }}
+{{- range $file := slice "js/main.js" "js/comments.js" }}
+{{- with resources.Get $file }}
+{{- if eq hugo.Environment "development" }}
+{{- with . | js.Build }}
 <script src="{{ .RelPermalink }}" fetchpriority="high"></script>
-{{- end }} {{- else }} {{- $opts := dict "minify" true }} {{- with . | js.Build
-$opts | fingerprint }}
+{{- end }}
+{{- else }}
+{{- $opts := dict "minify" true }}
+{{- with . | js.Build $opts | fingerprint }}
 <script
   src="{{ .RelPermalink }}"
   fetchpriority="high"
   integrity="{{- .Data.Integrity }}"
   crossorigin="anonymous"
 ></script>
-{{- end }} {{- end }} {{- end }}
+{{- end }}
+{{- end }}
+{{- end }}
+{{- end }}

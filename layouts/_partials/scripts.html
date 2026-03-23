@@ -3,7 +3,7 @@
     containers: ["#swup", "header", "footer"],
     linkSelector: "a[href]:not([data-no-swup])",
     plugins: [
-      new SwupParallelPlugin(),
+      new SwupParallelPlugin({ containers: ['#swup'] }),
       new SwupPreloadPlugin(),
       new SwupScrollPlugin(),
       new SwupA11yPlugin(),

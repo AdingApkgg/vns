@@ -22,7 +22,7 @@ pre = "fa fa-film"
 [[menus.main]]
 identifier = "multi-search"
 name = '聚搜'
-url = 'https://searchgal.top/'
+url = 'https://www.searchgal.top/'
 weight = 1
 pre = "fa fa-hexagon-nodes"
 
