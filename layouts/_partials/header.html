@@ -1,20 +1,38 @@
+{{ $page := . }}
 <nav>
-  <a href="{{ .Site.BaseURL }}"
-    ><img src="{{ .Site.Params.logo }}" alt="Logo" id="logo"
-  /></a>
-  <h2>{{ .Site.Title }}</h2>
-  <p>{{ .Site.Params.subtitle }}</p>
-  {{ range .Site.Menus.main }}
-  <a href="{{ .URL }}" id="item-{{ .Identifier }}"{{ if hasPrefix .URL "http" }} target="_blank" rel="noopener noreferrer"{{ end }}
-    ><i class="{{ .Pre }}"></i>&nbsp;{{ .Name }}</a
-  >
-  {{ end }} {{ with images.QR $.Permalink (dict "level" "low" "scale" 2
-  "targetDir" "img") }}
-  <img
-    src="{{ .RelPermalink }}"
-    alt="QR code linking to {{ $.Permalink }}"
-    class="qr-code"
-    onclick="window.open('{{ .RelPermalink }}', '_blank')"
-  />
+  {{ with images.QR $.Permalink (dict "level" "low" "scale" 2 "targetDir" "img") }}
+  <div class="nav-qr">
+    <img
+      src="{{ .RelPermalink }}"
+      alt="QR code linking to {{ $.Permalink }}"
+      class="qr-code"
+      onclick="window.open('{{ .RelPermalink }}', '_blank')"
+    />
+  </div>
   {{ end }}
+  <div class="nav-brand">
+    <h2><a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a></h2>
+    <p>{{ .Site.Params.subtitle }}</p>
+  </div>
+  <div class="nav-links">
+    {{ $groups := slice
+      (slice "home" "search" "guide" "random")
+      (slice "platforms" "tags" "rank" "dls" "docs")
+      (slice "comments" "post" "live" "multi-search")
+    }}
+    {{ range $gi, $group := $groups }}
+    {{ if $gi }}<hr class="nav-divider" />{{ end }}
+    {{ range $group }}
+      {{ $id := . }}
+      {{ range $page.Site.Menus.main }}
+        {{ if eq .Identifier $id }}
+    <a href="{{ .URL }}" id="item-{{ .Identifier }}"
+      {{- if or ($page.IsMenuCurrent "main" .) ($page.HasMenuCurrent "main" .) }} class="active"{{ end }}
+      {{- if hasPrefix .URL "http" }} target="_blank" rel="noopener noreferrer"{{ end }}
+    ><i class="{{ .Pre }}"></i>&nbsp;{{ .Name }}</a>
+        {{ end }}
+      {{ end }}
+    {{ end }}
+    {{ end }}
+  </div>
 </nav>

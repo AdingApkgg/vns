@@ -1,7 +1,14 @@
-{{ if .Site.Params.comments.enabled }} {{- if and .Site.Params.comments.enabled
-(eq .Site.Params.comments.provider "valine") -}} {{ $valine :=
-.Site.Params.comments.valine }}
+{{ if .Site.Params.comments.enabled }}
 <div class="comments">
-  <div id="vcomments" class="comment"></div>
+  <div class="comment-tabs">
+    <button class="comment-tab active" data-tab="valine"><i class="fa fa-comment-dots"></i> Valine</button>
+    <button class="comment-tab" data-tab="artalk"><i class="fa fa-comments"></i> Artalk</button>
+  </div>
+  <div class="comment-panel active" id="panel-valine">
+    <div id="vcomments" class="comment"></div>
+  </div>
+  <div class="comment-panel" id="panel-artalk">
+    <div id="artalk-comments"></div>
+  </div>
 </div>
-{{- end -}} {{ end }}
+{{ end }}

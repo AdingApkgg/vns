@@ -9,6 +9,7 @@ function initializePage() {
     initMediumZoom();
     rv();
     initValine();
+    if (window.initCommentTabs) window.initCommentTabs();
     initSearch();
     shortcutKey();
     langCode();
@@ -273,6 +274,7 @@ const SwupHooks = {
 
     // 页面内容替换后执行
     swup.hooks.on("content:replace", () => {
+      Navigation.close();
       bszRe();
       PageLoader.end();
     });
@@ -395,23 +397,22 @@ function bszRe() {
 const Navigation = {
   header: null,
   menuToggle: null,
-  fixedThreshold: 200,
+  overlay: null,
   isOpen: false,
-  _scrollInitialized: false,
+  _initialized: false,
 
   init() {
     var newMenuToggle = document.getElementById("menuToggle");
     if (!newMenuToggle) return;
 
-    // 从 data-target 获取目标元素，默认为 header
     var targetSelector = newMenuToggle.dataset.target || "header";
     var newHeader = document.querySelector(targetSelector);
     if (!newHeader) return;
 
     this.menuToggle = newMenuToggle;
     this.header = newHeader;
+    this.overlay = document.getElementById("navOverlay");
 
-    // 使用 data 属性标记是否已绑定事件，避免重复绑定
     if (!this.menuToggle._navBound) {
       var self = this;
       this.menuToggle.addEventListener("click", function () {
@@ -420,42 +421,35 @@ const Navigation = {
       this.menuToggle._navBound = true;
     }
 
-    // scroll 和 keydown 事件只需要绑定一次
-    if (!this._scrollInitialized) {
+    if (this.overlay && !this.overlay._navBound) {
       var self = this;
-      window.addEventListener(
-        "scroll",
-        function () {
-          self.handleScroll();
-        },
-        { passive: true },
-      );
+      this.overlay.addEventListener("click", function () {
+        self.close();
+      });
+      this.overlay._navBound = true;
+    }
 
-      // ESC 键关闭菜单
+    if (!this._initialized) {
+      var self = this;
       document.addEventListener("keydown", function (e) {
         if (e.key === "Escape" && self.isOpen) self.close();
       });
-
-      this._scrollInitialized = true;
+      this._initialized = true;
     }
   },
 
   toggle() {
     this.isOpen = !this.isOpen;
     this.header.classList.toggle("active", this.isOpen);
+    if (this.overlay) this.overlay.classList.toggle("active", this.isOpen);
     this.menuToggle.setAttribute("aria-expanded", this.isOpen);
   },
 
   close() {
     this.isOpen = false;
     this.header.classList.remove("active");
+    if (this.overlay) this.overlay.classList.remove("active");
     this.menuToggle.setAttribute("aria-expanded", "false");
-  },
-
-  handleScroll() {
-    if (!this.header) return;
-    var isFixed = window.scrollY > this.fixedThreshold;
-    this.header.classList.toggle("fixed", isFixed);
   },
 };
 
