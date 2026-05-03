@@ -25,7 +25,7 @@ jobs:
     runs-on: ubuntu-latest
     env:
       DART_SASS_VERSION: 1.99.0
-      HUGO_VERSION: 0.160.0
+      HUGO_VERSION: 0.161.1
       HUGO_ENVIRONMENT: production
       TZ: America/Los_Angeles
     steps:
@@ -40,7 +40,7 @@ jobs:
           mv ${{ runner.temp }}/dart-sass/ /usr/local/bin
           echo "/usr/local/bin/dart-sass" >> $GITHUB_PATH
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
         with:
           submodules: recursive
           fetch-depth: 0
@@ -48,7 +48,7 @@ jobs:
         run: "[[ -f package-lock.json || -f npm-shrinkwrap.json ]] && npm ci || true"
       - name: Cache Restore
         id: cache-restore
-        uses: actions/cache/restore@v4
+        uses: actions/cache/restore@v5
         with:
           path: |
             ${{ runner.temp }}/hugo_cache
@@ -64,7 +64,7 @@ jobs:
             --cacheDir "${{ runner.temp }}/hugo_cache"
       - name: Cache Save
         id: cache-save
-        uses: actions/cache/save@v4
+        uses: actions/cache/save@v5
         with:
           path: |
             ${{ runner.temp }}/hugo_cache
@@ -73,7 +73,7 @@ jobs:
         run: |
           npm install -g pagefind && pagefind
       - name: Upload public directory as artifact
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v6
         with:
           name: hugo-site-public
           path: ./public
@@ -86,13 +86,13 @@ jobs:
     needs: build
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
         with:
           submodules: recursive
           fetch-depth: 0
 
       - name: Download public directory artifact
-        uses: actions/download-artifact@v4
+        uses: actions/download-artifact@v7
         with:
           name: hugo-site-public
           path: ./public
