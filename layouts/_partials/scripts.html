@@ -15,38 +15,6 @@
       new SwupBodyClassPlugin(),
     ],
   });
-
-  if ('serviceWorker' in navigator) {
-    window.addEventListener('load', async function () {
-      try {
-        var reg = await navigator.serviceWorker.register('/sw.js');
-        setInterval(function () { reg.update(); }, 3600000);
-
-        reg.addEventListener('updatefound', function () {
-          var newWorker = reg.installing;
-          if (!newWorker) return;
-          newWorker.addEventListener('statechange', function () {
-            if (newWorker.state === 'installed' && navigator.serviceWorker.controller) {
-              newWorker.postMessage({ type: 'SKIP_WAITING' });
-            }
-          });
-        });
-
-        var refreshing = false;
-        navigator.serviceWorker.addEventListener('controllerchange', function () {
-          if (refreshing) return;
-          refreshing = true;
-          window.location.reload();
-        });
-      } catch (e) {
-        console.error('SW registration failed:', e);
-      }
-    });
-
-    swup.hooks.on('page:view', function () {
-      navigator.serviceWorker.getRegistration().then(function (r) { if (r) r.update(); });
-    });
-  }
 </script>
 <script src="https://registry.npmmirror.com/medium-zoom/latest/files/dist/medium-zoom.min.js"></script>
 {{ partialCached "head/js.html" . }}
