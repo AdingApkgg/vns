@@ -27,6 +27,7 @@ body {
 
 .swup-parallel {
   display: grid;
+  grid-template-columns: minmax(0, 1fr);
   overflow: hidden;
   max-width: 1000px;
   min-height: 100vh;
@@ -39,6 +40,7 @@ body {
 
   > .transition-fade {
     grid-area: 1 / 1;
+    min-width: 0;
   }
 }
 
@@ -68,7 +70,7 @@ html.is-changing .transition-fade {
   z-index: 9999;
 }
 
-header {
+body > header {
   position: fixed;
   width: 148px;
   height: 100%;
@@ -988,7 +990,7 @@ pre:hover .copy-btn {
     padding: 20px;
   }
 
-  header {
+  body > header {
     width: min(280px, 80vw);
     height: 100%;
     top: 0;

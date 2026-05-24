@@ -1,4 +1,9 @@
 ---
+cover: "https://static.30hb.cn/vndb/img/bimanharu.webp"
+description: |-
+  《致曾经是少女的你》（かつて少女だった君へ）是系列的外传，PC正式版于2014年2月28日发行。这部作品讲述了温泉旅馆的侍者小姐稻森春跟其恋人上条草太的故事。
+years:
+  - "2014"
 title: >-
   美少女万华镜 -献给曾经是少女的你-／美少女万華鏡 -かつて少女だった君へ-／Beauty Kaleidoscope 2.5: The Girl You
   Were Once／美少女万華鏡２．５／美少女萬華鏡 2.5／美少女万拔镜／撸出血万华镜／美少女万花筒／Biman 2.5 献给曾是少女的你 外传
@@ -11,7 +16,6 @@ tags:
   - 纯爱
   - 年上
   - 实用
-  - 2014
 categories:
   - Windows
   - ONS
@@ -19,13 +23,6 @@ categories:
 date: 2024-06-08 19:00:00
 lastmod: 2024-06-08 19:00:00
 ---
-
-![bimanharu](https://static.30hb.cn/vndb/img/bimanharu.webp)
-
-《致曾经是少女的你》（かつて少女だった君へ）是系列的外传，PC正式版于2014年2月28日发行。这部作品讲述了温泉旅馆的侍者小姐稻森春跟其恋人上条草太的故事。
-
-<!--more-->
-
 ## 故事
 
 深山里，孤零零地坐落着一家富有乡土气息的温泉旅馆。

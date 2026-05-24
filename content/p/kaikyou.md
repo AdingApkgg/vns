@@ -1,4 +1,9 @@
 ---
+cover: "https://static.30hb.cn/vndb/img/kaikyou.webp"
+description: |-
+  《女装海峡》是日本游戏公司[脑内彼女](https://zh.moegirl.org.cn/脑内彼女)制作并于2013年05月31日发售的成人向纯爱（Yoooo）AVG（文字冒险）游戏。脑内彼女“女装”系列第二部，同前作一样，依旧讲述与[可爱的男孩子](https://zh.moegirl.org.cn/伪娘)们的恋爱与生活。
+years:
+  - "2013"
 title: 女装海峡
 slug: 37443
 tags:
@@ -9,20 +14,12 @@ tags:
   - 女装
   - 巫女
   - 冒险
-  - 2013
 categories:
   - Windows
   - ONS
 date: 2024-04-30 00:09:00
 lastmod: 2024-04-30 00:09:00
 ---
-
-![kaikyou](https://static.30hb.cn/vndb/img/kaikyou.webp)
-
-《女装海峡》是日本游戏公司[脑内彼女](https://zh.moegirl.org.cn/脑内彼女)制作并于2013年05月31日发售的成人向纯爱（Yoooo）AVG（文字冒险）游戏。脑内彼女“女装”系列第二部，同前作一样，依旧讲述与[可爱的男孩子](https://zh.moegirl.org.cn/伪娘)们的恋爱与生活。
-
-<!--more-->
-
 ## 故事
 
 浮现在津岛海峡上的神秘[岛屿](https://zh.moegirl.org.cn/岛屿)，其名，隐津岛。

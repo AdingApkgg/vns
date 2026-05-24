@@ -1,4 +1,9 @@
 ---
+cover: "https://static.30hb.cn/vndb/img/amakano-ss-plus.webp"
+description: |-
+  《**甜蜜女友**》（日语：アマカノ）是[NEXTON](https://zh.wikipedia.org/wiki/NEXTON)公司的旗下品牌あざらしそふと制作，于2014年12月19日发售的[恋爱冒险](https://zh.wikipedia.org/wiki/戀愛冒險)类型[成人游戏](https://zh.wikipedia.org/wiki/日本成人遊戲)，2022年11月24日发售[任天堂Switch](https://zh.wikipedia.org/wiki/任天堂Switch)版。2016年10月28日发售完整版，12月22日发售扩充版《甜蜜女友＋》（アマカノ＋）。后来改编成OVA由mary jan发售共四集。
+years:
+  - "2017"
 title: 甜蜜女友SS PLUS／アマカノ～Second Season～+／Amakano ~Second Season~+
 slug: 34356
 tags:
@@ -10,19 +15,11 @@ tags:
   - 黑丝
   - 妊娠
   - 足交
-  - 2017
 categories:
   - Windows
 date: 2024-09-04 09:18:00
 lastmod: 2024-09-04 09:18:00
 ---
-
-![amakano-ss-plus](https://static.30hb.cn/vndb/img/amakano-ss-plus.webp)
-
-《**甜蜜女友**》（日语：アマカノ）是[NEXTON](https://zh.wikipedia.org/wiki/NEXTON)公司的旗下品牌あざらしそふと制作，于2014年12月19日发售的[恋爱冒险](https://zh.wikipedia.org/wiki/戀愛冒險)类型[成人游戏](https://zh.wikipedia.org/wiki/日本成人遊戲)，2022年11月24日发售[任天堂Switch](https://zh.wikipedia.org/wiki/任天堂Switch)版。2016年10月28日发售完整版，12月22日发售扩充版《甜蜜女友＋》（アマカノ＋）。后来改编成OVA由mary jan发售共四集。
-
-<!--more-->
-
 ## 故事
 
 与你一起度过甜蜜耀眼的“+”日子！

@@ -1,4 +1,10 @@
 ---
+cover: "https://static.30hb.cn/vndb/img/kokoro.webp"
+description: |-
+  《和怪物谈恋爱吧》（クリーチャーと恋しよっ！），由同人游戏社团 nostalgia 所开发的面向纯爱系玩家游戏。
+years:
+  - "2012"
+  - "2013"
 title: 和怪物恋爱吧／クリーチャーと恋しよっ! -ここのえこころ-／和怪物谈恋爱吧！／九重心／人虫之恋／Kokoro
 slug: 44571
 tags:
@@ -10,8 +16,6 @@ tags:
   - 同人
   - 幼驯染
   - 治愈
-  - 2012
-  - 2013
 categories:
   - Windows
   - ONS
@@ -19,13 +23,6 @@ author: Kirishima
 date: 2024-09-15 21:20:00
 lastmod: 2024-09-15 21:20:00
 ---
-
-![kokoro](https://static.30hb.cn/vndb/img/kokoro.webp)
-
-《和怪物谈恋爱吧》（クリーチャーと恋しよっ！），由同人游戏社团 nostalgia 所开发的面向纯爱系玩家游戏。
-
-<!--more-->
-
 ## 故事
 
 ——真心喜欢上一个人

@@ -1,4 +1,12 @@
 ---
+cover: "https://static.30hb.cn/vndb/img/lostsmile.webp"
+description: |-
+  《**LOST:SMILE memories+promises**》（日语：**ロストスマイル　メモリーズ+プロミセス**）是由**[LIFE0](https://zh.moegirl.org.cn/LIFE0)**制作的一款ADV游戏。
+  前篇《**LOST:SMILE memories**》（**ロストスマイル　メモリーズ**）于2019年08月08日发售，讲述的是东云美铃、与那岭纯和一条巡的故事。
+  后篇《**LOST:SMILE promises**》（**ロストスマイル　プロミセス**）于2020年03月27日发售，讲述的是真咲凑、美优以及结李的故事。
+years:
+  - "2019"
+  - "2020"
 title: 'LOST:SMILE memories + promises／ロストスマイル メモリーズ + プロミセス／ロッスマ／Rossuma'
 slug: 46515
 tags:
@@ -7,22 +15,11 @@ tags:
   - 欢乐
   - 同人
   - 日常
-  - 2019
-  - 2020
 categories:
   - Windows
 date: 2024-11-03 00:40:30
 lastmod: 2024-11-03 00:40:30
 ---
-
-![lostsmile](https://static.30hb.cn/vndb/img/lostsmile.webp)
-
-《**LOST:SMILE memories+promises**》（日语：**ロストスマイル　メモリーズ+プロミセス**）是由**[LIFE0](https://zh.moegirl.org.cn/LIFE0)**制作的一款ADV游戏。
-前篇《**LOST:SMILE memories**》（**ロストスマイル　メモリーズ**）于2019年08月08日发售，讲述的是东云美铃、与那岭纯和一条巡的故事。
-后篇《**LOST:SMILE promises**》（**ロストスマイル　プロミセス**）于2020年03月27日发售，讲述的是真咲凑、美优以及结李的故事。
-
-<!--more-->
-
 ![lostsmile_p1](https://static.30hb.cn/vndb/img/lostsmile_p1.webp)
 
 ![lostsmile_p2](https://static.30hb.cn/vndb/img/lostsmile_p2.webp)

@@ -1,4 +1,9 @@
 ---
+cover: "https://static.30hb.cn/vndb/img/ten-sz.webp"
+description: |-
+  《**天使☆嚣嚣 RE-BOOT!**》（日语：**天使（てんし）☆騒々（そうぞう） RE-BOOT!**、英语：**Tenshi Souzou "Angelic Chaos" RE-BOOT!**）是由[YUZU SOFT](https://zh.moegirl.org.cn/YUZU_SOFT)制作的[Galgame](https://zh.moegirl.org.cn/Galgame)，于2023年4月28日发售。本作国际版曾计划于2024年1月发行，但因审核时受不可抗力因素，发行延期。
+years:
+  - "2023"
 title: 天使纷扰／天使☆嚣嚣 RE-BOOT!／天使☆騒々 RE-BOOT!
 slug: 27018
 tags:
@@ -10,20 +15,12 @@ tags:
   - 喜剧
   - 天使
   - 废萌
-  - 2023
 categories:
   - Windows
   - KRKR
 date: 2024-01-30 22:00:00
 lastmod: 2024-07-17 07:19:30
 ---
-
-![ten-sz](https://static.30hb.cn/vndb/img/ten-sz.webp)
-
-《**天使☆嚣嚣 RE-BOOT!**》（日语：**天使（てんし）☆騒々（そうぞう） RE-BOOT!**、英语：**Tenshi Souzou "Angelic Chaos" RE-BOOT!**）是由[YUZU SOFT](https://zh.moegirl.org.cn/YUZU_SOFT)制作的[Galgame](https://zh.moegirl.org.cn/Galgame)，于2023年4月28日发售。本作国际版曾计划于2024年1月发行，但因审核时受不可抗力因素，发行延期。
-
-<!--more-->
-
 ## 剧情简介
 
 该起床起床，该上学上学，该上课上课——

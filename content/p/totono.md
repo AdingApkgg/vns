@@ -1,26 +1,23 @@
 ---
+cover: "https://static.30hb.cn/vndb/img/totono.webp"
+description: |-
+  **《你和她和她的恋爱。》**（日语：**君と彼女と彼女の恋。**，英语：**YOU and ME and HER: A Love Story**，简称**ととの** ***Totono***）是由[Nitro+](https://zh.moegirl.org.cn/Nitro%2B)制作的一部18禁恋爱冒险游戏，于2013年6月28日发布初回限定版；英文版于2020年5月5日由 JAST USA 代理在日本以外地区发售，于2020年5月26日在[Steam](https://zh.moegirl.org.cn/Steam)平台上架，2021年11月11日Steam上更新了官方中文版。作品以打破[第四面墙](https://zh.moegirl.org.cn/第四面墙)的剧情闻名，被Galgame玩家列为“[十二神器](https://zh.moegirl.org.cn/Galgame吧十二神器)”之一，有着“次元囚笼”的称号。
+years:
+  - "2013"
+  - "2020"
+  - "2021"
 title: 你和她和她的恋爱。／君与彼女与彼女之恋／君と彼女と彼女の恋。／君彼／ととの／Totono
 slug: 1107
 tags:
   - Nitro+／NITRO PLUS／ニトロプラス／n+／氮正
   - 校园
   - 十二神器
-  - 2013
-  - 2020
-  - 2021
 categories:
   - Windows
   - Android
 date: 2024-03-17 05:30:00
 lastmod: 2024-03-17 05:30:00
 ---
-
-![totono](https://static.30hb.cn/vndb/img/totono.webp)
-
-**《你和她和她的恋爱。》**（日语：**君と彼女と彼女の恋。**，英语：**YOU and ME and HER: A Love Story**，简称**ととの** ***Totono***）是由[Nitro+](https://zh.moegirl.org.cn/Nitro%2B)制作的一部18禁恋爱冒险游戏，于2013年6月28日发布初回限定版；英文版于2020年5月5日由 JAST USA 代理在日本以外地区发售，于2020年5月26日在[Steam](https://zh.moegirl.org.cn/Steam)平台上架，2021年11月11日Steam上更新了官方中文版。作品以打破[第四面墙](https://zh.moegirl.org.cn/第四面墙)的剧情闻名，被Galgame玩家列为“[十二神器](https://zh.moegirl.org.cn/Galgame吧十二神器)”之一，有着“次元囚笼”的称号。
-
-<!--more-->
-
 ## 剧情简介
 
 就像背景一般毫无个性的男主角须须木心一和学校人气偶像的[曾根美雪](https://zh.moegirl.org.cn/曾根美雪)虽然是[青梅竹马](https://zh.moegirl.org.cn/青梅竹马)，但因为不想引人注目以及成长隔阂的因素，基本上不与她来往，就这样作为普通同学度过平凡的每一天。

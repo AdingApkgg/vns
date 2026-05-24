@@ -1,4 +1,10 @@
 ---
+cover: "https://static.30hb.cn/vndb/img/riddle.webp"
+description: |-
+  《**RIDDLE JOKER**》是由[柚子社](https://zh.moegirl.org.cn/柚子社)制作的第十部[Galgame](https://zh.moegirl.org.cn/Galgame)，于2018年3月30日发售，Steam版于2020年12月18日发售。
+years:
+  - "2018"
+  - "2020"
 title: RIDDLE JOKER／リドルジョーカー／密命王牌
 slug: 63577
 tags:
@@ -7,21 +13,12 @@ tags:
   - 校园
   - 超能力
   - 纯爱
-  - 2018
-  - 2020
 categories:
   - Windows
   - KRKR
 date: 2024-01-30 22:00:00
 lastmod: 2024-07-22 02:05:00
 ---
-
-![riddle](https://static.30hb.cn/vndb/img/riddle.webp)
-
-《**RIDDLE JOKER**》是由[柚子社](https://zh.moegirl.org.cn/柚子社)制作的第十部[Galgame](https://zh.moegirl.org.cn/Galgame)，于2018年3月30日发售，Steam版于2020年12月18日发售。
-
-<!--more-->
-
 ## 剧情简介
 
 本作是[柚子社](https://zh.moegirl.org.cn/柚子社)第十作，以超能力为主题。角色设计、原画，依然是由当家绘师[小舞一](https://zh.moegirl.org.cn/小舞一)和[梦璃凛](https://zh.moegirl.org.cn/梦璃凛)所担任。

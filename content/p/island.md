@@ -1,4 +1,16 @@
 ---
+cover: "https://static.30hb.cn/vndb/img/island.webp"
+description: |-
+  《**ISLAND**》是由[Frontwing](https://zh.moegirl.org.cn/Frontwing)制作的一部游戏，并有动画等衍生作品。
+
+  [游戏](https://zh.moegirl.org.cn/游戏)的相关消息在《[电击G's magazine](https://zh.moegirl.org.cn/电击G's_magazine)》2015年12月号上公布，于2016年4月28日登陆PC平台，2017年2月23日登陆PSV平台，2018年6月28日登陆PS4平台，2018年8月24日登陆[Steam](https://zh.moegirl.org.cn/Steam)。
+
+  2018年7月TV动画化，同年~~6月29日~~[跳票](https://zh.moegirl.org.cn/跳票)至7月27日，发售了原作游戏的动画化纪念版。
+years:
+  - "2016"
+  - "2017"
+  - "2018"
+  - "2021"
 title: ISLAND／アイランド
 slug: 38317
 tags:
@@ -13,26 +25,11 @@ tags:
   - 催泪
   - 穿越
   - 萝莉
-  - 2016
-  - 2017
-  - 2018
-  - 2021
 categories:
   - Windows
 date: 2024-05-25 03:14:00
 lastmod: 2024-05-25 03:14:00
 ---
-
-![island](https://static.30hb.cn/vndb/img/island.webp)
-
-《**ISLAND**》是由[Frontwing](https://zh.moegirl.org.cn/Frontwing)制作的一部游戏，并有动画等衍生作品。
-
-[游戏](https://zh.moegirl.org.cn/游戏)的相关消息在《[电击G's magazine](https://zh.moegirl.org.cn/电击G's_magazine)》2015年12月号上公布，于2016年4月28日登陆PC平台，2017年2月23日登陆PSV平台，2018年6月28日登陆PS4平台，2018年8月24日登陆[Steam](https://zh.moegirl.org.cn/Steam)。
-
-2018年7月TV动画化，同年~~6月29日~~[跳票](https://zh.moegirl.org.cn/跳票)至7月27日，发售了原作游戏的动画化纪念版。
-
-<!--more-->
-
 ## 简介
 
 远离本土的“浦岛”。

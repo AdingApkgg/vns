@@ -1,4 +1,9 @@
 ---
+cover: "https://static.30hb.cn/vndb/img/muvluv.webp"
+description: |-
+  **《Muv-Luv（マブラヴ）》**是由âge开发的一部[美少女游戏](https://zh.moegirl.org.cn/美少女游戏)，是[Muv-Luv系列](https://zh.moegirl.org.cn/Muv-Luv系列)的第一部作品。并有漫画、轻小说衍生作品。
+years:
+  - "2003"
 title: マブラヴ／Muv-Luv
 slug: 1361
 tags:
@@ -11,19 +16,11 @@ tags:
   - 纯爱
   - 恋爱
   - 幼驯染
-  - 2003
 categories:
   - Windows
 date: 2024-05-02 18:05:00
 lastmod: 2024-05-02 18:05:00
 ---
-
-![muvluv](https://static.30hb.cn/vndb/img/muvluv.webp)
-
-**《Muv-Luv（マブラヴ）》**是由âge开发的一部[美少女游戏](https://zh.moegirl.org.cn/美少女游戏)，是[Muv-Luv系列](https://zh.moegirl.org.cn/Muv-Luv系列)的第一部作品。并有漫画、轻小说衍生作品。
-
-<!--more-->
-
 游戏分为两个部分，分别为Extra篇和Unlimited篇，发生在两个平行宇宙。Extra篇与现实生活的宇宙没有什么差别，而Unlimited篇则是一个地球遭到外星侵略的宇宙。
 
 Extra篇共有8个结局，分别对应[鉴纯夏](https://zh.moegirl.org.cn/鉴纯夏)、[御剑冥夜](https://zh.moegirl.org.cn/御剑冥夜)、[榊千鹤](https://zh.moegirl.org.cn/index.php?title=榊千鹤&action=edit&redlink=1)、[彩峰慧](https://zh.moegirl.org.cn/index.php?title=彩峰慧&action=edit&redlink=1)、[珠濑壬姬](https://zh.moegirl.org.cn/index.php?title=珠濑壬姬&action=edit&redlink=1)五个女主角每人一个攻略成功的[Happy End](https://zh.moegirl.org.cn/Happy_End)，2个没能攻略任何妹子的日常End，还有一个被[神宫司麻理茉](https://zh.moegirl.org.cn/神宫司麻理茉)老师推倒的End主角可能被榨死了

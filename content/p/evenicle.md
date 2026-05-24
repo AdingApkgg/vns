@@ -1,4 +1,10 @@
 ---
+cover: "https://static.30hb.cn/vndb/img/evenicle.webp"
+description: |-
+  《**夏娃年代记**》（日语：**イブニクル**）是[AliceSoft](https://zh.moegirl.org.cn/AliceSoft)在2015年4月24日所发售的恋爱冒险[RPG](https://zh.moegirl.org.cn/角色扮演类游戏)类型18禁游戏，获得2015年[萌系游戏大赏](https://zh.moegirl.org.cn/萌系游戏大赏)金赏。
+years:
+  - "2015"
+  - "2019"
 title: 夏娃年代记／イブニクル／Evenicle／主人公是兰斯的话… If Disk 兰斯版 兰斯年代记 Rance 1 2 外典
 slug: 26677
 tags:
@@ -14,20 +20,11 @@ tags:
   - FD
   - 冒险
   - 欢乐
-  - 2015
-  - 2019
 categories:
   - Windows
 date: 2024-10-22 00:47:10
 lastmod: 2024-10-22 00:47:10
 ---
-
-![evenicle](https://static.30hb.cn/vndb/img/evenicle.webp)
-
-《**夏娃年代记**》（日语：**イブニクル**）是[AliceSoft](https://zh.moegirl.org.cn/AliceSoft)在2015年4月24日所发售的恋爱冒险[RPG](https://zh.moegirl.org.cn/角色扮演类游戏)类型18禁游戏，获得2015年[萌系游戏大赏](https://zh.moegirl.org.cn/萌系游戏大赏)金赏。
-
-<!--more-->
-
 讲述以大陆事记《夏娃年代记》为主轴，记载的圣母「夏娃」所创造的世界里，一位名为「[阿斯塔利斯克](https://zh.moegirl.org.cn/阿斯塔利斯克)」的少年成为骑士的冒险故事。
 
 ![evenicle_p1](https://static.30hb.cn/vndb/img/evenicle_p1.webp)

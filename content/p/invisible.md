@@ -1,4 +1,9 @@
 ---
+cover: "https://static.30hb.cn/vndb/img/invisible.webp"
+description: |-
+  《**我的身体，变透明了！？不可视之药与坎坷的命运**》（日语：**俺の姿が、透明に！？不可視の薬と数奇な運命**）是由[HULOTTE](https://zh.moegirl.org.cn/HULOTTE)于2020年3月27日制作发行的一款以“变成透明人”为卖点的恋爱ADV。
+years:
+  - "2020"
 title: 不可视之药与坎坷的命运／俺の姿が、透明に!? 不可視の薬と数奇な運命／俺不可視／orefukashi／Orefuka／透明药
 slug: 42709
 tags:
@@ -10,7 +15,6 @@ tags:
   - 后宫
   - 萌
   - 校园
-  - 2020
 categories:
   - Windows
   - KRKR
@@ -18,13 +22,6 @@ author: Dimly
 date: 2025-07-18T22:04:30+08:00
 lastmod: 2025-07-21T03:20:00+08:00
 ---
-
-![invisible](https://static.30hb.cn/vndb/img/invisible.webp)
-
-《**我的身体，变透明了！？不可视之药与坎坷的命运**》（日语：**俺の姿が、透明に！？不可視の薬と数奇な運命**）是由[HULOTTE](https://zh.moegirl.org.cn/HULOTTE)于2020年3月27日制作发行的一款以“变成透明人”为卖点的恋爱ADV。
-
-<!--more-->
-
 ![invisible_p1](https://static.30hb.cn/vndb/img/invisible_p1.webp)
 
 ![invisible_p2](https://static.30hb.cn/vndb/img/invisible_p2.webp)

@@ -1,4 +1,9 @@
 ---
+cover: "https://static.30hb.cn/vndb/img/atropos.webp"
+description: |-
+  《**5分钟的邂逅！时间停止与不可避免的命运**》（日语：**出会って5分は俺のもの！時間停止と不可避な運命**）是由[HULOTTE](https://zh.moegirl.org.cn/HULOTTE)制作的一部Galgame。
+years:
+  - "2018"
 title: >-
   5分钟的邂逅！时间停止与不可避免的命运／相见5分属于我！ 时间停止和不可避的命运／出会って5分は俺のもの！
   時間停止と不可避な運命／アトロポス／orefukahi／俺不可避／The inevitable destiny opened by an Atropos
@@ -16,7 +21,6 @@ tags:
   - 萌
   - 校园
   - 白毛
-  - 2018
 categories:
   - Windows
   - KRKR
@@ -25,13 +29,6 @@ author: Dimly
 date: 2025-07-18T20:12:30+08:00
 lastmod: 2025-07-21T03:19:40+08:00
 ---
-
-![atropos](https://static.30hb.cn/vndb/img/atropos.webp)
-
-《**5分钟的邂逅！时间停止与不可避免的命运**》（日语：**出会って5分は俺のもの！時間停止と不可避な運命**）是由[HULOTTE](https://zh.moegirl.org.cn/HULOTTE)制作的一部Galgame。
-
-<!--more-->
-
 ![atropos_p1](https://static.30hb.cn/vndb/img/atropos_p1.webp)
 
 ![atropos_p2](https://static.30hb.cn/vndb/img/atropos_p2.webp)

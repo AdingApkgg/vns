@@ -1,4 +1,13 @@
 ---
+cover: "https://static.30hb.cn/vndb/img/koikari.webp"
+description: |-
+  《**恋爱，我借走了**》（日语：**恋愛、借りちゃいました**）是由[ASa Project](https://zh.moegirl.org.cn/ASa_Project)制作发行的一款[Galgame](https://zh.moegirl.org.cn/Galgame)，于2019年7月26日发售。
+
+  于2019年11月29日和2020年1月31日分别发售了[FD](https://zh.moegirl.org.cn/Fan_Disc)《恋爱，我借走了 椿&千夏&子夏小故事》和《恋爱，我借走了 绘未&八纯小故事》。
+
+  2021年7月21日由Entergram代理发行PS4和NS的移植版本。
+years:
+  - "2019"
 title: >-
   恋爱，我就借走了／恋爱？我就借走了哦！／恋愛、借りちゃいました／椿＆ちなつ＆こなつ／絵未＆八純／想谈个恋爱吗？那就给钱吧！／Koikari - Love
   For Hire／借恋 恋借 本篇 FD 1 2 椿&千夏&小夏 绘未&八纯 迷你小剧场 ミニアフターストーリー Mini After Story
@@ -14,7 +23,6 @@ tags:
   - 萌
   - 无修正
   - 双飞
-  - 2019
 categories:
   - Windows
   - KRKR
@@ -23,17 +31,6 @@ author: molin
 date: 2025-03-02 20:15:22
 lastmod: 2025-03-22 23:00:00
 ---
-
-![koikari](https://static.30hb.cn/vndb/img/koikari.webp)
-
-《**恋爱，我借走了**》（日语：**恋愛、借りちゃいました**）是由[ASa Project](https://zh.moegirl.org.cn/ASa_Project)制作发行的一款[Galgame](https://zh.moegirl.org.cn/Galgame)，于2019年7月26日发售。
-
-于2019年11月29日和2020年1月31日分别发售了[FD](https://zh.moegirl.org.cn/Fan_Disc)《恋爱，我借走了 椿&千夏&子夏小故事》和《恋爱，我借走了 绘未&八纯小故事》。
-
-2021年7月21日由Entergram代理发行PS4和NS的移植版本。
-
-<!--more-->
-
 ![koikari_p1](https://static.30hb.cn/vndb/img/koikari_p1.webp)
 
 ![koikari_p2](https://static.30hb.cn/vndb/img/koikari_p2.webp)

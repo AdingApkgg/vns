@@ -1,4 +1,10 @@
 ---
+cover: "https://static.30hb.cn/vndb/img/tsukihime-remake.webp"
+description: |-
+  《**月姬 -A piece of blue glass moon-**》是[TYPE-MOON](https://zh.moegirl.org.cn/TYPE-MOON)开发的一款视觉小说游戏。
+years:
+  - "2021"
+  - "2024"
 title: 月姫 -A piece of blue glass moon-／Tsukihime Remake／月姬R 一片蓝色玻璃月亮／Rebirth 重置 重制
 slug: 9169
 tags:
@@ -6,20 +12,11 @@ tags:
   - 奇幻
   - 战斗
   - 悬疑
-  - 2021
-  - 2024
 categories:
   - Windows
 date: 2024-07-31 01:45:00
 lastmod: 2024-07-31 01:45:00
 ---
-
-![tsukihime-remake](https://static.30hb.cn/vndb/img/tsukihime-remake.webp)
-
-《**月姬 -A piece of blue glass moon-**》是[TYPE-MOON](https://zh.moegirl.org.cn/TYPE-MOON)开发的一款视觉小说游戏。
-
-<!--more-->
-
 ## 简介
 
 《[月姬](https://zh.moegirl.org.cn/月姬)》的重制版本，包含了原作的表线并重写了大量剧情及增加新人物，将故事的舞台转移到了2014年的总耶（以东京市为原型的虚构大都市）。游戏于2021年8月26日在NS和PS平台发售。

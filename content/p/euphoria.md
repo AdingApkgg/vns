@@ -1,4 +1,10 @@
 ---
+cover: "https://static.30hb.cn/vndb/img/euphoria.webp"
+description: |-
+  《**euphoria**》是[CLOCKUP](https://zh.wikipedia.org/w/index.php?title=CLOCKUP&action=edit&redlink=1)公司于2011年6月24日发表的[18禁](https://zh.wikipedia.org/wiki/18禁)[恋爱冒险游戏](https://zh.wikipedia.org/wiki/戀愛冒險遊戲)，2014年4月25日发售HD版，2012年8月30日由AICHERRY发售[DVDPG](https://zh.wikipedia.org/wiki/DVDPG)版、[BDPG](https://zh.wikipedia.org/wiki/BDPG)版，后来改编成[OVA](https://zh.wikipedia.org/wiki/原創動畫錄影帶)和小说发售。
+years:
+  - "2011"
+  - "2014"
 title: euphoria／ユーフォリア／偷稅病／樂園 普通 HD 高清 重置 重制 Remaster
 slug: 41785
 tags:
@@ -11,20 +17,11 @@ tags:
   - 悬疑
   - 十二神器
   - 凌辱
-  - 2011
-  - 2014
 categories:
   - Windows
 date: 2024-08-27 07:20:00
 lastmod: 2024-08-27 07:20:00
 ---
-
-![euphoria](https://static.30hb.cn/vndb/img/euphoria.webp)
-
-《**euphoria**》是[CLOCKUP](https://zh.wikipedia.org/w/index.php?title=CLOCKUP&action=edit&redlink=1)公司于2011年6月24日发表的[18禁](https://zh.wikipedia.org/wiki/18禁)[恋爱冒险游戏](https://zh.wikipedia.org/wiki/戀愛冒險遊戲)，2014年4月25日发售HD版，2012年8月30日由AICHERRY发售[DVDPG](https://zh.wikipedia.org/wiki/DVDPG)版、[BDPG](https://zh.wikipedia.org/wiki/BDPG)版，后来改编成[OVA](https://zh.wikipedia.org/wiki/原創動畫錄影帶)和小说发售。
-
-<!--more-->
-
 ## 故事
 
 在模糊间醒来的主人公惠辅，发现自己躺在一间白色的房间，密室的门上有亮着的绿灯，主人公推门而入，在另一个的白色房间发现同样被带入这个奇妙空间的人，青梅竹马的帆刈叶、班长安藤都子、学妹莳羽梨香、英语老师葵菜月、同年级的白夜凛音、与同班同学真中合欢。没有人知道为什么自己会来到这。突然的系统广播表示；“这是场游戏，参加者共有七名，主人公是钥匙一名，而女角们是锁孔六名。游戏要求参加者以游戏指定的方法开锁，锁孔则是女角们的私密部位，现在参加者可以选择退出或者是进行游戏。”

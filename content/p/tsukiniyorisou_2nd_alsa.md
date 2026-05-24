@@ -1,4 +1,14 @@
 ---
+cover: "https://static.30hb.cn/vndb/img/tsukiniyorisou-2nd-alsa.webp"
+description: |-
+  《**近月少女的礼仪2.2 A×L+SA!!**》（日语：**月に寄りそう乙女の作法2.2 A×L+SA!!**）为近月2的第二个Fan Disc，于2017年12月22日发售。
+
+  包含有[大藏瑠美音](https://zh.moegirl.org.cn/大藏瑠美音)和[八日堂朔莉](https://zh.moegirl.org.cn/八日堂朔莉)的后日谈剧情。完成两名女主的后日谈剧情之后解锁[樱小路亚十礼](https://zh.moegirl.org.cn/樱小路亚十礼)线路剧情，故事续接近月2本篇Bad End。
+
+  完整版附有特典《近月少女的礼仪1.1》，为游戏形式收录的2015年的愚人节企划，在完成亚十礼线路后解锁。
+years:
+  - "2014"
+  - "2017"
 title: 近月少女的礼仪2.2 A×L+SA!!／月に寄りそう乙女の作法2.2 A×L+SA!!／向阳的日子2.2 A×L+SA!!
 slug: 56532
 tags:
@@ -15,24 +25,11 @@ tags:
   - 妹
   - 实妹
   - FD
-  - 2014
-  - 2017
 categories:
   - Windows
 date: 2024-04-21 00:56:00
 lastmod: 2024-04-21 00:56:00
 ---
-
-![ttsukiniyorisou-2nd-alsa](https://static.30hb.cn/vndb/img/tsukiniyorisou-2nd-alsa.webp)
-
-《**近月少女的礼仪2.2 A×L+SA!!**》（日语：**月に寄りそう乙女の作法2.2 A×L+SA!!**）为近月2的第二个Fan Disc，于2017年12月22日发售。
-
-包含有[大藏瑠美音](https://zh.moegirl.org.cn/大藏瑠美音)和[八日堂朔莉](https://zh.moegirl.org.cn/八日堂朔莉)的后日谈剧情。完成两名女主的后日谈剧情之后解锁[樱小路亚十礼](https://zh.moegirl.org.cn/樱小路亚十礼)线路剧情，故事续接近月2本篇Bad End。
-
-完整版附有特典《近月少女的礼仪1.1》，为游戏形式收录的2015年的愚人节企划，在完成亚十礼线路后解锁。
-
-<!--more-->
-
 ## 剧情简介
 
 ・朔莉after「八日堂女士选择舔舔舔」

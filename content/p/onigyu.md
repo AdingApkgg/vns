@@ -1,4 +1,10 @@
 ---
+cover: "https://static.30hb.cn/vndb/img/onigyu.webp"
+description: |-
+  《**哥哥，早上起床之前都要抱紧我哦！**》是由[Tinkle Position](https://zh.moegirl.org.cn/index.php?title=Tinkle_Position&action=edit&redlink=1)制作的一部[Galgame](https://zh.moegirl.org.cn/Galgame)。
+years:
+  - "2018"
+  - "2019"
 title: 哥哥，早上起床之前都要抱紧我哦！／妹抱／お兄ちゃん、朝までずっとギュッてして！
 slug: 4561
 tags:
@@ -11,8 +17,6 @@ tags:
   - 炼铜
   - 萌
   - 妹
-  - 2018
-  - 2019
 categories:
   - Windows
   - KRKR
@@ -20,13 +24,6 @@ date: 2024-02-03 23:20:00
 lastmod: 2024-03-31 01:29:00
 author: WTY
 ---
-
-![onigyu](https://static.30hb.cn/vndb/img/onigyu.webp)
-
-《**哥哥，早上起床之前都要抱紧我哦！**》是由[Tinkle Position](https://zh.moegirl.org.cn/index.php?title=Tinkle_Position&action=edit&redlink=1)制作的一部[Galgame](https://zh.moegirl.org.cn/Galgame)。
-
-<!--more-->
-
 ## 剧情简介
 
 有着四只妹妹的主人公从小就患有严重的哮喘。为了防止夜间发生意外没人发现，和『任一妹妹一起睡觉』便成为了他的日常~~哮喘还有这等好事？~~。

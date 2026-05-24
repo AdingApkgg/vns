@@ -1,4 +1,9 @@
 ---
+cover: "https://static.30hb.cn/vndb/img/komadori.webp"
+description: |-
+  **《是谁杀死了知更鸟》**（日语：**誰が殺したコマドリを**）是スマイル戦機于2011年8月13日发行的一款[治愈系](https://zh.moegirl.org.cn/治愈系)（[致郁系](https://zh.moegirl.org.cn/致郁系)）[百合向](https://zh.moegirl.org.cn/百合向)游戏。
+years:
+  - "2011"
 title: '是谁杀了知更鸟／誰が殺したコマドリを／谁杀死了知更鸟？／Qui a tué Cock Robin, Who killed the robin?'
 slug: 10519
 tags:
@@ -11,7 +16,6 @@ tags:
   - 猎奇
   - 凌辱
   - 调教
-  - 2011
 categories:
   - Windows
   - KRKR
@@ -21,13 +25,6 @@ author: Kirishima
 date: 2024-09-15 02:25:00
 lastmod: 2024-09-15 02:25:00
 ---
-
-![komadori](https://static.30hb.cn/vndb/img/komadori.webp)
-
-**《是谁杀死了知更鸟》**（日语：**誰が殺したコマドリを**）是スマイル戦機于2011年8月13日发行的一款[治愈系](https://zh.moegirl.org.cn/治愈系)（[致郁系](https://zh.moegirl.org.cn/致郁系)）[百合向](https://zh.moegirl.org.cn/百合向)游戏。
-
-<!--more-->
-
 ## 故事
 
 漂亮得如同人偶一般的少女，小鸟。

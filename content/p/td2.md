@@ -1,27 +1,24 @@
 ---
+cover: "https://static.30hb.cn/vndb/img/td2.webp"
+description: |-
+  **《微小地牢》**（英语：Tiny Dungeon）是[Rosebleu](https://zh.moegirl.org.cn/Rosebleu)公司制作的日本成人系[Galgame](https://zh.moegirl.org.cn/Galgame)，共分为四部（分割商法），于2010年至2012年陆续发售，2014年发布续作《Endless Dungeon》。
+years:
+  - "2010"
+  - "2011"
+  - "2012"
+  - "2014"
 title: Tiny Dungeon ~BLESS of DRAGON~／微小地牢－金龙祝福 龙族篇／タイニイ ダンジョン ブレスオブドラゴン
 slug: 12038
 tags:
   - Rosebleu
   - 后宫
   - 推土机
-  - 2010
-  - 2011
-  - 2012
-  - 2014
 categories:
   - Windows
   - ONS
 date: 2024-08-27 14:45:00
 lastmod: 2024-08-27 14:45:00
 ---
-
-![td2](https://static.30hb.cn/vndb/img/td2.webp)
-
-**《微小地牢》**（英语：Tiny Dungeon）是[Rosebleu](https://zh.moegirl.org.cn/Rosebleu)公司制作的日本成人系[Galgame](https://zh.moegirl.org.cn/Galgame)，共分为四部（分割商法），于2010年至2012年陆续发售，2014年发布续作《Endless Dungeon》。
-
-<!--more-->
-
 ## 故事
 
 为了培育力量而创立的学园トリニティ。

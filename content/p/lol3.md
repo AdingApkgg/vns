@@ -1,4 +1,17 @@
 ---
+cover: "https://static.30hb.cn/vndb/img/lol3.webp"
+description: |-
+  喜欢萝莉吗？
+
+  梳着头丝就能心意相通。
+  牵着小手就能感受温暖。
+  少女的眼瞳与肌肤与粘膜变得湿润。
+  所以想尽量温柔一些。
+  思索通往幸福的途径，开始理想的禁忌之恋。
+
+  恋爱O出萝莉的乌托邦物语。
+years:
+  - "2017"
 title: 同居恋人洛丽塔／お泊まり恋人ロリータ／Stay Over Lolita Lover
 slug: 27436
 tags:
@@ -12,7 +25,6 @@ tags:
   - 纯爱
   - 甜蜜
   - 实用
-  - 2017
 categories:
   - Windows
   - KRKR
@@ -20,21 +32,6 @@ author: WTY
 date: 2024-10-25 03:46:40
 lastmod: 2024-10-25 03:46:40
 ---
-
-![lol3](https://static.30hb.cn/vndb/img/lol3.webp)
-
-喜欢萝莉吗？
-
-梳着头丝就能心意相通。
-牵着小手就能感受温暖。
-少女的眼瞳与肌肤与粘膜变得湿润。
-所以想尽量温柔一些。
-思索通往幸福的途径，开始理想的禁忌之恋。
-
-恋爱O出萝莉的乌托邦物语。
-
-<!--more-->
-
 ![lol3_p1](https://static.30hb.cn/vndb/img/lol3_p1.webp)
 
 ![lol3_p2](https://static.30hb.cn/vndb/img/lol3_p2.webp)

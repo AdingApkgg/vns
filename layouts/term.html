@@ -3,8 +3,16 @@
   <h1>
     <i class="fas fa-hashtag"></i>&nbsp;{{ .Name }}<sup id="busuanzi_value_page_pv"></sup>
   </h1>
-  {{ .Content }} {{ range .Pages }}
-  <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a><sup class="busuanzi_value_page_pv" data-bsz-href="{{ .Permalink }}"></sup></h2>
-  {{ partial "post-meta.html" . }} {{ .Summary }} {{ end }}
+  {{ .Content }}
+
+  {{ $paginator := .Paginate .Pages }}
+  <div class="post-grid">
+    {{ range $paginator.Pages }}
+    {{ partial "post-card.html" . }}
+    {{ end }}
+  </div>
+
+  {{ partial "pagination.html" . }}
+  <p class="articles-len">总共有 {{ len .Pages }} 部资源</p>
 </article>
 {{ end }}

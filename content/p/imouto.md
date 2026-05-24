@@ -1,4 +1,9 @@
 ---
+cover: "https://static.30hb.cn/vndb/img/imouto.webp"
+description: |-
+  《**妹之形**》（イモウトノカタチ，妹の形）是[CUFFS](https://zh.wikipedia.org/wiki/CUFFS)社的姐妹品牌[Sphere](https://zh.wikipedia.org/wiki/Sphere)于2012年8月31日发售的[18禁](https://zh.wikipedia.org/wiki/日本成人遊戲)[恋爱冒险游戏](https://zh.wikipedia.org/wiki/戀愛冒險遊戲)，原定发行时间为7月27日，后来延后发行日期至8月31日。是Sphere的第三部作品。
+years:
+  - "2012"
 title: 妹之形／イモウトノカタチ／Imokata
 slug: 5280
 tags:
@@ -9,19 +14,11 @@ tags:
   - 妹控
   - 妹
   - 兄妹
-  - 2012
 categories:
   - Windows
 date: 2024-05-26 03:12:00
 lastmod: 2024-05-26 03:12:00
 ---
-
-![imouto](https://static.30hb.cn/vndb/img/imouto.webp)
-
-《**妹之形**》（イモウトノカタチ，妹の形）是[CUFFS](https://zh.wikipedia.org/wiki/CUFFS)社的姐妹品牌[Sphere](https://zh.wikipedia.org/wiki/Sphere)于2012年8月31日发售的[18禁](https://zh.wikipedia.org/wiki/日本成人遊戲)[恋爱冒险游戏](https://zh.wikipedia.org/wiki/戀愛冒險遊戲)，原定发行时间为7月27日，后来延后发行日期至8月31日。是Sphere的第三部作品。
-
-<!--more-->
-
 ## 简介
 
 故事发生在不远的未来。数年前，‘鹄见市’由于一场实验都市计划引发的灾难濒临毁灭，众多家庭破碎。

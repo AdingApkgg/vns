@@ -1,4 +1,9 @@
 ---
+cover: "https://static.30hb.cn/vndb/img/atri-mdm.webp"
+description: |-
+  《**ATRI -My Dear Moments-**》是由[FrontWing](https://zh.wikipedia.org/wiki/FrontWing)和[枕](https://zh.wikipedia.org/wiki/枕_(遊戲品牌))制作、[ANIPLEX.EXE](https://zh.wikipedia.org/wiki/Aniplex)发行的一款[视觉小说](https://zh.wikipedia.org/wiki/视觉小说)，本作于2020年6月19日在[Windows](https://zh.wikipedia.org/wiki/Windows)平台发售。
+years:
+  - "2020"
 title: ATRI -My Dear Moments-／亚托莉 -我挚爱的时光-／アトリ マイ ディア モーメンツ
 slug: 12715
 tags:
@@ -9,7 +14,6 @@ tags:
   - 未来
   - 亚托莉
   - 感人
-  - 2020
 categories:
   - Windows
   - Tyranor
@@ -18,13 +22,6 @@ categories:
 date: 2024-02-04 05:00:00
 lastmod: 2024-09-13 05:03:00
 ---
-
-![atri-mdm](https://static.30hb.cn/vndb/img/atri-mdm.webp)
-
-《**ATRI -My Dear Moments-**》是由[FrontWing](https://zh.wikipedia.org/wiki/FrontWing)和[枕](https://zh.wikipedia.org/wiki/枕_(遊戲品牌))制作、[ANIPLEX.EXE](https://zh.wikipedia.org/wiki/Aniplex)发行的一款[视觉小说](https://zh.wikipedia.org/wiki/视觉小说)，本作于2020年6月19日在[Windows](https://zh.wikipedia.org/wiki/Windows)平台发售。
-
-<!--more-->
-
 本作是动画巨头[Aniplex](https://zh.wikipedia.org/wiki/Aniplex)旗下新创立的视觉小说品牌ANIPLEX.EXE发行的两款[处女作](https://zh.wikipedia.org/wiki/處女作)之一（另一部同日发售的处女作为《[徒花异谭](https://zh.wikipedia.org/w/index.php?title=徒花异谭&action=edit&redlink=1)》）。制作人兼ANIPLEX.EXE的创始人岛田纮希希望以本作为契机将该类型的游戏向全世界传达。游戏推出后获得欢迎，获移植至[任天堂Switch](https://zh.wikipedia.org/wiki/任天堂Switch)、[Android](https://zh.wikipedia.org/wiki/Android)和[iOS](https://zh.wikipedia.org/wiki/IOS)平台，更获改编为漫画和动画。
 
 本作被改编为漫画和动画的消息于2022年9月24日举行的Aniplex Online Fest上公布。漫画自2022年10月7日发售的《[Comptiq](https://zh.wikipedia.org/wiki/Comptiq)》2022年11月号开始连载；[电视动画](https://zh.wikipedia.org/wiki/日本電視動畫)由[TROYCA](https://zh.wikipedia.org/wiki/TROYCA)制作，于2024年7月14日播出。

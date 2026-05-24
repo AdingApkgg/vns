@@ -1,4 +1,13 @@
 ---
+cover: "https://static.30hb.cn/vndb/img/lol5.webp"
+description: |-
+  来成为萝莉控吧。
+  哪里都不会去哦。
+  不会告诉任何人哦。
+  寂寞了就回来吧。
+  我们会暖着床等待你回来哦。
+years:
+  - "2018"
 title: '爱欲姐妹洛丽塔／愛欲姉妹ロリータ／Lust Sisters: Lolita'
 slug: 16873
 tags:
@@ -12,7 +21,6 @@ tags:
   - 后宫
   - 哲学
   - 幼女
-  - 2018
 categories:
   - Windows
   - KRKR
@@ -20,17 +28,6 @@ author: WTY
 date: 2024-10-25 03:52:25
 lastmod: 2024-10-25 03:52:25
 ---
-
-![lol5](https://static.30hb.cn/vndb/img/lol5.webp)
-
-来成为萝莉控吧。
-哪里都不会去哦。
-不会告诉任何人哦。
-寂寞了就回来吧。
-我们会暖着床等待你回来哦。
-
-<!--more-->
-
 ![lol5_p1](https://static.30hb.cn/vndb/img/lol5_p1.webp)
 
 ![lol5_p2](https://static.30hb.cn/vndb/img/lol5_p2.webp)

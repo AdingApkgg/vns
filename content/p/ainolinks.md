@@ -1,4 +1,15 @@
 ---
+cover: "https://static.30hb.cn/vndb/img/ainolinks.webp"
+description: |-
+  《**创作彼女的恋爱公式**》（日语：創作彼女の恋愛公式）是2021年11月26日发售的[18禁](https://zh.wikipedia.org/wiki/日本成人遊戲)[恋爱冒险游戏](https://zh.wikipedia.org/wiki/戀愛冒險遊戲)，由成人游戏品牌Aino+Links制作。剧本、原画分别由工藤启介、[有叶](https://zh.wikipedia.org/w/index.php?title=有叶&action=edit&redlink=1)创作。
+
+  本作故事舞台是培养[创作者](https://zh.wikipedia.org/wiki/創作者)的学园。故事主要内容为，身为创作者的主人公与女主角一边加深关系，一边克服有关创作的障碍。
+
+  2021年美少女游戏销量排行中，本作位列第12名。2021年美少女游戏人气投票中，根据“[Getchu.com](https://zh.wikipedia.org/wiki/Getchu.com)”、《[BugBug](https://zh.wikipedia.org/wiki/BugBug)》统计，本作在综合部门和剧本部门最高获选第1名。“[萌系游戏大赏](https://zh.wikipedia.org/wiki/萌系遊戲大賞)”中，本作获得大赏、剧本赏、最佳角色赏、新品牌赏、名台词赏奖项。
+
+  本作质量还是不错的，翻了 [Anio+Links](http://ainolinks.com/) 官网，22年末发了休业通知，可惜没有后续了，~~作品只有这一个~~。
+years:
+  - "2021"
 title: >-
   创作少女的恋爱公式／创作彼女／创彼女／创作少女的恋爱方式／創作彼女の恋愛公式／创作彼女的恋爱方程式／Create girls → started to
   walk.
@@ -11,7 +22,6 @@ tags:
   - 废萌
   - 萝莉
   - 校园
-  - 2021
 categories:
   - Windows
   - KRKR
@@ -19,19 +29,6 @@ author: molin
 date: 2025-03-12 21:55:38
 lastmod: 2025-03-22 03:08:45
 ---
-
-![ainolinks](https://static.30hb.cn/vndb/img/ainolinks.webp)
-
-《**创作彼女的恋爱公式**》（日语：創作彼女の恋愛公式）是2021年11月26日发售的[18禁](https://zh.wikipedia.org/wiki/日本成人遊戲)[恋爱冒险游戏](https://zh.wikipedia.org/wiki/戀愛冒險遊戲)，由成人游戏品牌Aino+Links制作。剧本、原画分别由工藤启介、[有叶](https://zh.wikipedia.org/w/index.php?title=有叶&action=edit&redlink=1)创作。
-
-本作故事舞台是培养[创作者](https://zh.wikipedia.org/wiki/創作者)的学园。故事主要内容为，身为创作者的主人公与女主角一边加深关系，一边克服有关创作的障碍。
-
-2021年美少女游戏销量排行中，本作位列第12名。2021年美少女游戏人气投票中，根据“[Getchu.com](https://zh.wikipedia.org/wiki/Getchu.com)”、《[BugBug](https://zh.wikipedia.org/wiki/BugBug)》统计，本作在综合部门和剧本部门最高获选第1名。“[萌系游戏大赏](https://zh.wikipedia.org/wiki/萌系遊戲大賞)”中，本作获得大赏、剧本赏、最佳角色赏、新品牌赏、名台词赏奖项。
-
-本作质量还是不错的，翻了 [Anio+Links](http://ainolinks.com/) 官网，22年末发了休业通知，可惜没有后续了，~~作品只有这一个~~。
-
-<!--more-->
-
 ![ainolinks_p1](https://static.30hb.cn/vndb/img/ainolinks_p1.webp)
 
 ![ainolinks_p2](https://static.30hb.cn/vndb/img/ainolinks_p2.webp)

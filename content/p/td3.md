@@ -1,27 +1,24 @@
 ---
+cover: "https://static.30hb.cn/vndb/img/td3.webp"
+description: |-
+  **《微小地牢》**（英语：Tiny Dungeon）是[Rosebleu](https://zh.moegirl.org.cn/Rosebleu)公司制作的日本成人系[Galgame](https://zh.moegirl.org.cn/Galgame)，共分为四部（分割商法），于2010年至2012年陆续发售，2014年发布续作《Endless Dungeon》。
+years:
+  - "2010"
+  - "2011"
+  - "2012"
+  - "2014"
 title: Tiny Dungeon ~BIRTH for YOURS~／微小地牢－为你而生 神族篇／タイニイ ダンジョン バースフォーユアズ
 slug: 56304
 tags:
   - Rosebleu
   - 后宫
   - 推土机
-  - 2010
-  - 2011
-  - 2012
-  - 2014
 categories:
   - Windows
   - ONS
 date: 2024-08-27 14:50:00
 lastmod: 2024-08-27 14:50:00
 ---
-
-![td3](https://static.30hb.cn/vndb/img/td3.webp)
-
-**《微小地牢》**（英语：Tiny Dungeon）是[Rosebleu](https://zh.moegirl.org.cn/Rosebleu)公司制作的日本成人系[Galgame](https://zh.moegirl.org.cn/Galgame)，共分为四部（分割商法），于2010年至2012年陆续发售，2014年发布续作《Endless Dungeon》。
-
-<!--more-->
-
 ## 故事
 
 魔界、神界、竜界、以及人界。

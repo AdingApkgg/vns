@@ -1,4 +1,10 @@
 ---
+cover: "https://static.30hb.cn/vndb/img/zombie.webp"
+description: |-
+  《**末世孤雄**》，日文原名直译《**在遍地都是丧尸的世界里唯独我不被袭击**》（日语：ゾンビのあふれた世界で俺だけが襲われない），是[里地ろくろ](https://zh.wikipedia.org/w/index.php?title=裏地ろくろ&action=edit&redlink=1)原创、编写的成人[情色](https://zh.wikipedia.org/wiki/情色)轻小说，2013年1月9日连载于[成为小说家吧](https://zh.wikipedia.org/wiki/成為小說家吧)。本作后来也改编成漫画和电子游戏。
+years:
+  - "2015"
+  - "2018"
 title: 末世孤雄／在遍地都是丧尸的世界里唯独我不被袭击／ゾンビのあふれた世界で俺だけが襲われない／I Walk Among Zombies／Vol. 1 2 3 0
 slug: 12420
 tags:
@@ -14,21 +20,12 @@ tags:
   - 无修正
   - 黑长直
   - FD
-  - 2015
-  - 2018
 categories:
   - Windows
   - Android
 date: 2024-10-24 00:23:40
 lastmod: 2024-10-24 00:23:40
 ---
-
-![zombie](https://static.30hb.cn/vndb/img/zombie.webp)
-
-《**末世孤雄**》，日文原名直译《**在遍地都是丧尸的世界里唯独我不被袭击**》（日语：ゾンビのあふれた世界で俺だけが襲われない），是[里地ろくろ](https://zh.wikipedia.org/w/index.php?title=裏地ろくろ&action=edit&redlink=1)原创、编写的成人[情色](https://zh.wikipedia.org/wiki/情色)轻小说，2013年1月9日连载于[成为小说家吧](https://zh.wikipedia.org/wiki/成為小說家吧)。本作后来也改编成漫画和电子游戏。
-
-<!--more-->
-
 2024年2月1日宣布动画化，将在[AT-X](https://zh.wikipedia.org/wiki/AT-X)播出。
 
 ![zombie_p1](https://static.30hb.cn/vndb/img/zombie_p1.webp)

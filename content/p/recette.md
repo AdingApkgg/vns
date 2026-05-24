@@ -1,4 +1,10 @@
 ---
+cover: "https://static.30hb.cn/vndb/img/recette.webp"
+description: |-
+  **甜糖热恋！**（日语：**しゅがてん！-sugarfull tempering-**）是由[Recette](https://zh.moegirl.org.cn/Recette)（ルセート）制作发行的恋爱文字冒险游戏，于2017年2月24日面向Windows PC平台发售。
+years:
+  - "2017"
+  - "2023"
 title: 甜糖热恋！／糖调！-sugarfull tempering-／しゅがてん！-sugarfull tempering-
 slug: 24395
 tags:
@@ -6,8 +12,6 @@ tags:
   - 奇幻
   - 治愈
   - 可爱
-  - 2017
-  - 2023
   - Recette
 categories:
   - Windows
@@ -17,13 +21,6 @@ date: 2024-02-02 02:30:00
 lastmod: 2024-09-23 01:50:00
 author: WTY
 ---
-
-![recette](https://static.30hb.cn/vndb/img/recette.webp)
-
-**甜糖热恋！**（日语：**しゅがてん！-sugarfull tempering-**）是由[Recette](https://zh.moegirl.org.cn/Recette)（ルセート）制作发行的恋爱文字冒险游戏，于2017年2月24日面向Windows PC平台发售。
-
-<!--more-->
-
 ## 原作简介
 
 北国，小镇，雪飘万里。名为“钻石星辰”的气象奇观的在偶尔会这里发生。在冷风呼啸，扬水化冰的季节里，烘焙炉中散发的小麦淡淡的芳香搀着星灵奶油的甜味，柴火橙红的暖意，应该是此时最令人感动的事物了吧。镇上的唯一一家西点店flokroll由仅有两位少女撑起，在寒冬为整个镇提供这一感动，但却面对的客源凋零而倒闭的问题……这时失忆的“妖精”空降了她们的屋顶，砸坏了她们的水槽……

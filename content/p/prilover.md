@@ -1,4 +1,10 @@
 ---
+cover: "https://static.30hb.cn/vndb/img/prilover.webp"
+description: |-
+  **《公主恋人》**（日语：**プリンセスラバー!**；英语：***Princess Lover!***）是由[Ricotta](https://zh.moegirl.org.cn/Ricotta)制作的R-18游戏，并有动画、漫画，小说等衍生作品。
+years:
+  - "2008"
+  - "2010"
 title: 公主恋人！／プリンセスラバー！／Princess Lover!
 slug: 41843
 tags:
@@ -7,8 +13,6 @@ tags:
   - 恋爱
   - 校园
   - 足交
-  - 2008
-  - 2010
 categories:
   - Windows
   - ONS
@@ -16,13 +20,6 @@ categories:
 date: 2024-03-30 02:52:00
 lastmod: 2024-03-30 02:52:00
 ---
-
-![prilover](https://static.30hb.cn/vndb/img/prilover.webp)
-
-**《公主恋人》**（日语：**プリンセスラバー!**；英语：***Princess Lover!***）是由[Ricotta](https://zh.moegirl.org.cn/Ricotta)制作的R-18游戏，并有动画、漫画，小说等衍生作品。
-
-<!--more-->
-
 ## 原作介绍
 
 **新品牌「Ricotta」值得纪念的后宫型第一作，讲述的是主人公与超名流大小姐们展开的优雅的恋爱冒险故事。**

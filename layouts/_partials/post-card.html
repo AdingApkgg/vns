@@ -1,0 +1,24 @@
+{{ $cover := .Params.cover }}
+{{ if not $cover }}
+  {{ with findRESubmatch `!\[[^\]]*\]\(([^)]+)\)` .RawContent 1 }}
+    {{ $cover = index (index . 0) 1 }}
+  {{ end }}
+{{ end }}
+<section class="post-card">
+  {{ if $cover }}
+  <a class="post-card-cover-link" href="{{ .RelPermalink }}" aria-label="{{ .LinkTitle }}">
+    <img class="post-card-cover" data-src="{{ $cover }}" alt="{{ .LinkTitle }}" loading="lazy" />
+  </a>
+  {{ end }}
+  <div class="post-card-body">
+    <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a><sup class="busuanzi_value_page_pv" data-bsz-href="{{ .Permalink }}"></sup></h2>
+    {{ partial "post-meta.html" . }}
+    {{ if .Params.description }}
+    <div class="post-card-summary">{{ .Params.description | markdownify }}</div>
+    {{ else }}
+    <div class="post-card-summary">{{ .Summary | replaceRE `(?s)<figure[^>]*>.*?</figure>` "" | replaceRE `<img[^>]*>` "" | replaceRE `<p>\s*</p>` "" | safeHTML }}</div>
+    {{ end }}
+    {{ partial "terms.html" (dict "taxonomy" "categories" "page" .) }}
+    {{ partial "terms.html" (dict "taxonomy" "tags" "page" .) }}
+  </div>
+</section>

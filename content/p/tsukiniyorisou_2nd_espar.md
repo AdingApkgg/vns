@@ -1,4 +1,12 @@
 ---
+cover: "https://static.30hb.cn/vndb/img/tsukiniyorisou-2nd-espar.webp"
+description: |-
+  《**近月少女的礼仪2.1 E×S×PAR!!**》（日语：**月に寄りそう乙女の作法2.1 E×S×PAR!!**）为近月2的第一个Fan Disc，于2017年5月26日发售。
+
+  包含有[艾斯特·加拉哈·阿诺兹](https://zh.moegirl.org.cn/艾斯特·加拉哈·阿诺兹)和[银条春心](https://zh.moegirl.org.cn/银条春心)的后日谈剧情。完成两名女主的后日谈之后解锁《近月少女的礼仪0》，为近月系列前传，主要讲述了大藏衣远学生时代的故事。
+years:
+  - "2014"
+  - "2017"
 title: 近月少女的礼仪2.1 E×S×PAR!!／月に寄りそう乙女の作法2.1 E×S×PAR!!／向阳的日子2.1 E×S×PAR!!
 slug: 48508
 tags:
@@ -13,22 +21,11 @@ tags:
   - 废萌
   - 萌
   - FD
-  - 2014
-  - 2017
 categories:
   - Windows
 date: 2024-04-21 00:23:00
 lastmod: 2024-04-21 00:23:00
 ---
-
-![ttsukiniyorisou-2nd-espar](https://static.30hb.cn/vndb/img/tsukiniyorisou-2nd-espar.webp)
-
-《**近月少女的礼仪2.1 E×S×PAR!!**》（日语：**月に寄りそう乙女の作法2.1 E×S×PAR!!**）为近月2的第一个Fan Disc，于2017年5月26日发售。
-
-包含有[艾斯特·加拉哈·阿诺兹](https://zh.moegirl.org.cn/艾斯特·加拉哈·阿诺兹)和[银条春心](https://zh.moegirl.org.cn/银条春心)的后日谈剧情。完成两名女主的后日谈之后解锁《近月少女的礼仪0》，为近月系列前传，主要讲述了大藏衣远学生时代的故事。
-
-<!--more-->
-
 ## 剧情简介
 
 ・艾斯特after「Double Irish」

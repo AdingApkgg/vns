@@ -1,4 +1,10 @@
 ---
+cover: "https://static.30hb.cn/vndb/img/koikake.webp"
+description: |-
+  《**想要传达给你的爱恋**》（日语：恋×シンアイ彼女）是Us:track在2015年10月30日发售的[恋爱冒险](https://zh.wikipedia.org/wiki/戀愛冒險)类型[成人游戏](https://zh.wikipedia.org/wiki/日本成人遊戲)，2023年8月4日发售中文版。
+years:
+  - "2015"
+  - "2023"
 title: >-
   想要传达给你的爱恋／恋×シンアイ彼女／传达不到的爱恋／School Girls Stories／恋彼女／Koi-Kakeru Shin-Ai
   Kanojo／Koikake
@@ -12,20 +18,11 @@ tags:
   - 致郁
   - 校园
   - 胃疼
-  - 2015
-  - 2023
 categories:
   - Windows
 date: 2024-05-16 23:40:00
 lastmod: 2024-05-16 23:40:00
 ---
-
-![koikake](https://static.30hb.cn/vndb/img/koikake.webp)
-
-《**想要传达给你的爱恋**》（日语：恋×シンアイ彼女）是Us:track在2015年10月30日发售的[恋爱冒险](https://zh.wikipedia.org/wiki/戀愛冒險)类型[成人游戏](https://zh.wikipedia.org/wiki/日本成人遊戲)，2023年8月4日发售中文版。
-
-<!--more-->
-
 ## 简介
 
 国见洸太郎将来的愿望是想要成为小说家，但他因为小时候初恋的痛苦而写不出恋爱小说。升上高二的春天，洸太郎就读的御影之丘学园与其他两个学园合并，在充满期待与不安的氛围中，洸太郎与昔日的初恋姬野星奏和好朋友新堂彩音再次相遇。

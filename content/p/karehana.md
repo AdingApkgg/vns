@@ -1,4 +1,9 @@
 ---
+cover: "https://static.30hb.cn/vndb/img/karehana.webp"
+description: |-
+  **《永不枯萎的世界与终结之花》**（日语：**枯れない世界と終わる花**；罗马字：*Karenai Sekai to Owaru Hana*）是日本游戏品牌[SWEET&TEA](https://zh.moegirl.org.cn/SWEET%26TEA)的[处女作](https://zh.moegirl.org.cn/处女作)。官网于7月25日上线，本体于2016年11月25日正式发售。
+years:
+  - "2016"
 title: >-
   永不枯萎的世界与终结之花／枯れない世界と終わる花／永不枯萎的世界与终之花／不败世界与终焉之花／The rainbow appears after
   flowering rain.／枯花
@@ -12,7 +17,6 @@ tags:
   - 治愈
   - 催泪
   - 幼驯染
-  - 2016
 categories:
   - Windows
   - KRKR
@@ -21,13 +25,6 @@ author: molin
 date: 2025-03-02 20:39:32
 lastmod: 2025-03-22 02:00:00
 ---
-
-![karehana](https://static.30hb.cn/vndb/img/karehana.webp)
-
-**《永不枯萎的世界与终结之花》**（日语：**枯れない世界と終わる花**；罗马字：*Karenai Sekai to Owaru Hana*）是日本游戏品牌[SWEET&TEA](https://zh.moegirl.org.cn/SWEET%26TEA)的[处女作](https://zh.moegirl.org.cn/处女作)。官网于7月25日上线，本体于2016年11月25日正式发售。
-
-<!--more-->
-
 ![karehana_p1](https://static.30hb.cn/vndb/img/karehana_p1.webp)
 
 ![karehana_p2](https://static.30hb.cn/vndb/img/karehana_p2.webp)

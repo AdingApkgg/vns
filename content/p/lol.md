@@ -1,4 +1,13 @@
 ---
+cover: "https://static.30hb.cn/vndb/img/lol.webp"
+description: |-
+  那位少女甜美又芬芳。
+  天真无邪，眼神里透着诱惑，等待着你的拥抱。
+  不用再担忧与忍耐了，你与她已经身处相思相爱之中。
+  就让她接受你的所有，你的孤独寂寞，还有……
+  就在溺爱中成为没有用的大人吧。
+years:
+  - "2014"
 title: 与小萝莉相思相爱／相思相愛ロリータ／Mutual Love Lolita／相思相爱洛丽塔
 slug: 26575
 tags:
@@ -10,7 +19,6 @@ tags:
   - 同人
   - 哲学
   - 幼女
-  - 2014
 categories:
   - Windows
   - KRKR
@@ -18,17 +26,6 @@ author: WTY
 date: 2024-10-25 03:38:40
 lastmod: 2024-10-25 03:38:40
 ---
-
-![lol](https://static.30hb.cn/vndb/img/lol.webp)
-
-那位少女甜美又芬芳。
-天真无邪，眼神里透着诱惑，等待着你的拥抱。
-不用再担忧与忍耐了，你与她已经身处相思相爱之中。
-就让她接受你的所有，你的孤独寂寞，还有……
-就在溺爱中成为没有用的大人吧。
-
-<!--more-->
-
 ![lol_p1](https://static.30hb.cn/vndb/img/lol_p1.webp)
 
 ![lol_p2](https://static.30hb.cn/vndb/img/lol_p2.webp)

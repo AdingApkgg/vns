@@ -1,4 +1,12 @@
 ---
+cover: "https://static.30hb.cn/vndb/img/eustia.webp"
+description: |-
+  《**秽翼的尤斯蒂娅**》（日语：穢翼のユースティア）为[AUGUST](https://zh.wikipedia.org/wiki/AUGUST)发行的[恋爱冒险](https://zh.wikipedia.org/wiki/戀愛冒險)类型[日本成人游戏](https://zh.wikipedia.org/wiki/日本成人遊戲)。2010年8月释出全部主配角资料，2011年初推出体验版，2011年4月28日和7月29日各发售于[Windows](https://zh.wikipedia.org/wiki/Windows)平台运行的初回版和通常版。2014年2月，在电击G's杂志上宣布将移植到[PSV](https://zh.wikipedia.org/wiki/PlayStation_Vita)平台，基于平台的性质问题，会取消娼妇部分的相关设定。实体版本《秽翼的尤斯蒂娅 Angel’s blessing》于同年6月26日发售，下载版本则于7月10日上架。2016年11月22日由[DMM.com](https://zh.wikipedia.org/wiki/DMM.com)发售Windows平台和[Android](https://zh.wikipedia.org/wiki/Android)平台的新装版。
+years:
+  - "2011"
+  - "2014"
+  - "2016"
+  - "2022"
 title: 秽翼的尤斯蒂娅／穢翼のユースティア／Eustia of the Tarnished Wings／Aiyoku no Eustia／脏翅膀
 slug: 19213
 tags:
@@ -11,10 +19,6 @@ tags:
   - 奇幻
   - 催泪
   - 治愈
-  - 2011
-  - 2014
-  - 2016
-  - 2022
 categories:
   - Windows
   - ONS
@@ -23,13 +27,6 @@ author: searvee
 date: 2024-04-19 23:51:00
 lastmod: 2024-04-19 23:51:00
 ---
-
-![eustia](https://static.30hb.cn/vndb/img/eustia.webp)
-
-《**秽翼的尤斯蒂娅**》（日语：穢翼のユースティア）为[AUGUST](https://zh.wikipedia.org/wiki/AUGUST)发行的[恋爱冒险](https://zh.wikipedia.org/wiki/戀愛冒險)类型[日本成人游戏](https://zh.wikipedia.org/wiki/日本成人遊戲)。2010年8月释出全部主配角资料，2011年初推出体验版，2011年4月28日和7月29日各发售于[Windows](https://zh.wikipedia.org/wiki/Windows)平台运行的初回版和通常版。2014年2月，在电击G's杂志上宣布将移植到[PSV](https://zh.wikipedia.org/wiki/PlayStation_Vita)平台，基于平台的性质问题，会取消娼妇部分的相关设定。实体版本《秽翼的尤斯蒂娅 Angel’s blessing》于同年6月26日发售，下载版本则于7月10日上架。2016年11月22日由[DMM.com](https://zh.wikipedia.org/wiki/DMM.com)发售Windows平台和[Android](https://zh.wikipedia.org/wiki/Android)平台的新装版。
-
-<!--more-->
-
 ## 世界观
 
 [人类](https://zh.wikipedia.org/wiki/人類)在久远之前，由[神](https://zh.wikipedia.org/wiki/神)所派遣的[天使](https://zh.wikipedia.org/wiki/天使)创造出来，身为天使的的创造物，受到天使的祝福与关爱，人类社会繁荣起来。然而渐渐地，在长期的繁荣里，人类忘却对于天使与神的崇敬，忘却祈祷与对神与天使的感激，开始傲慢了起来。

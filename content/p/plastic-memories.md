@@ -1,4 +1,9 @@
 ---
+cover: "https://static.30hb.cn/vndb/img/plastic-memories.webp"
+description: |-
+  **《可塑性记忆（~~塑料内存条~~）》**（原名：プラスティック・メモリーズ/PLASTIC MEMORIES）是由[林直孝](https://zh.moegirl.org.cn/林直孝)执笔、[okiura](https://zh.moegirl.org.cn/index.php?title=Okiura&action=edit&redlink=1)担当角色原案、由5pb.制作的PSV平台ADV游戏，2016年10月13日发售，有通常版、限定版、DL版三种版本。
+years:
+  - "2016"
 title: 可塑性记忆／プラスティック・メモリーズ／PLASTIC MEMORIES／塑料内存条／塑成型记忆
 slug: 56843
 tags:
@@ -17,19 +22,11 @@ tags:
   - 机娘
   - 致郁
   - 泣
-  - 2016
 categories:
   - Windows
 date: 2024-02-23 03:16:00
 lastmod: 2024-10-21 23:21:00
 ---
-
-![plastic-memories](https://static.30hb.cn/vndb/img/plastic-memories.webp)
-
-**《可塑性记忆（~~塑料内存条~~）》**（原名：プラスティック・メモリーズ/PLASTIC MEMORIES）是由[林直孝](https://zh.moegirl.org.cn/林直孝)执笔、[okiura](https://zh.moegirl.org.cn/index.php?title=Okiura&action=edit&redlink=1)担当角色原案、由5pb.制作的PSV平台ADV游戏，2016年10月13日发售，有通常版、限定版、DL版三种版本。
-
-<!--more-->
-
 本作属于近未来恋爱作品，讲述的是“相遇与离别的故事”，与机器人之间的感情将是本作的主题。林直孝表示本作是一个让人时而欢乐时而感动的故事。因为用全部篇幅描写感情会使剧本显得沉重，所以会在一些地方加入轻松加愉快的片段。
 
 ![plastic-memories_p1](https://static.30hb.cn/vndb/img/plastic-memories_p1.webp)

@@ -1,4 +1,13 @@
 ---
+cover: "https://static.30hb.cn/vndb/img/bsc.webp"
+description: |-
+  《青空下的加缪》是[KAI-SOFT](https://zh.moegirl.org.cn/KAI(游戏公司))制作的一款双女主视觉小说，于2019年3月29日发布。
+
+  游戏的CG绘图清新优美：无垠而纯净的蓝天、幽静而蠢蠢欲动的山谷、永无止境的铁道以及两个可爱的女孩共同为玩家营造一次交织着恐惧感的亦梦亦真的旅行。
+
+  游戏以阿尔贝·加缪的哲学为主题思想，同时也融入宫泽贤治《[银河铁道之夜](https://zh.moegirl.org.cn/%E9%93%B6%E6%B2%B3%E9%93%81%E9%81%93%E4%B9%8B%E5%A4%9C)》元素，内容充斥着哲学、超现实与民俗学的内容，让这个游戏显得更加云诡波谲。意识流与现实主义交相辉映，也为此作添加了一份先锋派文学的风采。
+years:
+  - "2019"
 title: 青空下的加缪／青空下的卡缪／青い空のカミュ／Camus In The Blue Sky／BSC
 slug: 7025
 tags:
@@ -17,7 +26,6 @@ tags:
   - 冒险
   - 奇幻
   - 恐怖
-  - 2019
 categories:
   - Windows
   - KRKR
@@ -26,17 +34,6 @@ author: Dimly
 date: 2025-07-19 17:36:30
 lastmod: 2025-07-19 17:36:00
 ---
-
-![bsc](https://static.30hb.cn/vndb/img/bsc.webp)
-
-《青空下的加缪》是[KAI-SOFT](https://zh.moegirl.org.cn/KAI(游戏公司))制作的一款双女主视觉小说，于2019年3月29日发布。
-
-游戏的CG绘图清新优美：无垠而纯净的蓝天、幽静而蠢蠢欲动的山谷、永无止境的铁道以及两个可爱的女孩共同为玩家营造一次交织着恐惧感的亦梦亦真的旅行。
-
-游戏以阿尔贝·加缪的哲学为主题思想，同时也融入宫泽贤治《[银河铁道之夜](https://zh.moegirl.org.cn/%E9%93%B6%E6%B2%B3%E9%93%81%E9%81%93%E4%B9%8B%E5%A4%9C)》元素，内容充斥着哲学、超现实与民俗学的内容，让这个游戏显得更加云诡波谲。意识流与现实主义交相辉映，也为此作添加了一份先锋派文学的风采。
-
-<!--more-->
-
 ![bsc_p1](https://static.30hb.cn/vndb/img/bsc_p1.webp)
 
 ![bsc_p2](https://static.30hb.cn/vndb/img/bsc_p2.webp)

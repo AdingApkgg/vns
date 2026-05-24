@@ -1,23 +1,20 @@
 ---
+cover: "https://static.30hb.cn/vndb/img/seishun-f.webp"
+description: |-
+  《**玻璃青春**》~~青春玻璃渣~~（日语：**青春フラジャイル**）是由[Purple software](https://zh.moegirl.org.cn/Purple_software)制作发行的一款[ADV](https://zh.moegirl.org.cn/ADV)游戏，于2020年8月28日发售。
+years:
+  - "2020"
 title: 玻璃青春／青春玻璃渣／青春フラジャイル／Seishun Fragile／Seishun Furajairu／青フラ／Aofura
 slug: 42695
 tags:
   - Purple-software／紫社
   - 妹
   - 黑长直
-  - 2020
 categories:
   - Windows
 date: 2024-09-09 18:45:00
 lastmod: 2024-09-09 18:45:00
 ---
-
-![seishun-f](https://static.30hb.cn/vndb/img/seishun-f.webp)
-
-《**玻璃青春**》~~青春玻璃渣~~（日语：**青春フラジャイル**）是由[Purple software](https://zh.moegirl.org.cn/Purple_software)制作发行的一款[ADV](https://zh.moegirl.org.cn/ADV)游戏，于2020年8月28日发售。
-
-<!--more-->
-
 ## 剧情
 
 在这个世界上，存在着 魔法。

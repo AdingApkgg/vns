@@ -1,4 +1,9 @@
 ---
+cover: "https://static.30hb.cn/vndb/img/sylvie.webp"
+description: |-
+  《**Teaching Feeling ～和奴隶在一起的生活～**》（日语：**Teaching Feeling -傷肌少女との生活-**）是由日本社团[FreakilyCharming](https://zh.moegirl.org.cn/index.php?title=FreakilyCharming&action=edit&redlink=1)发行的一部R-18养成类文字冒险游戏，游戏本体于2015年10月27日在DLsite发售，29日在DMM发售。
+years:
+  - "2015"
 title: 奴隶少女希尔薇／Teaching Feeling ～和瘢痕少女在一起的生活～／傷肌少女との生活／奴隷との生活／和奴隶在一起的生活／与奴隶的生活
 slug: 42853
 tags:
@@ -9,20 +14,12 @@ tags:
   - 纯爱
   - 治愈
   - 拔
-  - 2015
 categories:
   - Windows
   - Android
 date: 2024-01-28 11:00:00
 lastmod: 2024-11-17 07:17:30
 ---
-
-![sylvie](https://static.30hb.cn/vndb/img/sylvie.webp)
-
-《**Teaching Feeling ～和奴隶在一起的生活～**》（日语：**Teaching Feeling -傷肌少女との生活-**）是由日本社团[FreakilyCharming](https://zh.moegirl.org.cn/index.php?title=FreakilyCharming&action=edit&redlink=1)发行的一部R-18养成类文字冒险游戏，游戏本体于2015年10月27日在DLsite发售，29日在DMM发售。
-
-<!--more-->
-
 奴隶少女希尔薇（Teaching Feeling）v4.0.6精翻汉化版！
 这款游戏由{FreakilyCharming}社团制作，发售于2015年~
 作为当时红遍全球的超赞SLG游戏，剧情，人设，玩法都非常完美！

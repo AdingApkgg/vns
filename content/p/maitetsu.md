@@ -1,4 +1,10 @@
 ---
+cover: "https://static.30hb.cn/vndb/img/maitetsu.webp"
+description: |-
+  **《爱上火车》**（日语：まいてつ）是由Lose开发的恋爱冒险类电子游戏，并有系列衍生漫画、摄影APP、动画等。2020年10月30日发售新增剧情的《爱上火车 Last Run!!》，新增原有线路的后日谈及新线路，并重写了总集线，而原版《爱上火车》则对应地被称作《爱上火车 Pure Station》。
+years:
+  - "2016"
+  - "2020"
 title: 爱上火车LastRun!!／铁路浪漫谭／まいてつ／Maitetsu／我的铁路／余铁
 slug: 3355
 tags:
@@ -13,21 +19,12 @@ tags:
   - 后宫
   - 足交
   - 纯爱
-  - 2016
-  - 2020
 categories:
   - Windows
   - KRKR
 date: 2024-03-23 00:10:00
 lastmod: 2024-03-23 00:10:00
 ---
-
-![maitetsu](https://static.30hb.cn/vndb/img/maitetsu.webp)
-
-**《爱上火车》**（日语：まいてつ）是由Lose开发的恋爱冒险类电子游戏，并有系列衍生漫画、摄影APP、动画等。2020年10月30日发售新增剧情的《爱上火车 Last Run!!》，新增原有线路的后日谈及新线路，并重写了总集线，而原版《爱上火车》则对应地被称作《爱上火车 Pure Station》。
-
-<!--more-->
-
 ## 剧情简介
 
 控制铁路列车的人形部件——铁路人偶。

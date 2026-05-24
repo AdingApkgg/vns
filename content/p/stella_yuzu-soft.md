@@ -1,12 +1,16 @@
 ---
+cover: "https://static.30hb.cn/vndb/img/stella_yuzu-soft.webp"
+description: |-
+  **星光咖啡馆与死神之蝶**（日语：**喫茶（カフェ）ステラと死神の蝶**、英语：***Café Stella and the Reapers' Butterflies***）是由[柚子社](https://zh.moegirl.org.cn/柚子社)制作的[Galgame](https://zh.moegirl.org.cn/Galgame)。
+years:
+  - "2019"
+  - "2022"
 title: 星光咖啡馆与死神之蝶／星巴克与扑棱蛾子／喫茶ステラと死神の蝶／Cafe Stella and the Reapers' Butterflies
 slug: 59607
 tags:
   - Yuzu-Soft／柚子社
   - 纯爱
   - 恋爱
-  - 2019
-  - 2022
   - 校园
   - 幼驯染
   - 制服
@@ -18,13 +22,6 @@ categories:
 date: 2024-02-10 23:42:00
 lastmod: 2024-11-17 07:20:20
 ---
-
-![stella_yuzu-soft](https://static.30hb.cn/vndb/img/stella_yuzu-soft.webp)
-
-**星光咖啡馆与死神之蝶**（日语：**喫茶（カフェ）ステラと死神の蝶**、英语：***Café Stella and the Reapers' Butterflies***）是由[柚子社](https://zh.moegirl.org.cn/柚子社)制作的[Galgame](https://zh.moegirl.org.cn/Galgame)。
-
-<!--more-->
-
 ## 原作介绍
 
 本作是[柚子社](https://zh.moegirl.org.cn/柚子社)的第十一作，描述着在因缘际会之下进入了死亡螺旋中的男主角，与[死神](https://zh.moegirl.org.cn/死神)的相遇，并且在[学校](https://zh.moegirl.org.cn/学校)及[咖啡店](https://zh.moegirl.org.cn/咖啡厅)兼职之间所发生的日常恋爱故事。

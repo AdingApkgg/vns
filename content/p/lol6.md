@@ -1,4 +1,27 @@
 ---
+cover: "https://static.30hb.cn/vndb/img/lol6.webp"
+description: |-
+  让不行的大人明白。
+
+  但是——我们也想明白。
+
+  人为了相爱而活着。
+
+  在最里面一起的喜悦。
+
+  我在小肚脐下面等你。
+
+  请给我爱。请给我爱。请给我爱。
+
+  更多性爱罗利乌托邦。
+
+  ☆推荐给这样的人！！
+
+  想让看不起大人的少女明白！！
+
+  但是也有想被捉弄的感觉。你不会输吧？
+years:
+  - "2020"
 title: 诱惑、自大、洛丽塔／誘惑なまいきロリータ／Ill-Mannered Seduction Lolita／诱惑自大洛丽塔／诱惑双子洛丽塔
 slug: 48405
 tags:
@@ -12,7 +35,6 @@ tags:
   - 幼女
   - 哲学
   - 恋爱
-  - 2020
 categories:
   - Windows
   - KRKR
@@ -21,31 +43,6 @@ author: WTY
 date: 2024-10-25 03:55:00
 lastmod: 2024-10-25 03:55:00
 ---
-
-![lol6](https://static.30hb.cn/vndb/img/lol6.webp)
-
-让不行的大人明白。
-
-但是——我们也想明白。
-
-人为了相爱而活着。
-
-在最里面一起的喜悦。
-
-我在小肚脐下面等你。
-
-请给我爱。请给我爱。请给我爱。
-
-更多性爱罗利乌托邦。
-
-☆推荐给这样的人！！
-
-想让看不起大人的少女明白！！
-
-但是也有想被捉弄的感觉。你不会输吧？
-
-<!--more-->
-
 ![lol6_p1](https://static.30hb.cn/vndb/img/lol6_p1.webp)
 
 ![lol6_p2](https://static.30hb.cn/vndb/img/lol6_p2.webp)

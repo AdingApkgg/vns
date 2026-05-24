@@ -1,4 +1,9 @@
 ---
+cover: "https://static.30hb.cn/vndb/img/totsu.webp"
+description: |-
+  《**灵感满溢的甜蜜创想FD-凸**》（日语：**ハミダシクリエイティブ凸**）是由[Madosoft](https://madosoft.net/)制作发行的恋爱文字冒险游戏，于2020年9月发售的Galgame，是《**常轨脱离Creative**》的后日谈作品，游戏的制作阵容和本篇一致，由甲木順之助负责剧本，宇都宮つみれ负责原画。游戏的时间线承接本篇，并增加了原作女配角竜閑天梨的路线。
+years:
+  - "2022"
 title: 常轨脱离Creative凸／灵感满溢的甜蜜创想FD-凸／ハミダシクリエイティブ凸／富婆妹
 slug: 37056
 tags:
@@ -10,7 +15,6 @@ tags:
   - 可爱
   - 治愈
   - 废萌
-  - 2022
 categories:
   - Windows
   - Tyranor
@@ -18,13 +22,6 @@ author: Sinon
 date: 2024-01-31 21:40:00
 lastmod: 2025-02-24 15:31:10
 ---
-
-![totsu](https://static.30hb.cn/vndb/img/totsu.webp)
-
-《**灵感满溢的甜蜜创想FD-凸**》（日语：**ハミダシクリエイティブ凸**）是由[Madosoft](https://madosoft.net/)制作发行的恋爱文字冒险游戏，于2020年9月发售的Galgame，是《**常轨脱离Creative**》的后日谈作品，游戏的制作阵容和本篇一致，由甲木順之助负责剧本，宇都宮つみれ负责原画。游戏的时间线承接本篇，并增加了原作女配角竜閑天梨的路线。
-
-<!--more-->
-
 ## 游戏简介
 
 “总之，下一任学生会长就决定是和泉同学！”

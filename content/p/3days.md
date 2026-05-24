@@ -1,4 +1,11 @@
 ---
+cover: "https://static.30hb.cn/vndb/img/3days.webp"
+description: |-
+  《**3days～在逝去时间的另一端**》（日语：**3days～満ちてゆく刻の彼方で～**）是由[Lass](https://zh.moegirl.org.cn/index.php?title=Lass&action=edit&redlink=1)（ぱれっと）制作的一部美少女游戏，于2004年6月25发售。简称为“3Days”。
+
+  ~~[Galgame吧十二神器](https://zh.moegirl.org.cn/Galgame吧十二神器)之一，代号“血池轮回”。~~
+years:
+  - "2004"
 title: 3days~在逝去时间的另一端~／～満ちてゆく刻の彼方で～／~Till Death Do Us A Part~
 slug: 43876
 tags:
@@ -13,7 +20,6 @@ tags:
   - 幼驯染
   - 中二
   - 狂气
-  - 2004
 categories:
   - Windows
   - ONS
@@ -21,15 +27,6 @@ author: Kirishima
 date: 2024-05-25 02:35:00
 lastmod: 2024-05-25 02:35:00
 ---
-
-![3days](https://static.30hb.cn/vndb/img/3days.webp)
-
-《**3days～在逝去时间的另一端**》（日语：**3days～満ちてゆく刻の彼方で～**）是由[Lass](https://zh.moegirl.org.cn/index.php?title=Lass&action=edit&redlink=1)（ぱれっと）制作的一部美少女游戏，于2004年6月25发售。简称为“3Days”。
-
-~~[Galgame吧十二神器](https://zh.moegirl.org.cn/Galgame吧十二神器)之一，代号“血池轮回”。~~
-
-<!--more-->
-
 ## 故事
 
 作为平凡的学生持续过着日常生活的主人公高梨亮，他连续三天经历着非同寻常的现象。第一天，同样是绫筱学园的柊美柚被杀了。第二天，吾妻梨花跳楼自杀。第三天，在和藤见环的性交中，两人被在家中出现的袭击者杀害了。但是，本应被谋杀的亮于10月16日早晨再次醒来。 亮因恶心、困惑和令人难以忘怀的记忆而感到不适。在上学途中，目睹了柊美柚遇难现场的亮，感到了奇怪的既视感。那是无限重复的三天的开始。

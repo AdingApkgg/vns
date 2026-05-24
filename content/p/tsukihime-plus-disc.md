@@ -1,24 +1,21 @@
 ---
+cover: "https://static.30hb.cn/vndb/img/tsukihime-plus-disc.webp"
+description: |-
+  《**月姬 PLUS-DISC** 》是[同人圈](https://ja.wikipedia.org/wiki/同人サークル)（当时） [TYPE-MOON](https://ja.wikipedia.org/wiki/TYPE-MOON)于[2001 年](https://ja.wikipedia.org/wiki/2001年)[1 月 21 日](https://ja.wikipedia.org/wiki/1月21日)制作的《[月姬](https://ja.wikipedia.org/wiki/月姫_(ゲーム))》的追加特典光盘。
+years:
+  - "2001"
 title: 月姫 PLUS-DISC／つきひめ／Tsukihime PLUS-DISK／月姫
 slug: 58472
 tags:
   - TYPE-MOON
   - FD
   - 奇幻
-  - 2001
 categories:
   - Windows
   - ONS
 date: 2024-07-31 01:00:00
 lastmod: 2024-07-31 01:00:00
 ---
-
-![tsukihime-plus-disc](https://static.30hb.cn/vndb/img/tsukihime-plus-disc.webp)
-
-《**月姬 PLUS-DISC** 》是[同人圈](https://ja.wikipedia.org/wiki/同人サークル)（当时） [TYPE-MOON](https://ja.wikipedia.org/wiki/TYPE-MOON)于[2001 年](https://ja.wikipedia.org/wiki/2001年)[1 月 21 日](https://ja.wikipedia.org/wiki/1月21日)制作的《[月姬](https://ja.wikipedia.org/wiki/月姫_(ゲーム))》的追加特典光盘。
-
-<!--more-->
-
 第一弹作为在[同人志发售活动](https://ja.wikipedia.org/wiki/同人誌即売会)“ [Sunshine Creation](https://ja.wikipedia.org/wiki/サンシャインクリエイション) ”中购买“月姬”的特典而附赠，下个月也作为单独的“PLUS-DISC”出售（TMC-0102） 。后来被收录在“月姬”系列套装“[月箱](https://ja.wikipedia.org/wiki/月箱)”中，名为“**月姬 PLUS+DISC** ”（TMC-0106）。
 
 《PLUS-DISC》收录了《月姬》的修改文件，过去发行的《汉和月姬》试玩版包括《Visual Alliance》、《Getcha》、《Demonstration》 ”，并记录了“[空之境界](https://ja.wikipedia.org/wiki/空の境界)”开头的文字。除此之外，《PLUS+DISC》还收录了《Getcha 2》、《Kinoko Masterpiece Experiment Station》和壁纸。此外，“PLUS+DISC”使用与“ [Fate/stay night](https://ja.wikipedia.org/wiki/Fate/stay_night) ”相同的[游戏引擎](https://ja.wikipedia.org/wiki/ゲームエンジン)[Kirikiri](https://ja.wikipedia.org/wiki/吉里吉里2) ，后者是在Notes Ltd.将TYPE-MOON商业化为[成人游戏](https://ja.wikipedia.org/wiki/アダルトゲーム)品牌后发布的。

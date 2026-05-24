@@ -1,4 +1,9 @@
 ---
+cover: "https://static.30hb.cn/vndb/img/gakunin.webp"
+description: |-
+  **《女装学园（妊）》**是日本游戏品牌**脑内彼女**制作并于2014年9月26日发售的R-18纯爱ADV。和女装山脉、女装海峡一样，该作中的“女主角”全部都是[伪娘](https://zh.moegirl.org.cn/伪娘)。
+years:
+  - "2014"
 title: 女装学园（妊）／女装学園（妊）
 slug: 30206
 tags:
@@ -9,7 +14,6 @@ tags:
   - 男の娘
   - 女装
   - 后宫
-  - 2014
 categories:
   - Windows
   - ONS
@@ -17,13 +21,6 @@ categories:
 date: 2024-04-30 01:26:00
 lastmod: 2024-04-30 01:26:00
 ---
-
-![gakunin](https://static.30hb.cn/vndb/img/gakunin.webp)
-
-**《女装学园（妊）》**是日本游戏品牌**脑内彼女**制作并于2014年9月26日发售的R-18纯爱ADV。和女装山脉、女装海峡一样，该作中的“女主角”全部都是[伪娘](https://zh.moegirl.org.cn/伪娘)。
-
-<!--more-->
-
 这也是一部 ~~“出卖灵魂有保障的”~~伪娘大作。
 
 ## 原作介绍

@@ -1,4 +1,9 @@
 ---
+cover: "https://static.30hb.cn/vndb/img/tirnanog.webp"
+description: |-
+  《**梦幻的提尔纳诺**》（日语：**夢幻のティル・ナ・ノーグ**）是由あざらしそふと＋１制作发行的一款Galgame，于2024年12月20日发售。
+years:
+  - "2024"
 title: 梦幻的提尔纳诺／夢幻のティル・ナ・ノーグ／Mugen no Tír na nÓg
 slug: 39994
 tags:
@@ -13,7 +18,6 @@ tags:
   - 校园
   - 女仆
   - 奇幻
-  - 2024
 categories:
   - Windows
   - KRKR
@@ -21,13 +25,6 @@ author: Dimly
 date: 2025-07-30 14:13:30
 lastmod: 2025-10-06 04:50:00
 ---
-
-![tirnanog](https://static.30hb.cn/vndb/img/tirnanog.webp)
-
-《**梦幻的提尔纳诺**》（日语：**夢幻のティル・ナ・ノーグ**）是由あざらしそふと＋１制作发行的一款Galgame，于2024年12月20日发售。
-
-<!--more-->
-
 ![tirnanog_p1](https://static.30hb.cn/vndb/img/tirnanog_p1.webp)
 
 ![tirnanog_p2](https://static.30hb.cn/vndb/img/tirnanog_p2.webp)

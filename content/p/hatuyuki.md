@@ -1,4 +1,15 @@
 ---
+cover: "https://static.30hb.cn/vndb/img/hatuyuki.webp"
+description: |-
+  《**初雪樱**》（日语：はつゆきさくら）为[SAGA PLANETS](https://zh.wikipedia.org/wiki/SAGA_PLANETS)于2012年2月24日发售的[恋爱冒险](https://zh.wikipedia.org/wiki/戀愛冒險)[成人游戏](https://zh.wikipedia.org/wiki/日本成人遊戲)。后来由ENTERGRAM发售[PlayStation Vita](https://zh.wikipedia.org/wiki/PlayStation_Vita)版、[PlayStation 4](https://zh.wikipedia.org/wiki/PlayStation_4)和[任天堂Switch](https://zh.wikipedia.org/wiki/任天堂Switch)版。
+
+  本作是关于被复仇之心所困的男女跟自身亲近的人一同毕业成长的故事，并是继SAGA PLANETS社代表春、夏、秋的作品《Coming×Humming!!》、《夏梦渚》、《如月GOLD★STAR》发售后的“冬”之作，以由冬至春作为背景的[纯爱](https://zh.wikipedia.org/wiki/純愛)系校园风作品，是四季系列的最终作。然而四季系列的[原画集](https://zh.wikipedia.org/wiki/原画)《SAGA PLANETS 四季系列 All Season Art Works》却在2011年12月24日的发售之前发表。
+
+  2022年，《初雪樱》即将推出10周年纪念版，于2022年12月23日发售。
+
+  2012年至2013年陆续发行改编[漫画](https://zh.wikipedia.org/wiki/日本漫畫)、[小说](https://zh.wikipedia.org/wiki/小說)。
+years:
+  - "2012"
 title: >-
   初雪樱／はつゆきさくら／Hatsuyuki Sakura: White Graduation／出血樱 初雪绫 Hatsusaku はつさく FHD
   Edition
@@ -9,7 +20,6 @@ tags:
   - 纯爱
   - 校园
   - 致郁
-  - 2012
 categories:
   - Windows
   - Tyranor
@@ -17,19 +27,6 @@ author: Sinon
 date: 2025-04-01 05:00:00
 lastmod: 2025-04-01 05:00:00
 ---
-
-![hatuyuki](https://static.30hb.cn/vndb/img/hatuyuki.webp)
-
-《**初雪樱**》（日语：はつゆきさくら）为[SAGA PLANETS](https://zh.wikipedia.org/wiki/SAGA_PLANETS)于2012年2月24日发售的[恋爱冒险](https://zh.wikipedia.org/wiki/戀愛冒險)[成人游戏](https://zh.wikipedia.org/wiki/日本成人遊戲)。后来由ENTERGRAM发售[PlayStation Vita](https://zh.wikipedia.org/wiki/PlayStation_Vita)版、[PlayStation 4](https://zh.wikipedia.org/wiki/PlayStation_4)和[任天堂Switch](https://zh.wikipedia.org/wiki/任天堂Switch)版。
-
-本作是关于被复仇之心所困的男女跟自身亲近的人一同毕业成长的故事，并是继SAGA PLANETS社代表春、夏、秋的作品《Coming×Humming!!》、《夏梦渚》、《如月GOLD★STAR》发售后的“冬”之作，以由冬至春作为背景的[纯爱](https://zh.wikipedia.org/wiki/純愛)系校园风作品，是四季系列的最终作。然而四季系列的[原画集](https://zh.wikipedia.org/wiki/原画)《SAGA PLANETS 四季系列 All Season Art Works》却在2011年12月24日的发售之前发表。
-
-2022年，《初雪樱》即将推出10周年纪念版，于2022年12月23日发售。
-
-2012年至2013年陆续发行改编[漫画](https://zh.wikipedia.org/wiki/日本漫畫)、[小说](https://zh.wikipedia.org/wiki/小說)。
-
-<!--more-->
-
 ![hatuyuki_p1](https://static.30hb.cn/vndb/img/hatuyuki_p1.webp)
 
 ![hatuyuki_p2](https://static.30hb.cn/vndb/img/hatuyuki_p2.webp)

@@ -1,4 +1,11 @@
 ---
+cover: "https://static.30hb.cn/vndb/img/song-of-saya.webp"
+description: |-
+  **《沙耶之歌》**（日语：**沙耶の唄**）是由[Nitro+](https://zh.moegirl.org.cn/Nitro%2B)制作的一部R18文字冒险类游戏，由[虚渊玄](https://zh.moegirl.org.cn/虚渊玄)执笔脚本，初版于2003年12月26日发售。
+years:
+  - "2003"
+  - "2014"
+  - "2019"
 title: 沙耶之歌／沙耶の唄／the song of saya
 slug: 23102
 tags:
@@ -8,9 +15,6 @@ tags:
   - 黑暗系
   - 恋爱
   - 十二神器
-  - 2003
-  - 2014
-  - 2019
 categories:
   - Windows
   - ONS
@@ -18,13 +22,6 @@ categories:
 date: 2024-03-29 23:05:00
 lastmod: 2024-03-29 23:30:00
 ---
-
-![song-of-saya](https://static.30hb.cn/vndb/img/song-of-saya.webp)
-
-**《沙耶之歌》**（日语：**沙耶の唄**）是由[Nitro+](https://zh.moegirl.org.cn/Nitro%2B)制作的一部R18文字冒险类游戏，由[虚渊玄](https://zh.moegirl.org.cn/虚渊玄)执笔脚本，初版于2003年12月26日发售。
-
-<!--more-->
-
 游戏在背景设定上与[手冢治虫](https://zh.moegirl.org.cn/手冢治虫)的《[火鸟](https://zh.moegirl.org.cn/火鸟)--复活篇》有一些相似之处，文本中亦有对其致敬，但在故事上没有太多相似之处，《火鸟》可能是本作灵感来源之一。
 
 ## 前言

@@ -1,4 +1,15 @@
 ---
+cover: "https://static.30hb.cn/vndb/img/lol2.webp"
+description: |-
+  **我最终还是收养了这个孩子。**
+
+  「等你长大了，我们结婚吧」。
+  凭着这样天真无邪的拉钩起誓，她闯进了我的生活。
+  在同一个屋檐下，不会有人打扰我们。 就让我们融化在爱和甜蜜之中。
+  「真是没办法～」
+  我离不开有她的生活，又深陷其中而不自知。
+years:
+  - "2015"
 title: 与你拉钩起誓的婚约／ゆびきり婚約ロリイタ／Pinky Promise Lolita／勾指婚约洛丽塔／与你拉起勾勾的誓约
 slug: 45904
 tags:
@@ -11,7 +22,6 @@ tags:
   - 实用
   - 同人
   - 哲学
-  - 2015
 categories:
   - Windows
   - KRKR
@@ -19,19 +29,6 @@ author: WTY
 date: 2024-10-25 03:44:30
 lastmod: 2024-10-25 03:44:30
 ---
-
-![lol2](https://static.30hb.cn/vndb/img/lol2.webp)
-
-**我最终还是收养了这个孩子。**
-
-「等你长大了，我们结婚吧」。
-凭着这样天真无邪的拉钩起誓，她闯进了我的生活。
-在同一个屋檐下，不会有人打扰我们。 就让我们融化在爱和甜蜜之中。
-「真是没办法～」
-我离不开有她的生活，又深陷其中而不自知。
-
-<!--more-->
-
 ![lol2_p1](https://static.30hb.cn/vndb/img/lol2_p1.webp)
 
 ![lol2_p2](https://static.30hb.cn/vndb/img/lol2_p2.webp)

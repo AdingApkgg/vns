@@ -1,4 +1,10 @@
 ---
+cover: "https://static.30hb.cn/vndb/img/himanatsu.webp"
+description: |-
+  《向日葵的教会与长长的暑假》（日语：向日葵の教会と長い夏休み）是由枕制作的一部Galgame。
+  主机移植版增加副标题“extra vacation”，升格一名可攻略角色。
+years:
+  - "2013"
 title: 向日葵的教会与长长的暑假／向日葵的教会与长夏假期／向日葵教会和漫长的暑假／向日葵の教会と長い夏休み
 slug: 52022
 tags:
@@ -13,20 +19,11 @@ tags:
   - 萝莉
   - 纯爱
   - 恋爱
-  - 2013
 categories:
   - Windows
 date: 2024-01-28 14:30:00
 lastmod: 2024-03-04 03:15:00
 ---
-
-![himanatsu](https://static.30hb.cn/vndb/img/himanatsu.webp)
-
-《向日葵的教会与长长的暑假》（日语：向日葵の教会と長い夏休み）是由枕制作的一部Galgame。
-主机移植版增加副标题“extra vacation”，升格一名可攻略角色。
-
-<!--more-->
-
 ## 游戏介绍
 
 有亘古不变的事物。

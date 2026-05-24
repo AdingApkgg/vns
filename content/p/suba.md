@@ -1,4 +1,15 @@
 ---
+cover: "https://static.30hb.cn/vndb/img/suba.webp"
+description: |-
+  **美好~~（鬼畜）~~的每一天～不连续的存在～**（日文：**素晴らしき日々～不連続存在～**，英文：Wonderful Everyday Down the Rabbit-Hole）是由[枕社](https://zh.moegirl.org.cn/枕)的姐妹游戏公司[ケロQ](https://zh.moegirl.org.cn/ケロQ)推出的一款电波、狂气类冒险游戏，于2010年3月26日发售。
+
+  于2018年7月20日发售HD版，追加全语音和后日谈篇章Knockin'on heaven's door。并修改了部分对话。
+
+  于2020年12月25日发售十周年纪念版。
+years:
+  - "2010"
+  - "2018"
+  - "2020"
 title: 美好的每一天～不连续的存在～ HD／素晴日／素晴らしき日々～不連続存在～／Wonderful Everyday Down the Rabbit-Hole
 slug: 36400
 tags:
@@ -7,9 +18,6 @@ tags:
   - 校园
   - 哲学
   - 十二神器
-  - 2010
-  - 2018
-  - 2020
 categories:
   - Windows
   - ONS
@@ -17,17 +25,6 @@ categories:
 date: 2024-04-05 00:00:00
 lastmod: 2024-04-22 21:02:00
 ---
-
-![suba](https://static.30hb.cn/vndb/img/suba.webp)
-
-**美好~~（鬼畜）~~的每一天～不连续的存在～**（日文：**素晴らしき日々～不連続存在～**，英文：Wonderful Everyday Down the Rabbit-Hole）是由[枕社](https://zh.moegirl.org.cn/枕)的姐妹游戏公司[ケロQ](https://zh.moegirl.org.cn/ケロQ)推出的一款电波、狂气类冒险游戏，于2010年3月26日发售。
-
-于2018年7月20日发售HD版，追加全语音和后日谈篇章Knockin'on heaven's door。并修改了部分对话。
-
-于2020年12月25日发售十周年纪念版。
-
-<!--more-->
-
 ## 原作介绍
 
 2010年由KeroQ（ケロQ）社出品的文字恋爱游戏，编剧为SCA-自（すかぢ），在[批评空间](https://zh.moegirl.org.cn/index.php?title=批评空间&action=edit&redlink=1)评价颇高，属于90分段作品。获得“2010年萌系游戏大赏”的铜奖、脚本奖部门的金奖。
