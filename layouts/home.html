@@ -1,7 +1,6 @@
 {{ define "main" }}
 <article class="article-main">
   <section>
-    <p>
     <div class="image-zoom">
       <img data-src="https://api.illlights.com/v1/img" alt="Random Image" src="https://api.illlights.com/v1/img"
         data-zoomable />
@@ -11,7 +10,6 @@
       <a class="post-edit-link" href="{{ .Site.Params.contentEdit }}{{ with .File }}{{ .Path }}{{ end }}"
         rel="external nofollow noreferrer" title="编辑" target="_blank"><i class="fas fa-pencil-alt"></i></a>
     </h1>
-    </p>
   </section>
   {{ .Content }} {{ $paginator := .Paginate (where .Site.RegularPages "Type"
   "p") }} {{ range $paginator.Pages.ByLastmod.Reverse.ByWeight }}

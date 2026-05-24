@@ -735,16 +735,30 @@ function rv() {
             .filter((url) => url !== "{{ .Site.BaseURL }}");
 
           if (!posts || posts.length === 0) {
-            document.body.innerHTML =
-              "<p>No random pages found. Please try again.</p>";
+            Swal.fire({
+              icon: "info",
+              title: "没有可用的随机页面",
+              text: "稍后再试试吧～",
+              toast: true,
+              position: "top",
+              showConfirmButton: false,
+              timer: 3000,
+            });
             return;
           }
           const randomUrl = posts[Math.floor(Math.random() * posts.length)];
           swup.navigate(randomUrl);
         })
         .catch((error) => {
-          document.body.innerHTML =
-            "<p>Error loading random page. Please try again.</p>";
+          Swal.fire({
+            icon: "error",
+            title: "随机页面加载失败",
+            text: "网络好像不太给力，稍后再试～",
+            toast: true,
+            position: "top",
+            showConfirmButton: false,
+            timer: 3000,
+          });
         });
     });
   }

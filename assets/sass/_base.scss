@@ -11,7 +11,7 @@ html {
 
 body {
   margin: 0;
-  padding: 0;
+  padding: 0 0 0 148px;
   font-family:
     HarmonyOS_Regular,
     -apple-system,
@@ -217,6 +217,19 @@ main {
       overflow-wrap: break-word;
     }
   }
+}
+
+.content {
+  p {
+    margin: 0 0 1em;
+  }
+}
+
+sup#busuanzi_value_page_pv,
+sup.busuanzi_value_page_pv {
+  display: inline-block;
+  min-width: 2em;
+  text-align: left;
 }
 
 main kbd,
@@ -966,6 +979,10 @@ pre:hover .copy-btn {
 }
 
 @media (max-width: 1288px) {
+  body {
+    padding-left: 0;
+  }
+
   #caution-bg {
     width: 90% !important;
     padding: 20px;
