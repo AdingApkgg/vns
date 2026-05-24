@@ -1,4 +1,12 @@
 ---
+cover: "https://static.30hb.cn/vndb/img/td4.webp"
+description: |-
+  **《微小地牢》**（英语：Tiny Dungeon）是[Rosebleu](https://zh.moegirl.org.cn/Rosebleu)公司制作的日本成人系[Galgame](https://zh.moegirl.org.cn/Galgame)，共分为四部（分割商法），于2010年至2012年陆续发售，2014年发布续作《Endless Dungeon》。
+years:
+  - "2010"
+  - "2011"
+  - "2012"
+  - "2014"
 title: Tiny Dungeon ~BRAVE or SLAVE~／微小地牢－奴隶或勇士 完结篇／タイニイ ダンジョン ブレイブオアスレイブ
 slug: 6858
 tags:
@@ -10,23 +18,12 @@ tags:
   - 燃
   - 校园
   - 奇幻
-  - 2010
-  - 2011
-  - 2012
-  - 2014
 categories:
   - Windows
   - ONS
 date: 2024-08-27 14:55:00
 lastmod: 2024-08-27 14:55:00
 ---
-
-![td4](https://static.30hb.cn/vndb/img/td4.webp)
-
-**《微小地牢》**（英语：Tiny Dungeon）是[Rosebleu](https://zh.moegirl.org.cn/Rosebleu)公司制作的日本成人系[Galgame](https://zh.moegirl.org.cn/Galgame)，共分为四部（分割商法），于2010年至2012年陆续发售，2014年发布续作《Endless Dungeon》。
-
-<!--more-->
-
 ## 故事
 
 トリニティ—建立在魔界、神界、和人界的交汇处，以孕育勇者为使命的学园。

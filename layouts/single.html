@@ -23,6 +23,24 @@
   </div>
   {{ end }}
   
+  {{ if .Params.cover }}
+  <figure class="post-cover image-zoom" itemscope itemtype="http://schema.org/ImageObject">
+    <img data-src="{{ .Params.cover }}" alt="{{ .LinkTitle }}" data-zoomable loading="lazy" />
+  </figure>
+  {{ end }}
+
+  {{ if .Params.description }}
+  <div class="post-summary">{{ .Params.description | markdownify }}</div>
+  {{ end }}
+
+  {{ with .Params.years }}
+  {{ $years := . }}
+  {{ if not (reflect.IsSlice $years) }}{{ $years = slice $years }}{{ end }}
+  <p class="post-release">
+    <i class="fa fa-clock"></i>&nbsp;{{ range $i, $y := $years }}{{ if $i }}<span class="post-release-sep">·</span>{{ end }}<a href="/year/{{ $y }}/">{{ $y }} 年</a>{{ end }}
+  </p>
+  {{ end }}
+
   {{ if eq .Section "p" }}
   <!-- AI 感想生成区域 - 仅在 /p/ 下显示 -->
   <div class="ai-review-section" id="ai-review">

@@ -1,4 +1,11 @@
 ---
+cover: "https://static.30hb.cn/vndb/img/fate-sn.webp"
+description: |-
+  《**Fate/stay night**》（日语：フェイト/ステイナイト，中文：命运／停驻之夜、命运守护夜、命运之夜）是由[TYPE-MOON](https://zh.wikipedia.org/wiki/TYPE-MOON)于2004年1月30日发售的[PC](https://zh.wikipedia.org/wiki/个人电脑)平台[十八禁](https://zh.wikipedia.org/wiki/十八禁遊戲)[文字冒险游戏](https://zh.wikipedia.org/wiki/文字冒險遊戲)，也是TYPE-MOON商业化后初次亮相的作品。
+years:
+  - "2004"
+  - "2006"
+  - "2024"
 title: Fate/stay night／fsn／命运／停驻之夜／命运之夜／命运守护夜／命运长夜／通常 HD 高清 重置 重制 REMASTERED
 slug: 47594
 tags:
@@ -9,9 +16,6 @@ tags:
   - 燃
   - 补魔
   - 无修正
-  - 2004
-  - 2006
-  - 2024
 categories:
   - Windows
   - KRKR
@@ -20,13 +24,6 @@ author: searvee
 date: 2024-04-14 23:54:00
 lastmod: 2024-08-12 18:45:00
 ---
-
-![fate-sn](https://static.30hb.cn/vndb/img/fate-sn.webp)
-
-《**Fate/stay night**》（日语：フェイト/ステイナイト，中文：命运／停驻之夜、命运守护夜、命运之夜）是由[TYPE-MOON](https://zh.wikipedia.org/wiki/TYPE-MOON)于2004年1月30日发售的[PC](https://zh.wikipedia.org/wiki/个人电脑)平台[十八禁](https://zh.wikipedia.org/wiki/十八禁遊戲)[文字冒险游戏](https://zh.wikipedia.org/wiki/文字冒險遊戲)，也是TYPE-MOON商业化后初次亮相的作品。
-
-<!--more-->
-
 ## 序章
 
 传说，在[日本](https://zh.wikipedia.org/wiki/日本)的某个名叫“冬木市”的城市里，每隔数十年，会出现能实现其持有者所有愿望的宝物“圣杯”。7名魔术师（御主（マスター，Master））与7名使魔（从者（サーヴァント，Servant））签订契约，为了争夺圣杯而参与“圣杯战争”。能获得圣杯的只有一组，这7组人马各自为了成为最后的那一组而互相残杀。但是，这场战斗和魔术是完全对公众隐藏的。

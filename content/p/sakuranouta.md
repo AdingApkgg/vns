@@ -1,4 +1,9 @@
 ---
+cover: "https://static.30hb.cn/vndb/img/sakuranouta.webp"
+description: |-
+  《**樱之诗 －在樱花之森上飞舞－**》（日语：サクラノ詩 -櫻の森の上を舞う-）是日本游戏品牌[枕](https://zh.wikipedia.org/wiki/枕_(遊戲品牌))制作并于2015年10月23日所推出的[Windows](https://zh.wikipedia.org/wiki/Windows)[PC](https://zh.wikipedia.org/wiki/个人电脑)平台[恋爱冒险](https://zh.wikipedia.org/wiki/戀愛冒險)[成人游戏](https://zh.wikipedia.org/wiki/日本成人遊戲)。最初预定于2004年春天发售，并命名为《**樱之诗 -The tear flows because of tenderness.-**》（サクラノ詩 -The tear flows because of tenderness.-）。2005年3月26日至2006年3月26日于《[月刊Comp Ace](https://zh.wikipedia.org/wiki/月刊Comp_Ace)》连载[漫画](https://zh.wikipedia.org/wiki/漫畫)作品《**樱之诗 -The tear flows because of tenderness.-**》，[单行本](https://zh.wikipedia.org/wiki/单行本)于2006年6月7日发售，共一册。
+years:
+  - "2015"
 title: 樱之诗 －在樱花之森上飞舞－／サクラノ詩－櫻の森の上を舞う－
 slug: 60360
 tags:
@@ -7,20 +12,12 @@ tags:
   - 哲学
   - 百合
   - 纯爱
-  - 2015
 categories:
   - Windows
   - Android
 date: 2024-04-21 04:10:00
 lastmod: 2024-04-21 04:10:00
 ---
-
-![sakuranouta](https://static.30hb.cn/vndb/img/sakuranouta.webp)
-
-《**樱之诗 －在樱花之森上飞舞－**》（日语：サクラノ詩 -櫻の森の上を舞う-）是日本游戏品牌[枕](https://zh.wikipedia.org/wiki/枕_(遊戲品牌))制作并于2015年10月23日所推出的[Windows](https://zh.wikipedia.org/wiki/Windows)[PC](https://zh.wikipedia.org/wiki/个人电脑)平台[恋爱冒险](https://zh.wikipedia.org/wiki/戀愛冒險)[成人游戏](https://zh.wikipedia.org/wiki/日本成人遊戲)。最初预定于2004年春天发售，并命名为《**樱之诗 -The tear flows because of tenderness.-**》（サクラノ詩 -The tear flows because of tenderness.-）。2005年3月26日至2006年3月26日于《[月刊Comp Ace](https://zh.wikipedia.org/wiki/月刊Comp_Ace)》连载[漫画](https://zh.wikipedia.org/wiki/漫畫)作品《**樱之诗 -The tear flows because of tenderness.-**》，[单行本](https://zh.wikipedia.org/wiki/单行本)于2006年6月7日发售，共一册。
-
-<!--more-->
-
 ## 剧情简介
 
 春天。由于世界著名的艺术家父亲的去世，变得天涯孤独的主人公·草薙直哉，要开始了寄居在友人的夏目圭家的生活。在那里迎接他的是在他将要上学的地方担任班主任的夏目蓝，以及从事演员的圭的妹妹夏目雫。然后，随着新学期的到来，幼时转校离去的青梅竹马御樱禀再度出现在他的面前。随风飞舞的樱花花瓣的彼方，那是，有如曾经约定下的再会——。时间将思念重叠在一起，当感情的奔流成形之时，在那里相遇到的光景将会是？

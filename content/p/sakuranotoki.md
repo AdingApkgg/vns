@@ -1,4 +1,9 @@
 ---
+cover: "https://static.30hb.cn/vndb/img/sakuranotoki.webp"
+description: |-
+  《**樱之刻 －在樱花之森下漫步-**》（日语：サクラノ刻 -櫻の森の下を歩む-）是日本游戏品牌[枕](https://zh.wikipedia.org/wiki/枕_(遊戲品牌))开发并于2023年2月24日所推出的[Windows](https://zh.wikipedia.org/wiki/Windows)平台[十八禁](https://zh.wikipedia.org/wiki/日本成人遊戲)[视觉小说](https://zh.wikipedia.org/wiki/视觉小说)游戏，[樱之诗](https://zh.wikipedia.org/wiki/櫻之詩)的续作。
+years:
+  - "2023"
 title: 樱之刻 －在樱花之森下漫步－／サクラノ刻 －櫻の森の下を歩む－
 slug: 18125
 tags:
@@ -6,20 +11,12 @@ tags:
   - 艺术
   - 哲学
   - 纯爱
-  - 2023
 categories:
   - Windows
   - Tyranor
 date: 2024-04-21 06:05:00
 lastmod: 2024-08-17 01:34:40
 ---
-
-![sakuranotoki](https://static.30hb.cn/vndb/img/sakuranotoki.webp)
-
-《**樱之刻 －在樱花之森下漫步-**》（日语：サクラノ刻 -櫻の森の下を歩む-）是日本游戏品牌[枕](https://zh.wikipedia.org/wiki/枕_(遊戲品牌))开发并于2023年2月24日所推出的[Windows](https://zh.wikipedia.org/wiki/Windows)平台[十八禁](https://zh.wikipedia.org/wiki/日本成人遊戲)[视觉小说](https://zh.wikipedia.org/wiki/视觉小说)游戏，[樱之诗](https://zh.wikipedia.org/wiki/櫻之詩)的续作。
-
-<!--more-->
-
 ## 图片
 
 ![sakuranotoki_p1](https://static.30hb.cn/vndb/img/sakuranotoki_p1.webp)

@@ -1,4 +1,10 @@
 ---
+cover: "https://static.30hb.cn/vndb/img/eden.webp"
+description: |-
+  **《eden\*》**是由[minori](https://zh.moegirl.org.cn/Minori)于2009年所推出的一款[Galgame](https://zh.moegirl.org.cn/Galgame)，并有漫画等衍生作品。
+years:
+  - "2009"
+  - "2015"
 title: eden*／eden* PLUS+MOSAIC／伊甸园／伊甸园 加强版 + 有码／えでん*／えでん* PLUS ＋ MOSAIC
 slug: 42529
 tags:
@@ -10,21 +16,12 @@ tags:
   - 科幻
   - 催泪
   - 纯爱
-  - 2009
-  - 2015
 categories:
   - Windows
   - ONS
 date: 2024-02-25 02:32:00
 lastmod: 2024-02-25 02:32:00
 ---
-
-![eden](https://static.30hb.cn/vndb/img/eden.webp)
-
-**《eden\*》**是由[minori](https://zh.moegirl.org.cn/Minori)于2009年所推出的一款[Galgame](https://zh.moegirl.org.cn/Galgame)，并有漫画等衍生作品。
-
-<!--more-->
-
 ## 原作介绍
 
 ### 作品简介

@@ -1,4 +1,14 @@
 ---
+cover: "https://static.30hb.cn/vndb/img/tsukiniyorisou.webp"
+description: |-
+  **《近月少女的礼仪》**（日语：**月に寄りそう乙女の作法**）是由[Navel](https://zh.moegirl.org.cn/Navel)制作的一部Galgame，并有[近月少女的礼仪2](https://zh.moegirl.org.cn/近月少女的礼仪2)、[少女理论及其周边](https://zh.moegirl.org.cn/少女理论及其周边)、[少女理论及其之后的周边](https://zh.moegirl.org.cn/少女理论及其之后的周边)等衍生作品。[近朱者赤，近墨者黑，近月者弯](https://zh.moegirl.org.cn/近朱者赤，近墨者黑，近月者弯)
+years:
+  - "2012"
+  - "2015"
+  - "2016"
+  - "2017"
+  - "2018"
+  - "2022"
 title: 近月少女的礼仪／月に寄りそう乙女の作法／向阳的日子
 slug: 20454
 tags:
@@ -12,12 +22,6 @@ tags:
   - 日常
   - 废萌
   - 萌
-  - 2012
-  - 2015
-  - 2016
-  - 2017
-  - 2018
-  - 2022
 categories:
   - Windows
   - ONS
@@ -25,13 +29,6 @@ author: searvee
 date: 2024-04-16 00:43:00
 lastmod: 2024-04-16 00:43:00
 ---
-
-![tsukiniyorisou](https://static.30hb.cn/vndb/img/tsukiniyorisou.webp)
-
-**《近月少女的礼仪》**（日语：**月に寄りそう乙女の作法**）是由[Navel](https://zh.moegirl.org.cn/Navel)制作的一部Galgame，并有[近月少女的礼仪2](https://zh.moegirl.org.cn/近月少女的礼仪2)、[少女理论及其周边](https://zh.moegirl.org.cn/少女理论及其周边)、[少女理论及其之后的周边](https://zh.moegirl.org.cn/少女理论及其之后的周边)等衍生作品。[近朱者赤，近墨者黑，近月者弯](https://zh.moegirl.org.cn/近朱者赤，近墨者黑，近月者弯)
-
-<!--more-->
-
 ## 剧情简介
 
 本作的男~~（女）~~主角[小仓朝日](https://zh.moegirl.org.cn/小仓朝日)（[大藏游星](https://zh.moegirl.org.cn/大藏游星)）为了追逐自己成为服装设计师的梦想，~~伪装了性别~~通过妹妹的介绍来到了樱小路露娜的樱公馆当起了女仆同时进入了菲利亚女子学院。

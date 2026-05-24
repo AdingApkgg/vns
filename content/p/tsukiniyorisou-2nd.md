@@ -1,4 +1,10 @@
 ---
+cover: "https://static.30hb.cn/vndb/img/tsukiniyorisou-2nd.webp"
+description: |-
+  **《近月少女的礼仪2》**（日语：**月に寄りそう乙女の作法2**）是Navel社制作的一部[Galgame](https://zh.moegirl.org.cn/Galgame)，为近月系列第三作，并有两篇[Fan Disc](https://zh.moegirl.org.cn/Fan_Disc)《近月少女的礼仪2.1 E×S×PAR!!》和《近月少女的礼仪2.2 A×L+SA!!》。
+years:
+  - "2014"
+  - "2017"
 title: 近月少女的礼仪2／月に寄りそう乙女の作法2／向阳的日子2
 slug: 1089
 tags:
@@ -12,21 +18,12 @@ tags:
   - 日常
   - 废萌
   - 萌
-  - 2014
-  - 2017
 categories:
   - Windows
   - ONS
 date: 2024-04-19 00:05:00
 lastmod: 2024-04-19 00:05:00
 ---
-
-![tsukiniyorisou-2nd](https://static.30hb.cn/vndb/img/tsukiniyorisou-2nd.webp)
-
-**《近月少女的礼仪2》**（日语：**月に寄りそう乙女の作法2**）是Navel社制作的一部[Galgame](https://zh.moegirl.org.cn/Galgame)，为近月系列第三作，并有两篇[Fan Disc](https://zh.moegirl.org.cn/Fan_Disc)《近月少女的礼仪2.1 E×S×PAR!!》和《近月少女的礼仪2.2 A×L+SA!!》。
-
-<!--more-->
-
 ## 简介
 
 ### 游戏简介

@@ -1,4 +1,11 @@
 ---
+cover: "https://static.30hb.cn/vndb/img/sothewitch.webp"
+description: |-
+  《**魔女的夜宴**》（日语：**サノバウィッチ**）是由[柚子社](https://zh.moegirl.org.cn/YUZU_SOFT)制作发行的恋爱文字冒险游戏，于2015年2月27日面向Windows PC平台发售。英文版由NekoNyan代理，于2018年10月27日在Steam、NekoNyan的网上商城还有其他平台发售，并发行实体版。中文版由HIKARI FIELD代理，于2023年7月21日~~柚子厨特有的[0721](https://zh.moegirl.org.cn/0721)~~在Steam发售。
+years:
+  - "2015"
+  - "2018"
+  - "2023"
 title: 魔女的夜宴／サノバウィッチ／魔宴／Sabbat of the Witch
 slug: 61936
 tags:
@@ -9,9 +16,6 @@ tags:
   - 魔女
   - 废萌
   - 喜剧
-  - 2015
-  - 2018
-  - 2023
 categories:
   - Windows
   - KRKR
@@ -19,13 +23,6 @@ categories:
 date: 2024-01-30 20:50:00
 lastmod: 2024-11-17 07:21:10
 ---
-
-![sothewitch](https://static.30hb.cn/vndb/img/sothewitch.webp)
-
-《**魔女的夜宴**》（日语：**サノバウィッチ**）是由[柚子社](https://zh.moegirl.org.cn/YUZU_SOFT)制作发行的恋爱文字冒险游戏，于2015年2月27日面向Windows PC平台发售。英文版由NekoNyan代理，于2018年10月27日在Steam、NekoNyan的网上商城还有其他平台发售，并发行实体版。中文版由HIKARI FIELD代理，于2023年7月21日~~柚子厨特有的[0721](https://zh.moegirl.org.cn/0721)~~在Steam发售。
-
-<!--more-->
-
 ## 剧情简介
 
 **保科柊史**拥有着这样一个秘密。

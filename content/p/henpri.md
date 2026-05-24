@@ -1,4 +1,9 @@
 ---
+cover: "https://static.30hb.cn/vndb/img/henpri.webp"
+description: |-
+  **《变态监狱》**（日语：**ヘンタイ・プリズン**）是[Qruppo](https://zh.moegirl.org.cn/index.php?title=Qruppo&action=edit&redlink=1)在2022年1月28日发售的一款露出狂越狱[ADV](https://zh.moegirl.org.cn/ADV)。
+years:
+  - "2022"
 title: 变态监狱／ヘンタイ・プリズン／Hentai Prison
 slug: 41666
 tags:
@@ -11,20 +16,12 @@ tags:
   - 偷拍
   - 人渣
   - 惩罚
-  - 2022
 categories:
   - Windows
   - Tyranor
 date: 2024-02-07 02:00:00
 lastmod: 2025-03-22 03:51:20
 ---
-
-![henpri](https://static.30hb.cn/vndb/img/henpri.webp)
-
-**《变态监狱》**（日语：**ヘンタイ・プリズン**）是[Qruppo](https://zh.moegirl.org.cn/index.php?title=Qruppo&action=edit&redlink=1)在2022年1月28日发售的一款露出狂越狱[ADV](https://zh.moegirl.org.cn/ADV)。
-
-<!--more-->
-
 ![henpri_p1](https://static.30hb.cn/vndb/img/henpri_p1.webp)
 
 ![henpri_p2](https://static.30hb.cn/vndb/img/henpri_p2.webp)

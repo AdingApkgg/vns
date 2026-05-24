@@ -1,4 +1,9 @@
 ---
+cover: "https://static.30hb.cn/vndb/img/angelbeats.webp"
+description: |-
+  《Angel Beats!》游戏版，是由key社制作的一系列多媒体小说作品，也是key社第一次改编既有作品。策划和人设与动画版同为麻枝准和Na-Ga，也是Na-Ga参加人设的第二部、独立人设的第一部key社游戏。
+years:
+  - "2015"
 title: Angel Beats! -1st beat-／天使的脉动／天使的心跳／围殴天使／神仙打架／仙人跳／Angel Beast／エンジェルビーツ!／AB!
 slug: 6688
 tags:
@@ -12,19 +17,11 @@ tags:
   - 催泪
   - 校园
   - 战斗
-  - 2015
 categories:
   - Windows
 date: 2024-05-06 23:46:00
 lastmod: 2024-05-06 23:46:00
 ---
-
-![angelbeats](https://static.30hb.cn/vndb/img/angelbeats.webp)
-
-《Angel Beats!》游戏版，是由key社制作的一系列多媒体小说作品，也是key社第一次改编既有作品。策划和人设与动画版同为麻枝准和Na-Ga，也是Na-Ga参加人设的第二部、独立人设的第一部key社游戏。
-
-<!--more-->
-
 ## 图片
 
 ![angelbeats_p1](https://static.30hb.cn/vndb/img/angelbeats_p1.webp)

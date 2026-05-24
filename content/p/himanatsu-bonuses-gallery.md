@@ -1,21 +1,18 @@
 ---
+cover: "https://static.30hb.cn/vndb/img/himanatsu-bonuses-gallery.webp"
+description: |-
+  （画集・设定资料集）向日葵的教会与长长的暑假 官方艺术作品
+years:
+  - "2013"
 title: （画集・设定资料集）向日葵的教会与长长的暑假 官方艺术作品／（画集・設定資料集）向日葵の教会と長い夏休み オフィシャルアートワークス／向日葵的教会与长夏假期／向日葵教会和漫长的暑假
 slug: 33924
 tags:
   - 枕社
-  - 2013
 categories:
   - Other
 date: 2024-02-10 03:00:00
 lastmod: 2024-03-30 21:56:00
 ---
-
-![himanatsu-bonuses-gallery](https://static.30hb.cn/vndb/img/himanatsu-bonuses-gallery.webp)
-
-（画集・设定资料集）向日葵的教会与长长的暑假 官方艺术作品
-
-<!--more-->
-
 （画集・設定資料集）向日葵の教会と長い夏休み オフィシャルアートワークス
 
 ## 提示

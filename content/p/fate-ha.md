@@ -1,4 +1,10 @@
 ---
+cover: "https://static.30hb.cn/vndb/img/fate-ha.webp"
+description: |-
+  **《Fate/hollow ataraxia》**（日語：**フェイト/ホロウ　アタラクシア**）是由[TYPE-MOON](https://zh.moegirl.org.cn/TYPE-MOON)製作的一部AVG遊戲，於2005年初次發售，為遊戲「[Fate/stay night](https://zh.moegirl.org.cn/Fate/stay_night)」的Fan Disc。
+years:
+  - "2005"
+  - "2014"
 title: Fate/hollow ataraxia／fha／命运／停驻之夜／命运之夜／命运守护夜／命运长夜／虚空明镜／FD
 slug: 25624
 tags:
@@ -15,21 +21,12 @@ tags:
   - 解谜
   - 魔幻
   - 无修正
-  - 2005
-  - 2014
 categories:
   - Windows
   - KRKR
 date: 2024-04-19 22:58:00
 lastmod: 2024-04-19 22:58:00
 ---
-
-![fate-ha](https://static.30hb.cn/vndb/img/fate-ha.webp)
-
-**《Fate/hollow ataraxia》**（日語：**フェイト/ホロウ　アタラクシア**）是由[TYPE-MOON](https://zh.moegirl.org.cn/TYPE-MOON)製作的一部AVG遊戲，於2005年初次發售，為遊戲「[Fate/stay night](https://zh.moegirl.org.cn/Fate/stay_night)」的Fan Disc。
-
-<!--more-->
-
 ## 原作介绍
 
 **《Fate/hollow ataraxia》**，是前作『[Fate/stay night](https://zh.moegirl.org.cn/Fate/stay_night)』以衛宮士郎成為第五次聖杯戰爭勝利者的半年後——2004年10月，在同樣的舞台——冬木市，由同樣的人物所帶來的各種新的故事與插曲的一款Fan Disc。

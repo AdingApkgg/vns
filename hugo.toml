@@ -33,6 +33,13 @@ weight = 2
 pre = "fa fa-shuffle"
 
 [[menus.main]]
+identifier = "latest"
+name = '最新'
+pageRef = '/latest'
+weight = 2.5
+pre = "fa fa-clock"
+
+[[menus.main]]
 identifier = "home"
 name = '首页'
 pageRef = '/'
@@ -45,13 +52,6 @@ name = '搜索'
 pageRef = '/search'
 weight = 4
 pre = "fa fa-search"
-
-[[menus.main]]
-identifier = "platforms"
-name = '平台'
-pageRef = '/platforms'
-weight = 5
-pre = "fas fa-layer-group"
 
 [[menus.main]]
 identifier = "tags"
@@ -194,12 +194,14 @@ pagerSize = 10
 path = "page"
 
 [permalinks]
-categories = "/categories/:title/"
+categories = "/platforms/:title/"
 tags = "/tags/:title/"
+years = "/year/:title/"
 
 [taxonomies]
 category = "categories"
 tag = "tags"
+year = "years"
 
 [params.postmeta]
 enabled = true

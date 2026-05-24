@@ -1,4 +1,10 @@
 ---
+cover: "https://static.30hb.cn/vndb/img/mashimaro.webp"
+description: |-
+  《**回家之前的棉花糖** - I'll find my way home》（英语：Marshmallow All the Way Home）是[MARMALADE](https://mzh.moegirl.org.cn/MARMALADE)开发的一款[Galgame](https://mzh.moegirl.org.cn/Galgame)，获得2017年萌系游戏大赏“实用奖”。
+years:
+  - "2017"
+  - "2022"
 title: 回家之前的棉花糖／回家前都算是棉花糖／お家に帰るまでがましまろです
 slug: 5431
 tags:
@@ -7,21 +13,12 @@ tags:
   - 喜剧
   - 可爱
   - 少女
-  - 2017
-  - 2022
 categories:
   - Windows
 date: 2024-02-02 03:00:00
 lastmod: 2024-09-23 02:20:00
 author: WTY
 ---
-
-![mashimaro](https://static.30hb.cn/vndb/img/mashimaro.webp)
-
-《**回家之前的棉花糖** - I'll find my way home》（英语：Marshmallow All the Way Home）是[MARMALADE](https://mzh.moegirl.org.cn/MARMALADE)开发的一款[Galgame](https://mzh.moegirl.org.cn/Galgame)，获得2017年萌系游戏大赏“实用奖”。
-
-<!--more-->
-
 ## 简介
 
 注：以下为男主宫原亮第一人称视角。

@@ -1,4 +1,16 @@
 ---
+cover: "https://static.30hb.cn/vndb/img/air.webp"
+description: |-
+  《**AIR**》是由日本公司[VISUAL ARTS](https://zh.moegirl.org.cn/VISUAL_ARTS)旗下游戏子品牌[Key](https://zh.moegirl.org.cn/Key)（“Key社”）于2000年9月8日所推出的一款[Galgame](https://zh.moegirl.org.cn/Galgame)。
+years:
+  - "2000"
+  - "2001"
+  - "2002"
+  - "2010"
+  - "2012"
+  - "2013"
+  - "2016"
+  - "2021"
 title: AIR／青空／鸟之诗／青空下的传说／千年之夏
 slug: 31206
 tags:
@@ -7,14 +19,6 @@ tags:
   - 人生
   - 亲情
   - 治愈
-  - 2000
-  - 2001
-  - 2002
-  - 2010
-  - 2012
-  - 2013
-  - 2016
-  - 2021
 categories:
   - Windows
   - ONS
@@ -22,13 +26,6 @@ categories:
 date: 2024-07-31 03:56:40
 lastmod: 2024-07-31 03:56:40
 ---
-
-![air](https://static.30hb.cn/vndb/img/air.webp)
-
-《**AIR**》是由日本公司[VISUAL ARTS](https://zh.moegirl.org.cn/VISUAL_ARTS)旗下游戏子品牌[Key](https://zh.moegirl.org.cn/Key)（“Key社”）于2000年9月8日所推出的一款[Galgame](https://zh.moegirl.org.cn/Galgame)。
-
-<!--more-->
-
 ## 简介
 
 讲述了四处旅行寻找“天空中的女孩”——[神尾观铃](https://zh.moegirl.org.cn/神尾观铃)的人偶表演师[国崎往人](https://zh.moegirl.org.cn/国崎往人)在最终完成了使命的海边小镇里发生的故事以及这背后的翼人传说。

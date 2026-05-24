@@ -1,4 +1,10 @@
 ---
+cover: "https://static.30hb.cn/vndb/img/biman2.webp"
+description: |-
+  《**美少女万华镜 -勿忘草与永远的少女-**》（日语：美少女万華鏡 -忘れな草と永遠の少女-），下称《**勿忘草与永远的少女**》，是[ωstar](https://zh.wikipedia.org/wiki/Ωstar)在2012年7月27日发售的[恋爱冒险](https://zh.wikipedia.org/wiki/戀愛冒險)类型[日本成人游戏](https://zh.wikipedia.org/wiki/日本成人遊戲)，亦是《[美少女万华镜](https://zh.wikipedia.org/wiki/美少女万华镜)》系列的第2部作品。Android版于2017年4月27日公开。
+years:
+  - "2012"
+  - "2017"
 title: >-
   美少女万华镜 -勿忘草与永远的少女-／美少女万華鏡 -忘れな草と永遠の少女-／美少女万華鏡2／美少女萬華鏡
   2／美少女万拔镜／撸出血万华镜／美少女万花筒／Biman 2
@@ -12,8 +18,6 @@ tags:
   - 纯爱
   - 实用
   - 悬疑
-  - 2012
-  - 2017
 categories:
   - Windows
   - ONS
@@ -21,13 +25,6 @@ categories:
 date: 2024-06-08 03:57:00
 lastmod: 2024-06-08 03:57:00
 ---
-
-![biman2](https://static.30hb.cn/vndb/img/biman2.webp)
-
-《**美少女万华镜 -勿忘草与永远的少女-**》（日语：美少女万華鏡 -忘れな草と永遠の少女-），下称《**勿忘草与永远的少女**》，是[ωstar](https://zh.wikipedia.org/wiki/Ωstar)在2012年7月27日发售的[恋爱冒险](https://zh.wikipedia.org/wiki/戀愛冒險)类型[日本成人游戏](https://zh.wikipedia.org/wiki/日本成人遊戲)，亦是《[美少女万华镜](https://zh.wikipedia.org/wiki/美少女万华镜)》系列的第2部作品。Android版于2017年4月27日公开。
-
-<!--more-->
-
 《勿忘草与永远的少女》拥有多条剧情分支路线，每条路线皆有一系列预先设定的场景和人物互动。其主要聚焦于女主角泽渡雫跟[玩家角色](https://zh.wikipedia.org/wiki/玩家角色)的互动，并刻画了角色之间的性行为。整个故事以主角神崎彰人的视角作切入点。
 
 《勿忘草与永远的少女》的销量在开售后随即登上成人游戏杂志《PCpress》的日本全国美少女游戏销量排行榜第2位；日本美少女游戏暨动漫相关商品销售网站Getchu屋的最畅销游戏排行榜第3位。它在getchu屋被票选为2012年7月第4佳的[美少女游戏](https://zh.wikipedia.org/wiki/美少女遊戲)，之后亦在该站的2012年美少女游戏大奖中夺得色情部门第2位。

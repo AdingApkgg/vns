@@ -1,4 +1,24 @@
 ---
+cover: "https://static.30hb.cn/vndb/img/9-nine-.webp"
+description: |-
+  《**9-nine-**》是[PALETTE](https://zh.wikipedia.org/wiki/PALETTE)发售的[恋爱冒险](https://zh.wikipedia.org/wiki/戀愛冒險)类型[成人游戏](https://zh.wikipedia.org/wiki/日本成人遊戲)。本作分为多个章节，自2017年开始发售：
+
+  - 2017年4月28日—《九次九日九重色》（ここのつここのかここのいろ）
+  - 2018年4月27日—《天色天歌天籁音》（そらいろそらうたそらのおと）
+  - 2019年4月26日—《春色春恋春熙风》（はるいろはるこいはるのかぜ）
+  - 2020年4月24日—《雪色雪花雪之痕》（ゆきいろゆきはなゆきのあと）
+  - 2021年4月23日—《新章》（New Episode）
+
+  本作品讲述主人公新海翔在一次地震后获得超能力后，结识其他超能力使用者并解决超能力事件和挫败邪恶阴谋的故事。
+
+  自〈新章〉开始，本作转型为全年龄游戏。Palette为此制作了《9-nine-》全年龄合辑版，与〈新章〉同日发售。之后，Palette开始为本作进行移植和跨媒体改编：2021年10月17日宣布作品改编成[漫画](https://zh.wikipedia.org/wiki/日本漫画)，并移植到[PS4](https://zh.wikipedia.org/wiki/PS4)和[任天堂Switch](https://zh.wikipedia.org/wiki/任天堂Switch)平台，2024年5月29日宣布作品将获改编为[电视动画](https://zh.wikipedia.org/wiki/日本電視動畫)。
+years:
+  - "2017"
+  - "2018"
+  - "2019"
+  - "2020"
+  - "2021"
+  - "2022"
 title: 9-nine-／九次九日九重色 天色天歌天籁音 春色春恋春熙风 雪色雪花雪余痕 新章 ここのつここのかここのいろ そらいろそらうたそらのおと はるいろはるこいはるのかぜ ゆきいろゆきはなゆきのあと New Episode 系列合集 Series
 slug: 2873
 tags:
@@ -18,35 +38,12 @@ tags:
   - 燃
   - 轮回
   - FD
-  - 2017
-  - 2018
-  - 2019
-  - 2020
-  - 2021
-  - 2022
 categories:
   - Windows
   - KRKR
 date: 2024-02-22 03:55:00
 lastmod: 2024-09-23 04:07:30
 ---
-
-![9-nine-](https://static.30hb.cn/vndb/img/9-nine-.webp)
-
-《**9-nine-**》是[PALETTE](https://zh.wikipedia.org/wiki/PALETTE)发售的[恋爱冒险](https://zh.wikipedia.org/wiki/戀愛冒險)类型[成人游戏](https://zh.wikipedia.org/wiki/日本成人遊戲)。本作分为多个章节，自2017年开始发售：
-
-- 2017年4月28日—《九次九日九重色》（ここのつここのかここのいろ）
-- 2018年4月27日—《天色天歌天籁音》（そらいろそらうたそらのおと）
-- 2019年4月26日—《春色春恋春熙风》（はるいろはるこいはるのかぜ）
-- 2020年4月24日—《雪色雪花雪之痕》（ゆきいろゆきはなゆきのあと）
-- 2021年4月23日—《新章》（New Episode）
-
-本作品讲述主人公新海翔在一次地震后获得超能力后，结识其他超能力使用者并解决超能力事件和挫败邪恶阴谋的故事。
-
-自〈新章〉开始，本作转型为全年龄游戏。Palette为此制作了《9-nine-》全年龄合辑版，与〈新章〉同日发售。之后，Palette开始为本作进行移植和跨媒体改编：2021年10月17日宣布作品改编成[漫画](https://zh.wikipedia.org/wiki/日本漫画)，并移植到[PS4](https://zh.wikipedia.org/wiki/PS4)和[任天堂Switch](https://zh.wikipedia.org/wiki/任天堂Switch)平台，2024年5月29日宣布作品将获改编为[电视动画](https://zh.wikipedia.org/wiki/日本電視動畫)。
-
-<!--more-->
-
 ## 剧情
 
 学园都市白巳津川市，过着普通的学园生活的新海翔，但因大地震震坏了祭祀在白蛇九十九神社的神器的关系，使得翔所在的世界与异世界产生联系，且以那个世界流入的“Artifact”为契机而觉醒异能的少年少女，让翔卷入了“Artifact”和“User”们所引发的不幸的命运中。

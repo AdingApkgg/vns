@@ -1,4 +1,11 @@
 ---
+cover: "https://static.30hb.cn/vndb/img/hamidashi.webp"
+description: |-
+  《**常轨脱离Creative**》（日语：**ハミダシクリエイティブ**），民间汉化译作灵感满溢的甜蜜创想，是由[Madosoft](https://mzh.moegirl.org.cn/Madosoft)制作的一款[Galgame](https://mzh.moegirl.org.cn/Galgame)。
+years:
+  - "2020"
+  - "2021"
+  - "2022"
 title: 常轨脱离Creative／灵感满溢的甜蜜创想／ハミダシクリエイティブ／富婆妹
 slug: 64512
 tags:
@@ -10,9 +17,6 @@ tags:
   - 可爱
   - 废萌
   - 治愈
-  - 2020
-  - 2021
-  - 2022
 categories:
   - Windows
   - Tyranor
@@ -21,13 +25,6 @@ author: Sinon
 date: 2024-01-31 20:40:00
 lastmod: 2024-04-13 22:40:00
 ---
-
-![hamidashi](https://static.30hb.cn/vndb/img/hamidashi.webp)
-
-《**常轨脱离Creative**》（日语：**ハミダシクリエイティブ**），民间汉化译作灵感满溢的甜蜜创想，是由[Madosoft](https://mzh.moegirl.org.cn/Madosoft)制作的一款[Galgame](https://mzh.moegirl.org.cn/Galgame)。
-
-<!--more-->
-
 ## 游戏介绍
 
 当季节的脚步踏进了6月底……

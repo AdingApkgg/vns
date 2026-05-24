@@ -1,4 +1,14 @@
 ---
+cover: "https://static.30hb.cn/vndb/img/mashiro-sana.webp"
+description: |-
+  **《纯白交响曲》**（日语：**ましろ色シンフォニー**；英语：**Mashiroiro Symphony**）是由[Palette](https://zh.moegirl.org.cn/Palette(游戏公司))制作的一部以校园恋爱为主题的文字冒险游戏，PSP版[升格一名](https://zh.moegirl.org.cn/乾纱凪)、[新增一名](https://zh.moegirl.org.cn/小野宫结月)可攻略角色，并有动画、漫画等衍生作品。
+
+  在2019年宣布制作《纯白交响曲 SANA EDITION》（日语：**ましろ色シンフォニー SANA EDITION**）后，于2023年6月23日同时发售Remake for FHD版和SANA EDITION。官方中文由[白舟](https://zh.moegirl.org.cn/Shiravune)代理，于2024年5月2日同时发布重置版和SANA EDITION。
+years:
+  - "2009"
+  - "2011"
+  - "2023"
+  - "2024"
 title: >-
   纯白交响曲 SANA EDITION／ましろ色シンフォニー SANA EDITION／Mashiroiro Symphony HD -Sana
   Edition-
@@ -10,10 +20,6 @@ tags:
   - 纯爱
   - 傲娇
   - FD
-  - 2009
-  - 2011
-  - 2023
-  - 2024
 categories:
   - Windows
   - KRKR
@@ -21,15 +27,6 @@ categories:
 date: 2024-05-11 02:31:30
 lastmod: 2024-05-11 02:31:30
 ---
-
-![mashiro-sana](https://static.30hb.cn/vndb/img/mashiro-sana.webp)
-
-**《纯白交响曲》**（日语：**ましろ色シンフォニー**；英语：**Mashiroiro Symphony**）是由[Palette](https://zh.moegirl.org.cn/Palette(游戏公司))制作的一部以校园恋爱为主题的文字冒险游戏，PSP版[升格一名](https://zh.moegirl.org.cn/乾纱凪)、[新增一名](https://zh.moegirl.org.cn/小野宫结月)可攻略角色，并有动画、漫画等衍生作品。
-
-在2019年宣布制作《纯白交响曲 SANA EDITION》（日语：**ましろ色シンフォニー SANA EDITION**）后，于2023年6月23日同时发售Remake for FHD版和SANA EDITION。官方中文由[白舟](https://zh.moegirl.org.cn/Shiravune)代理，于2024年5月2日同时发布重置版和SANA EDITION。
-
-<!--more-->
-
 ## 简介
 
 心口不一的少女「乾纱凪」

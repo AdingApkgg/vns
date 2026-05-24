@@ -1,4 +1,11 @@
 ---
+cover: "https://static.30hb.cn/vndb/img/biman.webp"
+description: |-
+  《**美少女万华镜 -被诅咒的传说少女-**》（日语：美少女万華鏡 -呪われし伝説の少女-），下称《**被诅咒的传说少女**》，是[ωstar](https://zh.wikipedia.org/wiki/Ωstar)在2011年12月29日发售的[恋爱冒险](https://zh.wikipedia.org/wiki/戀愛冒險)类型[日本成人游戏](https://zh.wikipedia.org/wiki/日本成人遊戲)，亦是《[美少女万华镜](https://zh.wikipedia.org/wiki/美少女万华镜)》系列的首部作品。Android版于2016年9月1日公开。
+years:
+  - "2011"
+  - "2012"
+  - "2016"
 title: >-
   美少女万华镜 -被诅咒之传说少女-／美少女万華鏡 -呪われし伝説の少女-／Bishoujo Mangekyou: A Girl's Cursed
   Legend／美少女万華鏡1／美少女萬華鏡 1／美少女万拔镜／撸出血万华镜／美少女万花筒／Biman／被诅咒的传说少女
@@ -13,9 +20,6 @@ tags:
   - 奇幻
   - 吸血鬼
   - 傲娇
-  - 2011
-  - 2012
-  - 2016
 categories:
   - Windows
   - ONS
@@ -24,13 +28,6 @@ categories:
 date: 2024-06-08 03:32:00
 lastmod: 2024-06-08 03:32:00
 ---
-
-![biman](https://static.30hb.cn/vndb/img/biman.webp)
-
-《**美少女万华镜 -被诅咒的传说少女-**》（日语：美少女万華鏡 -呪われし伝説の少女-），下称《**被诅咒的传说少女**》，是[ωstar](https://zh.wikipedia.org/wiki/Ωstar)在2011年12月29日发售的[恋爱冒险](https://zh.wikipedia.org/wiki/戀愛冒險)类型[日本成人游戏](https://zh.wikipedia.org/wiki/日本成人遊戲)，亦是《[美少女万华镜](https://zh.wikipedia.org/wiki/美少女万华镜)》系列的首部作品。Android版于2016年9月1日公开。
-
-<!--more-->
-
 《被诅咒的传说少女》只有一条剧情路线，当中拥有一系列预先设定的场景和人物互动。其主要聚焦于女主角篝之雾枝跟[玩家角色](https://zh.wikipedia.org/wiki/玩家角色)的互动，并重点刻画了角色之间的性行为。整个故事以主角斧神滋比古的视角作切入点。他是个音乐老师，在校园里爱上了自己的学生兼[吸血鬼](https://zh.wikipedia.org/wiki/吸血鬼)篝之雾枝。
 
 《被诅咒的传说少女》的销量在开售后随即登上成人游戏杂志《PCpress》的日本全国[美少女游戏](https://zh.wikipedia.org/wiki/美少女遊戲)销量排行榜第16位；日本美少女游戏暨动漫相关商品销售网站Getchu屋的最畅销游戏排行榜第8位，在该站亦被票选为2011年12月第6佳的美少女游戏。

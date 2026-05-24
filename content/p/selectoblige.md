@@ -1,4 +1,9 @@
 ---
+cover: "https://static.30hb.cn/vndb/img/selectoblige.webp"
+description: |-
+  《**天选庶民的真命之选**》（日语：セレクトオブリージュ）是由[MADOSOFT](https://zh.wikipedia.org/w/index.php?title=MADOSOFT&action=edit&redlink=1)及kuwa games开发，在2024年7月26日发售的[恋爱冒险](https://zh.wikipedia.org/wiki/戀愛冒險)类型[成人游戏](https://zh.wikipedia.org/wiki/日本成人遊戲)。[HIKARI FIELD](https://zh.wikipedia.org/wiki/HIKARI_FIELD)预定于2024年发行中文版。
+years:
+  - "2024"
 title: 天选庶民的真命之选／セレクトオブリージュ／Select Oblige
 slug: 30665
 tags:
@@ -9,7 +14,6 @@ tags:
   - 萝莉
   - 纯爱
   - 萌
-  - 2024
 categories:
   - Windows
   - Tyranor
@@ -17,13 +21,6 @@ author: Sinon
 date: 2024-09-25 02:44:00
 lastmod: 2024-09-25 02:44:00
 ---
-
-![selectoblige](https://static.30hb.cn/vndb/img/selectoblige.webp)
-
-《**天选庶民的真命之选**》（日语：セレクトオブリージュ）是由[MADOSOFT](https://zh.wikipedia.org/w/index.php?title=MADOSOFT&action=edit&redlink=1)及kuwa games开发，在2024年7月26日发售的[恋爱冒险](https://zh.wikipedia.org/wiki/戀愛冒險)类型[成人游戏](https://zh.wikipedia.org/wiki/日本成人遊戲)。[HIKARI FIELD](https://zh.wikipedia.org/wiki/HIKARI_FIELD)预定于2024年发行中文版。
-
-<!--more-->
-
 ## 剧情
 
 叙述出生于贫民区男主角布波能凪获得进入精英子女专属的教育机构“樱元学园”的权利，在希望借此机会扭转人生同时面对针对身份低微外来者的负面感情和阴谋向他席卷而来的故事。

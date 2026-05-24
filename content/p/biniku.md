@@ -1,4 +1,9 @@
 ---
+cover: "https://static.30hb.cn/vndb/img/biniku.webp"
+description: |-
+  **《媚肉之香》**（日语：**媚肉の香り～ネトリネトラレヤリヤラレ～**）是日本ELF（エルフ）公司于2008年4月1日发售的一款~~治愈系~~GALGAME。
+years:
+  - "2008"
 title: 媚肉之香／媚肉の香り～ネトリネトラレヤリヤラレ～／番外编 律子之叹，由纪之香 律子の溜息・由紀の香り 外传
 slug: 25735
 tags:
@@ -13,19 +18,11 @@ tags:
   - 治愈
   - FD
   - 熟女
-  - 2008
 categories:
   - Windows
 date: 2024-11-05 22:19:00
 lastmod: 2024-11-05 22:19:00
 ---
-
-![biniku](https://static.30hb.cn/vndb/img/biniku.webp)
-
-**《媚肉之香》**（日语：**媚肉の香り～ネトリネトラレヤリヤラレ～**）是日本ELF（エルフ）公司于2008年4月1日发售的一款~~治愈系~~GALGAME。
-
-<!--more-->
-
 ![biniku_p1](https://static.30hb.cn/vndb/img/biniku_p1.webp)
 
 ![biniku_p2](https://static.30hb.cn/vndb/img/biniku_p2.webp)

@@ -1,4 +1,10 @@
 ---
+cover: "https://static.30hb.cn/vndb/img/oregairu.webp"
+description: |-
+  《**我的青春恋爱物语果然有问题。**》（日语：**やはり俺の青春ラブコメはまちがっている。**；英文：***My Youth Romantic Comedy Is Wrong, As I Expected*** 或 ***My Teen Romantic Comedy SNAFU***）~~，又称[我的股市风云果然有问题](https://zh.moegirl.org.cn/Oo股)、[白色相簿4](https://zh.moegirl.org.cn/白色相簿2)、我的白色相簿续作果然有问题~~，简称春物/果青（日语：俺ガイル），是由[渡航](https://zh.moegirl.org.cn/渡航)创作的一部轻小说，并有动画、漫画、游戏等衍生作品。
+years:
+  - "2013"
+  - "2016"
 title: >-
   我的青春恋爱物语果然有问题。／やはり俺の青春ラブコメはまちがっている。／やはりゲームでも俺の青春ラブコメはまちがっている。／果然我的青春恋爱喜剧搞错了。／我的青春恋爱喜剧果然有问题。／果然我的青春恋爱喜剧连游戏都搞错了。／果然在游戏里我的青春恋爱物语也有问题。／春物
   果青 Oregairu 本篇 续篇 合集 魔改
@@ -14,8 +20,6 @@ tags:
   - 日常
   - 后宫
   - 搞笑
-  - 2013
-  - 2016
 categories:
   - Windows
   - macOS
@@ -26,13 +30,6 @@ categories:
 date: 2024-09-24 00:26:30
 lastmod: 2024-09-24 00:26:30
 ---
-
-![oregairu](https://static.30hb.cn/vndb/img/oregairu.webp)
-
-《**我的青春恋爱物语果然有问题。**》（日语：**やはり俺の青春ラブコメはまちがっている。**；英文：***My Youth Romantic Comedy Is Wrong, As I Expected*** 或 ***My Teen Romantic Comedy SNAFU***）~~，又称[我的股市风云果然有问题](https://zh.moegirl.org.cn/Oo股)、[白色相簿4](https://zh.moegirl.org.cn/白色相簿2)、我的白色相簿续作果然有问题~~，简称春物/果青（日语：俺ガイル），是由[渡航](https://zh.moegirl.org.cn/渡航)创作的一部轻小说，并有动画、漫画、游戏等衍生作品。
-
-<!--more-->
-
 ## 剧情
 
 高中生[比企谷八幡](https://zh.wikipedia.org/wiki/比企谷八幡)生性别扭，不屈服于孤独，没有半个朋友，更不用提女朋友。对那些享受着青春的同班同学，他诅咒：“他们都是[现充](https://zh.wikipedia.org/wiki/现充)，通通给我爆炸吧！”——这样一个家伙，被导师带去全校第一美少女[雪之下雪乃](https://zh.wikipedia.org/wiki/雪之下雪乃)加入的“侍奉社”。

@@ -1,4 +1,18 @@
 ---
+cover: "https://static.30hb.cn/vndb/img/clannad.webp"
+description: |-
+  《**CLANNAD**》（**クラナド**（**Ku ra na do**）），简称**CL**，是由日本游戏品牌[Key](https://zh.moegirl.org.cn/Key)（“Key社”）所发行的第三款恋爱冒险游戏，并有动画、漫画、小说、网络广播等衍生作品。
+years:
+  - "2004"
+  - "2006"
+  - "2008"
+  - "2010"
+  - "2011"
+  - "2012"
+  - "2014"
+  - "2015"
+  - "2018"
+  - "2019"
 title: CLANNAD／CLANNAD HD Edition／Kuranado／クラナド／小镇家族／家族／团子大家族／克兰娜德／人生
 slug: 18459
 tags:
@@ -6,29 +20,12 @@ tags:
   - 恋爱
   - 爱情
   - 催泪
-  - 2004
-  - 2006
-  - 2008
-  - 2010
-  - 2011
-  - 2012
-  - 2014
-  - 2015
-  - 2018
-  - 2019
 categories:
   - Windows
   - ONS
 date: 2024-02-26 02:20:00
 lastmod: 2024-04-01 12:26:40
 ---
-
-![clannad](https://static.30hb.cn/vndb/img/clannad.webp)
-
-《**CLANNAD**》（**クラナド**（**Ku ra na do**）），简称**CL**，是由日本游戏品牌[Key](https://zh.moegirl.org.cn/Key)（“Key社”）所发行的第三款恋爱冒险游戏，并有动画、漫画、小说、网络广播等衍生作品。
-
-<!--more-->
-
 ## 故事简介
 
 在某个小镇，主角冈崎朋也因为家庭的因素而丧失了生活在这个地方的希望；与春原阳平为朋友，在光坂高等学校过着潦倒的生活，盼望终有一天能够离开所在的小镇，*[还有马桶盖子](https://zh.moegirl.org.cn/还有马桶盖子)*。在高三的一个早晨，通往学校的坡道前发现了一个止步不前的女孩，在朋也认识了这个名为[古河渚](https://zh.moegirl.org.cn/古河渚)的女孩后，他的生活开始有了重大的变化……

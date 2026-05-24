@@ -1,4 +1,10 @@
 ---
+cover: "https://static.30hb.cn/vndb/img/ponkotsu.webp"
+description: |-
+  《**与我恋爱的废柴小恶魔**》（英文：**The Ditzy Demons Are in Love With Me**）是[Smile](https://zh.moegirl.org.cn/Smile(游戏品牌))开发的一款Galgame，并有FanDisc等衍生作品，繁体中文实体版由未来数位代理。
+years:
+  - "2015"
+  - "2016"
 title: >-
   与我恋爱的废柴小恶魔。／与我恋爱的废柴小恶魔。超级H！／与我恋爱的废柴恶魔。／僕と恋するポンコツアクマ。／僕と恋するポンコツアクマ。
   すっごいえっち！／恋クマ。／Koikuma／The Ditzy Demons Are in Love With Me／Fan Disc
@@ -22,8 +28,6 @@ tags:
   - 校园
   - 同居
   - FD
-  - 2015
-  - 2016
 categories:
   - Windows
   - KRKR
@@ -32,13 +36,6 @@ author: Dimly
 date: 2025-07-21 21:11:30
 lastmod: 2025-10-06 00:53:40
 ---
-
-![ponkotsu](https://static.30hb.cn/vndb/img/ponkotsu.webp)
-
-《**与我恋爱的废柴小恶魔**》（英文：**The Ditzy Demons Are in Love With Me**）是[Smile](https://zh.moegirl.org.cn/Smile(游戏品牌))开发的一款Galgame，并有FanDisc等衍生作品，繁体中文实体版由未来数位代理。
-
-<!--more-->
-
 ![ponkotsu_p1](https://static.30hb.cn/vndb/img/ponkotsu_p1.webp)
 
 ![ponkotsu_p2](https://static.30hb.cn/vndb/img/ponkotsu_p2.webp)

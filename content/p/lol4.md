@@ -1,4 +1,12 @@
 ---
+cover: "https://static.30hb.cn/vndb/img/lol4.webp"
+description: |-
+  三个人也可以搭建一个小世界。
+  和洛丽塔双子一起断绝跟外界的联系。
+  “家人”最重要的是互相照顾。
+  拥抱少女们的真心与爱意，在她们身体最炽热处……
+years:
+  - "2017"
 title: 双子洛丽塔后宫／ハーレム双子ロリータ／The Harem of Lolita Twins／双子后宫洛丽塔
 slug: 48253
 tags:
@@ -12,7 +20,6 @@ tags:
   - 治愈
   - 同人
   - 双子
-  - 2017
 categories:
   - Windows
   - KRKR
@@ -21,16 +28,6 @@ author: WTY
 date: 2024-10-25 03:50:00
 lastmod: 2024-10-25 03:50:00
 ---
-
-![lol4](https://static.30hb.cn/vndb/img/lol4.webp)
-
-三个人也可以搭建一个小世界。
-和洛丽塔双子一起断绝跟外界的联系。
-“家人”最重要的是互相照顾。
-拥抱少女们的真心与爱意，在她们身体最炽热处……
-
-<!--more-->
-
 ![lol4_p1](https://static.30hb.cn/vndb/img/lol4_p1.webp)
 
 ![lol4_p2](https://static.30hb.cn/vndb/img/lol4_p2.webp)

@@ -1,4 +1,10 @@
 ---
+cover: "https://static.30hb.cn/vndb/img/stella_key.webp"
+description: |-
+  《**星之终途**》（日语：終のステラ，英语：*Stella of The End*）是[Key](https://zh.wikipedia.org/wiki/Key_(遊戲品牌))于2022年9月30日推出的[视觉小说](https://zh.wikipedia.org/wiki/视觉小说)类型游戏，2023年4月21日游戏登陆手机平台，同年9月26日登陆Steam。游戏讲述架空的未来地球，货运人裘德接到一个神秘委托，去寻找一个能拯救人类的[女性仿生人](https://zh.wikipedia.org/wiki/女性人形機器人)，并将她带到委托人身边的故事。
+years:
+  - "2022"
+  - "2024"
 title: >-
   星之终途／終のステラ／Stella of The End／星之终途后日谈：渺茫希望的日记／終のステラ後日談：微かな希望の日記／Stella of The
   End After Story: Diary of a Faint Hope
@@ -13,8 +19,6 @@ tags:
   - 机器人
   - 同人
   - FD
-  - 2022
-  - 2024
 categories:
   - Windows
   - Tyranor
@@ -22,13 +26,6 @@ categories:
 date: 2024-10-21 20:55:00
 lastmod: 2024-10-21 20:55:00
 ---
-
-![stella_key](https://static.30hb.cn/vndb/img/stella_key.webp)
-
-《**星之终途**》（日语：終のステラ，英语：*Stella of The End*）是[Key](https://zh.wikipedia.org/wiki/Key_(遊戲品牌))于2022年9月30日推出的[视觉小说](https://zh.wikipedia.org/wiki/视觉小说)类型游戏，2023年4月21日游戏登陆手机平台，同年9月26日登陆Steam。游戏讲述架空的未来地球，货运人裘德接到一个神秘委托，去寻找一个能拯救人类的[女性仿生人](https://zh.wikipedia.org/wiki/女性人形機器人)，并将她带到委托人身边的故事。
-
-<!--more-->
-
 ![stella_key_p1](https://static.30hb.cn/vndb/img/stella_key_p1.webp)
 
 ![stella_key_p2](https://static.30hb.cn/vndb/img/stella_key_p2.webp)

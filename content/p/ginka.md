@@ -1,4 +1,9 @@
 ---
+cover: "https://static.30hb.cn/vndb/img/ginka.webp"
+description: |-
+  《**GINKA**》是由[FrontWing](https://zh.moegirl.org.cn/FrontWing)制作发行的一款[视觉小说](https://zh.moegirl.org.cn/视觉小说)作品，于2023年10月26日发行，同步支持简体中文、英文。
+years:
+  - "2023"
 title: GINKA／银花
 slug: 769
 tags:
@@ -16,7 +21,6 @@ tags:
   - 恋爱
   - 巫女
   - 枕社
-  - 2023
 categories:
   - Windows
   - KRKR
@@ -24,13 +28,6 @@ categories:
 date: 2024-05-05 03:29:30
 lastmod: 2024-05-05 03:29:30
 ---
-
-![ginka](https://static.30hb.cn/vndb/img/ginka.webp)
-
-《**GINKA**》是由[FrontWing](https://zh.moegirl.org.cn/FrontWing)制作发行的一款[视觉小说](https://zh.moegirl.org.cn/视觉小说)作品，于2023年10月26日发行，同步支持简体中文、英文。
-
-<!--more-->
-
 ## 简介
 
 ### 作品相关

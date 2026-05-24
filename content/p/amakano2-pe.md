@@ -1,4 +1,10 @@
 ---
+cover: "https://static.30hb.cn/vndb/img/amakano2-pe.webp"
+description: |-
+  《**甜蜜女友2**》（日语：アマカノ2）是[NEXTON](https://zh.wikipedia.org/wiki/NEXTON)公司的旗下品牌あざらしそふと制作，于2020年4月24日发售的[恋爱冒险](https://zh.wikipedia.org/wiki/戀愛冒險)类型[成人游戏](https://zh.wikipedia.org/wiki/日本成人遊戲)，是《[甜蜜女友](https://zh.wikipedia.org/wiki/甜蜜女友)》的续作，2023年4月28日发售扩充版《甜蜜女友2＋》（アマカノ2＋）。
+years:
+  - "2020"
+  - "2022"
 title: 甜蜜女友2／アマカノ2~Perfect Edition~／Amakano 2
 slug: 18021
 tags:
@@ -14,20 +20,11 @@ tags:
   - 巨乳
   - 黑丝
   - 姐
-  - 2020
-  - 2022
 categories:
   - Windows
 date: 2024-09-04 09:19:00
 lastmod: 2024-09-04 09:19:00
 ---
-
-![amakano2-pe](https://static.30hb.cn/vndb/img/amakano2-pe.webp)
-
-《**甜蜜女友2**》（日语：アマカノ2）是[NEXTON](https://zh.wikipedia.org/wiki/NEXTON)公司的旗下品牌あざらしそふと制作，于2020年4月24日发售的[恋爱冒险](https://zh.wikipedia.org/wiki/戀愛冒險)类型[成人游戏](https://zh.wikipedia.org/wiki/日本成人遊戲)，是《[甜蜜女友](https://zh.wikipedia.org/wiki/甜蜜女友)》的续作，2023年4月28日发售扩充版《甜蜜女友2＋》（アマカノ2＋）。
-
-<!--more-->
-
 ## 故事
 
 从些许『恋爱』即将造访的预感所开始。

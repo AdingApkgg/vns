@@ -1,4 +1,15 @@
 ---
+cover: "https://static.30hb.cn/vndb/img/higurashi.webp"
+description: |-
+  《**寒蝉鸣泣之时**》（日语：ひぐらしのなく頃に）是日本[同人社团](https://zh.wikipedia.org/wiki/同人社團)[07th Expansion](https://zh.wikipedia.org/wiki/07th_Expansion)所制作的[同人游戏](https://zh.wikipedia.org/wiki/同人遊戲)以及依此改编的广播剧、[漫画](https://zh.wikipedia.org/wiki/漫畫)、[电视动画](https://zh.wikipedia.org/wiki/電視動畫)及[电影](https://zh.wikipedia.org/wiki/電影)。
+years:
+  - "2002"
+  - "2004"
+  - "2006"
+  - "2007"
+  - "2008"
+  - "2015"
+  - "2018"
 title: >-
   寒蝉鸣泣之时／Higurashi When They
   Cry／ひぐらしのなく頃に／暮蝉悲鸣时／暮蝉鸣泣时／暮蝉悲鸣之时／秋蝉鸣泣之时／蝉鸣时分／蝉鸣之时／蜩鸣之时／寒蝉鸣泣时／蝉在叫人坏掉／出题 解题 礼
@@ -22,13 +33,6 @@ tags:
   - 狂气
   - 民俗
   - 感动
-  - 2002
-  - 2004
-  - 2006
-  - 2007
-  - 2008
-  - 2015
-  - 2018
 categories:
   - Windows
   - ONS
@@ -37,13 +41,6 @@ author: Kirishima
 date: 2024-09-16 03:50:00
 lastmod: 2024-09-17 21:42:30
 ---
-
-![higurashi](https://static.30hb.cn/vndb/img/higurashi.webp)
-
-《**寒蝉鸣泣之时**》（日语：ひぐらしのなく頃に）是日本[同人社团](https://zh.wikipedia.org/wiki/同人社團)[07th Expansion](https://zh.wikipedia.org/wiki/07th_Expansion)所制作的[同人游戏](https://zh.wikipedia.org/wiki/同人遊戲)以及依此改编的广播剧、[漫画](https://zh.wikipedia.org/wiki/漫畫)、[电视动画](https://zh.wikipedia.org/wiki/電視動畫)及[电影](https://zh.wikipedia.org/wiki/電影)。
-
-<!--more-->
-
 游戏共有“出题篇”（统称“寒蝉鸣泣之时”）、“解答篇”（统称“寒蝉鸣泣之解”）这2个篇章，每个篇章都有4个篇目。按照发布的时间顺序，“出题篇”包括“鬼隐篇”、“绵流篇”、“祟杀篇”、“暇溃篇”，而“解答篇”则包括“目明篇”、“罪灭篇”、“皆杀篇”、“祭囃篇”。
 
 在2006年12月举行的Comic Market 71上，游戏发布了包括“赛杀篇”、“昼坏篇”、“罚恋篇”3个番外篇的Fan disc《寒蝉鸣泣之时礼》。而在2014年8月举行的Comic Market 84上，游戏发布了包括“出题篇”、“解答篇”、番外篇以及“雏见泽停留所”、“寒蝉Outbreak”、“神奸篇”在内的《寒蝉鸣泣之时奉》。

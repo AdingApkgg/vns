@@ -1,4 +1,15 @@
 ---
+cover: "https://static.30hb.cn/vndb/img/makinglovers.webp"
+description: |-
+  《**Making＊Lovers**》是由[SMEE](https://zh.wikipedia.org/wiki/HOOKSOFT)制作于2017年11月24日发售的[恋爱冒险](https://zh.wikipedia.org/wiki/戀愛冒險)类型[成人游戏](https://zh.wikipedia.org/wiki/日本成人遊戲)，2018年发售两部[Fandisc](https://zh.wikipedia.org/wiki/Fandisc)《Making＊Lovers 激イチャアフターストーリー》，2021年6月25日发售HD版。2019年7月25日由ENTERGRAM发售[PlayStation 4](https://zh.wikipedia.org/wiki/PlayStation_4)版和[PlayStation Vita](https://zh.wikipedia.org/wiki/PlayStation_Vita)版。
+years:
+  - "2017"
+  - "2018"
+  - "2019"
+  - "2020"
+  - "2021"
+  - "2022"
+  - "2024"
 title: Making＊Lovers／突然＊恋人／FHD 全高清 重置 重制 Deluxe Edition FD 激イチャアフターストーリー
 slug: 40394
 tags:
@@ -11,26 +22,12 @@ tags:
   - 搞笑
   - 妹控
   - FD
-  - 2017
-  - 2018
-  - 2019
-  - 2020
-  - 2021
-  - 2022
-  - 2024
 categories:
   - Windows
 author: Sinon
 date: 2024-09-28 09:05:00
 lastmod: 2024-09-28 11:07:30
 ---
-
-![makinglovers](https://static.30hb.cn/vndb/img/makinglovers.webp)
-
-《**Making＊Lovers**》是由[SMEE](https://zh.wikipedia.org/wiki/HOOKSOFT)制作于2017年11月24日发售的[恋爱冒险](https://zh.wikipedia.org/wiki/戀愛冒險)类型[成人游戏](https://zh.wikipedia.org/wiki/日本成人遊戲)，2018年发售两部[Fandisc](https://zh.wikipedia.org/wiki/Fandisc)《Making＊Lovers 激イチャアフターストーリー》，2021年6月25日发售HD版。2019年7月25日由ENTERGRAM发售[PlayStation 4](https://zh.wikipedia.org/wiki/PlayStation_4)版和[PlayStation Vita](https://zh.wikipedia.org/wiki/PlayStation_Vita)版。
-
-<!--more-->
-
 ## 剧情
 
 从出生至今都没有女朋友的我，对恋爱却有这么一条顽固的执念，无论被谁嘲笑都从没有退让过。

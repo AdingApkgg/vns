@@ -1,4 +1,9 @@
 ---
+cover: "https://static.30hb.cn/vndb/img/seira.webp"
+description: |-
+  《**为主人献上圣罗的甜蜜侍奉**》（日语：**ご主人様、セイラに夢みたいないちゃラブご奉仕させていただけますか**）是由[るび様崇める会](https://zh.moegirl.org.cn/index.php?title=るび様崇める会&action=edit&redlink=1)制作发行的一款[视觉小说](https://zh.moegirl.org.cn/视觉小说)，于2022年7月15日发售。2024年8月23日简体中文、繁体中文、英文版上架Steam。
+years:
+  - "2022"
 title: >-
   为主人献上圣罗的甜蜜侍奉／主人，请让塞拉为您献上如梦幻般甜蜜恩爱的侍奉吧／ご主人様、セイラに夢みたいないちゃラブご奉仕させていただけますか／Dreamlike
   Love with Seira
@@ -12,7 +17,6 @@ tags:
   - 巨乳
   - 无修正
   - 萌
-  - 2022
 categories:
   - Windows
   - Tyranor
@@ -21,13 +25,6 @@ author: molin
 date: 2025-03-07 19:21:25
 lastmod: 2025-03-22 23:59:50
 ---
-
-![seira](https://static.30hb.cn/vndb/img/seira.webp)
-
-《**为主人献上圣罗的甜蜜侍奉**》（日语：**ご主人様、セイラに夢みたいないちゃラブご奉仕させていただけますか**）是由[るび様崇める会](https://zh.moegirl.org.cn/index.php?title=るび様崇める会&action=edit&redlink=1)制作发行的一款[视觉小说](https://zh.moegirl.org.cn/视觉小说)，于2022年7月15日发售。2024年8月23日简体中文、繁体中文、英文版上架Steam。
-
-<!--more-->
-
 ![seira_p1](https://static.30hb.cn/vndb/img/seira_p1.webp)
 
 ![seira_p2](https://static.30hb.cn/vndb/img/seira_p2.webp)

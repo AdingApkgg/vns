@@ -1,4 +1,9 @@
 ---
+cover: "https://static.30hb.cn/vndb/img/clannad-side-stories.webp"
+description: |-
+  本作是KEY的知名恋爱冒险游戏《克兰娜德》的外传作品，全16话的DRAMA CD将经过改编成为上下两卷的电子小说类游戏发售。故事的每个章节都会更换主角，玩家将会更充分地体会到原作角色的魅力。本作的插画是由GOTO P担当。
+years:
+  - "2021"
 title: CLANNAD Side Stories／CLANNAD 被光守望着的坡道／CLANNAD 光見守る坂道で
 slug: 49152
 tags:
@@ -9,19 +14,11 @@ tags:
   - 感动
   - 温馨
   - 治愈
-  - 2021
 categories:
   - Windows
 date: 2024-03-02 21:40:00
 lastmod: 2024-04-01 12:26:00
 ---
-
-![clannad-side-stories](https://static.30hb.cn/vndb/img/clannad-side-stories.webp)
-
-本作是KEY的知名恋爱冒险游戏《克兰娜德》的外传作品，全16话的DRAMA CD将经过改编成为上下两卷的电子小说类游戏发售。故事的每个章节都会更换主角，玩家将会更充分地体会到原作角色的魅力。本作的插画是由GOTO P担当。
-
-<!--more-->
-
 在『CLANNAD 』的光芒逐渐被新番占领的时候，厂商适当时机的推出了PSP游戏新作『CLANNAD 光芒守护的小镇』，让所有粉丝们心中的那道守护小镇的光芒重新被照亮了。感动无数人的恋爱动画『CLANNAD 』与『CLANNAD After Story』播出以来人气始终居高不下，里面的亲情、友情、爱情成了人们经常挂在嘴边的话题。
 
 ## 图片

@@ -1,4 +1,9 @@
 ---
+cover: "https://static.30hb.cn/vndb/img/muvluv-alternative.webp"
+description: |-
+  **《Muv-Luv  Alternative（マブラヴ オルタネイティヴ）》**是由âge开发的一部[Galgame](https://zh.moegirl.org.cn/Galgame)，是[Muv-Luv系列](https://zh.moegirl.org.cn/Muv-Luv系列)的第二部作品，《[Muv-Luv](https://zh.moegirl.org.cn/Muv-Luv)》的续作。
+years:
+  - "2006"
 title: マブラヴ オルタネイティヴ／Muv-Luv Alternative
 slug: 462
 tags:
@@ -9,19 +14,11 @@ tags:
   - 致郁
   - 科幻
   - 幼驯染
-  - 2006
 categories:
   - Windows
 date: 2024-05-02 18:19:00
 lastmod: 2024-05-02 18:19:00
 ---
-
-![muvluv-alternative](https://static.30hb.cn/vndb/img/muvluv-alternative.webp)
-
-**《Muv-Luv  Alternative（マブラヴ オルタネイティヴ）》**是由âge开发的一部[Galgame](https://zh.moegirl.org.cn/Galgame)，是[Muv-Luv系列](https://zh.moegirl.org.cn/Muv-Luv系列)的第二部作品，《[Muv-Luv](https://zh.moegirl.org.cn/Muv-Luv)》的续作。
-
-<!--more-->
-
 游戏只有一个结局，但是如果玩家刻意培养与榊千鹤、彩峰慧、珠濑壬姬、铠衣美琴四个女主角其中一人的感情，则能在结局收到对应角色的情书~~（遗书）~~。
 
 ~~最终决战前大家都约定好一定要活着回来，不要写遗书，结果只有御剑冥夜这个实诚人没写。~~

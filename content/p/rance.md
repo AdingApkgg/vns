@@ -1,4 +1,25 @@
 ---
+cover: "https://static.30hb.cn/vndb/img/rance.webp"
+description: |-
+  **兰斯**（日语：ランス，英语：*Rance*）是[日本](https://zh.wikipedia.org/wiki/日本)[电子游戏](https://zh.wikipedia.org/wiki/電子遊戲)公司[AliceSoft](https://zh.wikipedia.org/wiki/AliceSoft)于1989年以来陆续发行的[成人游戏](https://zh.wikipedia.org/wiki/日本成人遊戲)系列，各代游戏类型各异，主要包括[角色扮演](https://zh.wikipedia.org/wiki/電子角色扮演遊戲)和[战略游戏](https://zh.wikipedia.org/wiki/战略游戏)两种类型。故事是记述以“全世界的美女全都是本大爷的”为信条的[鬼畜](https://zh.wikipedia.org/wiki/鬼畜)战士兰斯与他的奴隶魔法师希露一同展开的冒险历程。
+years:
+  - "1989"
+  - "1990"
+  - "1991"
+  - "1993"
+  - "1995"
+  - "1996"
+  - "2002"
+  - "2004"
+  - "2006"
+  - "2008"
+  - "2009"
+  - "2011"
+  - "2012"
+  - "2013"
+  - "2014"
+  - "2015"
+  - "2018"
 title: >-
   兰斯／ランス／Rance／寻找小光 II 叛逆的少女们 反叛的少女们 III 利萨斯陷落 IV 教团的遗产 4.1 拯救药厂吧！ 4.2 天使组 鬼畜王兰斯
   5D 孤独的少女 孤单的少女 VI 赛斯崩坏 战国兰斯 三个乱斩乱刺乱烧的家伙 Quest MAGNUM 无尽的任务 IX 赫尔曼革命 X 决战／重制 摘要
@@ -18,35 +39,11 @@ tags:
   - 剧情
   - 悬疑
   - 凌辱
-  - 1989
-  - 1990
-  - 1991
-  - 1993
-  - 1995
-  - 1996
-  - 2002
-  - 2004
-  - 2006
-  - 2008
-  - 2009
-  - 2011
-  - 2012
-  - 2013
-  - 2014
-  - 2015
-  - 2018
 categories:
   - Windows
 date: 2024-10-20 18:05:20
 lastmod: 2024-10-20 18:05:20
 ---
-
-![rance](https://static.30hb.cn/vndb/img/rance.webp)
-
-**兰斯**（日语：ランス，英语：*Rance*）是[日本](https://zh.wikipedia.org/wiki/日本)[电子游戏](https://zh.wikipedia.org/wiki/電子遊戲)公司[AliceSoft](https://zh.wikipedia.org/wiki/AliceSoft)于1989年以来陆续发行的[成人游戏](https://zh.wikipedia.org/wiki/日本成人遊戲)系列，各代游戏类型各异，主要包括[角色扮演](https://zh.wikipedia.org/wiki/電子角色扮演遊戲)和[战略游戏](https://zh.wikipedia.org/wiki/战略游戏)两种类型。故事是记述以“全世界的美女全都是本大爷的”为信条的[鬼畜](https://zh.wikipedia.org/wiki/鬼畜)战士兰斯与他的奴隶魔法师希露一同展开的冒险历程。
-
-<!--more-->
-
 《兰斯系列》是由[AliceSoft](https://zh.moegirl.org.cn/AliceSoft)公司制作发行的一系列魔幻冒险类18禁游戏，类型涵[RPG](https://zh.moegirl.org.cn/角色扮演游戏)、[SLG](https://zh.moegirl.org.cn/SLG)、战略模拟等。
 
 该系列是AliceSoft公司的代表作，从首款游戏发布到最后一款游戏发布，跨度长达近30年。

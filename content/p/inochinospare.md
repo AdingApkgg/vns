@@ -1,4 +1,9 @@
 ---
+cover: "https://static.30hb.cn/vndb/img/inochinospare.webp"
+description: |-
+  《**生命的备件**》（日语：**生命のスペア**），另译**生命的备份**，是由[AKABEiSOFT3](https://zh.moegirl.org.cn/index.php?title=AKABEiSOFT3&action=edit&redlink=1)制作的一部[Galgame](https://zh.moegirl.org.cn/Galgame)。
+years:
+  - "2016"
 title: 生命的备件／生命的备份／生命のスペア／I was born for you
 slug: 1091
 tags:
@@ -9,7 +14,6 @@ tags:
   - 感悟
   - 幼驯染
   - 制服
-  - 2016
 categories:
   - Windows
   - KRKR
@@ -17,13 +21,6 @@ categories:
 date: 2024-03-02 01:36:00
 lastmod: 2024-03-02 01:36:00
 ---
-
-![inochinospare](https://static.30hb.cn/vndb/img/inochinospare.webp)
-
-《**生命的备件**》（日语：**生命のスペア**），另译**生命的备份**，是由[AKABEiSOFT3](https://zh.moegirl.org.cn/index.php?title=AKABEiSOFT3&action=edit&redlink=1)制作的一部[Galgame](https://zh.moegirl.org.cn/Galgame)。
-
-<!--more-->
-
 ## 剧情简介
 
 [夙川惠璃](https://zh.moegirl.org.cn/夙川惠璃)患了一种疾病。

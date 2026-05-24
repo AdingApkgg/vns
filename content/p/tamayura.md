@@ -1,4 +1,9 @@
 ---
+cover: "https://static.30hb.cn/vndb/img/tamayura.webp"
+description: |-
+  **《玉响未来》**（日语：**タマユラミライ**），是由[DiGination](https://zh.moegirl.org.cn/index.php?title=DiGination&action=edit&redlink=1)旗下品牌Azurite制作的一款ADV游戏，于2019年5月31日发售。
+years:
+  - "2019"
 title: 玉响未来／深野协调魔法使／タマユラミライ／Tamayura Mirai
 slug: 47194
 tags:
@@ -15,7 +20,6 @@ tags:
   - 剧情
   - 魅魔
   - 轮回
-  - 2019
 categories:
   - Windows
   - KRKR
@@ -23,13 +27,6 @@ author: Dimly
 date: 2025-07-21 23:02:30
 lastmod: 2025-07-21 23:02:30
 ---
-
-![tamayura](https://static.30hb.cn/vndb/img/tamayura.webp)
-
-**《玉响未来》**（日语：**タマユラミライ**），是由[DiGination](https://zh.moegirl.org.cn/index.php?title=DiGination&action=edit&redlink=1)旗下品牌Azurite制作的一款ADV游戏，于2019年5月31日发售。
-
-<!--more-->
-
 ![tamayura_p1](https://static.30hb.cn/vndb/img/tamayura_p1.webp)
 
 ![tamayura_p2](https://static.30hb.cn/vndb/img/tamayura_p2.webp)

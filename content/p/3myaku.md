@@ -1,4 +1,10 @@
 ---
+cover: "https://static.30hb.cn/vndb/img/3myaku.webp"
+description: |-
+  《**女装山脉**》（日语：女装山脈）为[脑内彼女](https://zh.wikipedia.org/w/index.php?title=腦内彼女&action=edit&redlink=1)于2011年6月17日发售的[恋爱冒险](https://zh.wikipedia.org/wiki/戀愛冒險)类型[成人游戏](https://zh.wikipedia.org/wiki/日本成人遊戲)，2021年4月9由JAST USA发售英文版，并计划于同年11月11日发售简繁体中文版。
+years:
+  - "2011"
+  - "2021"
 title: 女装山脉／有机山脉／女装山脈／Tomgirls of the Mountains
 slug: 55403
 tags:
@@ -12,8 +18,6 @@ tags:
   - 巫女
   - 足交
   - 后宫
-  - 2011
-  - 2021
 categories:
   - Windows
   - ONS
@@ -22,13 +26,6 @@ author: Kirishima
 date: 2024-04-26 23:33:00
 lastmod: 2024-04-26 23:33:00
 ---
-
-![3myaku](https://static.30hb.cn/vndb/img/3myaku.webp)
-
-《**女装山脉**》（日语：女装山脈）为[脑内彼女](https://zh.wikipedia.org/w/index.php?title=腦内彼女&action=edit&redlink=1)于2011年6月17日发售的[恋爱冒险](https://zh.wikipedia.org/wiki/戀愛冒險)类型[成人游戏](https://zh.wikipedia.org/wiki/日本成人遊戲)，2021年4月9由JAST USA发售英文版，并计划于同年11月11日发售简繁体中文版。
-
-<!--more-->
-
 作品以[伪娘](https://zh.wikipedia.org/wiki/伪娘)为主题，其特征是作品中没有真正的女性登场。
 
 ~~当有别人问某个妹子是哪一部作品里的时候，你就可以回答他，这是女装山脉~~

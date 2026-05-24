@@ -1,4 +1,16 @@
 ---
+cover: "https://static.30hb.cn/vndb/img/tomoyo.webp"
+description: |-
+  **《智代After ～It's a Wonderful Life～》**（日语：**智代アフター ～It's a Wonderful Life～**）是由日本Visual Art's公司旗下的[Key](https://zh.moegirl.org.cn/Key)（“Key社”）所制作发行的[AVG](https://zh.moegirl.org.cn/AVG)。其剧情为游戏《[CLANNAD](https://zh.moegirl.org.cn/CLANNAD)》中智代路线之后续发展，因此接触本作前建议对《CLANNAD》有一定了解。
+years:
+  - "2005"
+  - "2007"
+  - "2009"
+  - "2010"
+  - "2012"
+  - "2013"
+  - "2016"
+  - "2020"
 title: >-
   智代After ～It's a Wonderful Life～／智代アフター ～It’s a Wonderful Life～／Tomoyo After
   ~It's a Wonderful Life~
@@ -11,27 +23,12 @@ tags:
   - 致郁
   - 纯爱
   - FD
-  - 2005
-  - 2007
-  - 2009
-  - 2010
-  - 2012
-  - 2013
-  - 2016
-  - 2020
 categories:
   - Windows
   - ONS
 date: 2024-06-09 20:21:30
 lastmod: 2024-06-09 20:21:30
 ---
-
-![tomoyo](https://static.30hb.cn/vndb/img/tomoyo.webp)
-
-**《智代After ～It's a Wonderful Life～》**（日语：**智代アフター ～It's a Wonderful Life～**）是由日本Visual Art's公司旗下的[Key](https://zh.moegirl.org.cn/Key)（“Key社”）所制作发行的[AVG](https://zh.moegirl.org.cn/AVG)。其剧情为游戏《[CLANNAD](https://zh.moegirl.org.cn/CLANNAD)》中智代路线之后续发展，因此接触本作前建议对《CLANNAD》有一定了解。
-
-<!--more-->
-
 ## 简介
 
 本作品是Key制作的游戏中第一个未曾延期的作品，同时也是第一个在最初就推出全语音版的作品。本作分为全年龄版和18禁版。

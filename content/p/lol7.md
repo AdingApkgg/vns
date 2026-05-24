@@ -1,4 +1,23 @@
 ---
+cover: "https://static.30hb.cn/vndb/img/lol7.webp"
+description: |-
+  每次接吻都不行。
+
+  因为软弱所以喜欢。因为不行所以喜欢。
+
+  用嘴唇接吻，用半身也接吻。
+
+  痛苦的孤独是甜蜜的蜜。
+
+  悲伤是温柔的白浊。
+
+  和蓝色的性相交，请放松到子宫里。
+
+  活着好吗？
+
+  愿你的疾苦被解除。
+years:
+  - "2022"
 title: 每日亲亲洛丽塔／毎日キスしてロリータ／KissLoli／每日亲吻洛丽塔／每日轻吻洛丽塔／每日蜜吻洛丽塔
 slug: 4728
 tags:
@@ -12,7 +31,6 @@ tags:
   - 废萌
   - 实用
   - 哲学
-  - 2022
 categories:
   - Windows
   - KRKR
@@ -21,27 +39,6 @@ author: WTY
 date: 2024-10-25 03:57:40
 lastmod: 2024-10-25 03:57:40
 ---
-
-![lol7](https://static.30hb.cn/vndb/img/lol7.webp)
-
-每次接吻都不行。
-
-因为软弱所以喜欢。因为不行所以喜欢。
-
-用嘴唇接吻，用半身也接吻。
-
-痛苦的孤独是甜蜜的蜜。
-
-悲伤是温柔的白浊。
-
-和蓝色的性相交，请放松到子宫里。
-
-活着好吗？
-
-愿你的疾苦被解除。
-
-<!--more-->
-
 ![lol7_p1](https://static.30hb.cn/vndb/img/lol7_p1.webp)
 
 ![lol7_p2](https://static.30hb.cn/vndb/img/lol7_p2.webp)

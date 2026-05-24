@@ -1,4 +1,9 @@
 ---
+cover: "https://static.30hb.cn/vndb/img/adabanaitan.webp"
+description: |-
+  **《徒花异谭》**是由 [ANIPLEX.EXE](https://zh.moegirl.org.cn/ANIPLEX.EXE) 和 [Liar-soft](https://zh.moegirl.org.cn/Liar-soft) 共同制作，并由 [ANIPLEX.EXE](https://zh.moegirl.org.cn/ANIPLEX.EXE) 发行的一部[视觉小说](https://zh.moegirl.org.cn/视觉小说)游戏。于2020年6月19日在[Steam](https://zh.moegirl.org.cn/Steam)平台和[DMM](https://zh.moegirl.org.cn/DMM)平台上同步发售。
+years:
+  - "2020"
 title: 徒花异谭／徒花異譚／Adabana Odd Tales
 slug: 55827
 tags:
@@ -11,7 +16,6 @@ tags:
   - 悬疑
   - 治愈
   - 剧情
-  - 2020
 categories:
   - Windows
   - Tyranor
@@ -19,13 +23,6 @@ categories:
 date: 2024-11-11 00:26:50
 lastmod: 2024-11-11 00:26:50
 ---
-
-![adabanaitan](https://static.30hb.cn/vndb/img/adabanaitan.webp)
-
-**《徒花异谭》**是由 [ANIPLEX.EXE](https://zh.moegirl.org.cn/ANIPLEX.EXE) 和 [Liar-soft](https://zh.moegirl.org.cn/Liar-soft) 共同制作，并由 [ANIPLEX.EXE](https://zh.moegirl.org.cn/ANIPLEX.EXE) 发行的一部[视觉小说](https://zh.moegirl.org.cn/视觉小说)游戏。于2020年6月19日在[Steam](https://zh.moegirl.org.cn/Steam)平台和[DMM](https://zh.moegirl.org.cn/DMM)平台上同步发售。
-
-<!--more-->
-
 “这是一个不会开花的 ‘花朵’ 的故事——”
 
 失忆的少女白姬和神秘少年黑笔在绘本的世界 “徒花乡” 中，游历于日本民间故事的情节中。

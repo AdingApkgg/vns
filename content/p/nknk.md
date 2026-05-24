@@ -1,4 +1,11 @@
 ---
+cover: "https://static.30hb.cn/vndb/img/nknk.webp"
+description: |-
+  《**逝去的骑士，异世界中回响的断末魔**》（日语：**死に逝く騎士 異世界に響く断末魔**）是由[BUG SYSTEM](https://zh.moegirl.org.cn/BUG_SYSTEM)制作发行的一款[galgame](https://zh.moegirl.org.cn/Galgame)，于2024年4月26日发售。
+
+  本作为《[逝去的你，馆里苏醒的罪恶](https://zh.moegirl.org.cn/逝去的你，馆里苏醒的罪恶)》（简称：にくにく）的同世界观新作，也被官方称为にくにく2。
+years:
+  - "2024"
 title: 逝去的骑士，异世界中回响的断末魔／死馆2／馆死2／死に逝く騎士、異世界に響く断末魔／死去的骑士，响彻异世界的绝命魔／にくにく2／nikuniku 2
 slug: 53454
 tags:
@@ -14,7 +21,6 @@ tags:
   - 科幻
   - 扶她
   - 恐怖
-  - 2024
 categories:
   - Windows
   - KRKR
@@ -22,15 +28,6 @@ categories:
 date: 2024-05-02 19:58:30
 lastmod: 2024-10-02 02:35:40
 ---
-
-![nknk](https://static.30hb.cn/vndb/img/nknk.webp)
-
-《**逝去的骑士，异世界中回响的断末魔**》（日语：**死に逝く騎士 異世界に響く断末魔**）是由[BUG SYSTEM](https://zh.moegirl.org.cn/BUG_SYSTEM)制作发行的一款[galgame](https://zh.moegirl.org.cn/Galgame)，于2024年4月26日发售。
-
-本作为《[逝去的你，馆里苏醒的罪恶](https://zh.moegirl.org.cn/逝去的你，馆里苏醒的罪恶)》（简称：にくにく）的同世界观新作，也被官方称为にくにく2。
-
-<!--more-->
-
 ## 简介
 
 人类与魔族长久以来的战斗即将迎来决战之时。

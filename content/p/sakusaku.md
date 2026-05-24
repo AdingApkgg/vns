@@ -1,4 +1,9 @@
 ---
+cover: "https://static.30hb.cn/vndb/img/sakusaku.webp"
+description: |-
+  《**恋花绽放樱飞时**》（日语：**恋がさくころ桜どき**，英语：Saku Saku: Love Blooms with the Cherry Blossoms）是由[ぱれっと](https://zh.moegirl.org.cn/Palette(游戏公司))制作的一部美少女游戏，日文简称为“さくさく”（sakusaku），并有漫画等衍生作品。
+years:
+  - "2014"
 title: >-
   恋花绽放樱飞时／恋がさくころ桜どき／さくさく／Saku Saku: Love Blooms with the Cherry Blossoms
 slug: 26797
@@ -15,7 +20,6 @@ tags:
   - 校园
   - 日常
   - 萌
-  - 2014
 categories:
   - Windows
   - KRKR
@@ -24,13 +28,6 @@ author: Dimly
 date: 2025-07-18T01:09:30+08:00
 lastmod: 2025-07-18T04:20:00+08:00
 ---
-
-![sakusaku](https://static.30hb.cn/vndb/img/sakusaku.webp)
-
-《**恋花绽放樱飞时**》（日语：**恋がさくころ桜どき**，英语：Saku Saku: Love Blooms with the Cherry Blossoms）是由[ぱれっと](https://zh.moegirl.org.cn/Palette(游戏公司))制作的一部美少女游戏，日文简称为“さくさく”（sakusaku），并有漫画等衍生作品。
-
-<!--more-->
-
 ![sakusaku_p1](https://static.30hb.cn/vndb/img/sakusaku_p1.webp)
 
 ![sakusaku_p2](https://static.30hb.cn/vndb/img/sakusaku_p2.webp)

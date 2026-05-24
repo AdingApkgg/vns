@@ -1,4 +1,11 @@
 ---
+cover: "https://static.30hb.cn/vndb/img/tsukihime.webp"
+description: |-
+  **《月姬》**是日本同人社团**[TYPE-MOON](https://zh.moegirl.org.cn/TYPE-MOON)**于2000年在Windows平台推出的一款十八禁[Galgame](https://zh.moegirl.org.cn/Galgame)。另有格斗游戏《[MELTY BLOOD](https://zh.moegirl.org.cn/MELTY_BLOOD)》以及改编动画等衍生作品。
+
+  **重制版《[月姬 -A piece of blue glass moon-](https://zh.moegirl.org.cn/月姬_-A_piece_of_blue_glass_moon-)》已经于2021年8月26日发售。**
+years:
+  - "2000"
 title: >-
   月姫／つきひめ／Tsukihime／月姫／Tsukihime: Blue Blue Glass Moon Under The Crimson
   Air／Moon Princess
@@ -11,22 +18,12 @@ tags:
   - 妹
   - 悬疑
   - 氛围
-  - 2000
 categories:
   - Windows
   - ONS
 date: 2024-07-31 00:03:20
 lastmod: 2024-07-31 00:03:20
 ---
-
-![tsukihime](https://static.30hb.cn/vndb/img/tsukihime.webp)
-
-**《月姬》**是日本同人社团**[TYPE-MOON](https://zh.moegirl.org.cn/TYPE-MOON)**于2000年在Windows平台推出的一款十八禁[Galgame](https://zh.moegirl.org.cn/Galgame)。另有格斗游戏《[MELTY BLOOD](https://zh.moegirl.org.cn/MELTY_BLOOD)》以及改编动画等衍生作品。
-
-**重制版《[月姬 -A piece of blue glass moon-](https://zh.moegirl.org.cn/月姬_-A_piece_of_blue_glass_moon-)》已经于2021年8月26日发售。**
-
-<!--more-->
-
 ## 简介
 
 《月姬》通过故事的曲折、可爱的女角们、颇复杂和伤悲的人际关系、独特的故事背景以及特别的爱情观，让玩家们能感受到了集魔幻、悬疑、打斗、爱情为一体的享受。

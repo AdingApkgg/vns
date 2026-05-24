@@ -1,9 +1,13 @@
 ---
+cover: "https://static.30hb.cn/vndb/img/haruka.webp"
+description: |-
+  **《悠之空（悠哥的穹妹）》**（日语：**ハルカナソラ**）是由日本游戏社Sphere创制作的游戏《[缘之空](https://zh.moegirl.org.cn/缘之空)》的后续作品。
+years:
+  - "2008"
 title: 悠之空／ハルカナソラ／Yosuga no Sora
 slug: 55333
 tags:
   - 恋爱
-  - 2008
   - 校园
   - 兄妹
   - Sphere
@@ -16,13 +20,6 @@ categories:
 date: 2024-01-29 01:00:00
 lastmod: 2024-11-19 05:27:00
 ---
-
-![haruka](https://static.30hb.cn/vndb/img/haruka.webp)
-
-**《悠之空（悠哥的穹妹）》**（日语：**ハルカナソラ**）是由日本游戏社Sphere创制作的游戏《[缘之空](https://zh.moegirl.org.cn/缘之空)》的后续作品。
-
-<!--more-->
-
 ## 作品介绍
 
 该游戏主要由短剧和Web剧场构成：

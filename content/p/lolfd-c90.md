@@ -1,4 +1,18 @@
 ---
+cover: "https://static.30hb.cn/vndb/img/lolfd-c90.webp"
+description: |-
+  从早安的kiss到睡前的晚安kiss。
+
+  一起用花装饰你的房间。
+  一起肩并肩地走回家去。
+  一起分享着彼此的幸福。
+
+  手握着手睡去的话，
+  明早起来一切都会恢复正常的。
+
+  “今天过得还好吗？”
+years:
+  - "2016"
 title: 与小萝莉相思相爱的生活／相思相愛ロリータの生活／Mutual Love Lolita's Life／相思相爱洛丽塔的生活
 slug: 9178
 tags:
@@ -13,7 +27,6 @@ tags:
   - 甜蜜
   - 同人
   - 实用
-  - 2016
 categories:
   - Windows
   - KRKR
@@ -22,22 +35,6 @@ author: WTY
 date: 2024-10-25 03:41:20
 lastmod: 2024-10-25 03:41:20
 ---
-
-![lolfd-c90](https://static.30hb.cn/vndb/img/lolfd-c90.webp)
-
-从早安的kiss到睡前的晚安kiss。
-
-一起用花装饰你的房间。
-一起肩并肩地走回家去。
-一起分享着彼此的幸福。
-
-手握着手睡去的话，
-明早起来一切都会恢复正常的。
-
-“今天过得还好吗？”
-
-<!--more-->
-
 ![lolfd-c90_p1](https://static.30hb.cn/vndb/img/lolfd-c90_p1.webp)
 
 ![lolfd-c90_p2](https://static.30hb.cn/vndb/img/lolfd-c90_p2.webp)

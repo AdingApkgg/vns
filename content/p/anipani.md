@@ -1,4 +1,9 @@
 ---
+cover: "https://static.30hb.cn/vndb/img/anipani.webp"
+description: |-
+  《**ANIMAL☆PANIC**》（日语：**あにまる☆ぱにっく**）是[QUINCE SOFT](https://zh.moegirl.org.cn/QUINCE_SOFT)开发的一款18禁Galgame。
+years:
+  - "2019"
 title: Animal☆Panic／兽耳娘☆大作战／あにまる☆ぱにっく／あにぱに／Anipani
 slug: 23605
 tags:
@@ -12,20 +17,12 @@ tags:
   - 兽耳
   - 白毛
   - 校园
-  - 2019
 categories:
   - Windows
 author: Dimly
 date: 2025-07-23 17:52:30
 lastmod: 2025-10-06 04:56:00
 ---
-
-![anipani](https://static.30hb.cn/vndb/img/anipani.webp)
-
-《**ANIMAL☆PANIC**》（日语：**あにまる☆ぱにっく**）是[QUINCE SOFT](https://zh.moegirl.org.cn/QUINCE_SOFT)开发的一款18禁Galgame。
-
-<!--more-->
-
 ![anipani_p1](https://static.30hb.cn/vndb/img/anipani_p1.webp)
 
 ![anipani_p2](https://static.30hb.cn/vndb/img/anipani_p2.webp)

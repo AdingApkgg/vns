@@ -1,4 +1,11 @@
 ---
+cover: "https://static.30hb.cn/vndb/img/kamikimi-ext.webp"
+description: |-
+  《献给神明般的你》（日语：神様のような君へ）是由CUBE制作的一部galgame。
+years:
+  - "2020"
+  - "2021"
+  - "2022"
 title: 献给神明般的你 EX扩展版／神様のような君へ Extended Edition
 slug: 46827
 tags:
@@ -14,22 +21,12 @@ tags:
   - 姐
   - 妹
   - 年上
-  - 2020
-  - 2021
-  - 2022
 categories:
   - Windows
   - KRKR
 date: 2024-01-30 14:00:00
 lastmod: 2024-09-23 01:25:00
 ---
-
-![kamikimi-ext](https://static.30hb.cn/vndb/img/kamikimi-ext.webp)
-
-《献给神明般的你》（日语：神様のような君へ）是由CUBE制作的一部galgame。
-
-<!--more-->
-
 ## 剧情简介
 
 和你相伴的如今、将会连接着明天。

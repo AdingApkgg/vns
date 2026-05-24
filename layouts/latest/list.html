@@ -1,0 +1,19 @@
+{{ define "main" }}
+<article class="article-main">
+  <h1>
+    <i class="fas fa-clock"></i>&nbsp;{{ .Title }}<sup id="busuanzi_value_page_pv"></sup>
+  </h1>
+  {{ .Content }}
+
+  {{ $articles := where .Site.RegularPages "Type" "p" }}
+  {{ $paginator := .Paginate ($articles.ByLastmod.Reverse) }}
+  <div class="post-grid">
+    {{ range $paginator.Pages }}
+    {{ partial "post-card.html" . }}
+    {{ end }}
+  </div>
+
+  {{ partial "pagination.html" . }}
+  <p class="articles-len">总共有 {{ len $articles }} 部资源</p>
+</article>
+{{ end }}

@@ -1,4 +1,15 @@
 ---
+cover: "https://static.30hb.cn/vndb/img/schooldays.webp"
+description: |-
+  《**School Days**》（スクールデイズ）是2005年4月28日由[0verflow](https://zh.wikipedia.org/wiki/0verflow)发售的[十八禁游戏](https://zh.wikipedia.org/wiki/十八禁遊戲)。2010年10月8日发售重制版《**School Days HQ**》，新增加剧本、分辨率和背景改为3D呈现。后来的发售《[Summer Days](https://zh.wikipedia.org/wiki/Summer_Days)》、《[Cross Days](https://zh.wikipedia.org/wiki/Cross_Days)》、《[Island Days](https://zh.wikipedia.org/wiki/Island_Days)》为外传性质故事。电视动画版在日本于2007年7月3日开始放映。2008年1月17日由GungHo Works代理发售[PlayStation 2](https://zh.wikipedia.org/wiki/PlayStation_2)版《**School Days L×H**》（Love and Hate），初回限定版同捆OVA和RADIO出张版CD。2007年8月29日，桂言叶作为代表性人物，被收录于出版的《黑化角色大全》中。
+years:
+  - "2005"
+  - "2007"
+  - "2008"
+  - "2010"
+  - "2012"
+  - "2016"
+  - "2020"
 title: School Days／スクールデイズ／日在校园／校园的日子／在校时光／SD／スクイズ／HQ
 slug: 12162
 tags:
@@ -10,25 +21,11 @@ tags:
   - 动态CG
   - NTR
   - 致郁
-  - 2005
-  - 2007
-  - 2008
-  - 2010
-  - 2012
-  - 2016
-  - 2020
 categories:
   - Windows
 date: 2024-08-12 19:20:00
 lastmod: 2024-08-12 19:20:00
 ---
-
-![schooldays](https://static.30hb.cn/vndb/img/schooldays.webp)
-
-《**School Days**》（スクールデイズ）是2005年4月28日由[0verflow](https://zh.wikipedia.org/wiki/0verflow)发售的[十八禁游戏](https://zh.wikipedia.org/wiki/十八禁遊戲)。2010年10月8日发售重制版《**School Days HQ**》，新增加剧本、分辨率和背景改为3D呈现。后来的发售《[Summer Days](https://zh.wikipedia.org/wiki/Summer_Days)》、《[Cross Days](https://zh.wikipedia.org/wiki/Cross_Days)》、《[Island Days](https://zh.wikipedia.org/wiki/Island_Days)》为外传性质故事。电视动画版在日本于2007年7月3日开始放映。2008年1月17日由GungHo Works代理发售[PlayStation 2](https://zh.wikipedia.org/wiki/PlayStation_2)版《**School Days L×H**》（Love and Hate），初回限定版同捆OVA和RADIO出张版CD。2007年8月29日，桂言叶作为代表性人物，被收录于出版的《黑化角色大全》中。
-
-<!--more-->
-
 ## 故事
 
 榊野学园1年3组的**伊藤诚**，从很久前开始，就时常留意搭同一台电车的女孩，她是隔壁班的**桂言叶**。校园里留传着一个传说：把喜欢的人的照片当成[手机](https://zh.wikipedia.org/wiki/手機)待机图片，而且三个星期没人发现的话，这份思念就会实现。但是就在诚下定决心要履行这个传说的第一天，就被坐在隔壁的**西园寺世界**发现了。于是在赔罪的名目之下，世界开始帮言叶和诚牵线，[三角关系](https://zh.wikipedia.org/wiki/三角關係)故事就这样开始了。

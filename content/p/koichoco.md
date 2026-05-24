@@ -1,4 +1,16 @@
 ---
+cover: "https://static.30hb.cn/vndb/img/koichoco.webp"
+description: |-
+  《**恋爱与选举与巧克力**》（日语：恋と選挙とチョコレート，英语：*Love, Election & Chocolate*）是[sprite](https://zh.wikipedia.org/wiki/Sprite_(遊戲品牌))公司制作并于2010年10月29日发售的[恋爱冒险](https://zh.wikipedia.org/wiki/戀愛冒險)类型[成人游戏](https://zh.wikipedia.org/wiki/日本成人遊戲)，同时也是sprite创社后制作的首款游戏。后来于2012年9月27日移植至[PlayStation Portable](https://zh.wikipedia.org/wiki/PlayStation_Portable)平台。
+
+  高清重置版于2020年12月25日在Windows平台发售。此版本将分辨率由原版800x600（4:3）提升至最高3840x2160（16:9）等多种分辨率，并追加部分CG，取消原版一周目强制锁定千里线、部分重要剧情强制自动推进等限制。
+
+  2023年8月11日，HIKARI FIELD正式宣布将制作并发行国际中文版，此版本将以2020年发售的高清重置版为蓝本制作，预计于2024年内在[Steam ](https://zh.wikipedia.org/wiki/Steam)平台发售。
+
+  《恋爱与选举与巧克力》的[原作故事](https://zh.wikipedia.org/wiki/原著)改编并发布于[其他媒体](https://zh.wikipedia.org/wiki/跨媒體製作)上。 本作改编的2部[漫画](https://zh.wikipedia.org/wiki/日本漫畫)各连载于《[电击G's magazine](https://zh.wikipedia.org/wiki/電擊G's_magazine)》和《[月刊Comic电击大王](https://zh.wikipedia.org/wiki/月刊Comic電擊大王)》上。最新一期的《电击G's magazine》上公布动画化，并于2012年7月至9月放送由[AIC Build](https://zh.wikipedia.org/wiki/動畫國際公司)制作和喜多幡彻担任导演的12集[电视动画](https://zh.wikipedia.org/wiki/日本電視動畫)。
+years:
+  - "2010"
+  - "2020"
 title: >-
   恋爱与选举与巧克力／恋爱和选举和巧克力／恋爱选举巧克力／恋と選挙とチョコレート／Love, Elections, & Chocolate／高清版 High
   Resolution
@@ -14,27 +26,12 @@ tags:
   - 黑长直
   - 恋爱
   - 三角恋
-  - 2010
-  - 2020
 categories:
   - Windows
   - PSP
 date: 2024-11-20 02:47:40
 lastmod: 2024-11-20 02:47:40
 ---
-
-![koichoco](https://static.30hb.cn/vndb/img/koichoco.webp)
-
-《**恋爱与选举与巧克力**》（日语：恋と選挙とチョコレート，英语：*Love, Election & Chocolate*）是[sprite](https://zh.wikipedia.org/wiki/Sprite_(遊戲品牌))公司制作并于2010年10月29日发售的[恋爱冒险](https://zh.wikipedia.org/wiki/戀愛冒險)类型[成人游戏](https://zh.wikipedia.org/wiki/日本成人遊戲)，同时也是sprite创社后制作的首款游戏。后来于2012年9月27日移植至[PlayStation Portable](https://zh.wikipedia.org/wiki/PlayStation_Portable)平台。
-
-高清重置版于2020年12月25日在Windows平台发售。此版本将分辨率由原版800x600（4:3）提升至最高3840x2160（16:9）等多种分辨率，并追加部分CG，取消原版一周目强制锁定千里线、部分重要剧情强制自动推进等限制。
-
-2023年8月11日，HIKARI FIELD正式宣布将制作并发行国际中文版，此版本将以2020年发售的高清重置版为蓝本制作，预计于2024年内在[Steam ](https://zh.wikipedia.org/wiki/Steam)平台发售。
-
-《恋爱与选举与巧克力》的[原作故事](https://zh.wikipedia.org/wiki/原著)改编并发布于[其他媒体](https://zh.wikipedia.org/wiki/跨媒體製作)上。 本作改编的2部[漫画](https://zh.wikipedia.org/wiki/日本漫畫)各连载于《[电击G's magazine](https://zh.wikipedia.org/wiki/電擊G's_magazine)》和《[月刊Comic电击大王](https://zh.wikipedia.org/wiki/月刊Comic電擊大王)》上。最新一期的《电击G's magazine》上公布动画化，并于2012年7月至9月放送由[AIC Build](https://zh.wikipedia.org/wiki/動畫國際公司)制作和喜多幡彻担任导演的12集[电视动画](https://zh.wikipedia.org/wiki/日本電視動畫)。
-
-<!--more-->
-
 ![koichoco_p1](https://static.30hb.cn/vndb/img/koichoco_p1.webp)
 
 ![koichoco_p2](https://static.30hb.cn/vndb/img/koichoco_p2.webp)

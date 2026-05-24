@@ -1,4 +1,13 @@
 ---
+cover: "https://static.30hb.cn/vndb/img/sakura.webp"
+description: |-
+  **樱花，萌放。**（日语：**さくら、もゆ。-as the Night's, Reincarnation-**）是由[FAVORITE](https://zh.moegirl.org.cn/FAVORITE)制作的美少女游戏，为该社第七作（不计FD）。
+
+  体验版于2018年12月19日公开，同日公布与[爱上火车](https://zh.moegirl.org.cn/爱上火车)进行联动。经数次延期后于2019年1月31日发售。
+years:
+  - "2019"
+  - "2023"
+  - "2024"
 title: >-
   樱花，萌放。／さくら、もゆ。-as the Night's, Reincarnation-／樱花萌放-as the Night's,
   Reincarnation-／樱摸鱼／樱、萌发。／樱花萌咲／樱花摸鱼
@@ -17,23 +26,11 @@ tags:
   - 萝莉
   - 幼驯染
   - 魔女
-  - 2019
-  - 2023
-  - 2024
 categories:
   - Windows
 date: 2024-04-07 23:31:00
 lastmod: 2024-04-20 12:29:00
 ---
-
-![sakura](https://static.30hb.cn/vndb/img/sakura.webp)
-
-**樱花，萌放。**（日语：**さくら、もゆ。-as the Night's, Reincarnation-**）是由[FAVORITE](https://zh.moegirl.org.cn/FAVORITE)制作的美少女游戏，为该社第七作（不计FD）。
-
-体验版于2018年12月19日公开，同日公布与[爱上火车](https://zh.moegirl.org.cn/爱上火车)进行联动。经数次延期后于2019年1月31日发售。
-
-<!--more-->
-
 ## 剧情简介
 
 ——这是“魔法少女”的故事。

@@ -1,4 +1,11 @@
 ---
+cover: "https://static.30hb.cn/vndb/img/otomeriron.webp"
+description: |-
+  《少女理论及其周边  -Ecole de Paris-》（日语：**乙女理論とその周辺 -Ecole de Paris-**）是由[Navel](https://zh.moegirl.org.cn/Navel)制作、发行的Galgame，于2013年7月26日发售。简称为乙りろ（おとりろ）。是《[近月少女的礼仪](https://zh.moegirl.org.cn/近月少女的礼仪)》的续作，剧情衔接《近月少女的礼仪》的BAD END。
+years:
+  - "2013"
+  - "2016"
+  - "2023"
 title: >-
   少女理论及其周边 -巴黎学院篇-／乙女理論とその周辺 -Ecole de Paris-／乙りろ／Otoriro, Otome Riron to Sono
   Shuuhen -École de Paris-
@@ -14,9 +21,6 @@ tags:
   - FD
   - 纯爱
   - 实妹
-  - 2013
-  - 2016
-  - 2023
 categories:
   - Windows
   - ONS
@@ -24,13 +28,6 @@ categories:
 date: 2024-05-05 02:26:00
 lastmod: 2024-05-05 02:26:00
 ---
-
-![otomeriron](https://static.30hb.cn/vndb/img/otomeriron.webp)
-
-《少女理论及其周边  -Ecole de Paris-》（日语：**乙女理論とその周辺 -Ecole de Paris-**）是由[Navel](https://zh.moegirl.org.cn/Navel)制作、发行的Galgame，于2013年7月26日发售。简称为乙りろ（おとりろ）。是《[近月少女的礼仪](https://zh.moegirl.org.cn/近月少女的礼仪)》的续作，剧情衔接《近月少女的礼仪》的BAD END。
-
-<!--more-->
-
 ## 简介
 
 主人公·大藏游星是代表日本财界的“华丽的一族”大藏家在不被期望的情况下诞生的孩子。

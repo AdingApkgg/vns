@@ -1,4 +1,11 @@
 ---
+cover: "https://static.30hb.cn/vndb/img/mahoyo.webp"
+description: |-
+  《**魔法使之夜**》（日语：魔法使いの夜／まほうつかいのよる *Mahōtsukai no Yoru*），是日本[TYPE-MOON](https://zh.wikipedia.org/wiki/TYPE-MOON)公司制作并发售的[视觉小说](https://zh.wikipedia.org/wiki/视觉小说)类型游戏。简称为“魔夜”（「まほよ」）。
+years:
+  - "2012"
+  - "2013"
+  - "2022"
 title: 魔法使之夜／魔法使いの夜／魔法师之夜／Witch on the Holy Night／Mahoyo／魔夜 通常 HD 高清 重置 重制
 slug: 36858
 tags:
@@ -8,9 +15,6 @@ tags:
   - 魔法
   - 氛围
   - 剧情
-  - 2012
-  - 2022
-  - 2013
 categories:
   - Windows
   - KRKR
@@ -19,13 +23,6 @@ date: 2024-05-04 03:23:00
 lastmod: 2024-11-17 07:22:10
 author: searvee
 ---
-
-![mahoyo](https://static.30hb.cn/vndb/img/mahoyo.webp)
-
-《**魔法使之夜**》（日语：魔法使いの夜／まほうつかいのよる *Mahōtsukai no Yoru*），是日本[TYPE-MOON](https://zh.wikipedia.org/wiki/TYPE-MOON)公司制作并发售的[视觉小说](https://zh.wikipedia.org/wiki/视觉小说)类型游戏。简称为“魔夜”（「まほよ」）。
-
-<!--more-->
-
 ## 简介
 
 原作是[奈须蘑菇](https://zh.wikipedia.org/wiki/奈须蘑菇)的未发表、未完成的同名[奇幻小说](https://zh.wikipedia.org/wiki/奇幻小说)。原作小说并没有按照一般形式发表，当时只有发行3册，厚度与《月姬读本》相近，只有[武内崇](https://zh.wikipedia.org/wiki/武内崇)持有1册，存货被悄悄放在[TYPE-MOON](https://zh.wikipedia.org/wiki/TYPE-MOON)的会议室里。[武内崇](https://zh.wikipedia.org/wiki/武内崇)和[OKSG](https://zh.wikipedia.org/w/index.php?title=OKSG&action=edit&redlink=1)似乎都阅读过它。本作全篇由3部组成，由于当时只有完成第1部，武内崇曾经说过“想要继续读”。作为奈须未发表作品中是著名的作品，本作的游戏化备受期待。TYPE-MOON于2008年4月4日在官方网站上宣布本作的制作计划。根据[Character material](https://zh.wikipedia.org/w/index.php?title=Character_material&action=edit&redlink=1)（TYPE-MOON发售的fans向读本）中的介绍，角色设计由武内崇担当，制作由[小山广和](https://zh.wikipedia.org/wiki/小山廣和)担当。本作的发售时间数次延期，最终在2012年3月21日宣布Master Up，并于同年4月12日发售初回版，8月10日发售通常版。

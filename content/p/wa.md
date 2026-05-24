@@ -1,4 +1,25 @@
 ---
+cover: "https://static.30hb.cn/vndb/img/wa.webp"
+description: |-
+  《**白色相簿**》（日语：WHITE ALBUM／ホワイトアルバム），是[日本](https://zh.wikipedia.org/wiki/日本)[Leaf](https://zh.wikipedia.org/wiki/Leaf)在1998年5月1日发售[成人游戏](https://zh.wikipedia.org/wiki/日本成人遊戲)。2010年6月24日由[AQUAPLUS](https://zh.wikipedia.org/wiki/AQUAPLUS)发售[PS3](https://zh.wikipedia.org/wiki/PS3)重制版《白色相簿：编缀的冬日回忆》（WHITE ALBUM -綴られる冬の思い出-），2012年3月30日由[DMM.com](https://zh.wikipedia.org/wiki/DMM.com)发售从PlayStation 3逆移植的[PC](https://zh.wikipedia.org/wiki/個人電腦)重制版。2009年1月播放[电视动画](https://zh.wikipedia.org/wiki/日本電視動畫)版前半部，后半部于2009年10月3日开始播放，共有26集。
+
+  《**白色相簿2**》（日语：WHITE ALBUM2／ホワイトアルバムツー）是[日本](https://zh.wikipedia.org/wiki/日本)[Leaf](https://zh.wikipedia.org/wiki/Leaf)公司制作的[恋爱游戏](https://zh.wikipedia.org/wiki/戀愛遊戲)类型[成人游戏](https://zh.wikipedia.org/wiki/日本成人遊戲)，分为《白色相簿2 序章》（WHITE ALBUM2 -introductory chapter-，简称IC）和《白色相簿2 终章》（WHITE ALBUM2 -closing chapter-，简称CC）两部分发行。虽为1998年5月1日发售的《[白色相簿](https://zh.wikipedia.org/wiki/白色相簿)》的续篇，但本作与前作的关联并不大。其极高的完成度和剧本素质使得本作成为难得的佳作，让人仿佛身临“剪不断，理还乱”的情感纠葛之中。
+
+  《白色相簿2 序章》于2010年3月26日发售，含序章（introductory chapter）章节；《白色相簿2 终章》原定于2010年冬发售，但最后延期至2011年12月22日发售[[2\]](https://zh.wikipedia.org/wiki/白色相簿2#cite_note-2)，含终章（closing chapter）和最终章（coda）两个章节。
+
+  [PlayStation 3](https://zh.wikipedia.org/wiki/PlayStation_3)移植版《白色相簿2 幸福的彼端》（WHITE ALBUM2 幸せの向こう側）于2012年12月20日发售，完整收录PC版序章与终章游戏内容，并新增全新剧情取代PC版中十八禁的内容，将年龄限制重新定位为17+（[CERO](https://zh.wikipedia.org/wiki/CERO) D）。
+
+  [PlayStation Vita](https://zh.wikipedia.org/wiki/PlayStation_Vita)版于2013年11月28日发售，在PlayStation 3版的基础上又增加“小说模式”等功能。
+
+  2013年4月宣布动画化，并于2013年秋季播出。声优维持原班人马，[丸户史明](https://zh.wikipedia.org/wiki/丸户史明)亲自操刀负责脚本和系列构成，[下川直哉](https://zh.wikipedia.org/w/index.php?title=下川直哉&action=edit&redlink=1)负责音乐制作，[King Records](https://zh.wikipedia.org/wiki/King_Records)负责发行，[SATELIGHT](https://zh.wikipedia.org/wiki/SATELIGHT)负责电视动画制作，内容为IC部分，全13话。
+
+  2018年2月14日，Leaf发售《白色相簿2 扩展版》（WHITE ALBUM2 EXTENDED EDITION）。除序章与终章外，扩展版还包括《不共戴天的你》与《Mini After Story》，以及广播剧、小说等内容。
+years:
+  - "1998"
+  - "2010"
+  - "2011"
+  - "2013"
+  - "2014"
 title: >-
   白色相簿／ホワイトアルバム／WHITE ALBUM／白色相册 白色专辑 重制 白1 -被点缀的冬之回忆- 编缀的冬日回忆 白2 序章 终章 最终章 ic
   cc 幸福的彼端 幸福的对面 mini After Story EXTENDED EDITION 扩展版 Special Contents
@@ -15,36 +36,12 @@ tags:
   - 纯爱
   - 治愈
   - 甜蜜
-  - 1998
-  - 2010
-  - 2011
-  - 2013
-  - 2014
 categories:
   - Windows
   - PSP
 date: 2024-10-29 05:04:00
 lastmod: 2024-10-29 05:04:00
 ---
-
-![wa](https://static.30hb.cn/vndb/img/wa.webp)
-
-《**白色相簿**》（日语：WHITE ALBUM／ホワイトアルバム），是[日本](https://zh.wikipedia.org/wiki/日本)[Leaf](https://zh.wikipedia.org/wiki/Leaf)在1998年5月1日发售[成人游戏](https://zh.wikipedia.org/wiki/日本成人遊戲)。2010年6月24日由[AQUAPLUS](https://zh.wikipedia.org/wiki/AQUAPLUS)发售[PS3](https://zh.wikipedia.org/wiki/PS3)重制版《白色相簿：编缀的冬日回忆》（WHITE ALBUM -綴られる冬の思い出-），2012年3月30日由[DMM.com](https://zh.wikipedia.org/wiki/DMM.com)发售从PlayStation 3逆移植的[PC](https://zh.wikipedia.org/wiki/個人電腦)重制版。2009年1月播放[电视动画](https://zh.wikipedia.org/wiki/日本電視動畫)版前半部，后半部于2009年10月3日开始播放，共有26集。
-
-《**白色相簿2**》（日语：WHITE ALBUM2／ホワイトアルバムツー）是[日本](https://zh.wikipedia.org/wiki/日本)[Leaf](https://zh.wikipedia.org/wiki/Leaf)公司制作的[恋爱游戏](https://zh.wikipedia.org/wiki/戀愛遊戲)类型[成人游戏](https://zh.wikipedia.org/wiki/日本成人遊戲)，分为《白色相簿2 序章》（WHITE ALBUM2 -introductory chapter-，简称IC）和《白色相簿2 终章》（WHITE ALBUM2 -closing chapter-，简称CC）两部分发行。虽为1998年5月1日发售的《[白色相簿](https://zh.wikipedia.org/wiki/白色相簿)》的续篇，但本作与前作的关联并不大。其极高的完成度和剧本素质使得本作成为难得的佳作，让人仿佛身临“剪不断，理还乱”的情感纠葛之中。
-
-《白色相簿2 序章》于2010年3月26日发售，含序章（introductory chapter）章节；《白色相簿2 终章》原定于2010年冬发售，但最后延期至2011年12月22日发售[[2\]](https://zh.wikipedia.org/wiki/白色相簿2#cite_note-2)，含终章（closing chapter）和最终章（coda）两个章节。
-
-[PlayStation 3](https://zh.wikipedia.org/wiki/PlayStation_3)移植版《白色相簿2 幸福的彼端》（WHITE ALBUM2 幸せの向こう側）于2012年12月20日发售，完整收录PC版序章与终章游戏内容，并新增全新剧情取代PC版中十八禁的内容，将年龄限制重新定位为17+（[CERO](https://zh.wikipedia.org/wiki/CERO) D）。
-
-[PlayStation Vita](https://zh.wikipedia.org/wiki/PlayStation_Vita)版于2013年11月28日发售，在PlayStation 3版的基础上又增加“小说模式”等功能。
-
-2013年4月宣布动画化，并于2013年秋季播出。声优维持原班人马，[丸户史明](https://zh.wikipedia.org/wiki/丸户史明)亲自操刀负责脚本和系列构成，[下川直哉](https://zh.wikipedia.org/w/index.php?title=下川直哉&action=edit&redlink=1)负责音乐制作，[King Records](https://zh.wikipedia.org/wiki/King_Records)负责发行，[SATELIGHT](https://zh.wikipedia.org/wiki/SATELIGHT)负责电视动画制作，内容为IC部分，全13话。
-
-2018年2月14日，Leaf发售《白色相簿2 扩展版》（WHITE ALBUM2 EXTENDED EDITION）。除序章与终章外，扩展版还包括《不共戴天的你》与《Mini After Story》，以及广播剧、小说等内容。
-
-<!--more-->
-
 ![wa_p1](https://static.30hb.cn/vndb/img/wa_p1.webp)
 
 ![wa_p2](https://static.30hb.cn/vndb/img/wa_p2.webp)

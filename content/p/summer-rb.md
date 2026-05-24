@@ -1,4 +1,23 @@
 ---
+cover: "https://static.30hb.cn/vndb/img/summer-rb.webp"
+description: |-
+  <style>
+    .topText {
+      color: #cf2e2e;
+      text-align: center;
+      font-size: 2.4rem;
+      font-weight: bold;
+    }
+  </style>
+
+
+
+  <p class="topText">神作！！推荐玩。</p>
+
+  《**Summer Pocket**》有两个版本，一个是《**Summer Pocket**》，一个是《**Summer Pocket：Reflection Blue**》，两个版本的区别在于《**Summer Pocket：Reflection Blue**》增加了三个可攻略角色，可以把《**Summer Pocket：Reflection Blue**》看做是《**Summer Pocket**》的扩充版增强版包含原版所有内容，所以还不如直接玩sprb（滑稽，**本篇文章以《Summer Pocket：Reflection Blue》为基准。**
+years:
+  - "2018"
+  - "2020"
 title: Summer Pockets REFLECTION BLUE／夏日口袋 蔚蓝回忆／サマーポケッツRB
 slug: 54358
 tags:
@@ -11,8 +30,6 @@ tags:
   - 泣
   - 恋爱
   - 萝莉
-  - 2018
-  - 2020
 categories:
   - Windows
   - Android
@@ -20,24 +37,6 @@ author: Sinon
 date: 2024-02-02 00:30:00
 lastmod: 2024-11-01 22:15:00
 ---
-
-<style>
-  .topText {
-    color: #cf2e2e;
-    text-align: center;
-    font-size: 2.4rem;
-    font-weight: bold;
-  }
-</style>
-
-![summer-rb](https://static.30hb.cn/vndb/img/summer-rb.webp)
-
-<p class="topText">神作！！推荐玩。</p>
-
-《**Summer Pocket**》有两个版本，一个是《**Summer Pocket**》，一个是《**Summer Pocket：Reflection Blue**》，两个版本的区别在于《**Summer Pocket：Reflection Blue**》增加了三个可攻略角色，可以把《**Summer Pocket：Reflection Blue**》看做是《**Summer Pocket**》的扩充版增强版包含原版所有内容，所以还不如直接玩sprb（滑稽，**本篇文章以《Summer Pocket：Reflection Blue》为基准。**
-
-<!--more-->
-
 ## 简介
 
 《**Summer Pockets**》是[Visual Art's](https://zh.wikipedia.org/wiki/Visual_Art's)游戏品牌[Key](https://zh.wikipedia.org/wiki/Key_(遊戲品牌))制作并于2018年6月29号发售的一部[美少女游戏](https://zh.wikipedia.org/wiki/美少女游戏)。2016年12月9日，Key官方推特公布形象封面与四位女主角的人设草图等初步情报，这部作品的主题句是“唯有那份眩目，未曾忘却（眩しさだけは　忘れなかった。）”，讲述了男主角和岛上的女孩在[濑户内海](https://zh.wikipedia.org/wiki/濑户内海)的一个名为鸟白岛的[离岛](https://zh.wikipedia.org/wiki/离岛)上相遇和交流发生的故事。2019年12月7日，Key宣布推出追加角色与剧情等的扩充版游戏《**Summer Pockets REFLECTION BLUE**》，并于2020年6月26日发售。2021年12月29日VISUAL ARTS于时间特番直播中正式宣布《Summer Pockets》将改编成[动画](https://zh.wikipedia.org/wiki/日本動畫)。
