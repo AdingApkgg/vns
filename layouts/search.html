@@ -2,6 +2,11 @@
 <article class="article-main">
   {{ partial "h1.html" . }}
   <div class="content">{{ .Content }}</div>
-  <div id="search"></div>
+  <pagefind-config bundle-path="/pagefind/" lang="zh"></pagefind-config>
+  <div id="search" class="pf-search">
+    <pagefind-input placeholder="搜索…"></pagefind-input>
+    <pagefind-summary></pagefind-summary>
+    <pagefind-results show-images></pagefind-results>
+  </div>
 </article>
 {{ end }}

@@ -1,33 +1,26 @@
 // 站点搜索与导航助手：search / 随机跳转 / 快捷键 / 18+ 验证
-// 依赖外部全局：PagefindUI / swup / Swal / window.localStorage
+// 依赖外部全局：PagefindComponents（Pagefind Component UI）/ swup / Swal / window.localStorage
 
 export function initSearch() {
-  var searchContainer = document.querySelector("#search");
-  if (searchContainer) {
-    var pagefind = new PagefindUI({
-      element: "#search",
-      pageSize: 10,
-      showSubResults: true,
-      resetStyles: false,
-    });
+  // Pagefind Component UI 的 <pagefind-*> 组件会自动连接并工作，无需手动实例化。
+  // 这里只负责 ?q=keyword 深链：进入 /search/?q=xxx 时自动填入并执行搜索。
+  if (!document.querySelector("pagefind-input")) return;
 
-    // 支持 URL 参数直接搜索，如 /search/?q=keyword
-    var urlParams = new URLSearchParams(window.location.search);
-    var query = urlParams.get("q");
-    if (query) {
-      // 延迟确保 PagefindUI 完全初始化
-      setTimeout(function () {
-        var searchInput = searchContainer.querySelector(
-          ".pagefind-ui__search-input",
-        );
-        if (searchInput) {
-          searchInput.value = query;
-          // 触发 input 事件让 PagefindUI 执行搜索
-          searchInput.dispatchEvent(new Event("input", { bubbles: true }));
-        }
-      }, 100);
+  var query = new URLSearchParams(window.location.search).get("q");
+  if (!query) return;
+
+  // <head> 的 module 脚本会挂载 window.PagefindComponents：首次硬加载时它（defer）
+  // 在 DOMContentLoaded 前已执行，swup 软导航时也已存在。保险起见轮询等待就绪后
+  // 再触发；triggerSearch 会自动把查询词同步到输入框的显示值。
+  var attempts = 0;
+  (function run() {
+    var pf = window.PagefindComponents;
+    if (pf && pf.getInstanceManager) {
+      pf.getInstanceManager().getInstance("default").triggerSearch(query);
+      return;
     }
-  }
+    if (attempts++ < 50) setTimeout(run, 100);
+  })();
 }
 
 export function initGalPopup() {
