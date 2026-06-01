@@ -15,6 +15,11 @@ import { initSearch, initGalPopup, rv, shortcutKey } from "./search.js";
 import { initTOCSidebar, initPostSubmissionForm, initValine, fetchDLS, initRankPage } from "./pages.js";
 import { lunar } from "./lunar.js";
 import { langCode, initClipboard } from "./misc.js";
+import { applyFeatureGates, initSetPage, migrateLegacyFps, isOn } from "./settings.js";
+
+// 整页加载时按访客设置注入装饰功能资源（播放器/Live2D/烟花/图片放大）。
+// 必须在模块顶层只跑一次 —— 不能放进 initializePage 的 tasks（那会被 swup page:view 重跑）。
+applyFeatureGates();
 
 function initializePage() {
   // 每个 init 独立 try/catch — 一个失败不阻断其他模块（TOC/评论 等不会因为
@@ -39,6 +44,7 @@ function initializePage() {
     ["initBusuanziMirror", initBusuanziMirror],
     ["initValine", initValine],
     ["initCommentTabs", () => window.initCommentTabs && window.initCommentTabs()],
+    ["initJumpToComments", initJumpToComments],
     ["initSearch", initSearch],
     ["shortcutKey", shortcutKey],
     ["langCode", langCode],
@@ -48,6 +54,7 @@ function initializePage() {
     ["initAIReview", initAIReview],
     ["initTOCSidebar", initTOCSidebar],
     ["initPostSubmissionForm", initPostSubmissionForm],
+    ["initSetPage", initSetPage],
   ];
   for (const [name, fn] of tasks) {
     try {
@@ -394,6 +401,35 @@ function initScrollEffects() {
   BackToTop.init();
 }
 
+/**
+ * 跳转到评论按钮
+ * 仅在存在评论区（.comments）的页面显示；点击平滑滚动到评论区。
+ * 按钮位于 body 内、swup 容器之外，跨页面持久存在，
+ * 因此每次 page:view 都重新根据当前页面是否有评论来切换显示。
+ *
+ * 注意：swup 平行过渡（SwupParallelPlugin）期间，离场的“上一页”容器
+ * （main.is-previous-container）会短暂与新页面共存于 DOM 中。因此查询评论区时
+ * 必须排除该容器，只看当前页面，否则离开评论页后按钮会错误地继续显示。
+ */
+function getActiveComments() {
+  return document.querySelector("main:not(.is-previous-container) .comments");
+}
+
+function initJumpToComments() {
+  const button = document.getElementById("jump-to-comments");
+  if (!button) return;
+
+  button.classList.toggle("show", !!getActiveComments());
+
+  if (!button._jumpBound) {
+    button.addEventListener("click", () => {
+      const target = getActiveComments();
+      if (target) target.scrollIntoView({ behavior: "smooth", block: "start" });
+    });
+    button._jumpBound = true;
+  }
+}
+
 
 
 
@@ -407,10 +443,9 @@ function initScrollEffects() {
  */
 
 
-if (
-  window.localStorage.getItem("fpson") == undefined ||
-  window.localStorage.getItem("fpson") == "1"
-) {
+migrateLegacyFps(); // 旧 key fpson -> set-fps
+if (isOn("set-fps")) {
+  window._fpsRunning = true; // 供设置页判断 FPS 能否即时显示
   var rAF = (function () {
     return (
       window.requestAnimationFrame ||
@@ -454,23 +489,28 @@ if (
   };
   loop();
 } else {
-  document.getElementById("fps").style = "display:none!important";
+  // main.js 在 #fps 解析前以解析阻塞方式执行，此刻 getElementById("fps") 还是 null，
+  // 故改为给永远存在的 <html> 加类、用 CSS 隐藏，绕开时序与 null 问题。
+  document.documentElement.classList.add("fps-off");
 }
 
-const observer = new MutationObserver(function (mutations) {
-  const lrcButton = document.querySelector(".aplayer-icon-lrc");
-  if (lrcButton) {
-    setTimeout(function () {
-      lrcButton.click();
-    }, 1);
-    observer.disconnect();
-  }
-});
+// 播放器开启时，等歌词按钮出现就自动点开歌词。关闭时不挂这个全站监听。
+if (isOn("set-player")) {
+  const observer = new MutationObserver(function (mutations) {
+    const lrcButton = document.querySelector(".aplayer-icon-lrc");
+    if (lrcButton) {
+      setTimeout(function () {
+        lrcButton.click();
+      }, 1);
+      observer.disconnect();
+    }
+  });
 
-observer.observe(document, {
-  childList: true,
-  subtree: true,
-});
+  observer.observe(document, {
+    childList: true,
+    subtree: true,
+  });
+}
 
 
 

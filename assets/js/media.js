@@ -2,6 +2,11 @@
 // 依赖外部全局：firework（mouse-firework UMD）、lozad（UMD）、mediumZoom（UMD）
 
 export function mouseFirework() {
+  // 烟花关闭（脚本未注入）时 firework 未定义，直接 no-op，不报错、不绑监听。
+  if (typeof firework === "undefined") return;
+  // firework 绑全局 click 监听，幂等防止 page:view / 脚本 onload 重复绑定。
+  if (window._fireworkBound) return;
+  window._fireworkBound = true;
   firework({
     excludeElements: [],
     particles: [

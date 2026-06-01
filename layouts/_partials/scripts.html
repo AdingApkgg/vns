@@ -16,25 +16,22 @@
     ],
   });
 </script>
-<script src="https://registry.npmmirror.com/medium-zoom/latest/files/dist/medium-zoom.min.js"></script>
 {{ partialCached "head/js.html" . }}
 <!-- 浮动操作按钮 -->
+<!-- column-reverse 布局：DOM 中越靠前越靠下。menuToggle 桌面端隐藏，
+     因此桌面端 jump-to-comments 落在最底部（贴合“右下角”需求）；
+     移动端 menuToggle 仍保持在最底部的原有位置，跳转评论按钮位于其上方。 -->
 <div class="floating-actions">
   <button id="menuToggle" class="fab-btn" title="切换菜单" aria-label="切换导航菜单" aria-expanded="false" data-target="header">
     <i class="fa fa-bars" aria-hidden="true"></i>
+  </button>
+  <button id="jump-to-comments" class="fab-btn" title="跳转到评论" aria-label="跳转到评论区">
+    <i class="fa fa-comment-dots" aria-hidden="true"></i>
   </button>
   <button id="back-to-top" class="fab-btn" title="返回顶部" aria-label="返回页面顶部">
     <i class="fa fa-angles-up" aria-hidden="true"></i>
   </button>
 </div>
 <span id="fps"></span>
-<script defer src="https://registry.npmmirror.com/mouse-firework/latest/files/dist/index.umd.js"
-  fetchpriority="low"></script>
-<script async src="https://registry.npmmirror.com/weblive2d/latest/files/js/autoload.js" fetchpriority="low"></script>
-<link rel="stylesheet" href="https://registry.npmmirror.com/aplayer/latest/files/dist/APlayer.min.css"
-  fetchpriority="low" />
-<meting-js id="8464409595" server="netease" type="playlist" fixed="true" autoplay="false" order="random" volume="0.3"
-  list-folded="false" list-max-height="36vh"></meting-js>
-<script defer src="https://registry.npmmirror.com/aplayer/latest/files/dist/APlayer.min.js"
-  fetchpriority="low"></script>
-<script defer src="https://registry.npmmirror.com/meting/latest/files/dist/Meting.min.js" fetchpriority="low"></script>
+<!-- 播放器 / Live2D / 鼠标烟花 / 图片放大 等装饰功能改由 assets/js/settings.js
+     按访客在 /set 页的开关（localStorage）动态注入，关闭的功能零网络开销。 -->
