@@ -1,0 +1,164 @@
+/* 站点设置页（/set）：装饰功能开关。配色全用 _root.scss 变量，暗色自动适配。 */
+
+/* FPS 关闭时隐藏右下角 #fps（含其 padding/背景小色块）。由 main.js / settings.js
+   给 <html> 加 fps-off 类驱动 —— main.js 执行时 #fps 尚未解析，故用根元素类而非直接改元素。 */
+html.fps-off #fps {
+  display: none !important;
+}
+
+.settings-list {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  margin: 1.5rem 0 1rem;
+}
+
+.setting-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+  padding: 14px 16px;
+  background: var(--content-bg);
+  border: 1px solid var(--border-color);
+  border-radius: 12px;
+  transition: border-color 0.2s ease;
+
+  &:hover {
+    border-color: var(--link-color);
+  }
+}
+
+.setting-meta {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  min-width: 0;
+}
+
+.setting-icon {
+  flex: none;
+  width: 1.4em;
+  text-align: center;
+  font-size: 1.15rem;
+  color: var(--link-color);
+}
+
+.setting-text {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  min-width: 0;
+}
+
+.setting-label {
+  font-weight: 600;
+  color: var(--text-color);
+}
+
+.setting-desc {
+  color: var(--meta-color);
+  font-size: 0.82rem;
+}
+
+/* 开关 toggle —— 原生 button[role=switch]，可聚焦、键盘可操作 */
+.setting-toggle {
+  --w: 46px;
+  --h: 26px;
+  --pad: 3px;
+  flex: none;
+  position: relative;
+  width: var(--w);
+  height: var(--h);
+  padding: 0;
+  border: none;
+  border-radius: 999px;
+  cursor: pointer;
+  background: var(--bg-span-color);
+  transition: background 0.25s cubic-bezier(0.4, 0, 0.2, 1);
+
+  &[aria-checked="true"] {
+    background: var(--link-color);
+  }
+
+  &:focus-visible {
+    outline: 2px solid var(--link-color);
+    outline-offset: 2px;
+  }
+}
+
+.setting-toggle-knob {
+  position: absolute;
+  top: var(--pad);
+  left: var(--pad);
+  width: calc(var(--h) - var(--pad) * 2);
+  height: calc(var(--h) - var(--pad) * 2);
+  border-radius: 50%;
+  background: #fff;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.3);
+  transition: transform 0.25s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.setting-toggle[aria-checked="true"] .setting-toggle-knob {
+  transform: translateX(calc(var(--w) - var(--h)));
+}
+
+/* 提示文案与刷新按钮 */
+.settings-hint {
+  color: var(--meta-color);
+  font-size: 0.85rem;
+  margin: 0.5rem 0 1rem;
+}
+
+.settings-reload-btn {
+  display: inline-flex;
+  align-items: center;
+  padding: 10px 18px;
+  border: 1px solid var(--border-color);
+  border-radius: 999px;
+  background: var(--content-bg);
+  color: var(--text-color);
+  font-size: 0.9rem;
+  cursor: pointer;
+  transition:
+    color 0.2s ease,
+    border-color 0.2s ease,
+    background 0.2s ease;
+
+  &:hover {
+    border-color: var(--link-color);
+    color: var(--link-color);
+  }
+
+  &:focus-visible {
+    outline: 2px solid var(--link-color);
+    outline-offset: 2px;
+  }
+
+  /* 改了需刷新才生效的项后高亮提醒 */
+  &.is-dirty {
+    background: var(--link-color);
+    border-color: var(--link-color);
+    color: #fff;
+    animation: settings-reload-pulse 1.4s ease-in-out infinite;
+  }
+}
+
+@keyframes settings-reload-pulse {
+  0%,
+  100% {
+    box-shadow: 0 0 0 0 rgba(77, 171, 247, 0.5);
+  }
+  50% {
+    box-shadow: 0 0 0 8px rgba(77, 171, 247, 0);
+  }
+}
+
+@media (max-width: 480px) {
+  .setting-row {
+    padding: 12px 14px;
+  }
+  .setting-icon {
+    display: none;
+  }
+}

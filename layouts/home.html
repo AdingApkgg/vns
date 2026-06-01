@@ -2,22 +2,22 @@
 {{ $articles := where .Site.RegularPages "Type" "p" }}
 <article class="article-main">
   <aside class="home-statusbar" aria-label="站点状态">
-    <span class="statusbar-item">
+    <a class="statusbar-item statusbar-link" href="/latest/" title="去看全部资源">
       <i class="fa fa-database"></i>
       <strong class="stat-num">{{ len $articles }}</strong>&nbsp;部资源
-    </span>
-    <span class="statusbar-item">
+    </a>
+    <a class="statusbar-item statusbar-link" href="/tags/#platforms" title="按平台浏览">
       <i class="fa fa-layer-group"></i>
       <strong class="stat-num">{{ len .Site.Taxonomies.categories }}</strong>&nbsp;平台
-    </span>
-    <span class="statusbar-item">
+    </a>
+    <a class="statusbar-item statusbar-link" href="/tags/" title="标签云">
       <i class="fa fa-tags"></i>
       <strong class="stat-num">{{ len .Site.Taxonomies.tags }}</strong>&nbsp;标签
-    </span>
-    <span class="statusbar-item">
+    </a>
+    <a class="statusbar-item statusbar-link" href="/tags/#years" title="按年份浏览">
       <i class="fa fa-clock"></i>
       <strong class="stat-num">{{ len .Site.Taxonomies.years }}</strong>&nbsp;年代
-    </span>
+    </a>
     {{ with index $articles 0 }}
     <span class="statusbar-item statusbar-update">
       <i class="fa fa-arrow-up"></i>
@@ -26,11 +26,11 @@
     {{ end }}
     <span class="statusbar-item statusbar-pv">
       <i class="fa fa-eye"></i>
-      <span id="busuanzi_value_site_pv">…</span>&nbsp;PV
+      <span data-busuanzi-mirror="busuanzi_value_site_pv">…</span>&nbsp;PV
     </span>
     <span class="statusbar-item statusbar-uv">
       <i class="fa fa-user"></i>
-      <span id="busuanzi_value_site_uv">…</span>&nbsp;UV
+      <span data-busuanzi-mirror="busuanzi_value_site_uv">…</span>&nbsp;UV
     </span>
   </aside>
 
@@ -75,6 +75,23 @@
     {{ .Content }}
   </section>
 
+  <section class="home-playlist" aria-label="今日 Play">
+    <div class="home-section-head">
+      <h2><i class="fa fa-gamepad"></i>&nbsp;今日 Play&nbsp;·&nbsp;<span data-playlist-date>--.--.--</span></h2>
+      <button class="home-reroll" data-playlist-reroll type="button" title="预览明天">
+        <i class="fa fa-forward"></i>&nbsp;明日预览
+      </button>
+    </div>
+    <div class="home-playlist-row" data-playlist-target>
+      {{ range seq 6 }}<div class="playlist-skel"></div>{{ end }}
+    </div>
+    <div class="home-playlist-foot">
+      <button class="playlist-share" data-playlist-share type="button" title="复制分享链接">
+        <i class="fa fa-link"></i>&nbsp;复制今日清单链接
+      </button>
+    </div>
+  </section>
+
   {{ $featured := first 3 (shuffle $articles) }}
   {{ if $featured }}
   <section class="home-featured" aria-label="今日邀引">
@@ -95,6 +112,9 @@
       <a class="featured-card" href="{{ .RelPermalink }}">
         {{ if $cover }}<img class="featured-cover" data-src="{{ $cover }}" alt="{{ .LinkTitle }}" loading="lazy" />{{ end }}
         <span class="featured-title"><span>{{ .LinkTitle }}</span></span>
+        {{ with .Params.tags }}
+        <span class="card-tags">{{ range first 3 . }}<span class="card-tag">{{ . }}</span>{{ end }}</span>
+        {{ end }}
       </a>
       {{ end }}
     </div>
@@ -120,14 +140,16 @@
   {{ $spotlightPages := first 8 .Pages.ByLastmod.Reverse }}
   <section class="home-spotlight" aria-label="今日话题">
     <div class="home-section-head">
-      <h2>
+      <h2 data-spotlight-head>
         <i class="fa fa-fire"></i>&nbsp;今日话题：
-        <a class="spotlight-tag" href="{{ .Page.Permalink }}">{{ .Page.Title }}</a>
-        <span class="spotlight-count">{{ .Count }} 部作品</span>
+        <a class="spotlight-tag" href="{{ .Page.Permalink }}" data-spotlight-tag>{{ .Page.Title }}</a>
+        <span class="spotlight-count" data-spotlight-count>{{ .Count }} 部作品</span>
       </h2>
-      <a href="{{ .Page.Permalink }}" class="home-section-more">看全部 →</a>
+      <button class="home-reroll" data-spotlight-reroll type="button" title="换个话题">
+        <i class="fa fa-rotate"></i>&nbsp;换个话题
+      </button>
     </div>
-    <div class="home-spotlight-row">
+    <div class="home-spotlight-row" data-spotlight-target>
       {{ range $spotlightPages }}
       {{ $cover := .Params.cover }}
       {{ if not $cover }}
@@ -138,6 +160,9 @@
       <a class="spotlight-card" href="{{ .RelPermalink }}" title="{{ .LinkTitle }}">
         {{ if $cover }}<img class="spotlight-cover" data-src="{{ $cover }}" alt="{{ .LinkTitle }}" loading="lazy" />{{ end }}
         <span class="spotlight-title"><span>{{ .LinkTitle }}</span></span>
+        {{ with .Params.tags }}
+        <span class="card-tags">{{ range first 3 . }}<span class="card-tag">{{ . }}</span>{{ end }}</span>
+        {{ end }}
       </a>
       {{ end }}
     </div>
@@ -151,7 +176,14 @@
       <h2><i class="fa fa-clock"></i>&nbsp;近期更新</h2>
       <a href="/latest/" class="home-section-more">查看全部 →</a>
     </div>
-    <div class="home-recent-row">
+    <div class="recent-chips" data-recent-chips>
+      <button class="recent-chip is-active" data-filter="" type="button">全部</button>
+      <button class="recent-chip" data-filter="y:2024" type="button">2024</button>
+      <button class="recent-chip" data-filter="y:2023" type="button">2023</button>
+      <button class="recent-chip" data-filter="k:Windows" type="button">Windows</button>
+      <button class="recent-chip" data-filter="k:Android" type="button">Android</button>
+    </div>
+    <div class="home-recent-row" data-recent-target>
       {{ range $recent }}
       {{ $cover := .Params.cover }}
       {{ if not $cover }}
@@ -162,11 +194,62 @@
       <a class="recent-card" href="{{ .RelPermalink }}" title="{{ .LinkTitle }}">
         {{ if $cover }}<img class="recent-cover" data-src="{{ $cover }}" alt="{{ .LinkTitle }}" loading="lazy" />{{ end }}
         <span class="recent-title"><span>{{ .LinkTitle }}</span></span>
+        {{ with .Params.tags }}
+        <span class="card-tags">{{ range first 3 . }}<span class="card-tag">{{ . }}</span>{{ end }}</span>
+        {{ end }}
       </a>
       {{ end }}
     </div>
   </section>
   {{ end }}
+
+  {{/* 全文章数据池：供 今日 Play / 近期筛选 共用 */}}
+  {{ $fullPool := slice }}
+  {{ range $p := $articles }}
+    {{ $c := $p.Params.cover }}
+    {{ if not $c }}
+      {{ with findRESubmatch `!\[[^\]]*\]\(([^)]+)\)` $p.RawContent 1 }}
+        {{ $c = index (index . 0) 1 }}
+      {{ end }}
+    {{ end }}
+    {{ $fullPool = $fullPool | append (dict
+      "u" $p.RelPermalink
+      "t" $p.LinkTitle
+      "c" $c
+      "y" ($p.Params.years | default slice)
+      "k" ($p.Params.categories | default slice)
+      "m" $p.Lastmod.Unix
+    ) }}
+  {{ end }}
+  <script type="application/json" data-home-full-pool>{{ $fullPool | jsonify | safeJS }}</script>
+
+  {{/* 热门标签池：供 换个话题 用 */}}
+  {{ $tagPool := slice }}
+  {{ range $tag := first 30 .Site.Taxonomies.tags.ByCount }}
+    {{ $picks := slice }}
+    {{ range first 8 $tag.Pages.ByLastmod.Reverse }}
+      {{ $c := .Params.cover }}
+      {{ if not $c }}
+        {{ with findRESubmatch `!\[[^\]]*\]\(([^)]+)\)` .RawContent 1 }}
+          {{ $c = index (index . 0) 1 }}
+        {{ end }}
+      {{ end }}
+      {{ $tg := .Params.tags | default slice }}
+      {{ $picks = $picks | append (dict
+        "u" .RelPermalink
+        "t" .LinkTitle
+        "c" $c
+        "g" (first 3 $tg)
+      ) }}
+    {{ end }}
+    {{ $tagPool = $tagPool | append (dict
+      "n" $tag.Page.Title
+      "u" $tag.Page.Permalink
+      "c" $tag.Count
+      "p" $picks
+    ) }}
+  {{ end }}
+  <script type="application/json" data-home-tag-pool>{{ $tagPool | jsonify | safeJS }}</script>
 
   {{ $popularTags := first 40 .Site.Taxonomies.tags.ByCount }}
   {{ if $popularTags }}
@@ -177,10 +260,29 @@
       <a href="/tags/" class="home-section-more">全部标签 →</a>
     </div>
     <div class="tagcloud">
-      {{ range $popularTags }}
-      {{ $ratio := div (float .Count) (float $maxCount) }}
+      {{ range $i, $tag := $popularTags }}
+      {{ $ratio := div (float $tag.Count) (float $maxCount) }}
       {{ $size := add 0.78 (mul $ratio 0.72) }}
-      <a href="{{ .Page.Permalink }}" class="tagcloud-tag" style="font-size:{{ printf "%.2f" $size }}rem; opacity:{{ printf "%.2f" (add 0.55 (mul $ratio 0.45)) }};">{{ .Page.Title }}<small>{{ .Count }}</small></a>
+      <span class="tagcloud-tag-wrap"{{ if lt $i 10 }} data-popover-below{{ end }}>
+        <a href="{{ $tag.Page.Permalink }}" class="tagcloud-tag" style="font-size:{{ printf "%.2f" $size }}rem; opacity:{{ printf "%.2f" (add 0.55 (mul $ratio 0.45)) }};">{{ $tag.Page.Title }}<small>{{ $tag.Count }}</small></a>
+        <div class="tagcloud-popover" role="tooltip">
+          <div class="tagcloud-popover-grid">
+            {{ range first 4 $tag.Pages.ByLastmod.Reverse }}
+            {{ $c := .Params.cover }}
+            {{ if not $c }}
+              {{ with findRESubmatch `!\[[^\]]*\]\(([^)]+)\)` .RawContent 1 }}
+                {{ $c = index (index . 0) 1 }}
+              {{ end }}
+            {{ end }}
+            <a href="{{ .RelPermalink }}" class="tagcloud-popover-card" title="{{ .LinkTitle }}">
+              {{ if $c }}<img data-src="{{ $c }}" src="{{ $c }}" alt="{{ .LinkTitle }}" loading="lazy" />{{ end }}
+              <span>{{ .LinkTitle }}</span>
+            </a>
+            {{ end }}
+          </div>
+          <a class="tagcloud-popover-foot" href="{{ $tag.Page.Permalink }}">共 {{ $tag.Count }} 部 →</a>
+        </div>
+      </span>
       {{ end }}
     </div>
   </section>

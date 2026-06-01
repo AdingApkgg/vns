@@ -184,7 +184,13 @@ body > header {
       }
 
       .qr-code {
-        max-width: 72px;
+        // 固定 72×72 方框：每页二维码编码的是各自 URL，原始尺寸随 URL 长短而不同。
+        // 写死外框尺寸，可在 swup 替换 header、新二维码尚未解码完成时就预留好布局空间，
+        // 既消除切页时的高度坍缩弹跳，也抹平不同页面二维码尺寸差异导致的高度变化。
+        // scale-down：按原始尺寸居中显示，超过 72 才缩小，绝不放大变糊。
+        width: 72px;
+        height: 72px;
+        object-fit: scale-down;
         cursor: pointer;
         position: static;
       }
@@ -514,12 +520,36 @@ blockquote {
   }
 }
 
+/* 跳转到评论按钮 - 仅在存在评论区的页面显示 */
+#jump-to-comments {
+  display: none;
+
+  &.show {
+    display: flex;
+    animation: fab-fade-in 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  }
+}
+
+@keyframes fab-fade-in {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
 /* 菜单切换按钮 - 默认隐藏，响应式显示 */
 #menuToggle {
   display: none;
 }
 
-.swal2-container {
+/* 仅模态弹窗（如节日纪念）加背景模糊；Toast 通知的容器是定宽且占满整屏高度的，
+   若加 backdrop-filter 会在顶部拖出一整条竖向模糊带。Toast 显示时 body 带 swal2-toast-shown。*/
+body:not(.swal2-toast-shown) .swal2-container {
   backdrop-filter: blur(8px);
 }
 

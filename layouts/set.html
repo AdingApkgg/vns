@@ -1,0 +1,13 @@
+{{ define "main" }}
+<article class="article-main">
+  {{ partial "h1.html" . }}
+  {{ .Content }}
+  <div id="settings-list" class="settings-list" role="group" aria-label="功能开关"></div>
+  <p class="settings-hint">
+    <i class="fa fa-circle-info" aria-hidden="true"></i>&nbsp;开关即时保存到本机；播放器 / Live2D / 烟花 / 图片放大 需刷新后才会生效。
+  </p>
+  <button id="settings-reload" class="settings-reload-btn" type="button">
+    <i class="fa fa-rotate-right" aria-hidden="true"></i>&nbsp;刷新使设置生效
+  </button>
+</article>
+{{ end }}

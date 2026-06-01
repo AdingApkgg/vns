@@ -10,3 +10,4 @@ package-lock.json
 .claude/
 __pycache__/
 *.pyc
+assets/jsconfig.json

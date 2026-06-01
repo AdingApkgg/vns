@@ -95,6 +95,13 @@ pageRef = '/rank'
 weight = 11
 pre = "fa fa-ranking-star"
 
+[[menus.main]]
+identifier = "set"
+name = '设置'
+pageRef = '/set'
+weight = 11.5
+pre = "fa fa-gear"
+
 [[menus.footer]]
 identifier = "teams"
 name = '团队'
