@@ -224,6 +224,152 @@ export function initPostSubmissionForm() {
   });
 }
 
+
+// Valine 配置 + 表情映射 + 初始化防抖定时器
+/**
+ * Valine 评论系统配置
+ */
+const VALINE_CONFIG = {
+  appId: "BnlZFCN5ghutLVVEX0el3pz3-MdYXbMMI",
+  appKey: "OvpvXLKwajI2qYE4XsNMokpW",
+  serverURLs: "https://valine.saop.cc",
+  placeholder:
+    "昵称栏输入 QQ 号即可获取头像与邮箱..\n评论支持标准的 Markdown 全语法~",
+  avatar_cdn: "https://weavatar.com/avatar/",
+  emojiCDN: "//twikoo-magic.oss-cn-hangzhou.aliyuncs.com/",
+  pageSize: 20,
+  visitor: false,
+  comment_count: false,
+  highlight: true,
+  recordIP: true,
+  enableQQ: true,
+};
+
+/**
+ * 生成表情映射
+ */
+const VALINE_EMOJI_MAPS = (() => {
+  const maps = {};
+
+  // QQ 表情
+  const qqEmojis = [
+    "OK",
+    "aini",
+    "aixin",
+    "aoman",
+    "baiyan",
+    "bangbangtang",
+    "baojin",
+    "baoquan",
+    "bishi",
+    "bizui",
+    "cahan",
+    "caidao",
+    "chi",
+    "ciya",
+    "dabing",
+    "daku",
+    "dan",
+    "deyi",
+    "doge",
+    "fadai",
+    "fanu",
+    "fendou",
+    "ganga",
+    "gouyin",
+    "guzhang",
+    "haixiu",
+    "hanxiao",
+    "haobang",
+    "haqian",
+    "hecai",
+    "hexie",
+    "huaixiao",
+    "jie",
+    "jingkong",
+    "jingxi",
+    "jingya",
+    "juhua",
+    "keai",
+    "kelian",
+    "koubi",
+    "ku",
+    "kuaikule",
+    "kulou",
+    "kun",
+    "lanqiu",
+    "leiben",
+    "lenghan",
+    "liuhan",
+    "liulei",
+    "nanguo",
+    "penxue",
+    "piezui",
+    "pijiu",
+    "qiang",
+    "qiaoda",
+    "qinqin",
+    "qiudale",
+    "quantou",
+    "saorao",
+    "se",
+    "shengli",
+    "shouqiang",
+    "shuai",
+    "shui",
+    "tiaopi",
+    "touxiao",
+    "tu",
+    "tuosai",
+    "weiqu",
+    "weixiao",
+    "woshou",
+    "wozuimei",
+    "wunai",
+    "xia",
+    "xiaojiujie",
+    "xiaoku",
+    "xiaoyanger",
+    "xieyanxiao",
+    "xigua",
+    "xu",
+    "yangtuo",
+    "yinxian",
+    "yiwen",
+    "youhengheng",
+    "youling",
+    "yun",
+    "zaijian",
+    "zhayanjian",
+    "zhemo",
+    "zhouma",
+    "zhuakuang",
+    "zuohengheng",
+  ];
+  qqEmojis.forEach((name) => {
+    maps[`QQ-${name}`] = `QQ/${name}.gif`;
+  });
+
+  // 贴吧表情 (1-50, 66-124)
+  maps["贴吧新表情-image_emoticon"] = "Tieba-New/image_emoticon.png";
+  const tiebaRanges = [
+    [2, 50],
+    [66, 124],
+  ];
+  tiebaRanges.forEach(([start, end]) => {
+    for (let i = start; i <= end; i++) {
+      maps[`贴吧新表情-image_emoticon${i}`] =
+        `Tieba-New/image_emoticon${i}.png`;
+    }
+  });
+
+  return maps;
+})();
+
+
+// Valine 初始化防抖定时器
+let valineInitTimer = null;
+
 export function initValine() {
   // 清除之前的定时器，防止重复初始化
   if (valineInitTimer) {
