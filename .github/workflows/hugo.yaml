@@ -26,6 +26,7 @@ jobs:
     env:
       DART_SASS_VERSION: 1.100.0
       HUGO_VERSION: 0.162.1
+      PAGEFIND_VERSION: 1.5.2
       HUGO_ENVIRONMENT: production
       TZ: America/Los_Angeles
     steps:
@@ -44,8 +45,6 @@ jobs:
         with:
           submodules: recursive
           fetch-depth: 0
-      - name: Install Node.js dependencies
-        run: "[[ -f package-lock.json || -f npm-shrinkwrap.json ]] && npm ci || true"
       - name: Cache Restore
         id: cache-restore
         uses: actions/cache/restore@v5
@@ -71,7 +70,9 @@ jobs:
           key: ${{ steps.cache-restore.outputs.cache-primary-key }}
       - name: Install Pagefind and build search index
         run: |
-          npm install -g pagefind && pagefind
+          wget -O ${{ runner.temp }}/pagefind.tar.gz https://github.com/CloudCannon/pagefind/releases/download/v${PAGEFIND_VERSION}/pagefind_extended-v${PAGEFIND_VERSION}-x86_64-unknown-linux-musl.tar.gz
+          tar -xf ${{ runner.temp }}/pagefind.tar.gz --directory ${{ runner.temp }}
+          ${{ runner.temp }}/pagefind_extended
       - name: Upload public directory as artifact
         uses: actions/upload-artifact@v6
         with:
