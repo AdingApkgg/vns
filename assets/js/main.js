@@ -1,3 +1,15 @@
+import {
+  initHomeReroll,
+  initHomeReveal,
+  initHomeCountUp,
+  initHomeAnnounce,
+  initHomePlaylist,
+  initHomeRecentFilter,
+  initBusuanziMirror,
+  initTagcloudPopover,
+  initHomeSpotlightReroll,
+} from "./home.js";
+
 function initializePage() {
   try {
     initGalPopup();
@@ -12,6 +24,11 @@ function initializePage() {
     initHomeReveal();
     initHomeCountUp();
     initHomeAnnounce();
+    initHomePlaylist();
+    initHomeRecentFilter();
+    initHomeSpotlightReroll();
+    initTagcloudPopover();
+    initBusuanziMirror();
     initValine();
     if (window.initCommentTabs) window.initCommentTabs();
     initSearch();
@@ -770,127 +787,6 @@ function rv() {
   });
 }
 
-function initHomeReroll() {
-  const btn = document.querySelector('[data-reroll-pool="featured"]');
-  const grid = document.querySelector('[data-reroll-target="featured"]');
-  const poolNode = document.querySelector("script[data-home-pool]");
-  if (!btn || !grid || !poolNode) return;
-  let pool;
-  try {
-    pool = JSON.parse(poolNode.textContent);
-  } catch {
-    return;
-  }
-  if (!Array.isArray(pool) || pool.length === 0) return;
-
-  const esc = (s) =>
-    String(s).replace(/[&<>"']/g, (c) =>
-      ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c])
-    );
-
-  btn.addEventListener("click", () => {
-    const shuffled = pool.slice().sort(() => Math.random() - 0.5);
-    const picks = shuffled.slice(0, 3);
-    grid.style.opacity = "0.3";
-    setTimeout(() => {
-      grid.innerHTML = picks
-        .map(
-          (p) => `
-        <a class="featured-card" href="${esc(p.u)}">
-          ${p.c ? `<img class="featured-cover" src="${esc(p.c)}" alt="${esc(p.t)}" loading="lazy" />` : ""}
-          <span class="featured-title"><span>${esc(p.t)}</span></span>
-        </a>
-      `
-        )
-        .join("");
-      grid.style.opacity = "1";
-    }, 180);
-  });
-}
-
-function initHomeReveal() {
-  const targets = document.querySelectorAll(
-    ".home-statusbar, .home-announce, .home-featured, .home-spotlight, .home-recent, .home-stats, .home-tagcloud"
-  );
-  if (!targets.length) return;
-  if (!("IntersectionObserver" in window)) {
-    targets.forEach((t) => t.classList.add("is-revealed"));
-    return;
-  }
-  const io = new IntersectionObserver(
-    (entries) => {
-      entries.forEach((e) => {
-        if (e.isIntersecting) {
-          e.target.classList.add("is-revealed");
-          io.unobserve(e.target);
-        }
-      });
-    },
-    { threshold: 0.08, rootMargin: "0px 0px -40px 0px" }
-  );
-  targets.forEach((t) => io.observe(t));
-}
-
-function initHomeCountUp() {
-  const nums = document.querySelectorAll(".stat-num");
-  if (!nums.length) return;
-  if (!("IntersectionObserver" in window)) return;
-
-  const animate = (el, to) => {
-    const duration = 900;
-    const start = performance.now();
-    const startVal = 0;
-    const tick = (now) => {
-      const p = Math.min(1, (now - start) / duration);
-      // easeOutCubic
-      const eased = 1 - Math.pow(1 - p, 3);
-      el.textContent = Math.round(startVal + (to - startVal) * eased).toLocaleString();
-      if (p < 1) requestAnimationFrame(tick);
-    };
-    requestAnimationFrame(tick);
-  };
-
-  const io = new IntersectionObserver(
-    (entries) => {
-      entries.forEach((e) => {
-        if (!e.isIntersecting) return;
-        const el = e.target;
-        // Skip if content is non-numeric (e.g., busuanzi placeholder "…")
-        const text = el.textContent.trim();
-        const n = parseInt(text.replace(/[^\d-]/g, ""), 10);
-        if (Number.isFinite(n) && n > 0) animate(el, n);
-        io.unobserve(el);
-      });
-    },
-    { threshold: 0.4 }
-  );
-  nums.forEach((n) => io.observe(n));
-}
-
-function initHomeAnnounce() {
-  const announce = document.querySelector(".home-announce");
-  if (!announce) return;
-  // Find each H2 in announce and wrap (H2 + following siblings until next H2) into <details>
-  const headings = announce.querySelectorAll(":scope > h2");
-  headings.forEach((h2, idx) => {
-    const details = document.createElement("details");
-    details.className = "announce-section";
-    if (idx === 0) details.open = false; // collapsed by default
-    const summary = document.createElement("summary");
-    summary.innerHTML = h2.innerHTML;
-    details.appendChild(summary);
-
-    const toMove = [];
-    let next = h2.nextElementSibling;
-    while (next && next.tagName !== "H2") {
-      toMove.push(next);
-      next = next.nextElementSibling;
-    }
-    h2.parentNode.insertBefore(details, h2);
-    toMove.forEach((el) => details.appendChild(el));
-    h2.remove();
-  });
-}
 
 function shortcutKey() {
   const routes = {

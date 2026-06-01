@@ -123,6 +123,7 @@
 // 滚动入场动画（IntersectionObserver 通过 .is-revealed 触发）
 .home-statusbar,
 .home-announce,
+.home-playlist,
 .home-featured,
 .home-spotlight,
 .home-recent,
@@ -142,6 +143,7 @@
 .no-js {
   .home-statusbar,
   .home-announce,
+  .home-playlist,
   .home-featured,
   .home-spotlight,
   .home-recent,
@@ -878,4 +880,278 @@
     font-size: 0.78em;
     opacity: 0.75;
   }
+}
+
+// =================== 交互探索感升级 ===================
+
+// 状态条数字链接 hover
+.home-statusbar .statusbar-link {
+  text-decoration: none;
+  color: inherit;
+  transition: color 0.2s ease;
+
+  &:hover {
+    color: var(--link-color);
+    opacity: 1 !important;
+    text-decoration: none;
+
+    .stat-num {
+      text-decoration: underline;
+    }
+
+    > i {
+      transform: scale(1.15);
+    }
+  }
+
+  > i {
+    transition: transform 0.2s ease;
+  }
+}
+
+// 卡片 hover 浮出 tag badge（在 cover overlay 之上）
+.card-tags {
+  position: absolute;
+  right: 0.45em;
+  bottom: 0.45em;
+  z-index: 3;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+  gap: 0.25em;
+  max-width: calc(100% - 0.9em);
+  opacity: 0;
+  transform: translateY(4px);
+  transition: opacity 0.28s ease, transform 0.28s ease;
+  pointer-events: none;
+}
+
+.featured-card:hover .card-tags,
+.spotlight-card:hover .card-tags,
+.recent-card:hover .card-tags {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+.card-tag {
+  font-size: 0.62rem;
+  padding: 0.12em 0.5em;
+  border-radius: 8px;
+  background: rgba(255, 255, 255, 0.92);
+  color: #222;
+  font-weight: 600;
+  line-height: 1.4;
+  white-space: nowrap;
+  backdrop-filter: blur(3px);
+  -webkit-backdrop-filter: blur(3px);
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.25);
+  max-width: 6em;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+// 标签云 hover 浮窗
+.home-tagcloud {
+  overflow: visible; // 关键：让浮窗能溢出
+}
+
+.tagcloud-tag-wrap {
+  position: relative;
+  display: inline-block;
+}
+
+// popover 已被 JS portal 到 body，visibility 由 .is-active 控制（不靠 :hover 选择器）
+.tagcloud-popover.is-active {
+  opacity: 1;
+  visibility: visible;
+}
+
+.tagcloud-popover {
+  position: absolute;
+  // 紧贴 wrapper 顶部，避免 gap 让 hover 中断
+  bottom: 100%;
+  left: 50%;
+  transform: translateX(-50%) translateY(4px);
+  z-index: 50;
+  min-width: 260px;
+  max-width: min(320px, 90vw);
+  // 用 padding-bottom 给视觉间距，但 popover 范围仍贴 wrapper（hover 不中断）
+  padding: 0.55rem 0.55rem calc(0.55rem + 8px);
+  background: var(--bg-color);
+  background-clip: padding-box;
+  border: 1px solid var(--border-color);
+  border-radius: 10px;
+  box-shadow: 0 8px 28px rgba(0, 0, 0, 0.18);
+  opacity: 0;
+  visibility: hidden;
+  transition: opacity 0.2s ease, visibility 0.2s ease, transform 0.2s ease;
+  // popover 自身可接收鼠标，浮窗里的链接可点
+  pointer-events: auto;
+
+  &-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 0.4rem;
+    margin-bottom: 0.45rem;
+  }
+
+  &-foot {
+    display: block;
+    text-align: center;
+    font-size: 0.8rem;
+    padding: 0.25em 0.4em;
+    text-decoration: none;
+    color: var(--link-color);
+    font-weight: 600;
+    border-top: 1px dashed var(--border-color);
+    padding-top: 0.4rem;
+  }
+}
+
+.tagcloud-popover-card {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  text-decoration: none;
+  color: var(--text-color);
+  border-radius: 6px;
+  overflow: hidden;
+  background: var(--bg-li-color);
+  border: 1px solid var(--border-color);
+
+  img {
+    display: block;
+    width: 100%;
+    height: auto;
+  }
+
+  span {
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    padding: 0.3em 0.45em;
+    font-size: 0.68rem;
+    line-height: 1.3;
+    width: 100%;
+  }
+}
+
+// popover grid 每格高度自然，顶对齐避免 stretch
+.tagcloud-popover-grid {
+  align-items: start;
+}
+
+// 今日 Play 清单区块
+.home-playlist {
+  margin: 1.75rem 0;
+}
+
+.home-playlist-row {
+  @extend %home-hscroll;
+  transition: opacity 0.18s ease;
+}
+
+.playlist-card {
+  // 复用 .spotlight-card 视觉
+  flex: 0 0 auto;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+  text-decoration: none;
+  color: var(--text-color);
+  scroll-snap-align: start;
+  transition: transform 0.2s ease;
+
+  &:hover {
+    transform: translateY(-3px);
+    opacity: 1;
+    text-decoration: none;
+  }
+}
+
+.playlist-skel {
+  flex: 0 0 auto;
+  width: 140px;
+  height: 200px;
+  border-radius: 8px;
+  background: linear-gradient(
+    90deg,
+    var(--bg-li-color) 0%,
+    var(--border-color) 50%,
+    var(--bg-li-color) 100%
+  );
+  background-size: 200% 100%;
+  animation: playlist-skel 1.4s infinite linear;
+}
+
+@keyframes playlist-skel {
+  0% { background-position: 200% 0; }
+  100% { background-position: -200% 0; }
+}
+
+.home-playlist-foot {
+  margin-top: 0.5rem;
+  text-align: center;
+}
+
+.playlist-share {
+  background: transparent;
+  border: 1px dashed var(--border-color);
+  border-radius: 16px;
+  padding: 0.35em 0.9em;
+  cursor: pointer;
+  color: var(--text-color);
+  font-size: 0.85rem;
+  opacity: 0.75;
+  transition: all 0.2s ease;
+
+  &:hover {
+    background: var(--link-color);
+    color: #fff;
+    border-color: var(--link-color);
+    border-style: solid;
+    opacity: 1;
+  }
+}
+
+// 近期更新快速筛选 chip
+.recent-chips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+  margin: 0 0 0.6rem;
+}
+
+.recent-chip {
+  background: transparent;
+  border: 1px solid var(--border-color);
+  border-radius: 14px;
+  padding: 0.22em 0.8em;
+  cursor: pointer;
+  color: var(--text-color);
+  font-size: 0.82rem;
+  font-weight: 600;
+  transition: all 0.2s ease;
+
+  &:hover {
+    border-color: var(--link-color);
+    color: var(--link-color);
+  }
+
+  &.is-active {
+    background: var(--link-color);
+    color: #fff;
+    border-color: var(--link-color);
+  }
+}
+
+.recent-empty {
+  flex: 0 0 auto;
+  width: 100%;
+  padding: 1rem;
+  text-align: center;
+  opacity: 0.6;
+  font-size: 0.88rem;
 }
