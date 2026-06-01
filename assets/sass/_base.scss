@@ -547,7 +547,9 @@ blockquote {
   display: none;
 }
 
-.swal2-container {
+/* 仅模态弹窗（如节日纪念）加背景模糊；Toast 通知的容器是定宽且占满整屏高度的，
+   若加 backdrop-filter 会在顶部拖出一整条竖向模糊带。Toast 显示时 body 带 swal2-toast-shown。*/
+body:not(.swal2-toast-shown) .swal2-container {
   backdrop-filter: blur(8px);
 }
 
