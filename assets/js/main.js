@@ -17,40 +17,46 @@ import { lunar } from "./lunar.js";
 import { langCode, initClipboard } from "./misc.js";
 
 function initializePage() {
-  try {
-    initGalPopup();
-    initMenuToggle();
-    lunar();
-    initScrollEffects();
-    initLozad();
-    mouseFirework();
-    initMediumZoom();
-    rv();
-    initHomeReroll();
-    initHomeReveal();
-    initHomeCountUp();
-    initHomeAnnounce();
-    initHomePlaylist();
-    initHomeRecentFilter();
-    initHomeSpotlightReroll();
-    initTagcloudPopover();
-    initBusuanziMirror();
-    initValine();
-    if (window.initCommentTabs) window.initCommentTabs();
-    initSearch();
-    shortcutKey();
-    langCode();
-    initClipboard();
-    fetchDLS();
-    initRankPage();
-    initAIReview();
-    initTOCSidebar();
-    initPostSubmissionForm();
-  } catch (e) {
-    console.error("initializePage error:", e);
-  } finally {
-    endLoading();
+  // 每个 init 独立 try/catch — 一个失败不阻断其他模块（TOC/评论 等不会因为
+  // 某个无关 init 抛错而被跳过）。
+  const tasks = [
+    ["initGalPopup", initGalPopup],
+    ["initMenuToggle", initMenuToggle],
+    ["lunar", lunar],
+    ["initScrollEffects", initScrollEffects],
+    ["initLozad", initLozad],
+    ["mouseFirework", mouseFirework],
+    ["initMediumZoom", initMediumZoom],
+    ["rv", rv],
+    ["initHomeReroll", initHomeReroll],
+    ["initHomeReveal", initHomeReveal],
+    ["initHomeCountUp", initHomeCountUp],
+    ["initHomeAnnounce", initHomeAnnounce],
+    ["initHomePlaylist", initHomePlaylist],
+    ["initHomeRecentFilter", initHomeRecentFilter],
+    ["initHomeSpotlightReroll", initHomeSpotlightReroll],
+    ["initTagcloudPopover", initTagcloudPopover],
+    ["initBusuanziMirror", initBusuanziMirror],
+    ["initValine", initValine],
+    ["initCommentTabs", () => window.initCommentTabs && window.initCommentTabs()],
+    ["initSearch", initSearch],
+    ["shortcutKey", shortcutKey],
+    ["langCode", langCode],
+    ["initClipboard", initClipboard],
+    ["fetchDLS", fetchDLS],
+    ["initRankPage", initRankPage],
+    ["initAIReview", initAIReview],
+    ["initTOCSidebar", initTOCSidebar],
+    ["initPostSubmissionForm", initPostSubmissionForm],
+  ];
+  for (const [name, fn] of tasks) {
+    try {
+      fn();
+    } catch (e) {
+      console.error(`[init] ${name} failed:`, e);
+    }
   }
+  endLoading();
 }
 
 /**
