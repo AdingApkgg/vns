@@ -1,0 +1,396 @@
+/* 以图识别页（/img-search）：上传区 + 模型切换 + 结果。配色全用 _root.scss 变量，暗色自动适配。 */
+
+.imgsearch {
+  margin: 1.5rem 0 1rem;
+}
+
+/* 上传 / 拖拽 / 粘贴区 */
+.is-drop {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 200px;
+  padding: 24px;
+  border: 2px dashed var(--border-color);
+  border-radius: 14px;
+  background: var(--content-bg);
+  cursor: pointer;
+  text-align: center;
+  transition: border-color 0.2s ease, background 0.2s ease;
+
+  &:hover,
+  &:focus-visible {
+    border-color: var(--link-color);
+    outline: none;
+  }
+
+  &.is-dragover {
+    border-color: var(--link-color);
+    border-style: solid;
+    background: var(--bg-li-color);
+  }
+
+  &.has-img {
+    padding: 10px;
+    border-style: solid;
+  }
+}
+
+.is-drop-hint {
+  color: var(--meta-color);
+
+  i {
+    font-size: 2.4rem;
+    color: var(--link-color);
+  }
+
+  p {
+    margin: 12px 0 4px;
+    font-size: 1rem;
+    font-weight: 600;
+    color: var(--text-color);
+  }
+
+  span {
+    font-size: 0.82rem;
+  }
+
+  .is-drop.has-img & {
+    display: none;
+  }
+}
+
+.is-preview {
+  max-width: 100%;
+  max-height: 420px;
+  border-radius: 8px;
+  object-fit: contain;
+}
+
+/* 网址 + 模型 + 识别按钮 */
+.is-controls {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 10px;
+  margin: 12px 0;
+}
+
+.is-url {
+  flex: 1 1 240px;
+  min-width: 0;
+  padding: 10px 14px;
+  border: 1px solid var(--border-color);
+  border-radius: 999px;
+  background: var(--content-bg);
+  color: var(--text-color);
+  font-size: 0.9rem;
+
+  &:focus {
+    outline: none;
+    border-color: var(--link-color);
+  }
+}
+
+.is-models {
+  display: inline-flex;
+  padding: 3px;
+  border: 1px solid var(--border-color);
+  border-radius: 999px;
+  background: var(--content-bg);
+}
+
+.is-model {
+  padding: 7px 16px;
+  border: none;
+  border-radius: 999px;
+  background: transparent;
+  color: var(--meta-color);
+  font-size: 0.86rem;
+  cursor: pointer;
+  transition: color 0.2s ease, background 0.2s ease;
+
+  &.is-on {
+    background: var(--link-color);
+    color: #fff;
+  }
+
+  &:focus-visible {
+    outline: 2px solid var(--link-color);
+    outline-offset: 2px;
+  }
+}
+
+.is-go {
+  display: inline-flex;
+  align-items: center;
+  padding: 9px 20px;
+  border: 1px solid var(--link-color);
+  border-radius: 999px;
+  background: var(--link-color);
+  color: #fff;
+  font-size: 0.9rem;
+  cursor: pointer;
+  transition: background 0.2s ease, opacity 0.2s ease;
+
+  &:hover {
+    background: var(--link-hover-color);
+    border-color: var(--link-hover-color);
+  }
+
+  &:disabled {
+    opacity: 0.6;
+    cursor: default;
+  }
+
+  &:focus-visible {
+    outline: 2px solid var(--link-color);
+    outline-offset: 2px;
+  }
+}
+
+/* 状态行 */
+.is-status {
+  margin: 10px 0;
+  padding: 10px 14px;
+  border-radius: 10px;
+  background: var(--bg-li-color);
+  color: var(--meta-color);
+  font-size: 0.9rem;
+}
+
+/* 结果区块 */
+.is-results {
+  display: flex;
+  flex-direction: column;
+  gap: 18px;
+}
+
+.is-block-title {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin: 0 0 10px;
+  font-size: 1rem;
+  color: var(--text-color);
+
+  i {
+    color: var(--link-color);
+  }
+
+  .is-by {
+    font-size: 0.72rem;
+    font-weight: 400;
+    color: var(--meta-color);
+  }
+}
+
+/* 本站命中卡片 */
+.is-hits {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.is-hit {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  padding: 10px 14px;
+  border: 1px solid var(--border-color);
+  border-radius: 12px;
+  background: var(--content-bg);
+  text-decoration: none;
+  transition: border-color 0.2s ease, transform 0.15s ease;
+
+  &:hover {
+    border-color: var(--link-color);
+    transform: translateY(-1px);
+  }
+}
+
+.is-hit-cover {
+  flex: none;
+  width: 52px;
+  height: 70px;
+  border-radius: 6px;
+  object-fit: cover;
+  background: var(--bg-span-color);
+}
+
+.is-hit-body {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  min-width: 0;
+  flex: 1;
+}
+
+.is-hit-title {
+  font-weight: 600;
+  color: var(--text-color);
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+}
+
+.is-hit-meta {
+  font-size: 0.8rem;
+  color: var(--meta-color);
+}
+
+.is-hit-arrow {
+  flex: none;
+  color: var(--link-color);
+}
+
+/* 逐角色识别结果 */
+.is-chars {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+  gap: 12px;
+}
+
+.is-char {
+  padding: 12px 14px;
+  border: 1px solid var(--border-color);
+  border-radius: 12px;
+  background: var(--content-bg);
+}
+
+.is-char-head {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 8px;
+}
+
+.is-char-idx {
+  font-size: 0.78rem;
+  color: var(--meta-color);
+}
+
+.is-char-low {
+  font-size: 0.72rem;
+  color: #e8590c;
+}
+
+.is-char-top {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+}
+
+.is-char-name {
+  font-size: 1.02rem;
+  color: var(--text-color);
+}
+
+.is-char-work {
+  font-size: 0.82rem;
+  color: var(--meta-color);
+}
+
+/* 作品名里括注的日文原名，比中文名更弱 */
+.is-char-work-ja {
+  opacity: 0.7;
+  font-size: 0.92em;
+}
+
+.is-more {
+  margin-top: 8px;
+
+  summary {
+    font-size: 0.8rem;
+    color: var(--link-color);
+    cursor: pointer;
+  }
+
+  ul {
+    margin: 8px 0 0;
+    padding-left: 0;
+    list-style: none;
+  }
+
+  li {
+    display: flex;
+    justify-content: space-between;
+    gap: 10px;
+    padding: 3px 0;
+    font-size: 0.82rem;
+    border-top: 1px dashed var(--border-color);
+
+    b {
+      color: var(--text-color);
+      font-weight: 600;
+    }
+
+    span {
+      color: var(--meta-color);
+      text-align: right;
+    }
+  }
+}
+
+/* 外部引擎入口 */
+.is-engines {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 8px;
+  padding-top: 4px;
+  font-size: 0.85rem;
+}
+
+.is-engines-label {
+  color: var(--meta-color);
+}
+
+.is-engine {
+  padding: 5px 14px;
+  border: 1px solid var(--border-color);
+  border-radius: 999px;
+  color: var(--text-color);
+  text-decoration: none;
+  transition: border-color 0.2s ease, color 0.2s ease;
+
+  &:hover {
+    border-color: var(--link-color);
+    color: var(--link-color);
+  }
+}
+
+.is-empty {
+  padding: 20px;
+  border: 1px dashed var(--border-color);
+  border-radius: 12px;
+  color: var(--meta-color);
+  text-align: center;
+
+  i {
+    color: var(--link-color);
+  }
+}
+
+.is-tip {
+  margin: 16px 0 0;
+  color: var(--meta-color);
+  font-size: 0.82rem;
+  line-height: 1.7;
+
+  a {
+    color: var(--link-color);
+  }
+}
+
+@media (max-width: 480px) {
+  .is-controls {
+    gap: 8px;
+  }
+  .is-url {
+    flex-basis: 100%;
+  }
+}

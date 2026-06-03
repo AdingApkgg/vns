@@ -54,6 +54,13 @@ weight = 4
 pre = "fa fa-search"
 
 [[menus.main]]
+identifier = "img-search"
+name = '识图'
+pageRef = '/img-search'
+weight = 4.5
+pre = "fa fa-image"
+
+[[menus.main]]
 identifier = "tags"
 name = '标签'
 pageRef = '/tags'
@@ -186,7 +193,7 @@ ordered = true
 
 [params]
 subtitle = 'Visual Novel'
-description = "Visual Novel"
+description = "VNS 是视觉小说（Visual Novel／Galgame）资源索引站，收录 Windows、Android、PSP 等多平台作品的简介、汉化与下载分流，提供站内搜索、标签与平台分类、识图及全网聚合搜索。"
 summaryLength = 100
 date_format = "1970年01月01日"
 mainSections = ["p"]

@@ -11,7 +11,7 @@ html {
 
 body {
   margin: 0;
-  padding: 0 0 0 148px;
+  padding: 60px 0 0; /* 让位固定顶栏；移动端在 _header.scss 重置为 0 */
   font-family:
     HarmonyOS_Regular,
     -apple-system,
@@ -70,133 +70,7 @@ html.is-changing .transition-fade {
   z-index: 9999;
 }
 
-body > header {
-  position: fixed;
-  width: 148px;
-  height: 100%;
-  top: 0;
-  left: 0;
-  background: var(--bg-header-fixed);
-  border-right: 1px solid var(--border-color);
-  box-shadow: 2px 0 8px rgba(0, 0, 0, 0.06);
-  z-index: 100;
-  overflow: hidden;
-
-  nav {
-    width: 100%;
-    height: 100%;
-    display: flex;
-    flex-direction: column;
-    overflow-y: auto;
-    overflow-x: hidden;
-    padding: 12px 0;
-
-    .nav-brand {
-      text-align: center;
-      padding: 12px 10px 8px;
-      flex-shrink: 0;
-
-      h2 {
-        font-size: 1.5em;
-        margin: 0;
-
-        a {
-          color: var(--text-color);
-          text-decoration: none;
-
-          &:hover {
-            color: var(--link-color);
-          }
-        }
-      }
-
-      p {
-        font-size: 0.78em;
-        margin: 2px 0 0;
-        opacity: 0.55;
-      }
-    }
-
-    .nav-links {
-      flex: 1;
-      display: flex;
-      flex-direction: column;
-      padding: 4px 8px;
-
-      .nav-divider {
-        border: none;
-        border-top: 1px solid var(--border-color);
-        margin: 6px 12px;
-        opacity: 0.5;
-      }
-
-      a {
-        display: flex;
-        align-items: center;
-        justify-content: center;
-        gap: 6px;
-        padding: 7px 12px;
-        border-radius: 8px;
-        color: var(--text-color);
-        text-decoration: none;
-        font-size: 0.9em;
-        white-space: nowrap;
-        transition: all 0.2s ease;
-
-        i {
-          width: 18px;
-          text-align: center;
-          font-size: 0.95em;
-          opacity: 0.7;
-          flex-shrink: 0;
-        }
-
-        &:hover {
-          background: var(--bg-span-color);
-          color: var(--link-color);
-
-          i {
-            opacity: 1;
-          }
-        }
-
-        &.active {
-          background: var(--link-color);
-          color: #fff;
-          box-shadow: 0 2px 8px rgba(0, 123, 255, 0.25);
-
-          i {
-            opacity: 1;
-          }
-        }
-      }
-    }
-
-    .nav-qr {
-      flex-shrink: 0;
-      text-align: center;
-      padding: 8px 10px 0;
-      opacity: 0.45;
-      transition: opacity 0.2s;
-
-      &:hover {
-        opacity: 1;
-      }
-
-      .qr-code {
-        // 固定 72×72 方框：每页二维码编码的是各自 URL，原始尺寸随 URL 长短而不同。
-        // 写死外框尺寸，可在 swup 替换 header、新二维码尚未解码完成时就预留好布局空间，
-        // 既消除切页时的高度坍缩弹跳，也抹平不同页面二维码尺寸差异导致的高度变化。
-        // scale-down：按原始尺寸居中显示，超过 72 才缩小，绝不放大变糊。
-        width: 72px;
-        height: 72px;
-        object-fit: scale-down;
-        cursor: pointer;
-        position: static;
-      }
-    }
-  }
-}
+/* 旧的左侧 148px 竖栏导航已重构为顶栏，样式见 _header.scss。 */
 
 main {
   h1 {
@@ -241,7 +115,6 @@ sup.busuanzi_value_page_pv {
 }
 
 main kbd,
-header nav button,
 select,
 select option {
   font-family:
@@ -316,6 +189,7 @@ footer {
 
 #caution {
   position: fixed;
+  inset: 0; // 明确铺满视口；否则 fixed 无 top 时会落在 body 的 padding-top（顶栏高度）下，顶部露空
   margin: 0 auto;
   width: 100%;
   height: 100%;
@@ -542,10 +416,7 @@ blockquote {
   }
 }
 
-/* 菜单切换按钮 - 默认隐藏，响应式显示 */
-#menuToggle {
-  display: none;
-}
+/* 顶栏汉堡（#menuToggle = .hdr-burger）的显隐由 _header.scss 按断点控制，此处不再用 id 规则强制隐藏 */
 
 /* 仅模态弹窗（如节日纪念）加背景模糊；Toast 通知的容器是定宽且占满整屏高度的，
    若加 backdrop-filter 会在顶部拖出一整条竖向模糊带。Toast 显示时 body 带 swal2-toast-shown。*/
@@ -1020,46 +891,8 @@ pre:hover .copy-btn {
     padding: 20px;
   }
 
-  body > header {
-    width: min(280px, 80vw);
-    height: 100%;
-    top: 0;
-    left: 0;
-    bottom: auto;
-    transform: translateX(-100%);
-    transition: transform 0.3s cubic-bezier(0.4, 0, 0.2, 1);
-    z-index: 1000;
-    box-shadow: none;
-
-    &.active {
-      transform: translateX(0);
-      box-shadow: 4px 0 24px rgba(0, 0, 0, 0.15);
-    }
-  }
-
   footer .footer-img {
     max-width: 100%;
-  }
-
-  .nav-overlay {
-    position: fixed;
-    inset: 0;
-    background: rgba(0, 0, 0, 0.4);
-    z-index: 999;
-    opacity: 0;
-    visibility: hidden;
-    transition: all 0.3s ease;
-    -webkit-backdrop-filter: blur(2px);
-    backdrop-filter: blur(2px);
-
-    &.active {
-      opacity: 1;
-      visibility: visible;
-    }
-  }
-
-  #menuToggle {
-    display: flex;
   }
 
   #fps {
