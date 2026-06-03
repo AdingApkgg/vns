@@ -1,0 +1,14 @@
+{{/* 页面二维码：默认只显示一个图标按钮（不占地、不会被浮动元素挡）；点击才懒加载二维码
+     并放大成居中模态。在 swup 容器内（见 scripts.html），软导航会重渲，二维码始终指向当前页。 */}}
+{{ $page := . }}
+<div class="page-qr">
+  <button type="button" class="page-qr-btn" aria-label="显示本页二维码" title="扫码看本页">
+    <i class="fa fa-qrcode"></i>
+  </button>
+  <div class="page-qr-modal" hidden>
+    {{ with images.QR $page.Permalink (dict "level" "low" "scale" 2 "targetDir" "img") }}
+    <img class="page-qr-img" data-src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="QR code linking to {{ $page.Permalink }}" />
+    {{ end }}
+    <span>扫码在手机上打开本页</span>
+  </div>
+</div>

@@ -232,6 +232,30 @@ export function initHeaderScroll() {
   apply();
 }
 
+// 页面二维码：点击图标按钮才懒加载二维码并放大成居中模态；点遮罩 / Esc 关闭。
+export function initPageQR() {
+  const wrap = document.querySelector(".page-qr");
+  if (!wrap || wrap._qrBound) return;
+  wrap._qrBound = true;
+  const btn = wrap.querySelector(".page-qr-btn");
+  const modal = wrap.querySelector(".page-qr-modal");
+  const img = modal && modal.querySelector(".page-qr-img");
+  if (!btn || !modal) return;
+  btn.addEventListener("click", () => {
+    if (img && img.dataset.src && !img.getAttribute("src")) img.src = img.dataset.src; // 点击才加载
+    modal.hidden = false;
+  });
+  modal.addEventListener("click", () => { modal.hidden = true; });
+  if (!document._qrEscBound) {
+    document._qrEscBound = true;
+    document.addEventListener("keydown", (e) => {
+      if (e.key !== "Escape") return;
+      const m = document.querySelector(".page-qr-modal");
+      if (m && !m.hidden) m.hidden = true;
+    });
+  }
+}
+
 export function initHeadSearch() {
   const wrap = document.getElementById("hdrSearch");
   const input = document.getElementById("hdrSearchInput");
