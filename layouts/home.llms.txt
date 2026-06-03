@@ -1,10 +1,21 @@
+{{- $p := where .Site.RegularPages "Type" "p" -}}
 # {{ .Site.Title }}
 
-{{ .Site.Params.description }}
+> {{ .Site.Params.description }}
 
-## 最新文章
-{{ range first 10 .Site.RegularPages }}
-- [{{ .Title }}]({{ .Permalink }}) — {{ .Summary | plainify | truncate 150 }}
-{{ end }}
+本站是视觉小说（Visual Novel／Galgame）资源索引，收录 {{ len $p }} 部作品，按平台、标签与年代组织。每个作品条目包含简介、游戏截图、官方网站链接与多个下载分流。
 
-更多：{{ .Site.BaseURL }}
+## 站内导航
+
+- [最新]({{ "latest/" | absURL }})：按更新时间倒序浏览全部资源
+- [标签]({{ "tags/" | absURL }})：按标签 / 平台 / 年代浏览（共 {{ len .Site.Taxonomies.tags }} 个标签、{{ len .Site.Taxonomies.categories }} 个平台、{{ len .Site.Taxonomies.years }} 个年代）
+- [搜索]({{ "search/" | absURL }})：站内全文搜索
+- [识图]({{ "img-search/" | absURL }})：以图搜游戏
+- [关于]({{ "about/" | absURL }})：站点信息与联系方式
+
+## 最新作品
+{{ range first 50 $p.ByLastmod.Reverse }}
+- [{{ .Title }}]({{ .Permalink }}){{ with .Params.categories }} · 平台：{{ delimit . " / " }}{{ end }}{{ with .Params.years }} · 年份：{{ delimit . " / " }}{{ end }}{{ with .Description }} — {{ . | markdownify | plainify | htmlUnescape | replaceRE `\s+` " " | truncate 160 }}{{ end }}
+{{- end }}
+
+全部资源列表：{{ "latest/" | absURL }}

@@ -6,6 +6,11 @@
   "url" .Site.BaseURL
   "description" .Site.Params.description
   "inLanguage" "zh-CN"
+  "publisher" (dict
+    "@type" "Organization"
+    "name" .Site.Title
+    "logo" (dict "@type" "ImageObject" "url" (.Site.Params.ogImage | absURL))
+  )
   "potentialAction" (dict
     "@type" "SearchAction"
     "target" (dict
@@ -18,7 +23,10 @@
 {{ printf `<script type="application/ld+json">%s</script>` ($data | jsonify) | safeHTML }}
 {{- else if .IsPage -}}
 {{- $author := default .Site.Params.defaultAuthor .Params.author -}}
-{{- $desc := .Summary | plainify | truncate 200 -}}
+{{- $desc := "" -}}
+{{- if .Description -}}{{- $desc = .Description | markdownify | plainify | htmlUnescape -}}
+{{- else -}}{{- $desc = .Summary | plainify | htmlUnescape -}}{{- end -}}
+{{- $desc = $desc | replaceRE `\s+` " " | strings.TrimSpace | truncate 300 -}}
 {{- $article := dict
   "@context" "https://schema.org"
   "@type" "Article"
@@ -34,15 +42,10 @@
   "description" $desc
   "wordCount" (.Plain | htmlUnescape | strings.RuneCount)
 -}}
-{{- with .Date -}}
-  {{- $article = merge $article (dict "datePublished" (.Format "2006-01-02T15:04:05-07:00")) -}}
-{{- end -}}
-{{- with .Lastmod -}}
-  {{- $article = merge $article (dict "dateModified" (.Format "2006-01-02T15:04:05-07:00")) -}}
-{{- end -}}
-{{- with .Params.tags -}}
-  {{- $article = merge $article (dict "keywords" .) -}}
-{{- end -}}
+{{- with .Params.cover -}}{{- $article = merge $article (dict "image" (slice (. | absURL))) -}}{{- end -}}
+{{- with .Date -}}{{- $article = merge $article (dict "datePublished" (.Format "2006-01-02T15:04:05-07:00")) -}}{{- end -}}
+{{- with .Lastmod -}}{{- $article = merge $article (dict "dateModified" (.Format "2006-01-02T15:04:05-07:00")) -}}{{- end -}}
+{{- with .Params.tags -}}{{- $article = merge $article (dict "keywords" .) -}}{{- end -}}
 {{ printf `<script type="application/ld+json">%s</script>` ($article | jsonify) | safeHTML }}
 {{- if eq $.Section "p" -}}
 {{- $breadcrumb := dict
@@ -54,5 +57,19 @@
   )
 -}}
 {{ printf `<script type="application/ld+json">%s</script>` ($breadcrumb | jsonify) | safeHTML }}
+{{- $parts := split $.Title "／" -}}
+{{- $game := dict
+  "@context" "https://schema.org"
+  "@type" "VideoGame"
+  "name" (index $parts 0)
+  "url" $.Permalink
+  "description" $desc
+-}}
+{{- if gt (len $parts) 1 -}}{{- $game = merge $game (dict "alternateName" (after 1 $parts)) -}}{{- end -}}
+{{- with $.Params.cover -}}{{- $game = merge $game (dict "image" (. | absURL)) -}}{{- end -}}
+{{- with $.Params.tags -}}{{- $game = merge $game (dict "genre" .) -}}{{- end -}}
+{{- with $.Params.categories -}}{{- $game = merge $game (dict "gamePlatform" .) -}}{{- end -}}
+{{- with $.Params.years -}}{{- $game = merge $game (dict "datePublished" (index (sort .) 0)) -}}{{- end -}}
+{{ printf `<script type="application/ld+json">%s</script>` ($game | jsonify) | safeHTML }}
 {{- end -}}
 {{- end -}}
