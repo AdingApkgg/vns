@@ -11,7 +11,8 @@ import {
 } from "./home.js";
 import { initAIReview } from "./ai-review.js";
 import { mouseFirework, initLozad, initMediumZoom } from "./media.js";
-import { initSearch, initGalPopup, rv, shortcutKey } from "./search.js";
+import { initSearch, initGalPopup, rv, shortcutKey, initHeadSearch, initHeadNav, initHeaderScroll } from "./search.js";
+import { initImgSearch } from "./imgsearch.js";
 import { initTOCSidebar, initPostSubmissionForm, initValine, fetchDLS, initRankPage } from "./pages.js";
 import { lunar } from "./lunar.js";
 import { langCode, initClipboard } from "./misc.js";
@@ -46,6 +47,10 @@ function initializePage() {
     ["initCommentTabs", () => window.initCommentTabs && window.initCommentTabs()],
     ["initJumpToComments", initJumpToComments],
     ["initSearch", initSearch],
+    ["initHeadSearch", initHeadSearch],
+    ["initHeadNav", initHeadNav],
+    ["initHeaderScroll", initHeaderScroll],
+    ["initImgSearch", initImgSearch],
     ["shortcutKey", shortcutKey],
     ["langCode", langCode],
     ["initClipboard", initClipboard],
@@ -348,6 +353,7 @@ const Navigation = {
     this.header.classList.toggle("active", this.isOpen);
     if (this.overlay) this.overlay.classList.toggle("active", this.isOpen);
     this.menuToggle.setAttribute("aria-expanded", this.isOpen);
+    document.body.style.overflow = this.isOpen ? "hidden" : ""; // 抽屉打开时锁背景滚动
   },
 
   close() {
@@ -355,6 +361,7 @@ const Navigation = {
     this.header.classList.remove("active");
     if (this.overlay) this.overlay.classList.remove("active");
     this.menuToggle.setAttribute("aria-expanded", "false");
+    document.body.style.overflow = "";
   },
 };
 

@@ -13,7 +13,8 @@
     <main id="swup" class="transition-fade">{{ block "main" . }}{{ end }}</main>
   </div>
   <div class="nav-overlay" id="navOverlay"></div>
-  <header>{{ partial "header.html" . }}</header>
+  <header class="site-header">{{ partial "header.html" . }}</header>
+  {{ partial "drawer.html" . }}
   <footer>{{ partial "footer.html" . }}</footer>
   {{ partial "scripts.html" . }}
 </body>

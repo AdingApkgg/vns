@@ -156,7 +156,8 @@
 
 .home-top {
   display: grid;
-  grid-template-columns: minmax(0, 1.35fr) minmax(0, 1fr);
+  // hero 占弹性主区，快捷入口收成定宽窄列（单列三区不再被 1fr 撑宽）
+  grid-template-columns: minmax(0, 1fr) 220px;
   gap: 1rem;
   margin-bottom: 1.5rem;
   align-items: start;
@@ -164,16 +165,25 @@
   @media (max-width: 768px) {
     grid-template-columns: 1fr;
     gap: 0.85rem;
+
+    // 移动端顺序：随机图 → 快捷入口 → 页面标题（h1 移到快捷入口下方）
+    // home-hero 用 display:contents 溶解，使随机图与 h1 成为 home-top 的直接网格项，便于各自排序
+    .home-hero { display: contents; }
+    .home-hero .image-zoom { order: 1; margin-bottom: 0; }
+    .home-quicklinks { order: 2; }
+    .home-hero h1 { order: 3; margin-top: 0.6rem; }
   }
 
   .home-hero { margin-bottom: 0; }
 
   .home-quicklinks {
-    grid-template-columns: repeat(2, minmax(0, 1fr));
+    grid-template-columns: minmax(0, 1fr); // 桌面：单列三区（随机 / 标签 / 最新）
     margin: 0;
 
+    // 移动端：一行三列
     @media (max-width: 768px) {
-      grid-template-columns: repeat(2, minmax(0, 1fr));
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+      gap: 0.5rem;
     }
   }
 }

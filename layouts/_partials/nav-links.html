@@ -1,0 +1,45 @@
+{{/* 共享菜单渲染：顶栏 .hdr-nav（桌面横向 + 下拉）与移动侧栏 .hdr-drawer（纵向 + 平铺）共用。
+     菜单数据源是 hugo.toml 的 menus.main；$primary 进一级直达、$searchIds 交给搜索区、
+     $more 进“更多”分组，其余未归类的 main 项自动兜底进“更多 › 其他”。 */}}
+{{ $page := . }}
+{{ $primary := slice "home" "latest" "tags" "rank" "guide" }}
+{{ $searchIds := slice "search" "img-search" "multi-search" }}
+{{/* 页脚导航已并入这里：footer-only 项（云盘/网盘/友链/问卷/广告/旧站等）一并归类进“更多” */}}
+{{ $more := slice
+  (dict "t" "浏览" "ids" (slice "live" "random"))
+  (dict "t" "资源" "ids" (slice "dls" "docs" "cloud" "drive"))
+  (dict "t" "参与" "ids" (slice "comments" "post" "teams" "links" "feedback"))
+  (dict "t" "站务" "ids" (slice "set" "about" "donate" "ads" "old"))
+}}
+{{ $claimed := union $primary $searchIds }}
+{{ range $more }}{{ $claimed = union $claimed .ids }}{{ end }}
+{{ $menus := union $page.Site.Menus.main $page.Site.Menus.footer }}
+{{ $moreActive := false }}
+{{ range $more }}{{ range .ids }}{{ $id := . }}{{ range $menus }}{{ if and (eq .Identifier $id) (or ($page.IsMenuCurrent "main" .) ($page.HasMenuCurrent "main" .)) }}{{ $moreActive = true }}{{ end }}{{ end }}{{ end }}{{ end }}
+{{ range $primary }}{{ $id := . }}{{ range $page.Site.Menus.main }}{{ if eq .Identifier $id }}
+<a class="hdr-link{{ if or ($page.IsMenuCurrent "main" .) ($page.HasMenuCurrent "main" .) }} active{{ end }}" href="{{ .URL }}"{{ if hasPrefix .URL "http" }} target="_blank" rel="noopener noreferrer"{{ end }}><i class="{{ .Pre }}"></i><span>{{ .Name }}</span></a>
+{{ end }}{{ end }}{{ end }}
+<div class="hdr-more">
+  <button type="button" class="hdr-link hdr-more-btn{{ if $moreActive }} active{{ end }}" aria-haspopup="true" aria-expanded="false"><i class="fa fa-ellipsis"></i><span>更多</span><i class="fa fa-angle-down caret"></i></button>
+  <div class="hdr-more-panel">
+    {{ range $more }}
+    <div class="hdr-more-col">
+      <span class="hdr-more-title">{{ .t }}</span>
+      {{ range .ids }}{{ $id := . }}{{ range $menus }}{{ if eq .Identifier $id }}
+      {{ $rnd := eq .Identifier "random" }}<a class="hdr-more-link{{ if or ($page.IsMenuCurrent "main" .) ($page.HasMenuCurrent "main" .) }} active{{ end }}" href="{{ if $rnd }}#{{ else }}{{ .URL }}{{ end }}"{{ if $rnd }} data-random-link data-no-swup{{ else if hasPrefix .URL "http" }} target="_blank" rel="noopener noreferrer"{{ end }}><i class="{{ .Pre }}"></i>{{ .Name }}</a>
+      {{ end }}{{ end }}{{ end }}
+    </div>
+    {{ end }}
+    {{/* 兜底：main 或 footer 里任何没归类的项自动进“其他”，新增菜单忘了归类也不会丢 */}}
+    {{ $extras := slice }}
+    {{ range $menus }}{{ if not (in $claimed .Identifier) }}{{ $extras = $extras | append . }}{{ end }}{{ end }}
+    {{ with $extras }}
+    <div class="hdr-more-col">
+      <span class="hdr-more-title">其他</span>
+      {{ range . }}
+      <a class="hdr-more-link" href="{{ .URL }}"{{ if hasPrefix .URL "http" }} target="_blank" rel="noopener noreferrer"{{ end }}><i class="{{ .Pre }}"></i>{{ .Name }}</a>
+      {{ end }}
+    </div>
+    {{ end }}
+  </div>
+</div>

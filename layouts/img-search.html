@@ -1,0 +1,46 @@
+{{ define "main" }}
+<article class="article-main">
+  {{ partial "h1.html" . }}
+  <div class="content">{{ .Content }}</div>
+
+  <div id="imgsearch" class="imgsearch">
+    <div id="isDrop" class="is-drop" tabindex="0" role="button" aria-label="点击、拖拽或粘贴图片上传">
+      <input type="file" id="isFile" accept="image/*" hidden />
+      <img id="isPreview" class="is-preview" alt="预览" hidden />
+      <div class="is-drop-hint">
+        <i class="fa fa-image" aria-hidden="true"></i>
+        <p>点击选择 / 拖拽 / 粘贴图片</p>
+        <span>识别画面中的角色，并尝试找到本站对应作品</span>
+      </div>
+    </div>
+
+    <div class="is-controls">
+      <input type="url" id="isUrl" class="is-url" placeholder="或粘贴图片网址 https://…" inputmode="url" />
+      <div class="is-models" role="radiogroup" aria-label="识别模型">
+        <button type="button" class="is-model is-on" role="radio" aria-checked="true" data-model="full_game_model_kira">游戏</button>
+        <button type="button" class="is-model" role="radio" aria-checked="false" data-model="anime_model_lovelive">动画</button>
+      </div>
+      <button type="button" id="isGo" class="is-go"><i class="fa fa-magnifying-glass" aria-hidden="true"></i>&nbsp;识别</button>
+    </div>
+
+    <div id="isStatus" class="is-status" role="status" aria-live="polite" hidden></div>
+    <div id="isResults" class="is-results"></div>
+
+    <p class="is-tip">
+      <i class="fa fa-circle-info" aria-hidden="true"></i>&nbsp;识别由第三方
+      <a href="https://www.animetrace.com/" target="_blank" rel="noopener noreferrer">AnimeTrace</a>
+      提供，图片直接发送至其服务器，本站不经手、不存储。作品名会优先映射成本站中文译名（未收录的保留日文原名，角色名暂只有原文）。默认「游戏」模型针对 Gal 角色；若作品有动画化或图来自动画，可切「动画」模型再试。
+    </p>
+  </div>
+
+  {{/* 站内条目索引（供识别到的作品名回链匹配），随页面内联，避免额外请求。
+       jsonify 输出在 <script> 上下文会被 html/template 当 JS 字符串转义，故用 safeJS 直出原始 JSON。 */}}
+  <script type="application/json" id="gal-index">
+  {{- $idx := slice -}}
+  {{- range where .Site.RegularPages "Type" "p" -}}
+    {{- $idx = $idx | append (dict "t" .Title "u" .RelPermalink "c" .Params.cover) -}}
+  {{- end -}}
+  {{- $idx | jsonify | safeJS -}}
+  </script>
+</article>
+{{ end }}

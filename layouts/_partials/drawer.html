@@ -1,0 +1,23 @@
+{{/* 移动端导航侧栏 —— 挂在 <body> 直接子级（baseof.html），不在 .site-header 内，
+     故不受顶栏 backdrop-filter 的包含块/层叠上下文束缚。由顶栏汉堡（#menuToggle）切换。
+     Butterfly card-info 风格：顶部信息卡（头像 + 站名 + 收录统计）+ 菜单。 */}}
+<aside class="hdr-drawer" id="hdrDrawer" aria-label="移动端导航">
+  <div class="hdr-sidecard">
+    <img class="hdr-sidecard-avatar" src="{{ .Site.Params.logo }}" alt="" width="56" height="56" />
+    <strong class="hdr-sidecard-name">{{ .Site.Title }}</strong>
+    <span class="hdr-sidecard-sub">{{ .Site.Params.subtitle }}</span>
+    <div class="hdr-sidecard-stats">
+      <span><b>{{ len (where site.RegularPages "Section" "p") }}</b>作品</span>
+      <span><b>{{ len site.Taxonomies.tags }}</b>标签</span>
+    </div>
+  </div>
+  {{/* 搜索入口（移动端侧栏专用）：站内搜索 / 识图 / 聚搜——桌面在顶栏搜索框旁的图标，移动端归到这里 */}}
+  <div class="hdr-drawer-search">
+    {{ range $id := slice "search" "img-search" "multi-search" }}{{ range $.Site.Menus.main }}{{ if eq .Identifier $id }}
+    <a href="{{ .URL }}"{{ if hasPrefix .URL "http" }} target="_blank" rel="noopener noreferrer"{{ end }}><i class="{{ .Pre }}"></i><span>{{ .Name }}</span></a>
+    {{ end }}{{ end }}{{ end }}
+  </div>
+  <nav class="hdr-drawer-nav" aria-label="移动端主导航">
+    {{ partial "nav-links.html" . }}
+  </nav>
+</aside>
