@@ -11,7 +11,7 @@ import {
 } from "./home.js";
 import { initAIReview } from "./ai-review.js";
 import { mouseFirework, initLozad, initMediumZoom } from "./media.js";
-import { initSearch, initGalPopup, rv, shortcutKey, initHeadSearch, initHeadNav, initHeaderScroll } from "./search.js";
+import { initSearch, initGalPopup, rv, shortcutKey, initHeadSearch, initHeadNav, initHeaderScroll, initPageQR } from "./search.js";
 import { initImgSearch } from "./imgsearch.js";
 import { initTOCSidebar, initPostSubmissionForm, initValine, fetchDLS, initRankPage } from "./pages.js";
 import { lunar } from "./lunar.js";
@@ -50,6 +50,7 @@ function initializePage() {
     ["initHeadSearch", initHeadSearch],
     ["initHeadNav", initHeadNav],
     ["initHeaderScroll", initHeaderScroll],
+    ["initPageQR", initPageQR],
     ["initImgSearch", initImgSearch],
     ["shortcutKey", shortcutKey],
     ["langCode", langCode],
