@@ -10,8 +10,8 @@ title: >-
   果青 Oregairu 本篇 续篇 合集 魔改
 slug: 53214
 tags:
-  - 5pb.
-  - MAGES.
+  - 5pb
+  - MAGES
   - 伪娘
   - 废萌
   - 青春
