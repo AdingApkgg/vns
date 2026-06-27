@@ -2,10 +2,21 @@
 "targetPath" "css/style.css"
 "transpiler" "dartsass"
 }}
-{{- with resources.Get "sass/style.scss" | toCSS $options }} {{- if eq hugo.Environment
-"development" }}
-<link rel="stylesheet" href="{{ .RelPermalink }}" fetchpriority="high" />
-{{- else }} {{- with . | minify | fingerprint }}
+{{- /* Base stylesheet = normalize (reset layer) + legacy Sass (legacy layer),
+       both wrapped in cascade layers BELOW Tailwind/Basecoat (order declared in
+       assets/css/app.css). Otherwise normalize's unlayered `a{background:transparent}`
+       (and other resets) would beat Basecoat components & Tailwind utilities. */ -}}
+{{- $reset := "" }}
+{{- with resources.Get "css/normalize.css" }}{{ $reset = .Content | replaceRE `^@charset[^;]*;\s*` "" }}{{- end }}
+{{- with resources.Get "sass/style.scss" | toCSS $options }}
+  {{- $legacy := .Content | replaceRE `^@charset[^;]*;\s*` "" }}
+  {{- $base := printf "@layer reset {\n%s\n}\n@layer legacy {\n%s\n}" $reset $legacy | resources.FromString "css/base.css" }}
+  {{- if hugo.IsDevelopment }}
+<link rel="stylesheet" href="{{ $base.RelPermalink }}" fetchpriority="high" />
+  {{- else }}
+    {{- with $base | minify | fingerprint }}
 <link rel="stylesheet" href="{{ .RelPermalink }}" fetchpriority="high" integrity="{{ .Data.Integrity }}"
   crossorigin="anonymous" />
-{{- end }} {{- end }} {{- end }}
+    {{- end }}
+  {{- end }}
+{{- end }}

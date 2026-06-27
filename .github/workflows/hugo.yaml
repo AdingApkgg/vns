@@ -24,8 +24,8 @@ jobs:
   build:
     runs-on: ubuntu-latest
     env:
-      DART_SASS_VERSION: 1.100.0
-      HUGO_VERSION: 0.162.1
+      DART_SASS_VERSION: 1.101.0
+      HUGO_VERSION: 0.163.3
       PAGEFIND_VERSION: 1.5.2
       HUGO_ENVIRONMENT: production
       TZ: America/Los_Angeles
@@ -41,13 +41,13 @@ jobs:
           mv ${{ runner.temp }}/dart-sass/ /usr/local/bin
           echo "/usr/local/bin/dart-sass" >> $GITHUB_PATH
       - name: Checkout
-        uses: actions/checkout@v5
+        uses: actions/checkout@v7
         with:
           submodules: recursive
           fetch-depth: 0
       - name: Cache Restore
         id: cache-restore
-        uses: actions/cache/restore@v5
+        uses: actions/cache/restore@v6
         with:
           path: |
             ${{ runner.temp }}/hugo_cache
@@ -63,7 +63,7 @@ jobs:
             --cacheDir "${{ runner.temp }}/hugo_cache"
       - name: Cache Save
         id: cache-save
-        uses: actions/cache/save@v5
+        uses: actions/cache/save@v6
         with:
           path: |
             ${{ runner.temp }}/hugo_cache
@@ -74,7 +74,7 @@ jobs:
           tar -xf ${{ runner.temp }}/pagefind.tar.gz --directory ${{ runner.temp }}
           ${{ runner.temp }}/pagefind_extended
       - name: Upload public directory as artifact
-        uses: actions/upload-artifact@v6
+        uses: actions/upload-artifact@v7
         with:
           name: hugo-site-public
           path: ./public
@@ -87,13 +87,13 @@ jobs:
     needs: build
     steps:
       - name: Checkout
-        uses: actions/checkout@v5
+        uses: actions/checkout@v7
         with:
           submodules: recursive
           fetch-depth: 0
 
       - name: Download public directory artifact
-        uses: actions/download-artifact@v7
+        uses: actions/download-artifact@v8
         with:
           name: hugo-site-public
           path: ./public

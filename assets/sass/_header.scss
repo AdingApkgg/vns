@@ -99,7 +99,10 @@
   &.active::after { transform: scaleX(1); }
 }
 
-/* “更多”下拉 */
+/* “更多”：桌面用 Basecoat popover 驱动开合（见 nav-links.html 的 bar 变体 + 全局 popover JS）。
+   面板外观（背景/模糊/圆角/阴影/多列）改用 Tailwind 工具类写在 nav-links.html 的面板元素上
+   （utilities 层覆盖 Basecoat 的 [data-popover] 组件层）。移动端在抽屉里平铺，见下方
+   .hdr-drawer .hdr-more-* 覆盖。 */
 .hdr-more {
   position: relative;
 
@@ -108,35 +111,8 @@
     opacity: 0.6;
     transition: transform 0.18s;
   }
-  &:hover .caret,
-  &:focus-within .caret { transform: rotate(180deg); }
-
-  .hdr-more-panel {
-    position: absolute;
-    top: calc(100% + 8px);
-    right: 0;
-    display: none;
-    gap: 22px;
-    padding: 16px 18px;
-    background: var(--bg-header-fixed);
-    -webkit-backdrop-filter: blur(12px);
-    backdrop-filter: blur(12px);
-    border: 1px solid var(--border-color);
-    border-radius: 12px;
-    box-shadow: 0 12px 32px rgba(0, 0, 0, 0.12);
-
-    // 透明桥：填补按钮与面板间 8px 间隙，避免鼠标划过缝隙时 :hover 丢失导致面板闪关
-    &::before {
-      content: "";
-      position: absolute;
-      top: -8px;
-      left: 0;
-      right: 0;
-      height: 8px;
-    }
-  }
-  &:hover .hdr-more-panel,
-  &:focus-within .hdr-more-panel { display: flex; }
+  // popover 展开时（trigger aria-expanded=true）箭头翻转
+  .hdr-more-btn[aria-expanded="true"] .caret { transform: rotate(180deg); }
 }
 
 .hdr-more-col {

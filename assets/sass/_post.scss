@@ -29,43 +29,16 @@
   }
 }
 
+// 控件外观（label / input / textarea / focus）改由 Basecoat .form 作用域提供，
+// 这里只保留表单布局。按钮用 Basecoat btn 类（见 post.html）。
 .post-submit__form {
   display: grid;
-  gap: 8px;
+  gap: 10px;
 
   .post-submit__grid {
     display: grid;
     gap: 10px;
     grid-template-columns: repeat(2, minmax(0, 1fr));
-  }
-
-  label {
-    font-weight: 600;
-    margin-top: 6px;
-  }
-
-  input,
-  textarea {
-    width: 100%;
-    border: 1px solid var(--border-color);
-    border-radius: 6px;
-    padding: 9px 11px;
-    font: inherit;
-    color: var(--text-color);
-    background: transparent;
-    transition: border-color 0.2s ease, box-shadow 0.2s ease;
-  }
-
-  textarea {
-    min-height: 96px;
-    resize: vertical;
-  }
-
-  input:focus,
-  textarea:focus {
-    outline: none;
-    border-color: var(--link-color);
-    box-shadow: 0 0 0 3px rgba(0, 123, 255, 0.14);
   }
 }
 
@@ -81,16 +54,6 @@
   }
 }
 
-.post-submit__add-row {
-  border: 1px solid var(--border-color);
-  border-radius: 6px;
-  padding: 6px 10px;
-  background: transparent;
-  color: var(--text-color);
-  font: inherit;
-  cursor: pointer;
-}
-
 .post-submit__resource-list {
   display: grid;
   gap: 8px;
@@ -101,16 +64,6 @@
   grid-template-columns: 1.1fr 1fr 1.5fr 0.8fr auto;
   gap: 8px;
   align-items: center;
-}
-
-.post-submit__remove-row {
-  border: 1px solid #d9534f;
-  background: transparent;
-  color: #d9534f;
-  border-radius: 6px;
-  padding: 8px 10px;
-  font: inherit;
-  cursor: pointer;
 }
 
 .post-submit__hint {
@@ -128,25 +81,7 @@
   gap: 12px;
 }
 
-.post-submit__button {
-  display: inline-flex;
-  align-items: center;
-  gap: 8px;
-  border: 1px solid var(--link-color);
-  border-radius: 6px;
-  padding: 9px 14px;
-  font: inherit;
-  font-weight: 600;
-  color: #fff;
-  cursor: pointer;
-  background: var(--link-color);
-  transition: opacity 0.2s ease;
-
-  &:hover {
-    opacity: 1;
-  }
-}
-
+// .post-submit__button 外观用 Basecoat btn（见 post.html）；仅保留移动端整宽（下方媒体查询）。
 .post-submit__fallback {
   font-size: 0.92rem;
 }

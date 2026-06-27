@@ -1,0 +1,119 @@
+{{ define "main" }}
+<div style="max-width: 880px; margin: 2rem auto; padding: 0 1rem;" class="flex flex-col gap-8">
+
+  <header>
+    <h1 class="text-2xl font-bold">Basecoat 组件预览</h1>
+    <p class="text-muted-foreground text-sm mt-1">
+      临时验证页（/bc-demo/，已设 list:never + sitemap:disable）。验证 Tailwind v4 + Basecoat 管线与本站浅色/深色配色的对接。
+    </p>
+  </header>
+
+  <!-- Buttons -->
+  <section class="flex flex-col gap-3">
+    <h2 class="text-lg font-semibold">Buttons</h2>
+    <div class="flex flex-wrap items-center gap-2">
+      <button class="btn">Primary</button>
+      <button class="btn-secondary">Secondary</button>
+      <button class="btn-outline">Outline</button>
+      <button class="btn-ghost">Ghost</button>
+      <button class="btn-link">Link</button>
+      <button class="btn-destructive">Destructive</button>
+      <button class="btn-sm">Small</button>
+      <button class="btn-lg">Large</button>
+    </div>
+  </section>
+
+  <!-- Badges -->
+  <section class="flex flex-col gap-3">
+    <h2 class="text-lg font-semibold">Badges</h2>
+    <div class="flex flex-wrap items-center gap-2">
+      <span class="badge">Default</span>
+      <span class="badge-secondary">Secondary</span>
+      <span class="badge-destructive">Destructive</span>
+      <span class="badge-outline">Outline</span>
+    </div>
+  </section>
+
+  <!-- Card -->
+  <section class="flex flex-col gap-3">
+    <h2 class="text-lg font-semibold">Card</h2>
+    <div class="card">
+      <header>
+        <h2>卡片标题</h2>
+        <p>验证 card 组件在浅色 / 深色模式下的背景、文字、边框是否跟随本站变量。</p>
+      </header>
+      <section class="flex flex-col gap-2">
+        <label class="label" for="bc-demo-input">邮箱</label>
+        <input class="input" id="bc-demo-input" type="email" placeholder="you@example.com" />
+      </section>
+      <footer class="gap-2">
+        <button class="btn">保存</button>
+        <button class="btn-outline">取消</button>
+      </footer>
+    </div>
+  </section>
+
+  <!-- Alerts -->
+  <section class="flex flex-col gap-3">
+    <h2 class="text-lg font-semibold">Alerts</h2>
+    <div class="alert">
+      <h2>提示</h2>
+      <section>这是一个 Basecoat alert 组件。</section>
+    </div>
+    <div class="alert-destructive">
+      <h2>错误</h2>
+      <section>这是 destructive 变体，用于错误提示。</section>
+    </div>
+  </section>
+
+  <!-- Dropdown menu (JS-driven: tests MutationObserver auto-init + Swup compat) -->
+  <section class="flex flex-col gap-3">
+    <h2 class="text-lg font-semibold">Dropdown menu（JS 交互组件）</h2>
+    <div class="dropdown-menu">
+      <button type="button" id="bc-demo-menu-trigger" aria-haspopup="menu" aria-expanded="false"
+        aria-controls="bc-demo-menu" class="btn-outline">
+        打开菜单
+      </button>
+      <div id="bc-demo-menu" data-popover aria-hidden="true">
+        <div role="menu" aria-labelledby="bc-demo-menu-trigger">
+          <div role="group">
+            <button type="button" role="menuitem">个人资料</button>
+            <button type="button" role="menuitem">设置</button>
+            <button type="button" role="menuitem">退出登录</button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Popover (JS-driven: used in production for the header 「更多」 mega-menu) -->
+  <section class="flex flex-col gap-3">
+    <h2 class="text-lg font-semibold">Popover（JS 交互组件 · 顶栏「更多」同款）</h2>
+    <p class="text-muted-foreground text-sm">点击展开，点外/Esc 关闭。面板内容任意，外观由工具类控制。</p>
+    <div class="popover">
+      <button type="button" id="bc-demo-pop-trigger" aria-expanded="false" aria-controls="bc-demo-pop" class="btn-outline">
+        打开 Popover
+      </button>
+      <div id="bc-demo-pop" data-popover aria-hidden="true" data-side="bottom" data-align="start"
+        aria-labelledby="bc-demo-pop-trigger" class="flex flex-col gap-1 px-[18px] py-4 min-w-[220px]">
+        <strong class="text-sm">任意内容</strong>
+        <p class="text-muted-foreground text-sm">Popover 不限定结构——可放表单、菜单、说明等。</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- Tabs (JS-driven: used in production for the comments Valine/Artalk switch) -->
+  <section class="flex flex-col gap-3">
+    <h2 class="text-lg font-semibold">Tabs（JS 交互组件 · 评论区同款）</h2>
+    <div class="tabs">
+      <nav role="tablist" aria-label="示例标签页">
+        <button type="button" role="tab" id="bc-demo-tab-1" aria-controls="bc-demo-tp-1" aria-selected="true" tabindex="0">第一项</button>
+        <button type="button" role="tab" id="bc-demo-tab-2" aria-controls="bc-demo-tp-2" aria-selected="false" tabindex="-1">第二项</button>
+      </nav>
+      <div role="tabpanel" id="bc-demo-tp-1" aria-labelledby="bc-demo-tab-1" class="text-sm text-muted-foreground py-2">第一个面板的内容。方向键可切换。</div>
+      <div role="tabpanel" id="bc-demo-tp-2" aria-labelledby="bc-demo-tab-2" class="text-sm text-muted-foreground py-2" hidden>第二个面板的内容。</div>
+    </div>
+  </section>
+
+</div>
+{{ end }}

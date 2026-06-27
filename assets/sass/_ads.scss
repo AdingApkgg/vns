@@ -1,19 +1,4 @@
-.ads-disclaimer {
-  padding: 14px 18px;
-  margin-bottom: 24px;
-  border-radius: 10px;
-  border: 1px solid var(--border-color);
-  background: var(--bg-li-color);
-  color: var(--text-color);
-  font-size: 0.92em;
-  line-height: 1.6;
-  opacity: 0.85;
-
-  i {
-    color: var(--red-1);
-    margin-right: 6px;
-  }
-}
+// .ads-disclaimer 已迁移到 Basecoat alert（见 ads.html）。
 
 .content.ads {
   display: grid;

@@ -6,8 +6,12 @@ resources
 .hugo_build.lock
 node_modules
 db.json
+# Managed with bun; bun.lock IS committed. Ignore other package managers' locks.
 package-lock.json
+yarn.lock
+pnpm-lock.yaml
 .claude/
 __pycache__/
 *.pyc
 assets/jsconfig.json
+hugo_stats.json

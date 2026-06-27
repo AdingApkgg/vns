@@ -1,0 +1,17 @@
+{{- /* Tailwind CSS v4 + Basecoat. Loaded AFTER the legacy Sass so utilities can
+       intentionally override legacy styles on migrated markup. */ -}}
+{{- with resources.Get "css/app.css" }}
+  {{- /* skipInlineImportsNotFound: leave `@import "basecoat-css"` for the
+         Tailwind CLI to resolve from node_modules (Hugo can't inline it). */ -}}
+  {{- $opts := dict "minify" (not hugo.IsDevelopment) "skipInlineImportsNotFound" true }}
+  {{- with . | css.TailwindCSS $opts }}
+    {{- if hugo.IsDevelopment }}
+<link rel="stylesheet" href="{{ .RelPermalink }}" fetchpriority="high" />
+    {{- else }}
+      {{- with . | fingerprint }}
+<link rel="stylesheet" href="{{ .RelPermalink }}" fetchpriority="high" integrity="{{ .Data.Integrity }}"
+  crossorigin="anonymous" />
+      {{- end }}
+    {{- end }}
+  {{- end }}
+{{- end }}

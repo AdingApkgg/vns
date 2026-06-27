@@ -1,7 +1,13 @@
-{{/* 共享菜单渲染：顶栏 .hdr-nav（桌面横向 + 下拉）与移动侧栏 .hdr-drawer（纵向 + 平铺）共用。
+{{/* 共享菜单渲染：顶栏 .hdr-nav（桌面横向 + “更多”下拉）与移动侧栏 .hdr-drawer（纵向 + 平铺）共用。
+     调用：{{ partial "nav-links.html" (dict "page" . "variant" "bar"|"drawer") }}
+     - variant "bar"（桌面顶栏）：“更多”用 Basecoat popover（点击展开，JS 见全局 popover）。
+     - variant "drawer"（移动侧栏）：“更多”平铺展开（.hdr-drawer .hdr-more-* 覆盖样式）。
      菜单数据源是 hugo.toml 的 menus.main；$primary 进一级直达、$searchIds 交给搜索区、
      $more 进“更多”分组，其余未归类的 main 项自动兜底进“更多 › 其他”。 */}}
 {{ $page := . }}
+{{ $variant := "bar" }}
+{{ if reflect.IsMap . }}{{ $page = .page }}{{ $variant = .variant }}{{ end }}
+{{ $bar := eq $variant "bar" }}
 {{ $primary := slice "home" "latest" "tags" "rank" "guide" }}
 {{ $searchIds := slice "search" "img-search" "multi-search" }}
 {{/* 页脚导航已并入这里：footer-only 项（云盘/网盘/友链/问卷/广告/旧站等）一并归类进“更多” */}}
@@ -19,9 +25,9 @@
 {{ range $primary }}{{ $id := . }}{{ range $page.Site.Menus.main }}{{ if eq .Identifier $id }}
 <a class="hdr-link{{ if or ($page.IsMenuCurrent "main" .) ($page.HasMenuCurrent "main" .) }} active{{ end }}" href="{{ .URL }}"{{ if hasPrefix .URL "http" }} target="_blank" rel="noopener noreferrer"{{ end }}><i class="{{ .Pre }}"></i><span>{{ .Name }}</span></a>
 {{ end }}{{ end }}{{ end }}
-<div class="hdr-more">
-  <button type="button" class="hdr-link hdr-more-btn{{ if $moreActive }} active{{ end }}" aria-haspopup="true" aria-expanded="false"><i class="fa fa-ellipsis"></i><span>更多</span><i class="fa fa-angle-down caret"></i></button>
-  <div class="hdr-more-panel">
+<div class="hdr-more{{ if $bar }} popover{{ end }}">
+  <button type="button"{{ if $bar }} id="hdrMoreBtn" aria-controls="hdrMorePanel"{{ end }} class="hdr-link hdr-more-btn{{ if $moreActive }} active{{ end }}" aria-haspopup="true" aria-expanded="false"><i class="fa fa-ellipsis"></i><span>更多</span><i class="fa fa-angle-down caret"></i></button>
+  <div{{ if $bar }} id="hdrMorePanel" data-popover aria-hidden="true" data-side="bottom" data-align="end" aria-labelledby="hdrMoreBtn" class="flex gap-[22px] mt-2 px-[18px] py-4 bg-[var(--bg-header-fixed)] backdrop-blur-[12px] rounded-[12px] shadow-[0_12px_32px_rgba(0,0,0,0.12)]"{{ else }} class="hdr-more-panel"{{ end }}>
     {{ range $more }}
     <div class="hdr-more-col">
       <span class="hdr-more-title">{{ .t }}</span>

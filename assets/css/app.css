@@ -1,0 +1,68 @@
+/* ===========================================================================
+   VNS — Tailwind CSS v4 + Basecoat entry point
+   ---------------------------------------------------------------------------
+   Tailwind's Preflight (the global reset) is intentionally NOT imported: the
+   legacy Sass already ships `* { box-sizing: border-box }` and full base
+   styles, so we only pull in Tailwind's theme + utilities and let them coexist
+   with style.scss during the gradual Sass -> Tailwind migration.
+   =========================================================================== */
+/* Layer order: normalize (reset) + legacy Sass sit BELOW Tailwind/Basecoat so
+   migrated utilities and components win. Both are wrapped in @layer reset/legacy
+   by layouts/_partials/head/css.html. Without this, normalize's unlayered
+   `a{background:transparent}` would beat Basecoat badge/button backgrounds on
+   <a> elements. */
+@layer reset, legacy, theme, base, components, utilities;
+
+@import "tailwindcss/theme.css" layer(theme);
+@import "tailwindcss/utilities.css" layer(utilities);
+
+/* shadcn-style components, no framework required */
+@import "basecoat-css";
+
+/* Tailwind scans the classes Hugo emits (hugo.toml -> [build.buildStats]). */
+@source "hugo_stats.json";
+
+/* ---------------------------------------------------------------------------
+   Theme bridge
+   Basecoat ships shadcn's neutral token set. Re-point the structural tokens at
+   the site's OWN variables (assets/sass/_root.scss), which already flip with
+   `prefers-color-scheme`. Result: Basecoat components inherit the site palette
+   and dark mode for free — no manual toggle, no duplicated dark values.
+   --------------------------------------------------------------------------- */
+:root {
+  --radius: 0.5rem;
+
+  --background: var(--body-bg);
+  --foreground: var(--text-color);
+  --card: var(--content-bg);
+  --card-foreground: var(--text-color);
+  --popover: var(--content-bg);
+  --popover-foreground: var(--text-color);
+
+  /* Brand blue, fixed in both modes (solid bg + white text stays accessible). */
+  --primary: #007bff;
+  --primary-foreground: #ffffff;
+  --ring: #007bff;
+
+  --border: var(--border-color);
+  --input: var(--border-color);
+}
+
+/* Tokens the site doesn't define (Basecoat-only neutrals) still need a dark
+   variant since there is no `.dark` class on this site. */
+@media (prefers-color-scheme: dark) {
+  :root {
+    --secondary: oklch(0.269 0 0);
+    --secondary-foreground: oklch(0.985 0 0);
+    --muted: oklch(0.269 0 0);
+    --muted-foreground: oklch(0.708 0 0);
+    --accent: oklch(0.371 0 0);
+    --accent-foreground: oklch(0.985 0 0);
+    --destructive: oklch(0.704 0.191 22.216);
+    color-scheme: dark;
+  }
+}
+
+/* Basecoat keys its `dark:` utilities off a `.dark` class by default; this site
+   is media-query based, so re-point the variant to match. */
+@custom-variant dark (@media (prefers-color-scheme: dark));

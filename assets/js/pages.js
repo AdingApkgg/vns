@@ -111,7 +111,7 @@ export function initPostSubmissionForm() {
       <input type="text" name="resourcePlatform" placeholder="平台（如：Windows / ONS）" />
       <input type="url" name="resourceUrl" placeholder="下载链接（https://...）" />
       <input type="text" name="resourcePassword" placeholder="密码（选填）" />
-      <button type="button" class="post-submit__remove-row" aria-label="删除这一条">删除</button>
+      <button type="button" class="post-submit__remove-row btn-sm-outline" aria-label="删除这一条">删除</button>
     `;
     bindRemoveAction(row);
     return row;
@@ -476,8 +476,12 @@ export function initRankPage() {
   // 切换标签
   tabs.forEach((tab) => {
     tab.addEventListener("click", () => {
-      tabs.forEach((t) => t.classList.remove("active"));
-      tab.classList.add("active");
+      tabs.forEach((t) => {
+        t.classList.remove("active", "btn-primary");
+        t.classList.add("btn-outline");
+      });
+      tab.classList.add("active", "btn-primary");
+      tab.classList.remove("btn-outline");
       currentType = tab.dataset.type;
       fetchRankData();
     });
@@ -496,7 +500,8 @@ export function initRankPage() {
     rankContent.innerHTML =
       '<div class="loading"><i class="fas fa-spinner fa-spin"></i> 加载中...</div>';
 
-    const apiUrl = `https://rp.30hb.cn/?target=https://inarigal.com/api/ranking/${currentType}?days=${currentDays}`;
+    const target = `https://inarigal.com/api/ranking/${currentType}?days=${currentDays}`;
+    const apiUrl = `https://rp.saop.cc/?target=${encodeURIComponent(target)}`;
 
     fetch(apiUrl)
       .then((response) => {
