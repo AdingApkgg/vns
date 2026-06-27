@@ -244,3 +244,27 @@ permalinkable = false
 
 [outputs]
 home = ["HTML", "RSS", "JSON", "LLMS", "SW"]
+
+# --- Tailwind CSS v4 integration (css.TailwindCSS) ---
+# buildStats writes hugo_stats.json listing every class emitted in templates;
+# Tailwind scans it (via @source in assets/css/app.css) to generate utilities.
+[build]
+  [build.buildStats]
+    enable = true
+  [[build.cachebusters]]
+    source = 'assets/notwatching/hugo_stats\.json'
+    target = 'css'
+  [[build.cachebusters]]
+    source = '(postcss|tailwind)\.config\.js'
+    target = 'css'
+
+# Declaring mounts overrides ONLY the default 'assets' mount, so we re-add it
+# explicitly and mount the root hugo_stats.json into the assets filesystem.
+[module]
+  [[module.mounts]]
+    source = 'assets'
+    target = 'assets'
+  [[module.mounts]]
+    disableWatch = true
+    source = 'hugo_stats.json'
+    target = 'assets/notwatching/hugo_stats.json'

@@ -380,11 +380,13 @@ blockquote {
   margin: 0 auto;
 }
 
+// 覆盖第三方 waifu.css 的定位（站点 Sass 现处于 @layer legacy，而 waifu.css 是无层级的，
+// 无层级会压过任何 @layer —— 故用 !important 保证站点覆盖生效，与下方 aplayer 覆盖同理）。
 #waifu {
-  left: unset;
-  right: 0;
+  left: unset !important;
+  right: 0 !important;
   #waifu-tool {
-    right: unset;
+    right: unset !important;
   }
 }
 
@@ -532,46 +534,8 @@ body:not(.swal2-toast-shown) .swal2-container {
   max-width: 960px;
   margin: 0 auto;
 
-  .comment-tabs {
-    display: flex;
-    gap: 8px;
-    margin-bottom: 16px;
-  }
-
-  .comment-tab {
-    padding: 8px 20px;
-    border: 1px solid var(--border-color);
-    border-radius: 8px;
-    background: var(--bg-li-color);
-    color: var(--text-color);
-    font-size: 0.9em;
-    font-family: inherit;
-    cursor: pointer;
-    transition: all 0.2s ease;
-
-    i {
-      margin-right: 4px;
-    }
-
-    &:hover {
-      border-color: var(--link-color);
-      color: var(--link-color);
-    }
-
-    &.active {
-      background: var(--link-color);
-      border-color: var(--link-color);
-      color: #fff;
-    }
-  }
-
-  .comment-panel {
-    display: none;
-
-    &.active {
-      display: block;
-    }
-  }
+  // 评论区 tab 改用 Basecoat tabs（见 comments.html / comments.js）。仅留 tablist 间距。
+  .comment-tabs { margin-bottom: 16px; }
 
   .comment {
     padding: 1rem 0;
@@ -579,47 +543,8 @@ body:not(.swal2-toast-shown) .swal2-container {
   }
 }
 
-.taxonomy {
-  list-style: none;
-  font-size: 1.2em;
-  padding: 0;
-}
-
-.taxonomy li,
-.pagination a,
-.pagination span {
-  display: inline-block;
-  margin: 4px;
-  border: 2px solid var(--border-color);
-  border-radius: 0.2em;
-  box-shadow: 0 0 0.1em 0.1em rgba(0, 0, 0, 0.1);
-  background: var(--bg-li-color);
-  padding: 0 0.4em;
-  overflow-wrap: break-word;
-  transition: all 0.3s ease-in;
-}
-
-.taxonomy li:hover,
-.pagination a:hover {
-  opacity: 0.7;
-  box-shadow: 0 0 0.08em 0.12em rgba(0, 0, 0, 0.3);
-  transition: all 0.1s ease-out;
-  transform: scale(0.95);
-}
-
-.taxonomy li span {
-  color: var(--text-color);
-  font-size: 0.875em;
-  background: var(--bg-span-color);
-  border-radius: 3px;
-  padding: 2px 4px;
-}
-
-.pagination {
-  margin: 1em 0;
-  font-size: 1.2em;
-  text-align: center;
-}
+// .taxonomy 与 .pagination 均已迁移到 Basecoat（badge / 按钮组合，见
+// taxonomy.html 与 pagination.html），旧 chip 样式已移除。
 
 .articles-len {
   color: var(--text-color);
@@ -933,7 +858,7 @@ pre:hover .copy-btn {
 .aplayer-info,
 .aplayer-music *,
 .aplayer-icon {
-  background: var(--bg-color);
+  background: var(--bg-color) !important;
   color: var(--text-color) !important;
 }
 

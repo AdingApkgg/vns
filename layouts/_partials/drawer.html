@@ -18,6 +18,6 @@
     {{ end }}{{ end }}{{ end }}
   </div>
   <nav class="hdr-drawer-nav" aria-label="移动端主导航">
-    {{ partial "nav-links.html" . }}
+    {{ partial "nav-links.html" (dict "page" . "variant" "drawer") }}
   </nav>
 </aside>

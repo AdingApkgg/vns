@@ -1,14 +1,18 @@
 {{ if .Site.Params.comments.enabled }}
+{{- /* 评论系统切换：Basecoat tabs（点击 + 方向键无障碍）。Artalk 在其面板首次显示时
+       懒加载，逻辑见 assets/js/comments.js（用 MutationObserver 监听面板 hidden 切换）。 */ -}}
 <div class="comments">
-  <div class="comment-tabs">
-    <button class="comment-tab active" data-tab="valine"><i class="fa fa-comment-dots"></i> Valine</button>
-    <button class="comment-tab" data-tab="artalk"><i class="fa fa-comments"></i> Artalk</button>
-  </div>
-  <div class="comment-panel active" id="panel-valine">
-    <div id="vcomments" class="comment"></div>
-  </div>
-  <div class="comment-panel" id="panel-artalk">
-    <div id="artalk-comments"></div>
+  <div class="tabs comment-tabs">
+    <nav role="tablist" aria-label="评论系统">
+      <button type="button" role="tab" id="tab-valine" aria-controls="panel-valine" aria-selected="true" tabindex="0"><i class="fa fa-comment-dots"></i> Valine</button>
+      <button type="button" role="tab" id="tab-artalk" aria-controls="panel-artalk" aria-selected="false" tabindex="-1"><i class="fa fa-comments"></i> Artalk</button>
+    </nav>
+    <div role="tabpanel" id="panel-valine" aria-labelledby="tab-valine">
+      <div id="vcomments" class="comment"></div>
+    </div>
+    <div role="tabpanel" id="panel-artalk" aria-labelledby="tab-artalk" hidden>
+      <div id="artalk-comments"></div>
+    </div>
   </div>
 </div>
 {{ end }}

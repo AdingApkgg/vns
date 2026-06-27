@@ -30,7 +30,11 @@
 {{- with $keywords }}
 <meta name="keywords" content="{{ delimit . ", " }}" />{{ end }}
 <meta name="author" content="{{ $author }}" />
+{{- if .Params.noindex }}
+<meta name="robots" content="noindex, nofollow" />
+{{- else }}
 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1" />
+{{- end }}
 <link rel="canonical" href="{{ .Permalink }}" />
 <meta property="og:title" content="{{ $title }}" />
 <meta property="og:description" content="{{ $desc }}" />
@@ -59,13 +63,14 @@
   href="{{ .Site.BaseURL }}index.xml"
   title="{{ .Site.Title }}"
 />
-<link rel="stylesheet" href="/css/normalize.css" fetchpriority="high" />
 <link
   rel="stylesheet"
   href="https://registry.npmmirror.com/weblive2d/latest/files/waifu.css"
   fetchpriority="low"
 />
 {{ partialCached "head/css.html" . }}
+{{ partialCached "head/tailwind.html" . }}
+<script src="/js/basecoat-all.min.js" defer></script>
 <script>
   if (/MSIE|Trident/.test(window.navigator.userAgent)) {
     alert("抱歉，本站不支持 IE 浏览器，请用 Chrome 访问。");

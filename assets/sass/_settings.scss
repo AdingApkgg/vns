@@ -61,47 +61,8 @@ html.fps-off #fps {
   font-size: 0.82rem;
 }
 
-/* 开关 toggle —— 原生 button[role=switch]，可聚焦、键盘可操作 */
-.setting-toggle {
-  --w: 46px;
-  --h: 26px;
-  --pad: 3px;
-  flex: none;
-  position: relative;
-  width: var(--w);
-  height: var(--h);
-  padding: 0;
-  border: none;
-  border-radius: 999px;
-  cursor: pointer;
-  background: var(--bg-span-color);
-  transition: background 0.25s cubic-bezier(0.4, 0, 0.2, 1);
-
-  &[aria-checked="true"] {
-    background: var(--link-color);
-  }
-
-  &:focus-visible {
-    outline: 2px solid var(--link-color);
-    outline-offset: 2px;
-  }
-}
-
-.setting-toggle-knob {
-  position: absolute;
-  top: var(--pad);
-  left: var(--pad);
-  width: calc(var(--h) - var(--pad) * 2);
-  height: calc(var(--h) - var(--pad) * 2);
-  border-radius: 50%;
-  background: #fff;
-  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.3);
-  transition: transform 0.25s cubic-bezier(0.4, 0, 0.2, 1);
-}
-
-.setting-toggle[aria-checked="true"] .setting-toggle-knob {
-  transform: translateX(calc(var(--w) - var(--h)));
-}
+/* 开关 toggle 改用 Basecoat switch（input[type=checkbox][role=switch].input，见 settings.js），
+   样式由 Basecoat 提供、品牌色来自 --primary，原生 checkbox 故键盘可操作。 */
 
 /* 提示文案与刷新按钮 */
 .settings-hint {

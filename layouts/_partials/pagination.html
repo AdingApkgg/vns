@@ -1,11 +1,17 @@
 {{ if gt .Paginator.TotalPages 1 }}
-<nav class="pagination">
+{{- /* 分页：用 Basecoat 按钮组合（Basecoat 无独立 pagination 组件）。
+       上一页/下一页 = btn-icon-outline 链接；中间显示 当前/总页。 */ -}}
+<nav class="flex items-center justify-center gap-3 my-6" aria-label="分页">
   {{ if .Paginator.HasPrev }}
-  <a href="{{ .Paginator.Prev.URL }}"><</a>
+  <a href="{{ .Paginator.Prev.URL }}" class="btn-icon-outline" aria-label="上一页"><i class="fa fa-angle-left" aria-hidden="true"></i></a>
+  {{ else }}
+  <span class="btn-icon-outline opacity-40 pointer-events-none" aria-hidden="true"><i class="fa fa-angle-left"></i></span>
   {{ end }}
-  <span>{{ .Paginator.PageNumber }}</span>
+  <span class="text-muted-foreground text-sm tabular-nums" aria-current="page">{{ .Paginator.PageNumber }} / {{ .Paginator.TotalPages }}</span>
   {{ if .Paginator.HasNext }}
-  <a href="{{ .Paginator.Next.URL }}">></a>
+  <a href="{{ .Paginator.Next.URL }}" class="btn-icon-outline" aria-label="下一页"><i class="fa fa-angle-right" aria-hidden="true"></i></a>
+  {{ else }}
+  <span class="btn-icon-outline opacity-40 pointer-events-none" aria-hidden="true"><i class="fa fa-angle-right"></i></span>
   {{ end }}
 </nav>
 {{ end }}

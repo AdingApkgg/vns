@@ -135,10 +135,8 @@ function renderRow(f) {
           <span class="setting-desc">${f.desc}</span>
         </span>
       </div>
-      <button class="setting-toggle" type="button" role="switch"
-              aria-checked="${isOn(f.key)}" aria-label="${f.label}" data-key="${f.key}">
-        <span class="setting-toggle-knob" aria-hidden="true"></span>
-      </button>
+      <input type="checkbox" role="switch" class="input" aria-label="${f.label}"
+             data-key="${f.key}"${isOn(f.key) ? " checked" : ""}>
     </div>`;
 }
 
@@ -172,12 +170,11 @@ export function initSetPage() {
 
   const reload = document.getElementById("settings-reload");
 
-  list.addEventListener("click", (e) => {
-    const btn = e.target.closest(".setting-toggle");
-    if (!btn) return;
-    const key = btn.dataset.key;
-    const next = btn.getAttribute("aria-checked") !== "true";
-    btn.setAttribute("aria-checked", String(next));
+  list.addEventListener("change", (e) => {
+    const input = e.target.closest("input[role='switch']");
+    if (!input) return;
+    const key = input.dataset.key;
+    const next = input.checked;
     setOn(key, next);
 
     const feat = FEATURES.find((f) => f.key === key);

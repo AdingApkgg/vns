@@ -4,19 +4,21 @@
     {{ $cover = index (index . 0) 1 }}
   {{ end }}
 {{ end }}
-<section class="post-card">
+{{- /* post-card: migrated Sass -> Tailwind utilities (bound to site CSS vars).
+       Masonry parent .post-grid stays in _home.scss for now. */ -}}
+<section class="post-card break-inside-avoid inline-block w-full mb-5 p-[0.85rem] bg-[var(--bg-li-color)] border border-[var(--border-color)] rounded-[10px] shadow-[0_1px_6px_rgba(0,0,0,0.05)] transition-[transform,box-shadow] duration-200 ease-[ease] hover:-translate-y-0.5 hover:shadow-[0_6px_16px_rgba(0,0,0,0.08)] [&_.post-meta]:text-[0.78em] [&_.post-meta]:opacity-75">
   {{ if $cover }}
-  <a class="post-card-cover-link" href="{{ .RelPermalink }}" aria-label="{{ .LinkTitle }}">
-    <img class="post-card-cover" data-src="{{ $cover }}" alt="{{ .LinkTitle }}" loading="lazy" />
+  <a class="block mb-3 rounded-md overflow-hidden" href="{{ .RelPermalink }}" aria-label="{{ .LinkTitle }}">
+    <img class="block w-full h-auto transition-transform duration-[400ms] ease-[ease] hover:scale-[1.03]" data-src="{{ $cover }}" alt="{{ .LinkTitle }}" loading="lazy" />
   </a>
   {{ end }}
-  <div class="post-card-body">
-    <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a><sup class="busuanzi_value_page_pv" data-bsz-href="{{ .Permalink }}"></sup></h2>
+  <div>
+    <h2 class="text-[1.1em] m-0 mb-[0.4rem] border-b-0 leading-[1.4]"><a class="text-[var(--text-color)] no-underline hover:text-[var(--link-color)] hover:no-underline hover:opacity-100" href="{{ .RelPermalink }}">{{ .LinkTitle }}</a><sup class="busuanzi_value_page_pv" data-bsz-href="{{ .Permalink }}"></sup></h2>
     {{ partial "post-meta.html" . }}
     {{ if .Params.description }}
-    <div class="post-card-summary">{{ .Params.description | markdownify }}</div>
+    <div class="text-[0.88em] text-[var(--text-color)] leading-[1.65] my-[0.4rem] opacity-[0.82]">{{ .Params.description | markdownify }}</div>
     {{ else }}
-    <div class="post-card-summary">{{ .Summary | replaceRE `(?s)<figure[^>]*>.*?</figure>` "" | replaceRE `<img[^>]*>` "" | replaceRE `<p>\s*</p>` "" | safeHTML }}</div>
+    <div class="text-[0.88em] text-[var(--text-color)] leading-[1.65] my-[0.4rem] opacity-[0.82]">{{ .Summary | replaceRE `(?s)<figure[^>]*>.*?</figure>` "" | replaceRE `<img[^>]*>` "" | replaceRE `<p>\s*</p>` "" | safeHTML }}</div>
     {{ end }}
     {{ partial "terms.html" (dict "taxonomy" "categories" "page" .) }}
     {{ partial "terms.html" (dict "taxonomy" "tags" "page" .) }}

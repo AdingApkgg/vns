@@ -560,23 +560,7 @@
   }
 }
 
-.stat-card {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  gap: 0.2rem;
-  padding: 0.9rem 0.5rem;
-  background: var(--bg-li-color);
-  border: 1px solid var(--border-color);
-  border-radius: 10px;
-  text-align: center;
-
-  > i {
-    font-size: 1.1rem;
-    color: var(--link-color);
-    margin-bottom: 0.3rem;
-  }
-}
+// .stat-card 为无引用的死样式（首页状态栏用 .statusbar-item/.stat-num），已移除。
 
 .stat-num {
   font-size: 1.4rem;
@@ -825,72 +809,8 @@
   }
 }
 
-.post-card {
-  break-inside: avoid;
-  display: inline-block;
-  width: 100%;
-  margin: 0 0 1.25rem;
-  padding: 0.85rem;
-  background: var(--bg-li-color);
-  border: 1px solid var(--border-color);
-  border-radius: 10px;
-  box-shadow: 0 1px 6px rgba(0, 0, 0, 0.05);
-  transition: transform 0.2s ease, box-shadow 0.2s ease;
-
-  &:hover {
-    transform: translateY(-2px);
-    box-shadow: 0 6px 16px rgba(0, 0, 0, 0.08);
-  }
-
-  .post-card-cover-link {
-    display: block;
-    margin: 0 0 0.75rem;
-    border-radius: 6px;
-    overflow: hidden;
-  }
-
-  .post-card-cover {
-    display: block;
-    width: 100%;
-    height: auto;
-    transition: transform 0.4s ease;
-
-    &:hover {
-      transform: scale(1.03);
-    }
-  }
-
-  .post-card-body > h2 {
-    font-size: 1.1em;
-    margin: 0 0 0.4rem;
-    border-bottom: none;
-    line-height: 1.4;
-
-    a {
-      color: var(--text-color);
-      text-decoration: none;
-
-      &:hover {
-        color: var(--link-color);
-        opacity: 1;
-        text-decoration: none;
-      }
-    }
-  }
-
-  .post-card-summary {
-    font-size: 0.88em;
-    color: var(--text-color);
-    line-height: 1.65;
-    margin: 0.4rem 0;
-    opacity: 0.82;
-  }
-
-  .post-meta {
-    font-size: 0.78em;
-    opacity: 0.75;
-  }
-}
+// .post-card 已迁移到 Tailwind 工具类，见 layouts/_partials/post-card.html
+// （瀑布流容器 .post-grid 仍在本文件中）。
 
 // =================== 交互探索感升级 ===================
 

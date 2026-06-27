@@ -3,17 +3,17 @@
   {{ partial "h1.html" . }}
 
   <div class="rank-tabs">
-    <button class="rank-tab active" data-type="views">
+    <button class="rank-tab btn-primary active" data-type="views">
       <i class="fas fa-eye"></i> 浏览
     </button>
-    <button class="rank-tab" data-type="downloads">
+    <button class="rank-tab btn-outline" data-type="downloads">
       <i class="fas fa-download"></i> 下载
     </button>
   </div>
 
   <div class="rank-filter">
     <label for="days-select">时间范围:</label>
-    <select id="days-select">
+    <select id="days-select" class="select">
       <option value="1">今日</option>
       <option value="7">近7天</option>
       <option value="30" selected>近30天</option>

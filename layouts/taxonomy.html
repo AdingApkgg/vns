@@ -30,13 +30,12 @@
   {{ end }}
   {{ end }}
 
-  <ul class="taxonomy">
+  <div class="flex flex-wrap gap-2 my-2">
     {{ range .Data.Terms }}
-    <li>
-      <a href="{{ .Page.Permalink }}">{{ .Page.Name }}</a>
-      <span>{{ .Count }}</span>
-    </li>
+    <a href="{{ .Page.Permalink }}" class="badge-secondary no-underline gap-1.5 text-sm transition-opacity hover:opacity-80">
+      {{ .Page.Name }}<span class="font-normal opacity-60">{{ .Count }}</span>
+    </a>
     {{ end }}
-  </ul>
+  </div>
 </article>
 {{ end }}

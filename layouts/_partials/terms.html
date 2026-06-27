@@ -1,14 +1,14 @@
-{{- /* For a given taxonomy, renders a list of terms assigned to the page.
+{{- /* For a given taxonomy, renders a page's terms as Basecoat badges.
 @context {page} page The current page. @context {string} taxonomy The taxonomy.
-@example: {{ partial "terms.html" (dict "taxonomy" "tags" "page" .) }} */}} {{-
-$page := .page }} {{- $taxonomy := .taxonomy }} {{- with $page.GetTerms
-$taxonomy }} {{- $label := (index . 0).Parent.LinkTitle }}
-<div>
-  <div>{{ $label }}:</div>
-  <ul class="taxonomy">
-    {{- range . }}
-    <li><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></li>
-    {{- end }}
-  </ul>
+@example: {{ partial "terms.html" (dict "taxonomy" "tags" "page" .) }} */ -}}
+{{- $page := .page }}
+{{- $taxonomy := .taxonomy }}
+{{- with $page.GetTerms $taxonomy }}
+{{- $label := (index . 0).Parent.LinkTitle }}
+<div class="flex flex-wrap items-center gap-1.5 my-2">
+  <span class="text-[0.85em] opacity-60 mr-0.5">{{ $label }}:</span>
+  {{- range . }}
+  <a href="{{ .RelPermalink }}" class="badge-secondary no-underline transition-opacity hover:opacity-80">{{ .LinkTitle }}</a>
+  {{- end }}
 </div>
 {{- end }}
