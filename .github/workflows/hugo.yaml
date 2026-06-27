@@ -45,6 +45,14 @@ jobs:
         with:
           submodules: recursive
           fetch-depth: 0
+      - name: Install Bun
+        uses: oven-sh/setup-bun@v2
+        with:
+          bun-version: latest
+      - name: Install Node dependencies
+        run: |
+          bun install --frozen-lockfile
+          echo "$GITHUB_WORKSPACE/node_modules/.bin" >> "$GITHUB_PATH"
       - name: Cache Restore
         id: cache-restore
         uses: actions/cache/restore@v6
