@@ -1,51 +1,52 @@
-{{/* 共享菜单渲染：顶栏 .hdr-nav（桌面横向 + “更多”下拉）与移动侧栏 .hdr-drawer（纵向 + 平铺）共用。
-     调用：{{ partial "nav-links.html" (dict "page" . "variant" "bar"|"drawer") }}
-     - variant "bar"（桌面顶栏）：“更多”用 Basecoat popover（点击展开，JS 见全局 popover）。
-     - variant "drawer"（移动侧栏）：“更多”平铺展开（.hdr-drawer .hdr-more-* 覆盖样式）。
-     菜单数据源是 hugo.toml 的 menus.main；$primary 进一级直达、$searchIds 交给搜索区、
-     $more 进“更多”分组，其余未归类的 main 项自动兜底进“更多 › 其他”。 */}}
+{{/* 共享菜单渲染：桌面左侧竖栏 .site-sidebar（sidebar.html）与移动端右侧抽屉 .hdr-drawer
+     （drawer.html）共用同一份链接标记，两处差异全在 CSS（各自作用域覆盖）。
+     调用：{{ partial "nav-links.html" . }}（. 为当前页）
+     菜单数据源是 hugo.toml 的 menus.main + menus.footer；$primary 进一级直达、
+     $searchIds 交给搜索区（侧栏搜索框 / 抽屉搜索入口），其余按 $groups 分组平铺，
+     未归类的 main/footer 项自动兜底进“其他”，新增菜单忘了归类也不会丢。 */}}
 {{ $page := . }}
-{{ $variant := "bar" }}
-{{ if reflect.IsMap . }}{{ $page = .page }}{{ $variant = .variant }}{{ end }}
-{{ $bar := eq $variant "bar" }}
 {{ $primary := slice "home" "latest" "tags" "rank" "guide" }}
 {{ $searchIds := slice "search" "img-search" "multi-search" }}
-{{/* 页脚导航已并入这里：footer-only 项（云盘/网盘/友链/问卷/广告/旧站等）一并归类进“更多” */}}
-{{ $more := slice
+{{/* 页脚导航已并入这里：footer-only 项（云盘/网盘/友链/问卷/广告/旧站等）一并归类进分组 */}}
+{{ $groups := slice
   (dict "t" "浏览" "ids" (slice "live" "random"))
   (dict "t" "资源" "ids" (slice "dls" "docs" "cloud" "drive"))
   (dict "t" "参与" "ids" (slice "comments" "post" "teams" "links" "feedback"))
   (dict "t" "站务" "ids" (slice "set" "about" "donate" "ads" "old"))
 }}
 {{ $claimed := union $primary $searchIds }}
-{{ range $more }}{{ $claimed = union $claimed .ids }}{{ end }}
+{{ range $groups }}{{ $claimed = union $claimed .ids }}{{ end }}
 {{ $menus := union $page.Site.Menus.main $page.Site.Menus.footer }}
-{{ $moreActive := false }}
-{{ range $more }}{{ range .ids }}{{ $id := . }}{{ range $menus }}{{ if and (eq .Identifier $id) (or ($page.IsMenuCurrent "main" .) ($page.HasMenuCurrent "main" .)) }}{{ $moreActive = true }}{{ end }}{{ end }}{{ end }}{{ end }}
 {{ range $primary }}{{ $id := . }}{{ range $page.Site.Menus.main }}{{ if eq .Identifier $id }}
-<a class="hdr-link{{ if or ($page.IsMenuCurrent "main" .) ($page.HasMenuCurrent "main" .) }} active{{ end }}" href="{{ .URL }}"{{ if hasPrefix .URL "http" }} target="_blank" rel="noopener noreferrer"{{ end }}><i class="{{ .Pre }}"></i><span>{{ .Name }}</span></a>
+{{- /* 收录统计并入链接本身：最新=作品数、标签=标签数，居右淡显（桌面竖栏；抽屉里 CSS 隐藏） */ -}}
+{{ $count := 0 }}
+{{ if eq $id "latest" }}{{ $count = len (where $page.Site.RegularPages "Section" "p") }}{{ else if eq $id "tags" }}{{ $count = len $page.Site.Taxonomies.tags }}{{ end }}
+<a class="hdr-link{{ if or ($page.IsMenuCurrent "main" .) ($page.HasMenuCurrent "main" .) }} active{{ end }}" href="{{ .URL }}"{{ if hasPrefix .URL "http" }} target="_blank" rel="noopener noreferrer"{{ end }}><i class="{{ .Pre }}"></i><span>{{ .Name }}</span>{{ if gt $count 0 }}<span class="hdr-count">{{ $count }}</span>{{ end }}</a>
 {{ end }}{{ end }}{{ end }}
-<div class="hdr-more{{ if $bar }} popover{{ end }}">
-  <button type="button"{{ if $bar }} id="hdrMoreBtn" aria-controls="hdrMorePanel"{{ end }} class="hdr-link hdr-more-btn{{ if $moreActive }} active{{ end }}" aria-haspopup="true" aria-expanded="false"><i class="fa fa-ellipsis"></i><span>更多</span><i class="fa fa-angle-down caret"></i></button>
-  <div{{ if $bar }} id="hdrMorePanel" data-popover aria-hidden="true" data-side="bottom" data-align="end" aria-labelledby="hdrMoreBtn" class="flex gap-[22px] mt-2 px-[18px] py-4 bg-[var(--bg-header-fixed)] backdrop-blur-[12px] rounded-[12px] shadow-[0_12px_32px_rgba(0,0,0,0.12)]"{{ else }} class="hdr-more-panel"{{ end }}>
-    {{ range $more }}
-    <div class="hdr-more-col">
-      <span class="hdr-more-title">{{ .t }}</span>
+{{/* 每组是可收纳的 <details>：默认展开；桌面竖栏的开合状态由 initNavGroups 存
+     localStorage（swup 每次导航重渲侧栏，须恢复），抽屉里走浏览器原生开合即可 */}}
+<div class="hdr-groups">
+  {{ range $groups }}
+  <details class="hdr-group" open>
+    <summary class="hdr-group-title"><span>{{ .t }}</span><i class="fa fa-angle-down hdr-group-caret"></i></summary>
+    <div class="hdr-group-links">
       {{ range .ids }}{{ $id := . }}{{ range $menus }}{{ if eq .Identifier $id }}
-      {{ $rnd := eq .Identifier "random" }}<a class="hdr-more-link{{ if or ($page.IsMenuCurrent "main" .) ($page.HasMenuCurrent "main" .) }} active{{ end }}" href="{{ if $rnd }}#{{ else }}{{ .URL }}{{ end }}"{{ if $rnd }} data-random-link data-no-swup{{ else if hasPrefix .URL "http" }} target="_blank" rel="noopener noreferrer"{{ end }}><i class="{{ .Pre }}"></i>{{ .Name }}</a>
+      {{- /* active 判定用条目自己的 .Menu：分组里混着 main 和 footer 两个菜单的项，写死 "main" 会让 footer 项（团队/关于/捐赠等）永远不亮 */ -}}
+      {{ $rnd := eq .Identifier "random" }}<a class="hdr-sublink{{ if or ($page.IsMenuCurrent .Menu .) ($page.HasMenuCurrent .Menu .) }} active{{ end }}" href="{{ if $rnd }}#{{ else }}{{ .URL }}{{ end }}"{{ if $rnd }} data-random-link data-no-swup{{ else if hasPrefix .URL "http" }} target="_blank" rel="noopener noreferrer"{{ end }}><i class="{{ .Pre }}"></i><span>{{ .Name }}</span></a>
       {{ end }}{{ end }}{{ end }}
     </div>
-    {{ end }}
-    {{/* 兜底：main 或 footer 里任何没归类的项自动进“其他”，新增菜单忘了归类也不会丢 */}}
-    {{ $extras := slice }}
-    {{ range $menus }}{{ if not (in $claimed .Identifier) }}{{ $extras = $extras | append . }}{{ end }}{{ end }}
-    {{ with $extras }}
-    <div class="hdr-more-col">
-      <span class="hdr-more-title">其他</span>
+  </details>
+  {{ end }}
+  {{ $extras := slice }}
+  {{ range $menus }}{{ if not (in $claimed .Identifier) }}{{ $extras = $extras | append . }}{{ end }}{{ end }}
+  {{ with $extras }}
+  <details class="hdr-group" open>
+    <summary class="hdr-group-title"><span>其他</span><i class="fa fa-angle-down hdr-group-caret"></i></summary>
+    <div class="hdr-group-links">
       {{ range . }}
-      <a class="hdr-more-link" href="{{ .URL }}"{{ if hasPrefix .URL "http" }} target="_blank" rel="noopener noreferrer"{{ end }}><i class="{{ .Pre }}"></i>{{ .Name }}</a>
+      <a class="hdr-sublink{{ if or ($page.IsMenuCurrent .Menu .) ($page.HasMenuCurrent .Menu .) }} active{{ end }}" href="{{ .URL }}"{{ if hasPrefix .URL "http" }} target="_blank" rel="noopener noreferrer"{{ end }}><i class="{{ .Pre }}"></i><span>{{ .Name }}</span></a>
       {{ end }}
     </div>
-    {{ end }}
-  </div>
+  </details>
+  {{ end }}
 </div>

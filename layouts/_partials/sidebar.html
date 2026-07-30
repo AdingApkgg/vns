@@ -1,0 +1,30 @@
+{{/* 桌面端（≥821px）左侧固定竖栏 —— 挂在 <body> 直接子级（baseof.html），与顶栏平级：
+     顶栏 .site-header 现在只服务移动端（≤820px），桌面整条隐藏，导航全部回到这里。
+     结构：品牌信息卡（头像 + 站名并排 + 副标题）→ 即时搜索框（Pagefind，含识图/聚搜入口）
+     → 分组链接（nav-links.html，与移动抽屉共用；作品/标签数并入对应链接右侧，不再单列统计块）。
+     #siteSidebar 已登记进 swup containers（scripts.html），软导航时随页面重渲，当前项高亮才会更新。 */}}
+<aside class="site-sidebar" id="siteSidebar" aria-label="站点导航">
+  <a class="sb-brand" href="{{ .Site.BaseURL }}" aria-label="{{ .Site.Title }}">
+    <span class="sb-brand-top">
+      <img class="sb-avatar" src="{{ .Site.Params.logo }}" alt="" width="58" height="58" />
+      <strong class="sb-name">{{ .Site.Title }}</strong>
+    </span>
+    <span class="sb-sub">{{ .Site.Params.subtitle }}</span>
+  </a>
+
+  {{/* 即时搜索：输入即出 Pagefind 结果浮层（initHeadSearch）；旁边是识图 / 聚搜两个直达图标。
+       移动端不渲染这套——顶栏用 .hdr-msearch 图标跳 /search，抽屉里另有三个搜索入口。 */}}
+  <div class="hdr-search" id="hdrSearch">
+    <i class="fa fa-magnifying-glass hdr-search-icon"></i>
+    <input type="search" id="hdrSearchInput" class="hdr-search-input" placeholder="搜索游戏…" autocomplete="off" aria-label="站内搜索" role="combobox" aria-expanded="false" aria-controls="hdrSearchPanel" aria-autocomplete="list" />
+    {{ range .Site.Menus.main }}{{ if eq .Identifier "img-search" }}
+    <a class="hdr-search-alt" href="{{ .URL }}" title="{{ .Name }}"><i class="{{ .Pre }}"></i></a>{{ end }}{{ end }}
+    {{ range .Site.Menus.main }}{{ if eq .Identifier "multi-search" }}
+    <a class="hdr-search-alt" href="{{ .URL }}" target="_blank" rel="noopener noreferrer" title="{{ .Name }}"><i class="{{ .Pre }}"></i></a>{{ end }}{{ end }}
+    <div class="hdr-search-panel" id="hdrSearchPanel" hidden role="listbox" aria-label="搜索结果"></div>
+  </div>
+
+  <nav class="sb-nav" aria-label="主导航">
+    {{ partial "nav-links.html" . }}
+  </nav>
+</aside>

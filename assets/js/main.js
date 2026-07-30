@@ -11,7 +11,7 @@ import {
 } from "./home.js";
 import { initAIReview } from "./ai-review.js";
 import { mouseFirework, initLozad, initMediumZoom } from "./media.js";
-import { initSearch, initGalPopup, rv, shortcutKey, initHeadSearch, initHeadNav, initHeaderScroll, initPageQR } from "./search.js";
+import { initSearch, initGalPopup, rv, shortcutKey, initHeadSearch, initNavGroups, initHeaderScroll, initPageQR } from "./search.js";
 import { initImgSearch } from "./imgsearch.js";
 import { initTOCSidebar, initPostSubmissionForm, initValine, fetchDLS, initRankPage } from "./pages.js";
 import { lunar } from "./lunar.js";
@@ -48,7 +48,7 @@ function initializePage() {
     ["initJumpToComments", initJumpToComments],
     ["initSearch", initSearch],
     ["initHeadSearch", initHeadSearch],
-    ["initHeadNav", initHeadNav],
+    ["initNavGroups", initNavGroups],
     ["initHeaderScroll", initHeaderScroll],
     ["initPageQR", initPageQR],
     ["initImgSearch", initImgSearch],
@@ -234,6 +234,10 @@ function endLoading() {
  */
 const SwupHooks = {
   init() {
+    // 桌面竖栏 #siteSidebar 是 swup 容器，软导航会整块替换、滚动位置归零 ——
+    // 替换前记下 scrollTop，替换后还原
+    let sidebarScroll = 0;
+
     // 页面切换动画开始时显示加载状态
     swup.hooks.on("animation:out:start", () => {
       PageLoader.start();
@@ -244,16 +248,26 @@ const SwupHooks = {
       PageLoader.end();
     });
 
+    swup.hooks.before("content:replace", () => {
+      const sb = document.getElementById("siteSidebar");
+      if (sb) sidebarScroll = sb.scrollTop;
+    });
+
     // 页面内容替换后执行
     swup.hooks.on("content:replace", () => {
       Navigation.close();
       bszRe();
       PageLoader.end();
+      const sb = document.getElementById("siteSidebar");
+      if (sb) sb.scrollTop = sidebarScroll;
     });
 
     // 新页面视图加载后初始化页面功能
     swup.hooks.on("page:view", () => {
       initializePage();
+      // initNavGroups 恢复分组收起后栏高会变，再校准一次滚动位置（浏览器会自动夹取上限）
+      const sb = document.getElementById("siteSidebar");
+      if (sb) sb.scrollTop = sidebarScroll;
     });
   },
 };
