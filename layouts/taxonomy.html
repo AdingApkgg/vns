@@ -32,7 +32,7 @@
 
   <div class="flex flex-wrap gap-2 my-2">
     {{ range .Data.Terms }}
-    <a href="{{ .Page.Permalink }}" class="badge-secondary no-underline gap-1.5 text-sm transition-opacity hover:opacity-80">
+    <a href="{{ .Page.Permalink }}" class="badge no-underline gap-1.5 text-sm transition-opacity hover:opacity-80" data-variant="secondary">
       {{ .Page.Name }}<span class="font-normal opacity-60">{{ .Count }}</span>
     </a>
     {{ end }}

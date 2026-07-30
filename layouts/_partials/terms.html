@@ -8,7 +8,7 @@
 <div class="flex flex-wrap items-center gap-1.5 my-2">
   <span class="text-[0.85em] opacity-60 mr-0.5">{{ $label }}:</span>
   {{- range . }}
-  <a href="{{ .RelPermalink }}" class="badge-secondary no-underline transition-opacity hover:opacity-80">{{ .LinkTitle }}</a>
+  <a href="{{ .RelPermalink }}" class="badge no-underline transition-opacity hover:opacity-80" data-variant="secondary">{{ .LinkTitle }}</a>
   {{- end }}
 </div>
 {{- end }}

@@ -107,11 +107,11 @@ export function initPostSubmissionForm() {
     const row = document.createElement("div");
     row.className = "post-submit__resource-item";
     row.innerHTML = `
-      <input type="text" name="resourceSite" placeholder="站点名（如：TouchGAL）" />
-      <input type="text" name="resourcePlatform" placeholder="平台（如：Windows / ONS）" />
-      <input type="url" name="resourceUrl" placeholder="下载链接（https://...）" />
-      <input type="text" name="resourcePassword" placeholder="密码（选填）" />
-      <button type="button" class="post-submit__remove-row btn-sm-outline" aria-label="删除这一条">删除</button>
+      <input class="input" type="text" name="resourceSite" placeholder="站点名（如：TouchGAL）" />
+      <input class="input" type="text" name="resourcePlatform" placeholder="平台（如：Windows / ONS）" />
+      <input class="input" type="url" name="resourceUrl" placeholder="下载链接（https://...）" />
+      <input class="input" type="text" name="resourcePassword" placeholder="密码（选填）" />
+      <button type="button" class="post-submit__remove-row btn" data-variant="outline" data-size="sm" aria-label="删除这一条">删除</button>
     `;
     bindRemoveAction(row);
     return row;
@@ -476,12 +476,13 @@ export function initRankPage() {
   // 切换标签
   tabs.forEach((tab) => {
     tab.addEventListener("click", () => {
+      // Basecoat 1.0：按钮变体走 data-variant，不再是 btn-primary / btn-outline 类
       tabs.forEach((t) => {
-        t.classList.remove("active", "btn-primary");
-        t.classList.add("btn-outline");
+        t.classList.remove("active");
+        t.dataset.variant = "outline";
       });
-      tab.classList.add("active", "btn-primary");
-      tab.classList.remove("btn-outline");
+      tab.classList.add("active");
+      tab.dataset.variant = "primary";
       currentType = tab.dataset.type;
       fetchRankData();
     });

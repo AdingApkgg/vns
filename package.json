@@ -9,10 +9,10 @@
     "build": "hugo --gc --minify"
   },
   "devDependencies": {
-    "@tailwindcss/cli": "^4.3.1",
-    "tailwindcss": "^4.3.1"
+    "@tailwindcss/cli": "^4.3.3",
+    "tailwindcss": "^4.3.3"
   },
   "dependencies": {
-    "basecoat-css": "^0.3.11"
+    "basecoat-css": "^1.0.2"
   }
 }
