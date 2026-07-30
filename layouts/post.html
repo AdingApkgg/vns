@@ -9,38 +9,39 @@
       <p>带 * 为必填项。提交后会自动拉起邮箱并填好投稿内容。</p>
     </div>
 
-    <form id="resource-submit-form" class="post-submit__form form" novalidate>
-      <label for="post-title">作品名称（可含别名）*</label>
-      <input id="post-title" name="postTitle" type="text" required placeholder="例如：CLANNAD／クラナド／Kuranado" />
+    {{- /* Basecoat 1.0 去掉了 .form 这个便利作用域，控件外观改为逐个挂 label / input / textarea 类。 */ -}}
+    <form id="resource-submit-form" class="post-submit__form" novalidate>
+      <label class="label" for="post-title">作品名称（可含别名）*</label>
+      <input class="input" id="post-title" name="postTitle" type="text" required placeholder="例如：CLANNAD／クラナド／Kuranado" />
 
-      <label for="post-categories">平台 *</label>
-      <input id="post-categories" name="categories" type="text" required placeholder="例如：Windows, ONS, KRKR（逗号分隔）" />
+      <label class="label" for="post-categories">平台 *</label>
+      <input class="input" id="post-categories" name="categories" type="text" required placeholder="例如：Windows, ONS, KRKR（逗号分隔）" />
 
-      <label for="post-nickname">投稿者昵称 *</label>
-      <input id="post-nickname" name="nickname" type="text" required placeholder="例如：Asuna" />
+      <label class="label" for="post-nickname">投稿者昵称 *</label>
+      <input class="input" id="post-nickname" name="nickname" type="text" required placeholder="例如：Asuna" />
 
       <div class="post-submit__resource-header">
-        <label>分流资源 *</label>
-        <button type="button" id="post-add-resource" class="post-submit__add-row btn-sm-outline">
+        <label class="label">分流资源 *</label>
+        <button type="button" id="post-add-resource" class="post-submit__add-row btn" data-variant="outline" data-size="sm">
           <i class="fas fa-plus"></i> 新增一条
         </button>
       </div>
       <div id="post-resource-list" class="post-submit__resource-list">
         <div class="post-submit__resource-item">
-          <input type="text" name="resourceSite" placeholder="站点名（如：TouchGAL）" />
-          <input type="text" name="resourcePlatform" placeholder="平台（如：Windows / ONS）" />
-          <input type="url" name="resourceUrl" placeholder="下载链接（https://...）" />
-          <input type="text" name="resourcePassword" placeholder="密码（选填）" />
-          <button type="button" class="post-submit__remove-row btn-sm-outline" aria-label="删除这一条">删除</button>
+          <input class="input" type="text" name="resourceSite" placeholder="站点名（如：TouchGAL）" />
+          <input class="input" type="text" name="resourcePlatform" placeholder="平台（如：Windows / ONS）" />
+          <input class="input" type="url" name="resourceUrl" placeholder="下载链接（https://...）" />
+          <input class="input" type="text" name="resourcePassword" placeholder="密码（选填）" />
+          <button type="button" class="post-submit__remove-row btn" data-variant="outline" data-size="sm" aria-label="删除这一条">删除</button>
         </div>
       </div>
       <p class="post-submit__hint">每条建议填写：站点名 + 平台 + 下载链接。密码可不填。</p>
 
-      <label for="post-content">补充说明</label>
-      <textarea id="post-content" name="content" rows="3" placeholder="例如：来源、修复说明、失效情况等"></textarea>
+      <label class="label" for="post-content">补充说明</label>
+      <textarea class="textarea" id="post-content" name="content" rows="3" placeholder="例如：来源、修复说明、失效情况等"></textarea>
 
-      <label for="post-contact">投稿者联系方式</label>
-      <input id="post-contact" name="contact" type="text" placeholder="QQ / 邮箱 / 其他（选填）" />
+      <label class="label" for="post-contact">投稿者联系方式</label>
+      <input class="input" id="post-contact" name="contact" type="text" placeholder="QQ / 邮箱 / 其他（选填）" />
 
       <div class="post-submit__actions">
         <button type="submit" class="post-submit__button btn">

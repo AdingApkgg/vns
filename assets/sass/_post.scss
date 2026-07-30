@@ -29,8 +29,9 @@
   }
 }
 
-// 控件外观（label / input / textarea / focus）改由 Basecoat .form 作用域提供，
-// 这里只保留表单布局。按钮用 Basecoat btn 类（见 post.html）。
+// 控件外观（label / input / textarea / focus）由 Basecoat 的 .label / .input / .textarea 提供
+// （1.0 起 .form 作用域已移除，类挂在各控件上，见 post.html），这里只保留表单布局。
+// 按钮用 Basecoat .btn + data-variant/data-size。
 .post-submit__form {
   display: grid;
   gap: 10px;

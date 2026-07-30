@@ -11,7 +11,7 @@ html {
 
 body {
   margin: 0;
-  padding: 60px 0 0; /* 让位固定顶栏；移动端在 _header.scss 重置为 0 */
+  padding: 0 0 0 var(--sb-w, 220px); /* 让位左侧固定竖栏；移动端在 _header.scss 改成顶栏留白 */
   font-family:
     HarmonyOS_Regular,
     -apple-system,
@@ -71,7 +71,7 @@ html.is-changing .transition-fade {
   z-index: 9999;
 }
 
-/* 旧的左侧 148px 竖栏导航已重构为顶栏，样式见 _header.scss。 */
+/* 导航（桌面左侧竖栏 / 移动顶栏 + 抽屉）样式见 _header.scss。 */
 
 main {
   h1 {
@@ -872,10 +872,6 @@ pre:hover .copy-btn {
 }
 
 @media (max-width: 1288px) {
-  body {
-    padding-left: 0;
-  }
-
   #caution-bg {
     width: 90% !important;
     padding: 20px;

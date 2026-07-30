@@ -1,11 +1,15 @@
 {{ define "main" }}
 <article class="article-main">
   {{ partial "h1.html" . }}
-  {{ .Content }}
+  {{/* 正文用 <!--members--> 注释分成两段：标记前是招募/理念（成员卡片上方），
+       标记后是运作方式/分工/财务等治理文案（卡片下方）。没有标记则整段在上方。 */}}
+  {{ $parts := split .Content "<!--members-->" }}
+  {{ index $parts 0 | safeHTML }}
   <div class="content teams">
     {{ $defaultAuthor := .Site.Params.ogImage | absURL }} {{ range
     hugo.Data.teams }}
-    <div class="item">
+    {{/* 类名别用裸 item —— Basecoat 1.0 新增了同名 Item 组件（components 层压过 legacy 层），会把卡片布局掀掉 */}}
+    <div class="team-card">
       {{ if .avatar }}
       <img src="{{ .avatar | absURL }}" alt="{{ .author }}" title="{{ .author }}" />
       {{ else }}
@@ -28,5 +32,8 @@
     </div>
     {{ end }}
   </div>
+  {{ if gt (len $parts) 1 }}
+  <div class="content">{{ index $parts 1 | safeHTML }}</div>
+  {{ end }}
 </article>
 {{ end }}
