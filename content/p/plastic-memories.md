@@ -7,7 +7,7 @@ years:
 title: 可塑性记忆／プラスティック・メモリーズ／PLASTIC MEMORIES／塑料内存条／塑成型记忆
 slug: 56843
 tags:
-  - 5pb.
+  - 5pb
   - 恋爱
   - 机器人
   - 科幻
