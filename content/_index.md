@@ -14,6 +14,7 @@ title = "公告／発表／announcement"
 6. 请不要用网盘的在线解压功能，在线解压会封文件。这样会导致文件被封，对你也没好处！！
 7. 汉化补丁有概率被 `Windows` 自带的病毒查杀功能隔离，要手动允许存在
 8. 想玩 `Windows` 的 `Android` 可以用模拟电脑环境的模拟器 [Mobox](https://github.com/olegos2/mobox/blob/main/README-zh_CN.md)、[Winlator](https://winlator.org/)、[JoiPlay](https://joiplay.org/)
+Rpg maker, ren'py built games played on https://joiiplay.com/
 9. 想玩 `PSP` 的 `Windows`、`macOS`、`Linux`、`Android`、`iOS` 可以用模拟 `PSP` 环境的模拟器 [PPSSPP](https://www.ppsspp.org/)
 10. 请不要使用国产浏览器，推荐使用 [Chrome](https://www.google.com/intl/zh-CN/chrome/)、[Firefox](https://www.mozilla.org/zh-CN/firefox/)，免得被拦截。
 11. 如遇问题，请自行使用相关关键词 [百度](https://www.baidu.com/)、[必应](https://www.bing.com/)、[谷歌](https://www.google.com/) 搜索解决。
