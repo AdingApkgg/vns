@@ -206,6 +206,14 @@ bszAPI = "https://bsz.saop.cc/api"
 [pagination]
 pagerSize = 10
 path = "page"
+# Hugo otherwise emits a /page/1/ alias redirecting back to each paginated
+# list's canonical URL. Nothing links to them (the paginator points page 1 at
+# the bare URL) and they are absent from the sitemap, but they are the only
+# thing that forces a tag name into a file path: tags ending in "." such as
+# "5pb." and "MAGES." produced \tags\5pb.\page\1\index.html and hard-failed
+# the build on Windows, where a trailing period is not a legal path component.
+# The guard lives in hugolib/alias.go and is fatal only on Windows. See #171.
+disableAliases = true
 
 [permalinks]
 categories = "/platforms/:title/"
