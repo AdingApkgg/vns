@@ -268,3 +268,11 @@ home = ["HTML", "RSS", "JSON", "LLMS", "SW"]
     disableWatch = true
     source = 'hugo_stats.json'
     target = 'assets/notwatching/hugo_stats.json'
+
+# Hugo 0.165.0 dropped tailwindcss from the default security.exec.allow list
+# (gohugoio/hugo#15178) because Tailwind v4 needs a permissive Node permission
+# setup. Setting `allow` replaces the defaults, so the stock entries are
+# re-listed here alongside tailwindcss.
+[security]
+  [security.exec]
+    allow = ['^((dart-)?sass|go|npx|babel|node|git|postcss|tailwindcss)$']

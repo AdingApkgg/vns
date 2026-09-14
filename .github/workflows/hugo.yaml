@@ -24,8 +24,8 @@ jobs:
   build:
     runs-on: ubuntu-latest
     env:
-      DART_SASS_VERSION: 1.102.0
-      HUGO_VERSION: 0.164.0
+      DART_SASS_VERSION: 1.104.1
+      HUGO_VERSION: 0.166.0
       PAGEFIND_VERSION: 1.5.2
       HUGO_ENVIRONMENT: production
       TZ: America/Los_Angeles
